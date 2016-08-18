@@ -9,6 +9,7 @@
 * Reduzir a carga de trabalho manual atualmente realizada neste processo;
 * Possibilitar a geração de relatórios de utilização dos espaços;
 * Otimizar o uso da infraestrutura interna da Universidade.
+
 ## 6. Restrições e Riscos
 ## 7. Estimativa de Custo
 ## 8. Entregáveis do Projeto
