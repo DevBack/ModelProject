@@ -1,5 +1,3 @@
-# Termo de Abertura do Projeto
-
 ## 1. Introdução
 ## 2. Descrição do Projeto
 ## 3. Propósito do Projeto
