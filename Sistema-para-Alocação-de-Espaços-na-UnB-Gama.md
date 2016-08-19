@@ -5,7 +5,7 @@
 <br />
 ## Equipe do Projeto
 
-### Gestão de Portifólios e Projetos:
+### Gestão de Projetos e Portfólio de Software:
 Membro|Usuário git 
 ----------------------- | -------------------------------
 Allan Pereira|[@allanpereiras](https://github.com/allapereiras)     
