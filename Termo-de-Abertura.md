@@ -26,10 +26,10 @@ Atualmente a coordenação da Universidade, mais especificamente da UnB Gama, re
 ## 8. Entregáveis do Projeto
 ## 9. Prazos
 O projeto é iniciado em 16/08/2016 com data prevista para término em 29/11/2016, totalizando 15 semanas (104 dias). São conhecidos dois marcos principais do projeto:
-* Release 1 - 24 e 25/09/2016:
+* **Release 1** - 24 e 25/09/2016:
 Com duração de 6 semanas (39 dias). Na data definida tem-se uma apresentação caracterizada pela demonstração formal do progresso do projeto sob uma ótica de gerenciamento utilizando metodologia tradicional. Neste ponto, o projeto deverá ter avançado consideravelmente prezando o monitoramento e controle das características de Qualidade, Custo e Tempo do projeto,conforme guia [PMBOK](https://brasil.pmi.org/brazil/PMBOKGuideAndStandards.aspx) edição 5.
 
-* Release 2 - 29/11 e 01/12/2016:
+* **Release 2** - 29/11 e 01/12/2016:
 Com duração de 10 semanas (63 dias). Já na data da release 2 pretende-se demonstrar o progresso do projeto utilizando uma metodologia de gerenciamento ágil de projeto, SCRUM e eXtreme Programming (XP). 
 
 ## 10. Envolvidos
