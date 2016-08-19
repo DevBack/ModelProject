@@ -17,9 +17,9 @@ Pedro Alcântara|[@pedrothiago](https://github.com/pedrothiago)
 ### Métodos de Desenvolvimento de Software:
 Membro|Usuário git 
 ----------------------- | -------------------------------
-Hugo Carvalho|[@hugonxc](https://github.com/hugonxc)
 Fabíola Malta|[@fabiolamfleury](https://github.com/fabiolamfleury)
-Vítor Gomes|[@vitorandos](https://github.com/vitorandos)
+Hugo Carvalho|[@hugonxc](https://github.com/hugonxc)
 Luis Gustavo|[@luis-gustavo](https://github.com/luis-gustavo)
 Lucas Oliveira|[@lucaaas](https://github.com/lucaaas)
+Vítor Gomes|[@vitorandos](https://github.com/vitorandos)
 
