@@ -1,6 +1,6 @@
-#Release 01
+#Release 1
 
-* [Home](https://github.com/fga-gpp-mds/2016.2-Time05-SalasFGA/wiki)
+* [Home](https://github.com/fga-gpp-mds/2016.2-Time05-SalasFGA/wiki/P%C3%A1gina-Inicial)
 
 ##Gerenciamento do Projeto
 * [Atas](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Atas)
@@ -21,3 +21,6 @@
 
 ##Desenvolvimento do Software
 * [Documento de Visão](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Documento-de-Visão)
+* [Documento de Arquitetura](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Documento-de-Arquitetura)
+* [Especificação de Casos de Uso](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Especificação-de-Casos-de-Uso)
+* [Especificação de Casos de Teste](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Especificação-de-Casos-de-Teste)
