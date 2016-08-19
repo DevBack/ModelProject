@@ -6,7 +6,7 @@
 |19/08/2016|0.2|Revisão dos tópicos. Adição do tópico 9 (Prazos). Adição de conteúdo nos tópicos 1, 4 e 9.|Allan|
 
 ## 1. Introdução
-Este documento formalmente inicia o projeto de construção do Sistema para Alocação de Espaços para a Faculdade UnB Gama. Aqui é especificado o trabalho que este projeto visa realizar, a oportunidade de negócio identificada, o escopo de atuação, os indivíduos direta e indiretamente afetados, características de riscos, restrições e de custos, entregáveis e as ferramentas utilizadas no processo de desenvolvimento. Tais descrições visam elucidar a viabilidade do projeto.
+Este documento formalmente inicia o projeto de construção do Sistema para Alocação de Espaços para a Faculdade UnB Gama. Aqui é especificado o trabalho que este projeto visa realizar, a oportunidade de negócio identificada, o escopo de atuação, os indivíduos direta e indiretamente afetados, características de riscos, restrições e de custos, entregáveis, prazos e as ferramentas utilizadas no processo de desenvolvimento. Tais descrições visam elucidar a viabilidade do projeto.
 
 ## 2. Descrição do Projeto
    O SAS é um Sistema de Alocação de Salas para a Faculdade do Gama (FGA) da Universidade de Brasília (UnB), desenvolvido para plataforma web que tem por finalidade automatizar a reserva de espaços pelos docentes, discentes e demais interessados.
