@@ -1,6 +1,6 @@
 #Release 1
 
-* [Home](https://github.com/fga-gpp-mds/2016.2-Time05-SalasFGA/wiki/P%C3%A1gina-Inicial)
+* [Home](https://github.com/fga-gpp-mds/2016.2-Time05-SalasFGA/wiki/)
 
 ##Gerenciamento do Projeto
 * [Atas](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Atas)
