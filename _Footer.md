@@ -1,1 +1,1 @@
-![UnB logo](https://github.com/fga-gpp-mds/2016.2-Time01-WikiLegis/wiki/img/unb_logo.PNG)
+![UnB logo](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/unb_logo.PNG)
