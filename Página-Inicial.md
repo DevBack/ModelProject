@@ -7,7 +7,7 @@
 ### Gestão de Projetos e Portfólio de Software:
 Membro|Usuário git 
 ----------------------- | -------------------------------
-Allan Pereira|[@allanpereiras](https://github.com/allapereiras)     
+Allan Pereira|[@allanpereiras](https://github.com/allanpereiras)     
 Elaine Meirelles|[@ecmeirelles](https://github.com/ecmeirelles)   
 Gustavo Coelho|[@gutorc92](https://github.com/gutorc92)
 Jessica Suzuki|[@suzukijessica](https://github.com/suzukijessica)
