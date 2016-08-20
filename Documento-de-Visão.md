@@ -5,6 +5,7 @@
 |20/08/2016 |1.0 |Introdução |Lucas |
 |20/08/2016 |1.1 |Visão Geral do Produto |Vítor |
 |20/08/2016 |1.2 |Recursos do Produto |Hugo |
+|20/08/2016 |1.3 |Posicionamento |Luis |
 
 # Introdução
   
