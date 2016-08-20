@@ -6,6 +6,7 @@
 |20/08/2016 |1.1 |Visão Geral do Produto |Vítor |
 |20/08/2016 |1.2 |Recursos do Produto |Hugo |
 |20/08/2016 |1.3 |Posicionamento |Luis |
+|20/08/2016 |1.4 |Descrição dos Envolvidos e dos Usuários |Fabíola |
 
 # Introdução
   
@@ -38,6 +39,36 @@ Assim o SAS vêm como solução para automatizar esse processo, tornando mais pr
 |**Diferente**| Do estado atual que requer que o administrador altere manualmente os horários e quem ocupará as salas|
 |**Nosso produto**| Controla as informações relativas as salas, seus respectivos horários e sua disponibilidade e permite reserva das salas|
 
+# Descrição dos Envolvidos e dos Usuários
+##Resumo dos Envolvidos
+|Nome|Descrição|Responsabilidades|Representantes|
+|----|------|---------|------------|
+|Cliente |Requisitou o sistema |Fornece os requisitos do sistema |Carla Rocha Aguiar|
+|Gerentes |Gerenciam o projeto |Elaboram os planos de projeto, Monitoram o andamento do projeto, Revisam o projeto, Auxiliam a equipe de desenvolvimento |Allan Pereira,  Elaine Meirelles, Gustavo Coelho, Jessica Suzuki, Pedro Alcântara|
+|Desenvolvedores |Desenvolvem o sistema |Documentação e programação |Fabíola Malta,  Hugo Carvalho, Luis Gustavo, Lucas Oliveira, Vítor Gomes|
+
+##Resumo dos Usuários
+|Nome|Descrição|Responsabilidades|Representantes|
+|----|------|---------|------------|
+|Administrador|Usuário final do sistema |Reserva salas,Controla reservas |Coordenadores|
+|Usuário | Usuário final do sistema|Reserva salas |Professores, estudantes, técnicos administrativos e demais integrantes do Corpo Acadêmico|
+##Ambiente do Usuário
+* A cliente utiliza uma planilha do Excel para gerenciar a utilização das salas.
+* A organização de salas com os horários de professores e matérias é feita pela cliente. de forma não automatizada, portanto esta suscetível a diversos erros e requer muito tempo.
+* A secretaria é responsável por mediar reserva de salas e laboratórios para alunos.
+* A reserva efetuada pela secretaria não é digital, sendo anotada em uma planilha física.
+* O sistema que será desenvolvido agilizará o processo de alocação de salas.
+* O sistema mudará o processo, que não será feito apenas pela secretaria e pela cliente, possibilitando o acesso para o Corpo Acadêmico.
+
+##Principais necessidades dos usuários ou dos envolvidos
+
+A solução utilizada para alocar salas de aulas é pouco prática, feita em excel e manualmente. Isso permite a existência de choques de horários em salas e múltiplas salas reservadas pela mesma pessoa e mesmo horário. 
+O sistema que será desenvolvido não permite a reserva de uma sala que já está alocada, e permite uma melhor visualização das salas.
+
+
+|Necessidade|Solução Atual|Solução Proposta|
+|----|------|---------|------------|
+|----|------|---------|------------|
 # Visão Geral do Produto
 
 ## Perspectiva do Produto
