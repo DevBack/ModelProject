@@ -28,9 +28,9 @@ Luis Gustavo |Gustavo Coelho |
 
 ## Ações
 1. Validar com o cliente:
-1. 1. No caso dos laboratórios, todos poderiam reservar?
-1. 2. Quando coordenador aloca salas, ele deve informar para QUEM esta sala está sendo alocada?
-1. 3. Cadastro de usuário deverá constar no escopo?
+1.1. No caso dos laboratórios, todos poderiam reservar?
+1.2. Quando coordenador aloca salas, ele deve informar para QUEM esta sala está sendo alocada?
+1.3. Cadastro de usuário deverá constar no escopo?
 
 2. Documento de Arquitetura antes ou depois dos casos de uso.
 3. Diagrama de Classes incluído no Documento de Arquitetura
