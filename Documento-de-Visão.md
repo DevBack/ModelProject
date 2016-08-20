@@ -117,3 +117,19 @@ Como o sistema estará disponível online, o licenciamento se dá a partir da ac
       O administrador pode verificar se uma reserva existe no mesmo horário, na mesma sala por requerentes diferentes.  
  * **Ajustar choques de horário**    
       O administrador pode editar uma reserva que possua algum tipo de choque.  
+
+## Restrições
+
+### Restrições de implementação
+
+* O sistema deve ser implementado utilização web, na linguagem Python, fazendo uso da framework Django.
+* O sistema deve seguir a arquitetura MVC - Model-View-Controller.
+
+### Restrições do sistema
+
+* O sistema deve ser compatível com a versão 52.0.2743.116 m do Google Chrome.
+* O sistema deve ser responsivo, adaptando-se à plataforma que o usuário estiver utilizando.
+
+### Restrições de confiabilidade
+
+* O sistema deve ter cobertura de erros e exceções - mínimo de 90%;
