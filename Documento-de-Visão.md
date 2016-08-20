@@ -7,6 +7,7 @@
 |20/08/2016 |1.2 |Recursos do Produto |Hugo |
 |20/08/2016 |1.3 |Posicionamento |Luis |
 |20/08/2016 |1.4 |Descrição dos Envolvidos e dos Usuários |Fabíola |
+|20/08/2016 |1.5 |Revisão da Visão Geral do Produto |Vítor |
 
 # Introdução
   
@@ -71,6 +72,8 @@ O sistema que será desenvolvido não permite a reserva de uma sala que já est�
 |----|------|---------|------------|
 # Visão Geral do Produto
 
+Esta seção expõe uma visão ampla do produto, explicando aspectos gerais de seus recursos.
+
 ## Perspectiva do Produto
 
 No atual contexto do ambiente acadêmico da Universidade de Brasília, constata-se uma crescente necessidade por um sistema que facilite a alocação de salas por discentes, docentes e demais integrantes do corpo acadêmico – seja para apresentações de Trabalhos de Conclusão de Curso, aulas de monitoria ou tutoria, dentre outros – visto que, hoje, tal procedimento demanda um longo processo e burocracia. 
@@ -87,6 +90,10 @@ Tabela 1 – Benefícios do Usuário e Recursos de Suporte
 ## Suposições e Dependências
 
 O sistema será utilizado pelo usuário através da internet, logo, há custos de hospedagem. Assim, supõe-se que o cliente arcará com estes valores para que o sistema permaneça online.
+
+## Licença e Instalação
+
+Como o sistema estará disponível online, o licenciamento se dá a partir da aceitação dos termos e condições de uso do sistema por parte do usuário. Além disso, não há necessidade de instalação, precisando apenas do acesso a internet e de um navegador web.
 
 # Recursos do Produto
  * **Login no sistema**  
