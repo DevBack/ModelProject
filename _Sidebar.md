@@ -24,3 +24,4 @@
 * [Documento de Arquitetura](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Documento-de-Arquitetura)
 * [Especificação de Casos de Uso](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Especificação-de-Casos-de-Uso)
 * [Especificação de Casos de Teste](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Especificação-de-Casos-de-Teste)
+* [Folha de Estilo](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Folha-de-Estilo)
