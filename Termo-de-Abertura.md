@@ -25,12 +25,12 @@ Atualmente a coordenação da Universidade, mais especificamente da UnB Gama, re
 O escopo do SAS, Sistema de Alocação de Salas, se baseia na funcionalidade principal de exibir um mapa de salas, inicialmente da Universidade de Brasília - Faculdade Gama (FGA), onde alocações de diversas naturezas poderão ser realizadas, sendo elas de disciplinas, através dos coordenadores, e de monitorias, reuniões ou quaisquer outras atividades extra-curriculares, através de alunos, técnicos e funcionários administrativos. Este projeto possui a finalidade de facilitar a reserva dos espaços da instituição, assim como evitar possíveis colisões. Outras funcionalidades abrangem a exibição de porcentagens de lotação através de barras de progresso, além de visualização e impressão de tabelas de horários internos referentes a cada sala.
 
 ## 6. Restrições e Riscos
-6.1 O projeto SAS possui as restrições listadas abaixo:
+#### 6.1 O projeto SAS possui as restrições listadas abaixo:
 
 1. O Sistema de Alocação de Salas está voltado exclusivamente para a plataforma web.
 2. O prazo para desenvolvimento do projeto é de aproximadamente 16 semanas.
 
-6.2 O projeto SAS possui os seguintes riscos:
+#### 6.2 O projeto SAS possui os seguintes riscos:
 
 1. Integrantes do grupo abandonarem a disciplina.
 2. Integrantes do grupo não se adaptarem a linguagem de programação e/ou ao framework.
