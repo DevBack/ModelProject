@@ -9,11 +9,11 @@ Local   | LDS - FGA |
 
 MDS | GPP   |
 ---------|-----------------|
-Lucas Oliveira  | Allan |
-Hugo Carvalho|Jessica |
-Fabíola Malta|Pedro |
-Vitor Menezes|Elaine  |
-Luis Gustavo |Gustavo |
+Lucas Oliveira  |Allan Pereira |
+Hugo Carvalho |Jessica Suzuki |
+Fabíola Malta |Pedro Alcântara |
+Vitor Menezes |Elaine Meirelles  |
+Luis Gustavo |Gustavo Coelho |
 
 ## Pauta
 
