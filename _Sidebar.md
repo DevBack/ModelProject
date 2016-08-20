@@ -9,15 +9,15 @@
 * [EAP](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/EAP)
 
 ###Planos de Projeto
-* [Gerenciamento de Aquisições]()
-* [Gerenciamento de Comunicação]()
-* [Gerenciamento de Custos]()
-* [Gerenciamento de Escopo]()
-* [Gerenciamento de Projeto]()
-* [Gerenciamento de Qualidade]()
-* [Gerenciamento de Recursos Humanos]()
-* [Gerenciamento de Riscos]()
-* [Gerenciamento de Tempo]()
+* [Gerenciamento de Aquisições](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/planos/Gerenciamento-de-Aquisições)
+* [Gerenciamento de Comunicação](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/planos/Gerenciamento-de-Comunicação)
+* [Gerenciamento de Custos](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/planos/Gerenciamento-de-Custos)
+* [Gerenciamento de Escopo](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/planos/Gerenciamento-de-Escopo)
+* [Gerenciamento de Projeto](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/planos/Gerenciamento-de-Projeto)
+* [Gerenciamento de Qualidade](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/planos/Gerenciamento-de-Qualidade)
+* [Gerenciamento de Recursos Humanos](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/planos/Gerenciamento-de-Recursos-Humanos)
+* [Gerenciamento de Riscos](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/planos/Gerenciamento-de-Riscos)
+* [Gerenciamento de Tempo](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/planos/Gerenciamento-de-Tempo)
 
 ##Desenvolvimento do Software
 * [Documento de Visão](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Documento-de-Visão)
