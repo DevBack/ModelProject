@@ -17,9 +17,8 @@ Luis Gustavo |Gustavo Coelho |
 
 ## Pauta
 
-1. Definição do escopo.
-1. 1. Documento de Visão - MDS
-1. 2. Termo de Abertura - GPP
+1. Definição do escopo: Documento de Visão - MDS; Termo de Abertura - GPP
+
 2. EAP e Cronograma
 
 ## Observações
@@ -28,12 +27,12 @@ Luis Gustavo |Gustavo Coelho |
 
 ## Ações
 1. Validar com o cliente:
-1.1. No caso dos laboratórios, todos poderiam reservar?
-1.2. Quando coordenador aloca salas, ele deve informar para QUEM esta sala está sendo alocada?
-1.3. Cadastro de usuário deverá constar no escopo?
+ * No caso dos laboratórios, todos poderiam reservar?
+ * Quando coordenador aloca salas, ele deve informar para QUEM esta sala está sendo alocada?
+ * Cadastro de usuário deverá constar no escopo?
 
-2. Documento de Arquitetura antes ou depois dos casos de uso.
-3. Diagrama de Classes incluído no Documento de Arquitetura
+1. Documento de Arquitetura antes ou depois dos casos de uso.
+1. Diagrama de Classes incluído no Documento de Arquitetura
 
 ## Decisões
 
