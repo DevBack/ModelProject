@@ -3,7 +3,8 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-------|
 |20/08/2016 |1.0 |Introdução |Lucas |
-|20/08/2016 |1.1 |Visão Geral do Produto |Vítor
+|20/08/2016 |1.1 |Visão Geral do Produto |Vítor |
+|20/08/2016 |1.2 |Recursos do Produto |Hugo |
 
 # Introdução
   
@@ -28,4 +29,25 @@ Tabela 1 – Benefícios do Usuário e Recursos de Suporte
 
 O sistema será utilizado pelo usuário através da internet, logo, há custos de hospedagem. Assim, supõe-se que o cliente arcará com estes valores para que o sistema permaneça online.
 
-
+# Recursos do Produto
+ * **Login no sistema**  
+      Login de usuário utilizando informações vinculadas a UnB.   
+ * **Visualizar salas disponíveis**  
+      Os usuários pode navegar entre as tabelas de horários para cada sala.  
+ * **Pesquisar salas**    
+      * **Horário**  
+            Ambos usuários podem utilizar o filtro de horário para facilitar sua pesquisa.  
+      * **Sala**  
+            Ambos usuários podem utilizar de filtro de nome da sala para facilitar sua pesquisa.  
+      * **Status de alocação**  
+            Ambos usuários podem utilizar de filtro de status de alocação da sala para facilitar sua pesquisa.  
+ * **Reservar salas**  
+      Os usuários podem requisitar um horário em uma sala.  
+ * **Cancelar reserva de salas**  
+      O usuário comum pode cancelar seu pedido de reserva das salas anteriormente reservadas.  
+ * **Controle de reservas**  
+      O usuário comum pode visualizar suas reservas vigentes.  
+ * **Verificar choque de horários**    
+      O administrador pode verificar se uma reserva existe no mesmo horário, na mesma sala por requerentes diferentes.  
+ * **Ajustar choques de horário**    
+      O administrador pode editar uma reserva que possua algum tipo de choque.  
