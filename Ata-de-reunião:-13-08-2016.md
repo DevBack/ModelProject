@@ -4,6 +4,7 @@
 Horario | 15:30 a 17:50   |
 ---------|-----------------|
 Local   | Casa da Jessica |
+Editor da ata | Jessica |
 
 ## Participantes
 
