@@ -8,7 +8,7 @@
 |20/08/2016 |1.3 |Posicionamento |Luis |
 |20/08/2016 |1.4 |Descrição dos Envolvidos e dos Usuários |Fabíola |
 |20/08/2016 |1.5 |Revisão da Visão Geral do Produto |Vítor |
-|20/08/2016 |1.6 |Alteração no Layout |Fabíola |
+|20/08/2016 |1.6 |Requisitos funcionais |Fabíola |
 
 # 1. Introdução
   
@@ -52,7 +52,7 @@ Assim o SAS vêm como solução para automatizar esse processo, tornando mais pr
 ## 3.2. Resumo dos Usuários
 |Nome|Descrição|Responsabilidades|Representantes|
 |----|------|---------|------------|
-|Administrador|Usuário final do sistema |Reserva salas,Controla reservas |Coordenadores|
+|Administrador|Usuário final do sistema |Reserva salas,Controla reservas |Coordenadores da Faculdade do Gama (FGA)|
 |Usuário | Usuário final do sistema|Reserva salas |Professores, estudantes, técnicos administrativos e demais integrantes do Corpo Acadêmico|
 ## 3.3. Ambiente do Usuário
 * A cliente utiliza uma planilha do Excel para gerenciar a utilização das salas.
@@ -64,13 +64,17 @@ Assim o SAS vêm como solução para automatizar esse processo, tornando mais pr
 
 ## 3.4. Principais necessidades dos usuários ou dos envolvidos
 
-A solução utilizada para alocar salas de aulas é pouco prática, feita em excel e manualmente. Isso permite a existência de choques de horários em salas e múltiplas salas reservadas pela mesma pessoa e mesmo horário. 
-O sistema que será desenvolvido não permite a reserva de uma sala que já está alocada, e permite uma melhor visualização das salas.
+A solução utilizada para alocar salas na Faculdade do Gama é pouco prática, feita em excel e manualmente. Isso permite a existência de choques de horários em salas e múltiplas salas reservadas pela mesma pessoa e mesmo horário. Além de ser um processo que demanda tempo e ser muito centralizado.
+
+O sistema que será desenvolvido não permite a reserva de uma sala que já está alocada, e permite uma melhor visualização das salas, além de permitir maior autonomia dos usuários, que já não dependerão de um intermédio para reservarem uma sala.
 
 
 |Necessidade|Solução Atual|Solução Proposta|
-|----|------|---------|------------|
-|----|------|---------|------------|
+|----|------|---------|
+|Alocar salas para aulas|Tabela no Excel, gerenciada apenas por uma pessoa.|Utilizar um sistema online no qual é possível fazer essa alocação de forma mais segura e rápida.|
+|Alocar salas para outras atividades pertinentes à Universidade|Reservas feitas na secretaria e anotadas em papel|Utilizar o sistema para fazer reserva, eliminando a necessidade do intermédio da secretaria.|
+
+
 # 4. Visão Geral do Produto
 
 Esta seção expõe uma visão ampla do produto, explicando aspectos gerais de seus recursos.
@@ -134,3 +138,21 @@ Como o sistema estará disponível online, o licenciamento se dá a partir da ac
 ### 5.1.3. Restrições de confiabilidade
 
 * O sistema deve ter cobertura de erros e exceções - mínimo de 90%;
+
+# 6. Requisitos
+## 6.1. Requisitos Funcionais
+|Identificador|Requisito|Depende de|Prioridade|
+|---|------|---------|-------|
+|RF01|**_O sistema deve permitir que usuário efetue cadastro._****|---------|Alta|
+|RF02|O sistema deve permitir que o usuário faça login.|---------|Alta|
+|RF03|O sistema deve permitir que o administrador faça login.|---------|Alta|
+|RF04|O sistema deve permitir que o usuário consulte as salas.|RF02|Alta|
+|RF05|O sistema deve permitir que o usuário reserve sala.|RF02|Alta|
+|RF06|O sistema deve permitir que o administrador faça login.|RF03|Alta|
+|RF07|O sistema deve permitir que o administrador reserve sala.|RF03|Alta|
+|RF08|O sistema deve permitir que o administrador exclua uma reserva.|RF03|Alta|
+|RF09|O sistema deve permitir que o administrador consulte as salas.|RF03|Alta|
+|RF10|O sistema deve permitir o administrador tornar outro usuário administrador.|RF03|Alta|
+|RF11|O sistema deve permitir que o usuário altere sua própria reserva.|RF02|Alta|
+|RF12|------|---------|------|
+|RF13|------|---------|------|
