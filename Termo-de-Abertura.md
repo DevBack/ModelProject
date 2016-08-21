@@ -2,10 +2,11 @@
 
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-------|
-|18/08/2016|0.1|Criação da estrutura inicial. Adição dos tópicos 2 e 3|Allan, Elaine, Gustavo, Jessica e Pedro|
-|19/08/2016|0.2|Revisão dos tópicos. Adição do tópico 9 (Prazos). Adição de conteúdo nos tópicos 1, 4 e 9.|Allan|
-|19/08/2016|0.3|Adição de conteúdo nos tópicos 5 e 6.|Elaine|
-|20/08/2016|0.4|Atualização do tópico 9 (Prazos).|Allan|
+|18/08/2016|1.0|Criação da estrutura inicial. Adição dos tópicos 2 e 3|Allan, Elaine, Gustavo, Jessica e Pedro|
+|19/08/2016|1.1|Revisão dos tópicos. Adição do tópico 9 (Prazos). Adição de conteúdo nos tópicos 1, 4 e 9.|Allan|
+|19/08/2016|1.2|Adição de conteúdo nos tópicos 5 e 6.|Elaine|
+|20/08/2016|1.3|Atualização do tópico 9 (Prazos).|Allan|
+|21/08/2016|1.4|Adição dos tópicos 8, 10 e 11| Jessica|
 
 ## 1. Introdução
 Este documento formalmente inicia o projeto de construção do Sistema para Alocação de Espaços para a Faculdade UnB Gama. Aqui é especificado o trabalho que este projeto visa realizar, a oportunidade de negócio identificada, o escopo de atuação, os indivíduos direta e indiretamente afetados, características de riscos, restrições e de custos, entregáveis, prazos e as ferramentas utilizadas no processo de desenvolvimento. Tais descrições visam elucidar a viabilidade do projeto.
@@ -41,7 +42,11 @@ O escopo do SAS, Sistema de Alocação de Salas, se baseia na funcionalidade pri
 6. Que os documentos criados no projeto não estejam disponíveis aos brasileiros.
 
 ## 7. Estimativa de Custo
-## 8. Entregáveis do Projeto
+
+## 8. Ferramentas de Comunicação
+1. Comuncação entre MDS e GPP via WhatsApp.
+2. Comunicação equipe de GPP via Telegram.
+
 ## 9. Prazos
 O projeto é iniciado em 09/08/2016 com data prevista para término em 29/11/2016, totalizando 16 semanas (109 dias). São conhecidos dois marcos principais do projeto:
 * **Release 1** - 24 e 25/09/2016:
@@ -50,7 +55,23 @@ Com duração de 6 semanas (41 dias). Na data definida tem-se uma apresentação
 * **Release 2** - 29/11 e 01/12/2016:
 Com duração de 10 semanas (63 dias). Já na data da release 2, pretende-se demonstrar o progresso do projeto utilizando uma metodologia de gerenciamento ágil de projeto, SCRUM e eXtreme Programming (XP). 
 
-## 10. Envolvidos
-### 10.1 Equipes
-### 10.2 Cliente
-## 11. Ferramentas Utilizadas
+## 10. Stakeholdes
+### 10.1 Envolvidos
+|Nome |Descrição |Responsabilidade |
+|---|---|---|
+|Gerentes de Projeto | Alunos de GPP | Gerenciar o projeto |
+|Desenvolvedores | Alunos de MDS | Desenvolver o sistema |
+|Clientes | Coordenadores | Estabelecer os requisitos |
+
+### 10.2 Usuários
+|Nome |Descrição |Responsabilidade | Representante|
+|---|---|---|---|
+|Administrador | Administrador do sistema | Reservar salas e controlar as reservas | Coordenadores dos cursos |
+|Usuário | Usuário final do sistema | Solicitar a reserva de salas | Professores, estudantes, técnicos administrativos e demais integrantes do Corpo Acadêmico |
+
+## 11. Tecnologias Utilizadas
+1. Github - Repositório para código e documentação.
+2. Google Drive - Compartilhamento e organização dos documentos.
+3. Python - Linguagem de programação.
+4. Django - Framework.
+5. Flake 8 - Qualidade de código.
