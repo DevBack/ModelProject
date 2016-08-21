@@ -1,7 +1,7 @@
 # Ata da Reunião 20/08/2016
 
 
-Horario | 14:15 a    |
+Horario | 14:30 a 18:00 |
 ---------|-----------------|
 Local   | LDS - FGA |
 Editor da ata | Allan |
