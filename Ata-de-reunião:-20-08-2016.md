@@ -4,6 +4,7 @@
 Horario | 14:15 a    |
 ---------|-----------------|
 Local   | LDS - FGA |
+Editor da ata | Allan |
 
 ## Participantes
 
