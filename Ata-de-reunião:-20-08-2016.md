@@ -22,10 +22,6 @@ Luis Gustavo |Gustavo Coelho |
 
 2. EAP e Cronograma
 
-## Observações
-
-1. O Gustavo fez os slides para o treinamento
-
 ## Ações
 1. Validar com o cliente:
  * No caso dos laboratórios, todos poderiam reservar?
