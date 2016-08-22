@@ -54,7 +54,7 @@ profissionais e matériais que possibilitam estimar o custo do projeto.
 
 Os dados aqui apresentados foram retirados do site Catho Empresas e só leva em 
 consideradão a média salarial oferecida para o [desenvolvedor júnior Python](http://www.catho.com.br/salario/action/site/area_geral.php?state=salario&id_area_especifica=40&id_area_geral=16&id_cargo=7538) e de [Gerente de Tecnologia 
-da Informacão](http://www.catho.com.br/salario/pesquisa-salarial/cargos-salarios/sistemas-informatica-internet/tecnologia-da-informacao-ti/gerente-de-tecnologia-da-informacao) 
+da Informação](http://www.catho.com.br/salario/pesquisa-salarial/cargos-salarios/sistemas-informatica-internet/tecnologia-da-informacao-ti/gerente-de-tecnologia-da-informacao) 
 oferecida no web site. Portanto, não será considerados custos trabalhistas que devem ser
 pagos no Brasil.
 
