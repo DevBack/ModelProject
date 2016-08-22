@@ -53,8 +53,8 @@ profissionais e matérias que possibilitam estimar o custo do projeto.
 ### 7.1 Custo da mão de obra.
 
 Os dados aqui apresentados foram retirados do site Catho Empresas e só leva em 
-consideradão a média salarial oferecida para o desenvolvedor júnior Python oferecida
-no web site. Portanto, não será considerados custos trabalhistas que devem ser
+consideradão a média salarial oferecida para o [desenvolvedor júnior Python](http://www.catho.com.br/salario/action/site/area_geral.php?state=salario&id_area_especifica=40&id_area_geral=16&id_cargo=7538) 
+oferecida no web site. Portanto, não será considerados custos trabalhistas que devem ser
 pagos no Brasil.
 
 | Equipe MDS       |                               |         |
@@ -78,8 +78,8 @@ pagos no Brasil.
 O desenvolvimento de um projeto de software necessita de equipamentos
 como computadores e internet para o seu desenvolvimento. Os custos
 como alguns desses itens foram estimados para se chegar ao custo
-total do projeto. Os itens estimados são: computadores, energia
-elêtrica e internet.
+total do projeto. Os itens estimados são: [computadores](http://www.dell.com/br/p/inspiron-15-5558-laptop/pd?oc=cai5558w101712358bbbrp171w&model_id=inspiron-15-5558-laptop), energia
+elêtrica e [internet](https://assine.vivo.com.br/combos/combos-2-em-1).
  
 | Item       | Qtde/Tempo | Valor   | Total    |
 |------------|------------|---------|----------|
