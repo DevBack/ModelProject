@@ -87,6 +87,17 @@ elêtrica e internet.
 | Internet   | 4          | 149,8   | 599,2    |
 | Energia    | 4          |         |          |
 
+### 7.3 Aluguel
+
+Uma empresa precisaria dispor de um local para o encontro
+dos seus membros. Uma busca em [web sites de aluguel de imóveis](http://www.wimoveis.com.br/imovel/aluguel-sala-comercial-gama-df-quadra-17-1354260)
+no Gama-DF possibilitou estimar um valor para o custo de alguel
+para uma sala comercial onde os membros poderiam se reuniar 
+para desenvolver o produto.
+
+| Item       | Tempo(Meses)| Valor   | Total    |
+|------------|-------------|---------|----------|
+| Alugel     | 4           | 1200,00 | 4800,00  |
 
 
 
