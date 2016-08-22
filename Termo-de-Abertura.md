@@ -65,6 +65,14 @@ pagos no Brasil.
 | 2079,62          | 12,99                         | 1637,70 |
 |                  | Total Grupo                   | 6550,80 |
 
+| Equipe GPP       |                               |         |
+|------------------|-------------------------------|---------|
+| Dias trabalhados | Média estimada de hrs diárias | Total   |
+| 63               | 2                             | 126     |
+| Salario Médio    | Hora Média                    | Total   |
+| 8628,52          | 53,92                         | 6794,95 |
+|                  | Total Grupo                   | 33730,64|
+
 |Equipe MDS|---|---|
 |Dias de trabalhados|Média estimada de hrs Diárias|Total|
 |63|2|126|
