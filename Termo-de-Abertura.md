@@ -57,6 +57,14 @@ consideradão a média salarial oferecida para o desenvolvedor júnior Python of
 no web site. Portanto, não será considerados custos trabalhistas que devem ser
 pagos no Brasil.
 
+| Equipe MDS       |                               |         |
+|------------------|-------------------------------|---------|
+| Dias trabalhados | Média estimada de hrs diárias | Total   |
+| 63               | 2                             | 126     |
+| Salario Médio    | Hora Média                    | Total   |
+| 2079,62          | 12,99                         | 1637,70 |
+|                  | Total Grupo                   | 6550,80 |
+
 |Equipe MDS|---|---|
 |Dias de trabalhados|Média estimada de hrs Diárias|Total|
 |63|2|126|
