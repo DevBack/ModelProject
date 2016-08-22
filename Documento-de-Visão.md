@@ -9,6 +9,7 @@
 |20/08/2016 |1.4 |Descrição dos Envolvidos e dos Usuários |Fabíola |
 |20/08/2016 |1.5 |Revisão da Visão Geral do Produto |Vítor |
 |20/08/2016 |1.6 |Requisitos funcionais |Fabíola |
+|21/08/2016 |1.7 |Outros Requisitos do Produto e Intervalos de Qualidade |Luis |
 
 # 1. Introdução
   
@@ -139,8 +140,12 @@ Como o sistema estará disponível online, o licenciamento se dá a partir da ac
 
 * O sistema deve ter cobertura de erros e exceções - mínimo de 90%;
 
-# 6. Requisitos
-## 6.1. Requisitos Funcionais
+# 6. Intervalos de Qualidade
+
+* Serão feitas revisões semanalmente com os gerentes de projeto, para que tenha o menor impacto possível no cronograma e, consequentemente, no produto final. Os gerentes de projeto irão avaliar e apontar possíveis pontos a serem melhorados, tendo como base sua experiência e o feedback do cliente, que serão corrigidos pela equipe
+
+# 7. Requisitos
+## 7.1. Requisitos Funcionais
 |Identificador|Requisito|Depende de|Prioridade|
 |---|------|---------|-------|
 |RF01|**_O sistema deve permitir que usuário efetue cadastro._****|---------|Alta|
@@ -156,3 +161,12 @@ Como o sistema estará disponível online, o licenciamento se dá a partir da ac
 |RF11|O sistema deve permitir que o usuário altere sua própria reserva.|RF02|Alta|
 |RF12|------|---------|------|
 |RF13|------|---------|------|
+
+# 8. Outros Requisitos do Produto
+## 8.1 Requisitos do Sistema
+
+* Por ser um sistema web o software necessita de uma conexão estável com a internet para seu funcionamento
+
+## 8.2 Requisitos de Desempenho
+
+* A velocidade da internet tem impacto direto no desempenho da aplicação, sendo necessário uma velocidade suficiente para processar as informações e executar as funcionalidades do sistema
