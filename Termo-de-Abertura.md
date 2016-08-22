@@ -79,8 +79,7 @@ pagos no Brasil.
 O desenvolvimento de um projeto de software necessita de equipamentos
 como computadores e internet para o ser executado. Os custos
 como alguns desses itens foram estimados para se chegar ao custo
-total do projeto. Os itens estimados são: [computadores](http://www.dell.com/br/p/inspiron-15-5558-laptop/pd?oc=cai5558w101712358bbbrp171w&model_id=inspiron-15-5558-laptop), energia
-elêtrica e [internet](https://assine.vivo.com.br/combos/combos-2-em-1).
+total do projeto. Os itens estimados são: [computadores](http://www.dell.com/br/p/inspiron-15-5558-laptop/pd?oc=cai5558w101712358bbbrp171w&model_id=inspiron-15-5558-laptop) e [internet](https://assine.vivo.com.br/combos/combos-2-em-1).
  
 | Item       | Qtde/Tempo | Valor   | Total    |
 |------------|------------|---------|----------|
@@ -100,7 +99,12 @@ para desenvolver o produto.
 |------------|-------------|---------|----------|
 | Alugel     | 4           | 1200,00 | 4800,00  |
 
+### Custo Total
 
+Os itens estimados possibilitam mostrar que o projeto teria
+um custo aproximado de R$ 95.882,50. O valor poderia ser maior
+ou menos devido a outra variáveis não consideras aqui como
+engargos trabalhitas, energia eletríca, água, dentre outros. 
 
 ## 8. Ferramentas de Comunicação
 1. Comunicação entre MDS e GPP via WhatsApp.
