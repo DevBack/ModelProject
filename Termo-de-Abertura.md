@@ -47,13 +47,14 @@ O escopo do SAS, Sistema de Alocação de Salas, se baseia na funcionalidade pri
 A estimativa de custo tem como finalidade apresentar para os integrantes da equipe
 e para os outros alunos da disciplina o custo envolvido no desenvolvimento de um
 software real. As estimativas usam dados coletados na internet em sites especializados
-como Catho, entre outros. Os web sites citados fornecem dados médios de custo de
-profissionais e matérias que possibilitam estimar o custo do projeto. 
+como Catho, WImovéis, entre outros. Os web sites citados fornecem dados de custo de
+profissionais e matériais que possibilitam estimar o custo do projeto. 
 
 ### 7.1 Custo da mão de obra.
 
 Os dados aqui apresentados foram retirados do site Catho Empresas e só leva em 
-consideradão a média salarial oferecida para o [desenvolvedor júnior Python](http://www.catho.com.br/salario/action/site/area_geral.php?state=salario&id_area_especifica=40&id_area_geral=16&id_cargo=7538) 
+consideradão a média salarial oferecida para o [desenvolvedor júnior Python](http://www.catho.com.br/salario/action/site/area_geral.php?state=salario&id_area_especifica=40&id_area_geral=16&id_cargo=7538) e de [Gerente de Tecnologia 
+da Informacão](http://www.catho.com.br/salario/pesquisa-salarial/cargos-salarios/sistemas-informatica-internet/tecnologia-da-informacao-ti/gerente-de-tecnologia-da-informacao) 
 oferecida no web site. Portanto, não será considerados custos trabalhistas que devem ser
 pagos no Brasil.
 
@@ -76,7 +77,7 @@ pagos no Brasil.
 ### 7.2 Insumos
 
 O desenvolvimento de um projeto de software necessita de equipamentos
-como computadores e internet para o seu desenvolvimento. Os custos
+como computadores e internet para o ser executado. Os custos
 como alguns desses itens foram estimados para se chegar ao custo
 total do projeto. Os itens estimados são: [computadores](http://www.dell.com/br/p/inspiron-15-5558-laptop/pd?oc=cai5558w101712358bbbrp171w&model_id=inspiron-15-5558-laptop), energia
 elêtrica e [internet](https://assine.vivo.com.br/combos/combos-2-em-1).
