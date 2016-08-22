@@ -60,18 +60,32 @@ pagos no Brasil.
 | Equipe MDS       |                               |         |
 |------------------|-------------------------------|---------|
 | Dias trabalhados | Média estimada de hrs diárias | Total   |
-| 63               | 2                             | 126     |
+| 109               | 2                            | 218     |
 | Salario Médio    | Hora Média                    | Total   |
-| 2079,62          | 12,99                         | 1637,70 |
-|                  | Total Grupo                   | 6550,80 |
+| 2079,62          | 12,99                         | 2833,48 |
+|                  | Total Grupo                   | 11333,92|
 
 | Equipe GPP       |                               |         |
 |------------------|-------------------------------|---------|
 | Dias trabalhados | Média estimada de hrs diárias | Total   |
-| 63               | 2                             | 126     |
+| 109              | 2                             | 218     |
 | Salario Médio    | Hora Média                    | Total   |
-| 8628,52          | 53,92                         | 6794,95 |
-|                  | Total Grupo                   | 33730,64|
+| 8628,52          | 53,92                         | 11756,35|
+|                  | Total Grupo                   | 58359,36|
+
+### 7.2 Insumos
+
+O desenvolvimento de um projeto de software necessita de equipamentos
+como computadores e internet para o seu desenvolvimento. Os custos
+como alguns desses itens foram estimados para se chegar ao custo
+total do projeto. Os itens estimados são: computadores, energia
+elêtrica e internet.
+ 
+| Item       | Qtde/Tempo | Valor   | Total    |
+|------------|------------|---------|----------|
+| Computador | 10         | 2079,00 | 20790,00 |
+| Internet   | 4          | 149,8   | 599,2    |
+| Energia    | 4          |         |          |
 
 
 
