@@ -13,40 +13,40 @@
 
 # 1. Introdução
   
-Este documento tem como objetivo definir o escopo, a proposta, os recursos do produto, o problema a ser resolvido, quem terá acesso ao produto, assim como o tipo de acesso. O cliente do sistema realiza a locação de salas de forma manual. O objetivo do projeto é criar um sistema que automatize esse processo, evitando erros, como duas salas locadas para a mesma pessoa no mesmo horário,  tornando-o ágil.
+Este documento, com relação ao desenvolvimento do projeto SAS (Sistema de Alocação de Salas), tem como objetivo definir o escopo, a proposta, os recursos, o problema a ser resolvido, quem terá acesso ao produto e o tipo de acesso. O objetivo do projeto é criar um sistema que automatize o processo de locação de salas, atualmente manual, para o cliente, de forma que é esperado que tal sistema auxilie evitando erros e agilizando o processo de locação.
 
 # 2. Posicionamento
 
 ## 2.1. Oportunidade de Negócio
 
-No estado atual, a alocação de salas é feita por cada coordenador da maneira que o mesmo acha mais adequado, através do uso de planilhas excel e planilhas manuais. Desse modo são encontrados vários problemas na reserva de salas, pois para sua alocação cabe a cada coordenador conferir manualmente em sua planilha a disponibilidade da sala em determinado horário.
-Assim o SAS vêm como solução para automatizar esse processo, tornando mais prático a alocação de salas, evitar problemas como, por exemplo, reservar uma mesma sala no mesmo horário para duas atividades diferentes e facilitar o processo para os coordenadores.
+No estado atual, a alocação de salas é feita por cada coordenador da maneira que o mesmo acha mais adequada, através do uso de planilhas. Deste modo vários problemas na reserva de salas acabam ocorrendo, pois para sua alocação cabe a cada coordenador conferir manualmente em sua planilha a disponibilidade da sala em determinado horário.
+Assim, o SAS vêm como solução para automatizar esse processo tornando mais prática e ágil a alocação de salas, evitando problemas como, por exemplo, reservar uma mesma sala no mesmo horário para duas atividades distintas e facilitando todo o processo para os coordenadores.
 
 ## 2.2. Declaração do Problema
 
 |||
 |---|---|
-|**O problema de** | Fazer alocação de salas manualmente com o excel |
-|**Afeta** | Administrador e corpo acadêmico |
-|**Cujo impacto é** | Alocação de salas a mais, choques de horários de salas e professores e alunos não podem fazer reservas |
-|**Uma boa solução seria** | Um sistema web para alocação de salas |
+|**O problema de** | Fazer alocação de salas manualmente com planilhas eletrônicas |
+|**Afeta** | Coordenação e corpo acadêmico |
+|**Cujo impacto é** | Alocação de salas a mais ou a menos, choques de horários de salas, professores e alunos sem poder fazer reservas de maneira simples |
+|**Uma boa solução seria** | Um sistema web para alocação de salas de uso estendido a todos os  interessados|
 
 ## 2.3. Declaração da Posição do Produto
 
 |||
 |---|---|
 |**Para**| Docentes, Discentes e demais membros do Corpo Acadêmico da UnB Gama|
-|**Que**| Deseja gerenciar a alocação de salas com rapidez e eficiência|
+|**Que**| Desejam gerenciar a alocação de salas com rapidez e eficiência|
 |**Sistema de Alocação de  Salas(SAS)**|  É um produto de software|
 |**Que**| Um sistema web para alocação de salas|
 |**Diferente**| Do estado atual que requer que o administrador altere manualmente os horários e quem ocupará as salas|
-|**Nosso produto**| Controla as informações relativas as salas, seus respectivos horários e sua disponibilidade e permite reserva das salas|
+|**Nosso produto**| Controla as informações relativas as salas, seus respectivos horários e sua disponibilidade e permite reservá-las|
 
 # 3. Descrição dos Envolvidos e dos Usuários
 ## 3.1. Resumo dos Envolvidos
 |Nome|Descrição|Responsabilidades|Representantes|
 |----|------|---------|------------|
-|Cliente |Requisitou o sistema |Fornece os requisitos do sistema |Carla Rocha Aguiar|
+|Cliente |Requisitou o sistema |Fornece os requisitos do sistema |Carla Rocha Aguiar e demais coordenadores dos cursos da FGA|
 |Gerentes |Gerenciam o projeto |Elaboram os planos de projeto, Monitoram o andamento do projeto, Revisam o projeto, Auxiliam a equipe de desenvolvimento |Allan Pereira,  Elaine Meirelles, Gustavo Coelho, Jessica Suzuki, Pedro Alcântara|
 |Desenvolvedores |Desenvolvem o sistema |Documentação e programação |Fabíola Malta,  Hugo Carvalho, Luis Gustavo, Lucas Oliveira, Vítor Gomes|
 
@@ -56,8 +56,8 @@ Assim o SAS vêm como solução para automatizar esse processo, tornando mais pr
 |Administrador|Usuário final do sistema |Reserva salas,Controla reservas |Coordenadores da Faculdade do Gama (FGA)|
 |Usuário | Usuário final do sistema|Reserva salas |Professores, estudantes, técnicos administrativos e demais integrantes do Corpo Acadêmico|
 ## 3.3. Ambiente do Usuário
-* A cliente utiliza uma planilha do Excel para gerenciar a utilização das salas.
-* A organização de salas com os horários de professores e matérias é feita pela cliente. de forma não automatizada, portanto esta suscetível a diversos erros e requer muito tempo.
+* Os clientes utilizam uma planilha eletrônica para gerenciar a utilização e destinação das salas.
+* A organização de salas com os horários de professores e matérias é feita pelos clientes de forma não automatizada, portanto suscetível a erros e requerendo muito tempo.
 * A secretaria é responsável por mediar reserva de salas e laboratórios para alunos.
 * A reserva efetuada pela secretaria não é digital, sendo anotada em uma planilha física.
 * O sistema que será desenvolvido agilizará o processo de alocação de salas.
