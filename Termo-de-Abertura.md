@@ -7,6 +7,7 @@
 |19/08/2016|1.2|Adição de conteúdo nos tópicos 5 e 6.|Elaine|
 |20/08/2016|1.3|Atualização do tópico 9 (Prazos).|Allan|
 |21/08/2016|1.4|Adição dos tópicos 8, 10 e 11| Jessica|
+|21/08/2016|1.4|Adição dos tópico 7| Gustavo|
 
 ## 1. Introdução
 Este documento formalmente inicia o projeto de construção do Sistema para Alocação de Espaços para a Faculdade UnB Gama. Aqui é especificado o trabalho que este projeto visa realizar, a oportunidade de negócio identificada, o escopo de atuação, os indivíduos direta e indiretamente afetados, características de riscos, restrições e de custos, entregáveis, prazos e as ferramentas utilizadas no processo de desenvolvimento. Tais descrições visam elucidar a viabilidade do projeto.
@@ -43,8 +44,37 @@ O escopo do SAS, Sistema de Alocação de Salas, se baseia na funcionalidade pri
 
 ## 7. Estimativa de Custo
 
+A estimativa de custo tem como finalidade apresentar para os integrantes da equipe
+e para os outros alunos da disciplina o custo envolvido no desenvolvimento de um
+software real. As estimativas usam dados coletados na internet em sites especializados
+como Catho, entre outros. Os web sites citados fornecem dados médios de custo de
+profissionais e matérias que possibilitam estimar o custo do projeto. 
+
+### 7.1 Custo da mão de obra.
+
+Os dados aqui apresentados foram retirados do site Catho Empresas e só leva em 
+consideradão a média salarial oferecida para o desenvolvedor júnior Python oferecida
+no web site. Portanto, não será considerados custos trabalhistas que devem ser
+pagos no Brasil.
+
+|Equipe MDS|---|---|---|
+|Dias trabalhos|Média estimada de hrs Diárias|Total|
+|63|2|126|
+|Salario médio| Valor da hora| Custo Integrante|
+|2079,62|12,99|1637,70|
+|----|----|Total Grupo: | 6550,80|
+
+|Equipe GPP|---|---|---|
+|Dias trabalhos|Média estimada de hrs Diárias|Total|
+|63|2|126|
+|Salario médio| Valor da hora| Custo Integrante|
+|8628,52|53,92|6794,95|
+|----|----|Total Grupo: | 33730,64|
+
+
+
 ## 8. Ferramentas de Comunicação
-1. Comuncação entre MDS e GPP via WhatsApp.
+1. Comunicação entre MDS e GPP via WhatsApp.
 2. Comunicação equipe de GPP via Telegram.
 
 ## 9. Prazos
