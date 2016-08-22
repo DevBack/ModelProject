@@ -8,7 +8,7 @@
 |20/08/2016|1.3|Atualização do tópico 9 (Prazos).|Allan|
 |21/08/2016|1.4|Adição dos tópicos 8, 10 e 11| Jessica|
 |21/08/2016|1.5|Adição do tópico 7| Gustavo|
-|21/08/2016|1.5|Revisão em todo documento. Alterações nos tópicos: 6, 8, 10 e 11| Allan|
+|21/08/2016|1.6|Revisão em todo documento. Alterações nos tópicos: 6, 8, 10 e 11| Allan|
 
 ## 1. Introdução
 Este documento formalmente inicia o projeto de construção do Sistema para Alocação de Espaços para a Faculdade UnB Gama. Aqui é especificado o trabalho que este projeto visa realizar, a oportunidade de negócio identificada, o escopo de atuação, os indivíduos direta e indiretamente afetados, características de riscos, restrições e de custos, entregáveis, prazos e as ferramentas utilizadas no processo de desenvolvimento. Tais descrições visam elucidar a viabilidade do projeto.
