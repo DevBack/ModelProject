@@ -153,14 +153,13 @@ Como o sistema estará disponível online, o licenciamento se dá a partir da ac
 |RF03|O sistema deve permitir que o administrador faça login.|---------|Alta|
 |RF04|O sistema deve permitir que o usuário consulte as salas.|RF02|Alta|
 |RF05|O sistema deve permitir que o usuário reserve sala.|RF02|Alta|
-|RF06|O sistema deve permitir que o administrador faça login.|RF03|Alta|
-|RF07|O sistema deve permitir que o administrador reserve sala.|RF03|Alta|
-|RF08|O sistema deve permitir que o administrador exclua uma reserva.|RF03|Alta|
-|RF09|O sistema deve permitir que o administrador consulte as salas.|RF03|Alta|
-|RF10|O sistema deve permitir o administrador tornar outro usuário administrador.|RF03|Alta|
-|RF11|O sistema deve permitir que o usuário altere sua própria reserva.|RF02|Alta|
+|RF06|O sistema deve permitir que o administrador reserve sala.|RF03|Alta|
+|RF07|O sistema deve permitir que o administrador exclua uma reserva.|RF03|Alta|
+|RF08|O sistema deve permitir que o administrador consulte as salas.|RF03|Alta|
+|RF09|O sistema deve permitir o administrador tornar outro usuário administrador.|RF03|Alta|
+|RF10|O sistema deve permitir que o usuário altere sua própria reserva.|RF02|Alta|
+|RF11|------|---------|------|
 |RF12|------|---------|------|
-|RF13|------|---------|------|
 
 # 8. Outros Requisitos do Produto
 ## 8.1 Requisitos do Sistema
