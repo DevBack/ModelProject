@@ -158,8 +158,9 @@ Como o sistema estará disponível online, o licenciamento se dá a partir da ac
 |RF08|O sistema deve permitir que o administrador consulte as salas.|RF03|Alta|
 |RF09|O sistema deve permitir o administrador tornar outro usuário administrador.|RF03|Alta|
 |RF10|O sistema deve permitir que o usuário altere sua própria reserva.|RF02|Alta|
-|RF11|------|---------|------|
-|RF12|------|---------|------|
+|RF11|O sistema deve permitir que o usuário pesquise salas por horário|---------|Alta|
+|RF12|O sistema deve permitir que o usuário pesquise salas por nome da sala|---------|Alta|
+|RF13|O sistema deve permitir que o usuário pesquise salas por disponibilidade|---------|Alta|
 
 # 8. Outros Requisitos do Produto
 ## 8.1 Requisitos do Sistema
