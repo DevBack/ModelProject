@@ -28,8 +28,8 @@ Luis Gustavo |Gustavo Coelho |
  * Quando coordenador aloca salas, ele deve informar para QUEM esta sala está sendo alocada?
  * Cadastro de usuário deverá constar no escopo?
 
-1. Documento de Arquitetura antes ou depois dos casos de uso.
-1. Diagrama de Classes incluído no Documento de Arquitetura
+1. Documento de Arquitetura antes ou depois dos casos de uso?
+1. Diagrama de Classes incluído no Documento de Arquitetura?
 
 ## Decisões
 
@@ -37,4 +37,5 @@ Luis Gustavo |Gustavo Coelho |
 2. MDS iniciou o Documento de Visão.
 3. Definiou-se as iterações e prazos.
 4. Pequenas atualizações no termo de abertura.
+5. Foi definido a utilização de folha de estilo na codificação.
 
