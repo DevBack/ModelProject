@@ -92,7 +92,7 @@ para desenvolver o produto.
 |------------|-------------|---------|----------|
 | Aluguel     | 4           | 1200,00 | 4800,00  |
 
-### Custo Total
+### 7.4 Custo Total
 
 Os itens estimados possibilitam mostrar que o projeto teria um custo aproximado de R$ 95.882,50. O valor pode ser maior ou menor devido a outras variáveis não consideradas, como encargos trabalhistas, energia elétrica, água, dentre outros. 
 
