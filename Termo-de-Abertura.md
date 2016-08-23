@@ -9,6 +9,7 @@
 |21/08/2016|1.4|Adição dos tópicos 8, 10 e 11| Jessica|
 |21/08/2016|1.5|Adição do tópico 7| Gustavo|
 |21/08/2016|1.6|Revisão em todo documento. Alterações nos tópicos: 6, 8, 10 e 11| Allan|
+|22/08/2016|1.7|Revisão ortográfica em todo documento.| Elaine|
 
 ## 1. Introdução
 Este documento formalmente inicia o projeto de construção do Sistema para Alocação de Espaços para a Faculdade UnB Gama. Aqui é especificado o trabalho que este projeto visa realizar, a oportunidade de negócio identificada, o escopo de atuação, os indivíduos direta e indiretamente afetados, características de riscos, restrições e de custos, entregáveis, prazos e as ferramentas utilizadas no processo de desenvolvimento. Tais descrições visam elucidar a viabilidade do projeto.
@@ -50,19 +51,11 @@ O escopo do SAS, Sistema de Alocação de Salas, se baseia na funcionalidade pri
 
 ## 7. Estimativa de Custo
 
-A estimativa de custo tem como finalidade apresentar para os integrantes da equipe
-e para os outros alunos da disciplina o custo envolvido no desenvolvimento de um
-software real. As estimativas usam dados coletados na internet em sites especializados
-como Catho, WImovéis, entre outros. Os web sites citados fornecem dados de custo de
-profissionais e matériais que possibilitam estimar o custo do projeto. 
+A estimativa de custo tem como finalidade apresentar para os integrantes da equipe e para os outros alunos da disciplina o custo envolvido no desenvolvimento de um software real. As estimativas usam dados coletados na internet em sites especializados como Catho, WImovéis, entre outros. Os web sites citados fornecem dados de custo de profissionais e matériais que possibilitam estimar o custo do projeto. 
 
 ### 7.1 Custo da mão de obra.
 
-Os dados aqui apresentados foram retirados do site Catho Empresas e só leva em 
-consideradão a média salarial oferecida para o [desenvolvedor júnior Python](http://www.catho.com.br/salario/action/site/area_geral.php?state=salario&id_area_especifica=40&id_area_geral=16&id_cargo=7538) e de [Gerente de Tecnologia 
-da Informação](http://www.catho.com.br/salario/pesquisa-salarial/cargos-salarios/sistemas-informatica-internet/tecnologia-da-informacao-ti/gerente-de-tecnologia-da-informacao) 
-oferecida no web site. Portanto, não será considerados custos trabalhistas que devem ser
-pagos no Brasil.
+Os dados aqui apresentados foram retirados do site Catho Empresas e só leva em consideração a média salarial oferecida para o [desenvolvedor júnior Python](http://www.catho.com.br/salario/action/site/area_geral.php?state=salario&id_area_especifica=40&id_area_geral=16&id_cargo=7538) e de [Gerente de Tecnologia da Informação](http://www.catho.com.br/salario/pesquisa-salarial/cargos-salarios/sistemas-informatica-internet/tecnologia-da informacao-ti/gerente-de-tecnologia-da-informacao) oferecida no web site. Portanto, não será considerados custos trabalhistas que devem ser pagos no Brasil.
 
 | Equipe MDS       |                               |         |
 |------------------|-------------------------------|---------|
@@ -82,10 +75,7 @@ pagos no Brasil.
 
 ### 7.2 Insumos
 
-O desenvolvimento de um projeto de software necessita de equipamentos
-como computadores e internet para o ser executado. Os custos
-como alguns desses itens foram estimados para se chegar ao custo
-total do projeto. Os itens estimados são: [computadores](http://www.dell.com/br/p/inspiron-15-5558-laptop/pd?oc=cai5558w101712358bbbrp171w&model_id=inspiron-15-5558-laptop) e [internet](https://assine.vivo.com.br/combos/combos-2-em-1).
+O desenvolvimento de um projeto de software necessita de equipamentos como computadores e internet para ser executado. Os custos com alguns desses itens foram estimados com a finalidade de se chegar ao custo 'total do projeto. Os itens estimados são: [computadores](http://www.dell.com/br/p/inspiron-15-5558-laptop/pd?oc=cai5558w101712358bbbrp171w&model_id=inspiron-15-5558-laptop) e [internet] https://assine.vivo.com.br/combos/combos-2-em-1).
  
 | Item       | Qtde/Tempo | Valor   | Total    |
 |------------|------------|---------|----------|
@@ -95,22 +85,16 @@ total do projeto. Os itens estimados são: [computadores](http://www.dell.com/br
 
 ### 7.3 Aluguel
 
-Uma empresa precisaria dispor de um local para o encontro
-dos seus membros. Uma busca em [web sites de aluguel de imóveis](http://www.wimoveis.com.br/imovel/aluguel-sala-comercial-gama-df-quadra-17-1354260)
-no Gama-DF possibilitou estimar um valor para o custo de alguel
-para uma sala comercial onde os membros poderiam se reuniar 
+Uma empresa precisaria dispor de um local para o encontro dos seus membros. Uma busca em [web sites de aluguel de imóveis](http://www.wimoveis.com.br/imovel/aluguel-sala-comercial-gama-df-quadra-17-1354260) no Gama-DF possibilitou estimar um valor para o custo de alguel para uma sala comercial, onde os membros poderiam se reunir 
 para desenvolver o produto.
 
 | Item       | Tempo(Meses)| Valor   | Total    |
 |------------|-------------|---------|----------|
-| Alugel     | 4           | 1200,00 | 4800,00  |
+| Aluguel     | 4           | 1200,00 | 4800,00  |
 
 ### Custo Total
 
-Os itens estimados possibilitam mostrar que o projeto teria
-um custo aproximado de R$ 95.882,50. O valor poderia ser maior
-ou menos devido a outra variáveis não consideras aqui como
-engargos trabalhitas, energia eletríca, água, dentre outros. 
+Os itens estimados possibilitam mostrar que o projeto teria um custo aproximado de R$ 95.882,50. O valor pode ser maior ou menor devido a outras variáveis não consideradas, como encargos trabalhistas, energia elétrica, água, dentre outros. 
 
 ## 8. Estratégia de Comunicação
 São realizadas reuniões presenciais semanais aos sábados, às 14h, no espaço da Faculdade UnB Gama. Em adição à comunicação presencial, tem-se:
