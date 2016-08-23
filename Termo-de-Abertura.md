@@ -75,13 +75,13 @@ Os dados aqui apresentados foram retirados do site Catho Empresas e só leva em 
 
 ### 7.2 Insumos
 
-O desenvolvimento de um projeto de software necessita de equipamentos como computadores e internet para ser executado. Os custos com alguns desses itens foram estimados com a finalidade de se chegar ao custo 'total do projeto. Os itens estimados são: [computadores](http://www.dell.com/br/p/inspiron-15-5558-laptop/pd?oc=cai5558w101712358bbbrp171w&model_id=inspiron-15-5558-laptop) e [internet] https://assine.vivo.com.br/combos/combos-2-em-1).
+O desenvolvimento de um projeto de software necessita de equipamentos como computadores e internet para ser executado. Os custos com alguns desses itens foram estimados com a finalidade de se chegar ao custo 'total do projeto. Os itens estimados são: [computadores](http://www.dell.com/br/p/inspiron-15-5558-laptop/pd?oc=cai5558w101712358bbbrp171w&model_id=inspiron-15-5558-laptop) e [internet] (https://assine.vivo.com.br/combos/combos-2-em-1).
  
 | Item       | Qtde/Tempo | Valor   | Total    |
 |------------|------------|---------|----------|
 | Computador | 10         | 2079,00 | 20790,00 |
 | Internet   | 4          | 149,8   | 599,2    |
-| Energia    | 4          |         |          |
+
 
 ### 7.3 Aluguel
 
