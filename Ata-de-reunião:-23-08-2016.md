@@ -23,3 +23,4 @@ Luis Gustavo |Gustavo Coelho (Ausente)|
 ## Decisões
 
 1. Cada integrante está responsável por analisar os requisitos identificados e acrescentar mais, caso identifique.
+1. Requisito de cadastro de usuário foi confirmado pelo cliente. 
