@@ -11,6 +11,7 @@
 |20/08/2016 |1.6 |Requisitos funcionais |Fabíola |
 |21/08/2016 |1.7 |Outros Requisitos do Produto e Intervalos de Qualidade |Luis |
 |24/08/2016 |1.8 |Atualização dos requisitos e correções de vocabulário no documento |Fabíola |
+|24/08/2016 |1.9 |Atualização dos requisitos |Lucas |
 
 # 1. Introdução
   
@@ -157,18 +158,23 @@ Como o sistema estará disponível online, o licenciamento se dá a partir da ac
 |Identificador|Requisito|Depende de|Prioridade|
 |---|------|---------|-------|
 |RF01|O sistema deve permitir que usuário efetue cadastro.|---------|Alta|
-|RF02|O sistema deve permitir que o usuário faça login.|---------|Alta|
-|RF03|O sistema deve permitir que o usuário consulte os espaços.|---------|Alta|
-|RF04|O sistema deve permitir que o usuário reserve espaços.|RF02|Alta|
-|RF05|O sistema deve permitir que o corpo acadêmico solicite reserva de laboratório.|RF02|Alta|
-|RF06|O sistema deve permitir que o administrador reserve laboratório.|RF03|Alta|
-|RF07|O sistema deve permitir que o administrador exclua qualquer reserva.|RF03|Intermediária|
-|RF08|O sistema deve permitir o administrador tornar outro usuário administrador.|RF03|Intermediária|
-|RF09|O sistema deve permitir que o corpo acadêmico exclua sua própria reserva.|RF03|Intermediária|
-|RF10|O sistema deve permitir que o usuário pesquise espaços por disponibilidade|---------|Útil|
-|RF11|O sistema deve permitir que o usuário pesquise espaços por horário|---------|Útil|
-|RF12|O sistema deve permitir que o usuário pesquise espaços por nome do espaços|---------|Útil|
-|RF13|O sistema deve enviar informações da reserva por meio do email do usuário.|---------|Útil|
+|RF02|O sistema deve permitir que o usuário faça login.|RF01|Alta|
+|RF03|O sistema deve permitir que o usuário consulte os espaços.|RF02|Alta|
+|RF04|O sistema deve permitir que o usuário reserve espaços.|RF03|Alta|
+|RF05|O sistema deve permitir que o usuário exclua reserva.|RF03|Intermediária|
+|RF06|O sistema deve permitir o Administrador tornar outro usuário Administrador.|RF02|Intermediária|
+|RF07|O sistema deve permitir que o usuário pesquise espaços por disponibilidade.|RF03|Útil|
+|RF08|O sistema deve permitir que o usuário pesquise espaços por horário.|RF03|Útil|
+|RF09|O sistema deve permitir que o usuário pesquise espaços por nome do espaços.|RF03|Útil|
+|RF10|O sistema deve enviar informações da reserva ao email cadastrado do usuário.|RF01|Útil|
+|RF11|O sistema deve permitir que o usuário atualize seu cadastro.|RF02|Intermediária|
+|RF12|O sistema deve permitir que o usuário delete seu cadastro.|RF02|Intermediária|
+|RF13|O sistema deve permitir que o Administrador delete o cadastro de qualquer usuário.|RF02|Intermediária|
+|RF14|O sistema deve permitir que o Administrador confirme ou negue as solicitações de reserva de espaço.|RF02|Alta|
+|RF15|O sistema deve mostrar um mapa de localização dos espaços.|---------|Alta|
+|RF16|O sistema deve gerar relatório de utilização de determinado espaço por período.|RF03|Útil|
+|RF17|O sistema deve gerar relatório de utilização de espaços por usuário.|RF02|Útil|
+
 
 # 8. Outros Requisitos do Produto
 ## 8.1 Requisitos do Sistema
