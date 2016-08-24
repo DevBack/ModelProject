@@ -55,8 +55,8 @@ Assim, o SAS vêm como solução para automatizar esse processo tornando mais pr
 ## 3.2. Resumo dos Usuários
 O sistema possuirá dois tipos de usuários diferentes: Corpo acadêmico e Administrador, como ilustrado na imagem abaixo.
 
-
-![Imagem 1 - Tipos de Usuários](https://lh6.googleusercontent.com/Q_2gj3fxRTRNhemm0RLlTH0KyUcew9wTzWwdXUOWp_FxGgl5lroAgIExg8iv1-VngXDkgFnaSQ-1o1c=w1920-h971)
+**Imagem 1 - Tipos de Usuários**
+![Imagem 1 - Tipos de Usuários](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/imagemUsuarios.png "Imagem 1 - Tipos de Usuários")
 
 
 |Nome|Descrição|Responsabilidades|Representantes|
