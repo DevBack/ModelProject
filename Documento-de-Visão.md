@@ -12,6 +12,8 @@
 |21/08/2016 |1.7 |Outros Requisitos do Produto e Intervalos de Qualidade |Luis |
 |24/08/2016 |1.8 |Atualização dos requisitos e correções de vocabulário no documento |Fabíola |
 |24/08/2016 |1.9 |Atualização dos requisitos |Lucas |
+|24/08/2016 |2.0 |Regras de negócio |Lucas |
+
 
 # 1. Introdução
   
@@ -175,6 +177,12 @@ Como o sistema estará disponível online, o licenciamento se dá a partir da ac
 |RF16|O sistema deve gerar relatório de utilização de determinado espaço por período.|RF03|Útil|
 |RF17|O sistema deve gerar relatório de utilização de espaços por usuário.|RF02|Útil|
 
+## 7.2 Regras de Negócio
+
+|Identificador|Requisito Funcional|Restrição|
+|---|------|------|
+|RN01|RF05|Corpo Acadêmico somente pode excluir suas próprias reservas.|
+|RN02|RF10|O sistema enviará email quando houver qualquer modificação na reserva ou na solicitação de reserva.|
 
 # 8. Outros Requisitos do Produto
 ## 8.1 Requisitos do Sistema
