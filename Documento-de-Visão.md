@@ -13,6 +13,7 @@
 |24/08/2016 |1.8 |Atualização dos requisitos e correções de vocabulário no documento |Fabíola |
 |24/08/2016 |1.9 |Atualização dos requisitos |Lucas |
 |24/08/2016 |2.0 |Regras de negócio |Lucas |
+|24/08/2016 |2.1 |Atualização dos requisitos e tipos de dependência |Luis |
 
 
 # 1. Introdução
@@ -157,6 +158,12 @@ Como o sistema estará disponível online, o licenciamento se dá a partir da ac
 
 # 7. Requisitos
 ## 7.1. Requisitos Funcionais
+|||
+|---|---|
+|**Alta** | Requisitos indispensáveis para o funcionamento do sistema |
+|**Intermediária** | Requisitos importantes para o sistema, mas caso não sejam implementados não resultará em um mal funcionamento do sistema |
+|**Útil** | Requisitos que não são usados com tanta frequência e não são tão significativos na satisfação que o usuário tem sobre o sistema |
+
 |Identificador|Requisito|Depende de|Prioridade|
 |---|------|---------|-------|
 |RF01|O sistema deve permitir que usuário efetue cadastro.|---------|Alta|
@@ -176,6 +183,7 @@ Como o sistema estará disponível online, o licenciamento se dá a partir da ac
 |RF15|O sistema deve mostrar um mapa de localização dos espaços.|---------|Alta|
 |RF16|O sistema deve gerar relatório de utilização de determinado espaço por período.|RF03|Útil|
 |RF17|O sistema deve gerar relatório de utilização de espaços por usuário.|RF02|Útil|
+|RF18|O sistema deve permitir que o Administrador delete reserva de qualquer usuário|RF04|Alta|
 
 ## 7.2 Regras de Negócio
 
