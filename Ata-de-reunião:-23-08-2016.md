@@ -20,7 +20,13 @@ Luis Gustavo |Gustavo Coelho (Ausente)|
 
 1. Levantar e esclarecer requisitos
 
+## Ações
+
+1. Validar com o cliente os períodos de uso e de reserva dos espaços.
+1. Validar os Requisitos e Regras de Negócio levantados no Documento de Visão
+
 ## Decisões
 
 1. Cada integrante está responsável por analisar os requisitos identificados e acrescentar mais, caso identifique.
 1. Requisito de cadastro de usuário foi confirmado pelo cliente. 
+
