@@ -30,6 +30,7 @@ Luis Gustavo |Gustavo Coelho |
 
 1. Documento de Arquitetura antes ou depois dos casos de uso?
 1. Diagrama de Classes incluído no Documento de Arquitetura?
+1. Cálculo do custo baseado no custo de desenvolvedor júnior e não de aluno. 
 
 ## Decisões
 
