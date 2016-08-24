@@ -24,6 +24,7 @@ Luis Gustavo |Gustavo Coelho (Ausente)|
 
 1. Validar com o cliente os períodos de uso e de reserva dos espaços.
 1. Validar os Requisitos e Regras de Negócio levantados no Documento de Visão
+1. Validar as Restrições descritas no Documento de Visão
 
 ## Decisões
 
