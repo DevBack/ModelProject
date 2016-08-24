@@ -9,7 +9,8 @@
 |21/08/2016|1.4|Adição dos tópicos 8, 10 e 11| Jessica|
 |21/08/2016|1.5|Adição do tópico 7| Gustavo|
 |21/08/2016|1.6|Revisão em todo documento. Alterações nos tópicos: 6, 8, 10 e 11| Allan|
-|22/08/2016|1.7|Revisão ortográfica em todo documento.| Elaine|
+|22/08/2016|1.7|Revisão ortográfica em todo documento| Elaine|
+|23/08/2016|1.8|Alteração na nomenclatura dos usuários| Jessica|
 
 ## 1. Introdução
 Este documento formalmente inicia o projeto de construção do Sistema para Alocação de Espaços para a Faculdade UnB Gama. Aqui é especificado o trabalho que este projeto visa realizar, a oportunidade de negócio identificada, o escopo de atuação, os indivíduos direta e indiretamente afetados, características de riscos, restrições e de custos, entregáveis, prazos e as ferramentas utilizadas no processo de desenvolvimento. Tais descrições visam elucidar a viabilidade do projeto.
@@ -121,7 +122,9 @@ Com duração de 10 semanas (63 dias). Já na data da release 2, pretende-se dem
 |Nome |Descrição |Responsabilidade | Representante|
 |---|---|---|---|
 |Administrador | Administrador do sistema | Reservar salas e controlar as reservas | Coordenadores dos cursos |
-|Usuário | Usuário final do sistema | Solicitar a reserva de salas | Professores, estudantes, técnicos administrativos e demais integrantes do Corpo Acadêmico |
+|Corpo Acadêmico| Usuário do sistema | Solicitar a reserva de salas | Professores, estudantes, técnicos administrativos e demais integrantes do Corpo Acadêmico |
+
+*Tanto o administrador quanto o corpo acadêmico são usuários do sistema.
 
 ## 11. Tecnologias Utilizadas
 1. Github - Repositório para código e documentação oficial. (https://www.github.com/)
