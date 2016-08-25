@@ -15,6 +15,7 @@
 |24/08/2016 |2.0 |Regras de negócio |Lucas |
 |24/08/2016 |2.1 |Atualização dos requisitos e tipos de dependência |Luis |
 |24/08/2016 |2.2 |Especificações Suplementares |Luis |
+|25/08/2016 |2.3 |Atualização da Descrição dos Envolvidos e dos Usuários |Fabíola |
 
 # 1. Introdução
   
@@ -48,25 +49,25 @@ Assim, o SAS vêm como solução para automatizar esse processo tornando mais pr
 |**Nosso produto**| Controla as informações relativas aos espaços, seus respectivos horários e sua disponibilidade e permite reservá-las|
 
 # 3. Descrição dos Envolvidos e dos Usuários
-## 3.1. Resumo dos Envolvidos
-|Nome|Descrição|Responsabilidades|Representantes|
-|----|------|---------|------------|
-|Cliente |Requisitou o sistema |Fornece os requisitos do sistema |Carla Rocha Aguiar e demais coordenadores dos cursos da FGA|
-|Gerentes |Gerenciam o projeto |Elaboram os planos de projeto, Monitoram o andamento do projeto, Revisam o projeto, Auxiliam a equipe de desenvolvimento |Allan Pereira,  Elaine Meirelles, Gustavo Coelho, Jessica Suzuki, Pedro Alcântara|
-|Desenvolvedores |Desenvolvem o sistema |Documentação e programação |Fabíola Malta,  Hugo Carvalho, Luis Gustavo, Lucas Oliveira, Vítor Gomes|
-|Coachs |Auxiliam os grupos de gerentes e desenvolvedores |Revisam documentos, fornecem treinamentos |Marcelo Ferreira, Dandara Aranha|
+## 3.1. Descrição dos Envolvidos
+|Nome|Descrição|Responsabilidades|Critério de Sucesso|Representantes|
+|----|------|---------|------------|------------|
+|Cliente |Requisitou o sistema |Fornece e valida os requisitos do sistema, avalia o andamento do produto a cada release. | Receber um sistema funcional que responda ao requisitado |Carla Rocha Aguiar e demais coordenadores dos cursos da FGA|
+|Gerentes |Gerenciam o projeto |Elaboram os planos de projeto, Monitoram o andamento do projeto, Revisam o projeto, Auxiliam a equipe de desenvolvimento |Conseguir gerenciar a equipe de forma a entregar o produto dentro do prazo proposto |Allan Pereira,  Elaine Meirelles, Gustavo Coelho, Jessica Suzuki, Pedro Alcântara|
+|Desenvolvedores |Desenvolvem o sistema |Documentação e programação |Conseguir desenvolver o produto proposto|Fabíola Malta,  Hugo Carvalho, Luis Gustavo, Lucas Oliveira, Vítor Gomes|
+|Coachs |Auxiliam os grupos de gerentes e desenvolvedores |Revisam documentos, fornecem treinamentos |Observar que o produto tenha sido desenvolvido dentro dos critérios propostos pelas matérias|Marcelo Ferreira, Dandara Aranha|
 
-## 3.2. Resumo dos Usuários
+## 3.2. Descrição dos Usuários
 O sistema possuirá dois tipos de usuários diferentes: Corpo acadêmico e Administrador, como ilustrado na imagem abaixo.
 
 **Imagem 1 - Tipos de Usuários**
 ![Imagem 1 - Tipos de Usuários](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/imagemUsuarios.png "Imagem 1 - Tipos de Usuários")
 
 
-|Nome|Descrição|Responsabilidades|Representantes|
-|----|------|---------|------------|
-|Administrador|Usuário final do sistema |Reserva espaços,Controla reservas |Coordenadores da Faculdade do Gama (FGA)|
-|Corpo Acadêmico | Usuário final do sistema|Reserva espaços |Professores, estudantes, técnicos administrativos e demais integrantes do Corpo Acadêmico|
+|Nome|Descrição|Responsabilidades|Critérios de Sucesso|Representantes|
+|----|------|---------|------------|------------|
+|Administrador|Usuário final do sistema |Reserva espaços,Controla reservas|Conseguir gerenciar reserva de espaços |Coordenadores da Faculdade do Gama (FGA)|
+|Corpo Acadêmico | Usuário final do sistema|Reserva espaços |Conseguir reservar espaços|Professores, estudantes, técnicos administrativos e demais integrantes do Corpo Acadêmico|
 ## 3.3. Ambiente do Usuário
 * Os clientes utilizam uma planilha eletrônica para gerenciar a utilização e destinação dos espaços.
 * A organização de espaços com os horários de professores e matérias é feita pelos clientes de forma não automatizada, portanto suscetível a erros e requerendo muito tempo.
