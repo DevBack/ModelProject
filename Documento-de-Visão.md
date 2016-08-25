@@ -16,6 +16,7 @@
 |24/08/2016 |2.1 |Atualização dos requisitos e tipos de dependência |Luis |
 |24/08/2016 |2.2 |Especificações Suplementares |Luis |
 |25/08/2016 |2.3 |Atualização da Descrição dos Envolvidos e dos Usuários |Fabíola |
+|25/08/2016 |2.4 |Atualização dos Recursos do Produto|Lucas
 
 # 1. Introdução
   
@@ -115,27 +116,26 @@ O sistema será utilizado pelo usuário através da internet, logo, há custos d
 Como o sistema estará disponível online, o licenciamento se dá a partir da aceitação dos termos e condições de uso do sistema por parte do usuário. Além disso, não há necessidade de instalação, precisando apenas do acesso a internet e de um navegador web.
 
 # 5. Recursos do Produto
+ * **Cadastrar no sistema**  
+      O Usuário pode se cadastrar no sistema para utilizar o serviço.
+ * **Atualizar dados no sistema**  
+      O Usuário pode atualizar seus dados cadastrados.
+ * **Retirar reserva**  
+      O Usuário pode retirar reservas anteriormente efetuadas.
  * **Login no sistema**  
-      Login de usuário utilizando informações vinculadas a UnB.   
+      Login de Usuário utilizando informações vinculadas a UnB.   
  * **Visualizar espaços disponíveis**  
-      Os usuários pode navegar entre as tabelas de horários para cada espaço.  
+      O Usuário pode navegar entre as tabelas de horários para cada espaço.
  * **Pesquisar espaços**    
-      * **Horário**  
-            Ambos usuários podem utilizar o filtro de horário para facilitar sua pesquisa.  
-      * **Espaços**  
-            Ambos usuários podem utilizar de filtro de nome da espaço para facilitar sua pesquisa.  
-      * **Status de alocação**  
-            Ambos usuários podem utilizar de filtro de status de alocação do espaço para facilitar sua pesquisa.  
+      O Usuário pode pesquisar espaços na Faculdade, utilizando filtros de horário ou de locação disponível, se desejar.
  * **Reservar espaço**  
-      Os usuários podem requisitar um horário em um espaço.  
- * **Cancelar reserva de espaço**  
-      O usuário comum pode cancelar seu pedido de reserva dos espaços anteriormente reservados.  
+      O Usuário podem requisitar um horário em um espaço.  
  * **Controle de reservas**  
-      O usuário comum pode visualizar suas reservas vigentes.  
+      O Usuário pode visualizar as reservas vigentes.  
  * **Verificar choque de horários**    
-      O administrador pode verificar se uma reserva existe no mesmo horário, no mesmo espaço por requerentes diferentes.  
+      O Administrador pode verificar se uma reserva existe no mesmo horário, no mesmo espaço por requerentes diferentes.  
  * **Ajustar choques de horário**    
-      O administrador pode deletar uma reserva que possua algum tipo de choque.  
+      O Administrador pode deletar uma reserva que possua algum tipo de choque.  
 
 ## 5.1. Restrições
 
