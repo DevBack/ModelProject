@@ -18,6 +18,7 @@
 |25/08/2016 |2.3 |Atualização da Descrição dos Envolvidos e dos Usuários |Fabíola |
 |25/08/2016 |2.4 |Atualização dos Recursos do Produto|Lucas |
 |25/08/2016 |2.5 |Atualização do Ambiente do Usuário e Descrição dos Envolvidos |Hugo |
+|25/08/2016 |2.6 |Atualização da Perspectiva do produto, Posicionamento e exclusão das Suposições e Dependências e Licença e Instalação |Luis |
 
 # 1. Introdução
   
@@ -45,10 +46,10 @@ Assim, o SAS vêm como solução para automatizar esse processo tornando mais pr
 |---|---|
 |**Para**| Docentes, Discentes e demais membros do Corpo Acadêmico da UnB Gama|
 |**Que**| Desejam gerenciar a alocação de espaços com rapidez e eficiência|
-|**Sistema de Alocação de  Salas(SAS)**|  É um produto de software|
-|**Que**| Um sistema web para alocação de espaços|
-|**Diferente**| Do estado atual que requer que o administrador altere manualmente os horários e quem ocupará os espaços|
-|**Nosso produto**| Controla as informações relativas aos espaços, seus respectivos horários e sua disponibilidade e permite reservá-las|
+|**Sistema de Alocação de  Salas**|  É um sistema web|
+|**Que**| Automatizará e facilitará a alocação de espaços|
+|**Diferente**| Do Sistema de Alocação de Salas da Universidade Federal de São Carlos|
+|**Nosso produto**| Controla as informações relativas a todos os espaços, sua disponibilidade e permite reservá-las, para qualquer horário|
 
 # 3. Descrição dos Envolvidos e dos Usuários
 ## 3.1. Descrição dos Envolvidos
@@ -77,8 +78,6 @@ O sistema deve propiciar, através da intenet, acesso simultâneo e a qualquer h
 
 A solução utilizada para alocar espaços na Faculdade do Gama é pouco prática, feita em excel e manualmente. Isso permite a existência de choques de horários em espaços e múltiplos espaços reservados pela mesma pessoa e mesmo horário. Além de ser um processo que demanda tempo e ser muito centralizado.
 
-O sistema que será desenvolvido não permite a reserva de um espaço que já está alocado, e permite uma melhor visualização dos espaços, além de permitir maior autonomia dos usuários, que já não dependerão de um intermédio para reservarem uma sala e poderão requisitar a reserva de laboratório.
-
 
 |Necessidade|Solução Atual|Solução Proposta|
 |----|------|---------|
@@ -94,20 +93,15 @@ Esta seção expõe uma visão ampla do produto, explicando aspectos gerais de s
 
 No atual contexto do ambiente acadêmico da Universidade de Brasília, constata-se uma crescente necessidade por um sistema que facilite a alocação de espaços por discentes, docentes e demais integrantes do corpo acadêmico – seja para apresentações de Trabalhos de Conclusão de Curso, aulas de monitoria ou tutoria, dentre outros – visto que, hoje, tal procedimento demanda um longo processo e burocracia. 
 
+Existem softwares semelhantes ao sistema do nosso projeto, como, por exemplo, o Sistema de Alocação de Salas da Universidade Federal de São Carlos. Ambos tem como objetivo geral, de forma simplificada, automatizar e facilitar a alocação de espaços dentro de sua respectiva universidade. Porém, nosso sistema pretende ser mais abrangente e dará mais autonomia ao corpo acadêmico, visto que permitirá uma melhor visualização dos espaços, abrangerá todos espaços da faculdade, ao contrário do Sistema de Alocação de Salas da Universidade Federal de São Carlos, que serve apenas para salas de informática. E o corpo acadêmico não dependerá da confirmação do administrador para a alocação de um espaço, caso o espaço esteja vago ele será automaticamente reservado, salvo para os laboratórios e o anfiteatro, que dependerão da permissão do administrador.
+
+
 ## 4.2. Sumário de Capacidades  
 
 |Benefícios do Usuário|Recursos de Suporte|
 |---------------------|-------------------|
 |Alocação de espaço feita mais rapidamente.|O processo de análise do pedido, verificando se o espaço no horário requerido está livre, é otimizado.|
 |Não há choque de horários (mais de um espaço reservado para a mesma pessoa no mesmo horário ou um espaço reservado para mais de uma pessoa no mesmo horário).|O sistema analisa se o espaço já possui reservas no horário ou se o usuário já possui uma reserva neste horário, impedindo outra reserva.|
-
-## 4.3. Suposições e Dependências
-
-O sistema será utilizado pelo usuário através da internet, logo, há custos de hospedagem. Assim, supõe-se que o cliente arcará com estes valores para que o sistema permaneça online.
-
-## 4.4. Licença e Instalação
-
-Como o sistema estará disponível online, o licenciamento se dá a partir da aceitação dos termos e condições de uso do sistema por parte do usuário. Além disso, não há necessidade de instalação, precisando apenas do acesso a internet e de um navegador web.
 
 # 5. Recursos do Produto
  * **Cadastrar no sistema**  
@@ -147,12 +141,8 @@ Como o sistema estará disponível online, o licenciamento se dá a partir da ac
 
 * O sistema deve ter cobertura de erros e exceções - mínimo de 90%;
 
-# 6. Intervalos de Qualidade
-
-* Serão feitas revisões semanalmente com os gerentes de projeto, para que tenha o menor impacto possível no cronograma e, consequentemente, no produto final. Os gerentes de projeto irão avaliar e apontar possíveis pontos a serem melhorados, tendo como base sua experiência e o feedback do cliente, que serão corrigidos pela equipe
-
-# 7. Requisitos
-## 7.1. Requisitos Funcionais
+# 6. Requisitos
+## 6.1. Requisitos Funcionais
 
 | | |
 |---|---|
@@ -181,14 +171,14 @@ Como o sistema estará disponível online, o licenciamento se dá a partir da ac
 |RF17|O sistema deve gerar relatório de utilização de espaços por usuário.|RF02|Útil|
 |RF18|O sistema deve permitir que o Administrador delete reserva de qualquer usuário|RF04|Alta|
 
-## 7.2 Regras de Negócio
+## 6.2 Regras de Negócio
 
 |Identificador|Requisito Funcional|Restrição|
 |---|------|------|
 |RN01|RF05|Corpo Acadêmico somente pode excluir suas próprias reservas.|
 |RN02|RF10|O sistema enviará email quando houver qualquer modificação na reserva ou na solicitação de reserva.|
 
-## 7.3 Especificações Suplementares
+## 6.3 Especificações Suplementares
 
 * Por ser um sistema web o software necessita de uma conexão estável com a internet para seu funcionamento
 
