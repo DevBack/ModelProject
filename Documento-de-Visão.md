@@ -16,7 +16,8 @@
 |24/08/2016 |2.1 |Atualização dos requisitos e tipos de dependência |Luis |
 |24/08/2016 |2.2 |Especificações Suplementares |Luis |
 |25/08/2016 |2.3 |Atualização da Descrição dos Envolvidos e dos Usuários |Fabíola |
-|25/08/2016 |2.4 |Atualização dos Recursos do Produto|Lucas
+|25/08/2016 |2.4 |Atualização dos Recursos do Produto|Lucas |
+|25/08/2016 |2.5 |Atualização do Ambiente do Usuário e Descrição dos Envolvidos |Hugo |
 
 # 1. Introdução
   
@@ -53,7 +54,7 @@ Assim, o SAS vêm como solução para automatizar esse processo tornando mais pr
 ## 3.1. Descrição dos Envolvidos
 |Nome|Descrição|Responsabilidades|Critério de Sucesso|Representantes|
 |----|------|---------|------------|------------|
-|Cliente |Requisitou o sistema |Fornece e valida os requisitos do sistema, avalia o andamento do produto a cada release. | Receber um sistema funcional que responda ao requisitado |Carla Rocha Aguiar e demais coordenadores dos cursos da FGA|
+|Cliente |Requisitou o sistema |Fornece e valida os requisitos do sistema, avalia o andamento do produto a cada release. | Receber um sistema funcional que responda ao requisitado |Carla Rocha Aguiar|
 |Gerentes |Gerenciam o projeto |Elaboram os planos de projeto, Monitoram o andamento do projeto, Revisam o projeto, Auxiliam a equipe de desenvolvimento |Conseguir gerenciar a equipe de forma a entregar o produto dentro do prazo proposto |Allan Pereira,  Elaine Meirelles, Gustavo Coelho, Jessica Suzuki, Pedro Alcântara|
 |Desenvolvedores |Desenvolvem o sistema |Documentação e programação |Conseguir desenvolver o produto proposto|Fabíola Malta,  Hugo Carvalho, Luis Gustavo, Lucas Oliveira, Vítor Gomes|
 |Coachs |Auxiliam os grupos de gerentes e desenvolvedores |Revisam documentos, fornecem treinamentos |Observar que o produto tenha sido desenvolvido dentro dos critérios propostos pelas matérias|Marcelo Ferreira, Dandara Aranha|
@@ -70,12 +71,7 @@ O sistema possuirá dois tipos de usuários diferentes: Corpo acadêmico e Admin
 |Administrador|Usuário final do sistema |Reserva espaços,Controla reservas|Conseguir gerenciar reserva de espaços |Coordenadores da Faculdade do Gama (FGA)|
 |Corpo Acadêmico | Usuário final do sistema|Reserva espaços |Conseguir reservar espaços|Professores, estudantes, técnicos administrativos e demais integrantes do Corpo Acadêmico|
 ## 3.3. Ambiente do Usuário
-* Os clientes utilizam uma planilha eletrônica para gerenciar a utilização e destinação dos espaços.
-* A organização de espaços com os horários de professores e matérias é feita pelos clientes de forma não automatizada, portanto suscetível a erros e requerendo muito tempo.
-* A secretaria é responsável por mediar reserva de espaços para alunos.
-* A reserva efetuada pela secretaria não é digital, sendo anotada em uma planilha física.
-* O sistema que será desenvolvido agilizará o processo de alocação de espaços.
-* O sistema mudará o processo, que não será feito apenas pela secretaria e pela cliente, possibilitando o acesso para o Corpo Acadêmico.
+O sistema deve propiciar, através da intenet, acesso simultâneo e a qualquer horário. E realizará comunicações pertinentes ao usuário através de e-mails. Pressupõe-se assim, que o usuário tenha acesso a internet para utilizar da plataforma, sendo necessário que os dispositivos possuam no mínimo um browser para navegação. Com isso, a velocidade de conexão pode interferir na experiência do usuário final.  
 
 ## 3.4. Principais necessidades dos usuários ou dos envolvidos
 
@@ -98,9 +94,7 @@ Esta seção expõe uma visão ampla do produto, explicando aspectos gerais de s
 
 No atual contexto do ambiente acadêmico da Universidade de Brasília, constata-se uma crescente necessidade por um sistema que facilite a alocação de espaços por discentes, docentes e demais integrantes do corpo acadêmico – seja para apresentações de Trabalhos de Conclusão de Curso, aulas de monitoria ou tutoria, dentre outros – visto que, hoje, tal procedimento demanda um longo processo e burocracia. 
 
-## 4.2. Sumário de Capacidades
-
-Tabela 1 – Benefícios do Usuário e Recursos de Suporte
+## 4.2. Sumário de Capacidades  
 
 |Benefícios do Usuário|Recursos de Suporte|
 |---------------------|-------------------|
@@ -159,7 +153,8 @@ Como o sistema estará disponível online, o licenciamento se dá a partir da ac
 
 # 7. Requisitos
 ## 7.1. Requisitos Funcionais
-|||
+
+| | |
 |---|---|
 |**Alta** | Requisitos indispensáveis para o funcionamento do sistema |
 |**Intermediária** | Requisitos importantes para o sistema, mas caso não sejam implementados não resultará em um mal funcionamento do sistema |
