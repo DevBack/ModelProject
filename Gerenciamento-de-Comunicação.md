@@ -2,7 +2,7 @@
 
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-------|
-| 24/08/2016| 1.0| Criação da estrutura do plano| Jessica|
+| 24/08/2016| 1.0| Criação da estrutura do plano e preenchimento tópicos 1, 3 e 4| Jessica|
 
 ## 1. Objetivo
 Este documento tem por objetivo planejar a comunicação do projeto SAS, durante o 2/2016 entre os alunos de MDS e GPP. Essa comunicação é extremamente importante para o sucesso do projeto, já que somos um time e precisamos trabalhar juntos!
