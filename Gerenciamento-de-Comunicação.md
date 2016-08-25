@@ -32,8 +32,8 @@ Semanalmente haverá ao menos uma reunião entre os grupos de GPP e MDS durante 
 
 |Participantes|Método|Horário|Dia|
 |---|---|---|---|
-|GPP|Presencial|Presencial|10:00h|Sábado|
-|Todos|Presencial|Presencial|14:00h|Sábado|
+|GPP|Presencial|10:00h|Sábado|
+|Todos|Presencial|14:00h|Sábado|
 
 * Caso alguém não possa participar de uma reunião deve avisar previamente;
 * Reuniões extraordinárias devem ser marcadas previamente.
