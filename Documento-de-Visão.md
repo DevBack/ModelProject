@@ -14,7 +14,7 @@
 |24/08/2016 |1.9 |Atualização dos requisitos |Lucas |
 |24/08/2016 |2.0 |Regras de negócio |Lucas |
 |24/08/2016 |2.1 |Atualização dos requisitos e tipos de dependência |Luis |
-
+|24/08/2016 |2.2 |Especificações Suplementares |Luis |
 
 # 1. Introdução
   
@@ -170,7 +170,7 @@ Como o sistema estará disponível online, o licenciamento se dá a partir da ac
 |RF02|O sistema deve permitir que o usuário faça login.|RF01|Alta|
 |RF03|O sistema deve permitir que o usuário consulte os espaços.|RF02|Alta|
 |RF04|O sistema deve permitir que o usuário reserve espaços.|RF03|Alta|
-|RF05|O sistema deve permitir que o usuário exclua reserva.|RF03|Intermediária|
+|RF05|O sistema deve permitir que o usuário exclua reserva.|RF04|Intermediária|
 |RF06|O sistema deve permitir o Administrador tornar outro usuário Administrador.|RF02|Intermediária|
 |RF07|O sistema deve permitir que o usuário pesquise espaços por disponibilidade.|RF03|Útil|
 |RF08|O sistema deve permitir que o usuário pesquise espaços por horário.|RF03|Útil|
@@ -192,11 +192,8 @@ Como o sistema estará disponível online, o licenciamento se dá a partir da ac
 |RN01|RF05|Corpo Acadêmico somente pode excluir suas próprias reservas.|
 |RN02|RF10|O sistema enviará email quando houver qualquer modificação na reserva ou na solicitação de reserva.|
 
-# 8. Outros Requisitos do Produto
-## 8.1 Requisitos do Sistema
+## 7.3 Especificações Suplementares
 
 * Por ser um sistema web o software necessita de uma conexão estável com a internet para seu funcionamento
-
-## 8.2 Requisitos de Desempenho
 
 * A velocidade da internet tem impacto direto no desempenho da aplicação, sendo necessário uma velocidade suficiente para processar as informações e executar as funcionalidades do sistema
