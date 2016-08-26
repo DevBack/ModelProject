@@ -6,76 +6,204 @@
 |20/08/2016 |1.1 |Visão Geral do Produto |Vítor |
 |20/08/2016 |1.2 |Recursos do Produto |Hugo |
 |20/08/2016 |1.3 |Posicionamento |Luis |
+|20/08/2016 |1.4 |Descrição dos Envolvidos e dos Usuários |Fabíola |
+|20/08/2016 |1.5 |Revisão da Visão Geral do Produto |Vítor |
+|20/08/2016 |1.6 |Restrições |Vítor |
+|20/08/2016 |1.7 |Requisitos funcionais |Fabíola |
+|21/08/2016 |1.8 |Outros Requisitos do Produto e Intervalos de Qualidade |Luis |
+|24/08/2016 |1.9 |Atualização dos requisitos e correções de vocabulário no documento |Fabíola |
+|24/08/2016 |2.0 |Atualização dos requisitos |Lucas |
+|24/08/2016 |2.1 |Regras de negócio |Lucas |
+|24/08/2016 |2.2 |Atualização dos requisitos e tipos de dependência |Luis |
+|24/08/2016 |2.3 |Especificações Suplementares |Luis |
+|25/08/2016 |2.4 |Atualização da Descrição dos Envolvidos e dos Usuários |Fabíola |
+|25/08/2016 |2.5 |Atualização dos Recursos do Produto|Lucas |
+|25/08/2016 |2.6 |Atualização do Ambiente do Usuário e Descrição dos Envolvidos |Hugo |
+|25/08/2016 |2.7 |Atualização da Perspectiva do produto, Posicionamento e exclusão das Suposições e Dependências e Licença e Instalação |Luis |
+|26/08/2016 |2.8 |Atualização de Especificações Suplementares para Requisitos Não-Funcionais, atualização de Regras de Negócio e Restrições, reinclusão e atualização de Suposições e Dependências |Vítor |
 
-# Introdução
+# 1. Introdução
   
-Este documento tem como objetivo definir o escopo, a proposta, os recursos do produto, o problema a ser resolvido, quem terá acesso ao produto, assim como o tipo de acesso. O cliente do sistema realiza a locação de salas de forma manual. O objetivo do projeto é criar um sistema que automatize esse processo, evitando erros, como duas salas locadas para a mesma pessoa no mesmo horário,  tornando-o ágil.
+Este documento, com relação ao desenvolvimento do projeto SAS (Sistema de Alocação de Salas), tem como objetivo definir o escopo, a proposta, os recursos, o problema a ser resolvido, quem terá acesso ao produto e o tipo de acesso. O objetivo do projeto é criar um sistema que automatize o processo de locação de espaços, salas e laboratórios, da Faculdade do Gama (FGA), atualmente manual, para o cliente, de forma que é esperado que tal sistema auxilie evitando erros e agilizando o processo de locação.
 
-# Posicionamento
+# 2. Posicionamento
 
-## Oportunidade de Negócio
+## 2.1. Oportunidade de Negócio
 
-No estado atual, a alocação de salas é feita por cada coordenador da maneira que o mesmo acha mais adequado, através do uso de planilhas excel e planilhas manuais. Desse modo são encontrados vários problemas na reserva de salas, pois para sua alocação cabe a cada coordenador conferir manualmente em sua planilha a disponibilidade da sala em determinado horário.
-Assim o SAS vêm como solução para automatizar esse processo, tornando mais prático a alocação de salas, evitar problemas como, por exemplo, reservar uma mesma sala no mesmo horário para duas atividades diferentes e facilitar o processo para os coordenadores.
+No estado atual, a alocação de espaços é feita por cada coordenador da maneira que o mesmo acha mais adequada, por meio do uso de planilhas. Deste modo, vários problemas na reserva de espaços acabam ocorrendo, pois para sua alocação cabe a cada coordenador conferir manualmente em sua planilha a disponibilidade do espaço em determinado horário.
+Assim, o SAS vem como solução para automatizar esse processo tornando mais prática e ágil a alocação de espaços, evitando problemas como, por exemplo, reservar um mesmo espaço no mesmo horário para duas atividades distintas e facilitando todo o processo para os coordenadores.
 
-## Declaração do Problema
+## 2.2. Declaração do Problema
 
 |||
 |---|---|
-|**O problema de** | Fazer alocação de salas manualmente com o excel |
-|**Afeta** | Administrador e corpo acadêmico |
-|**Cujo impacto é** | Alocação de salas a mais, choques de horários de salas e professores e alunos não podem fazer reservas |
-|**Uma boa solução seria** | Um sistema web para alocação de salas |
+|**O problema de** | Fazer alocação de espaços manualmente com planilhas eletrônicas |
+|**Afeta** | Coordenação e corpo acadêmico |
+|**Cujo impacto é** | Alocação de espaços a mais ou a menos, choques de horários de espaços, professores e alunos sem poder fazer reservas de maneira simples |
+|**Uma boa solução seria** | Um sistema web para alocação de espaços de uso estendido a todos os  interessados|
 
-## Declaração da Posição do Produto
+## 2.3. Declaração da Posição do Produto
 
 |||
 |---|---|
 |**Para**| Docentes, Discentes e demais membros do Corpo Acadêmico da UnB Gama|
-|**Que**| Deseja gerenciar a alocação de salas com rapidez e eficiência|
-|**Sistema de Alocação de  Salas(SAS)**|  É um produto de software|
-|**Que**| Um sistema web para alocação de salas|
-|**Diferente**| Do estado atual que requer que o administrador altere manualmente os horários e quem ocupará as salas|
-|**Nosso produto**| Controla as informações relativas as salas, seus respectivos horários e sua disponibilidade e permite reserva das salas|
+|**Que**| Desejam gerenciar a alocação de espaços com rapidez e eficiência|
+|**Sistema de Alocação de  Salas**|  É um sistema web|
+|**Que**| Automatizará e facilitará a alocação de espaços|
+|**Diferente**| Do Sistema de Alocação de Salas da Universidade Federal de São Carlos|
+|**Nosso produto**| Controla as informações relativas a todos os espaços, sua disponibilidade e permite reservá-las, para qualquer horário|
 
-# Visão Geral do Produto
+# 3. Descrição dos Envolvidos e dos Usuários
+## 3.1. Descrição dos Envolvidos
+|Nome|Descrição|Responsabilidades|Critério de Sucesso|Representantes|
+|----|------|---------|------------|------------|
+|Cliente |Requisitou o sistema |Fornece e valida os requisitos do sistema, avalia o andamento do produto a cada release. | Receber um sistema funcional que responda ao requisitado |Carla Rocha Aguiar|
+|Gerentes |Gerenciam o projeto |Elaboram os planos de projeto, Monitoram o andamento do projeto, Revisam o projeto, Auxiliam a equipe de desenvolvimento |Conseguir gerenciar a equipe de forma a entregar o produto dentro do prazo proposto |Allan Pereira,  Elaine Meirelles, Gustavo Coelho, Jessica Suzuki, Pedro Alcântara|
+|Desenvolvedores |Desenvolvem o sistema |Documentação e programação |Conseguir desenvolver o produto proposto|Fabíola Malta,  Hugo Carvalho, Luis Gustavo, Lucas Oliveira, Vítor Gomes|
+|Coachs |Auxiliam os grupos de gerentes e desenvolvedores |Revisam documentos, fornecem treinamentos |Observar que o produto tenha sido desenvolvido dentro dos critérios propostos pelas matérias|Marcelo Ferreira, Dandara Aranha|
 
-## Perspectiva do Produto
+## 3.2. Descrição dos Usuários
+O sistema possuirá dois tipos de usuários diferentes: Corpo acadêmico e Administrador, como ilustrado na imagem abaixo.
 
-No atual contexto do ambiente acadêmico da Universidade de Brasília, constata-se uma crescente necessidade por um sistema que facilite a alocação de salas por discentes, docentes e demais integrantes do corpo acadêmico – seja para apresentações de Trabalhos de Conclusão de Curso, aulas de monitoria ou tutoria, dentre outros – visto que, hoje, tal procedimento demanda um longo processo e burocracia. 
+**Imagem 1 - Tipos de Usuários**
+![Imagem 1 - Tipos de Usuários](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/imagemUsuarios.png "Imagem 1 - Tipos de Usuários")
 
-## Sumário de Capacidades
 
-Tabela 1 – Benefícios do Usuário e Recursos de Suporte
+|Nome|Descrição|Responsabilidades|Critérios de Sucesso|Representantes|
+|----|------|---------|------------|------------|
+|Administrador|Usuário final do sistema |Reserva espaços,Controla reservas|Conseguir gerenciar reserva de espaços |Coordenadores da Faculdade do Gama (FGA)|
+|Corpo Acadêmico | Usuário final do sistema|Reserva espaços |Conseguir reservar espaços|Professores, estudantes, técnicos administrativos e demais integrantes do Corpo Acadêmico|
+## 3.3. Ambiente do Usuário
+O sistema deve propiciar, através da intenet, acesso simultâneo e a qualquer horário. E realizará comunicações pertinentes ao usuário através de e-mails. Pressupõe-se assim, que o usuário tenha acesso a internet para utilizar da plataforma, sendo necessário que os dispositivos possuam no mínimo um browser para navegação. Com isso, a velocidade de conexão pode interferir na experiência do usuário final.  
+
+## 3.4. Principais necessidades dos usuários ou dos envolvidos
+
+A solução utilizada para alocar espaços na Faculdade do Gama é pouco prática, feita em excel e manualmente. Isso permite a existência de choques de horários em espaços e múltiplos espaços reservados pela mesma pessoa e mesmo horário. Além de ser um processo que demanda tempo e ser muito centralizado.
+
+
+|Necessidade|Solução Atual|Solução Proposta|
+|----|------|---------|
+|Alocar espaços para aulas|Tabela no Excel, gerenciada apenas por uma pessoa.|Utilizar um sistema online no qual é possível fazer essa alocação de forma mais segura e rápida.|
+|Alocar espaços para outras atividades pertinentes à Universidade|Reservas feitas na secretaria e anotadas em papel|Utilizar o sistema para fazer reserva, eliminando a necessidade do intermédio da secretaria.|
+
+
+# 4. Visão Geral do Produto
+
+Esta seção expõe uma visão ampla do produto, explicando aspectos gerais de seus recursos.
+
+## 4.1. Perspectiva do Produto
+
+No atual contexto do ambiente acadêmico da Universidade de Brasília, constata-se uma crescente necessidade por um sistema que facilite a alocação de espaços por discentes, docentes e demais integrantes do corpo acadêmico – seja para apresentações de Trabalhos de Conclusão de Curso, aulas de monitoria ou tutoria, dentre outros – visto que, hoje, tal procedimento demanda um longo processo e burocracia. 
+
+Existem softwares semelhantes ao sistema do nosso projeto, como, por exemplo, o Sistema de Alocação de Salas da Universidade Federal de São Carlos. Ambos tem como objetivo geral, de forma simplificada, automatizar e facilitar a alocação de espaços dentro de sua respectiva universidade. Porém, nosso sistema pretende ser mais abrangente e dará mais autonomia ao corpo acadêmico, visto que permitirá uma melhor visualização dos espaços, abrangerá todos espaços da faculdade, ao contrário do Sistema de Alocação de Salas da Universidade Federal de São Carlos, que serve apenas para salas de informática. E o corpo acadêmico não dependerá da confirmação do administrador para a alocação de um espaço, caso o espaço esteja vago ele será automaticamente reservado, salvo para os laboratórios e o anfiteatro, que dependerão da permissão do administrador.
+
+
+## 4.2. Sumário de Capacidades  
 
 |Benefícios do Usuário|Recursos de Suporte|
 |---------------------|-------------------|
-|Alocação da sala feita mais rapidamente.|O processo de análise do pedido, verificando se a sala no horário requerido está livre, é otimizado.|
-|Não há choque de horários (mais de uma sala reservada para a mesma pessoa no mesmo horário ou uma sala reservada para mais de uma pessoa no mesmo horário).|O sistema analisa se a sala já possui reservas no horário ou se o usuário já possui uma reserva neste horário, impedindo outra reserva.|
+|Alocação de espaço feita mais rapidamente.|O processo de análise do pedido, verificando se o espaço no horário requerido está livre, é otimizado.|
+|Não há choque de horários (mais de um espaço reservado para a mesma pessoa no mesmo horário ou um espaço reservado para mais de uma pessoa no mesmo horário).|O sistema analisa se o espaço já possui reservas no horário ou se o usuário já possui uma reserva neste horário, impedindo outra reserva.|
 
-## Suposições e Dependências
+## 4.3. Suposições e Dependências
 
-O sistema será utilizado pelo usuário através da internet, logo, há custos de hospedagem. Assim, supõe-se que o cliente arcará com estes valores para que o sistema permaneça online.
+* O cliente deverá arcar com todas as despesas relativas à manutenção e disponibilidade do sistema.
 
-# Recursos do Produto
+# 5. Recursos do Produto
+ * **Cadastrar no sistema**  
+      O Usuário pode se cadastrar no sistema para utilizar o serviço.
+ * **Atualizar dados no sistema**  
+      O Usuário pode atualizar seus dados cadastrados.
+ * **Retirar reserva**  
+      O Usuário pode retirar reservas anteriormente efetuadas.
  * **Login no sistema**  
-      Login de usuário utilizando informações vinculadas a UnB.   
- * **Visualizar salas disponíveis**  
-      Os usuários pode navegar entre as tabelas de horários para cada sala.  
- * **Pesquisar salas**    
-      * **Horário**  
-            Ambos usuários podem utilizar o filtro de horário para facilitar sua pesquisa.  
-      * **Sala**  
-            Ambos usuários podem utilizar de filtro de nome da sala para facilitar sua pesquisa.  
-      * **Status de alocação**  
-            Ambos usuários podem utilizar de filtro de status de alocação da sala para facilitar sua pesquisa.  
- * **Reservar salas**  
-      Os usuários podem requisitar um horário em uma sala.  
- * **Cancelar reserva de salas**  
-      O usuário comum pode cancelar seu pedido de reserva das salas anteriormente reservadas.  
+      Login de Usuário utilizando informações vinculadas a UnB.   
+ * **Visualizar espaços disponíveis**  
+      O Usuário pode navegar entre as tabelas de horários para cada espaço.
+ * **Pesquisar espaços**    
+      O Usuário pode pesquisar espaços na Faculdade, utilizando filtros de horário ou de locação disponível, se desejar.
+ * **Reservar espaço**  
+      O Usuário podem requisitar um horário em um espaço.  
  * **Controle de reservas**  
-      O usuário comum pode visualizar suas reservas vigentes.  
+      O Usuário pode visualizar as reservas vigentes.  
  * **Verificar choque de horários**    
-      O administrador pode verificar se uma reserva existe no mesmo horário, na mesma sala por requerentes diferentes.  
+      O Administrador pode verificar se uma reserva existe no mesmo horário, no mesmo espaço por requerentes diferentes.  
  * **Ajustar choques de horário**    
-      O administrador pode editar uma reserva que possua algum tipo de choque.  
+      O Administrador pode deletar uma reserva que possua algum tipo de choque.  
+
+# 6. Restrições
+
+## 6.1 Restrições de implementação
+
+* O sistema deve ser implementado utilização web, na linguagem Python, fazendo uso da framework Django.
+
+## 6.2 Restrições de confiabilidade
+
+* O sistema deve ter cobertura de testes - mínimo de 90%;
+
+# 7. Requisitos
+## 7.1. Requisitos Funcionais
+
+| | |
+|---|---|
+|**Alta** | Requisitos indispensáveis para o funcionamento do sistema |
+|**Intermediária** | Requisitos importantes para o sistema, mas caso não sejam implementados não resultará em um mal funcionamento do sistema |
+|**Útil** | Requisitos que não são usados com tanta frequência e não são tão significativos na satisfação que o usuário tem sobre o sistema |
+
+|Identificador|Requisito|Depende de|Prioridade|
+|---|------|---------|-------|
+|RF01|O sistema deve permitir que usuário efetue cadastro.|---------|Alta|
+|RF02|O sistema deve permitir que o usuário faça login.|RF01|Alta|
+|RF03|O sistema deve permitir que o usuário consulte os espaços.|RF02|Alta|
+|RF04|O sistema deve permitir que o usuário reserve espaços.|RF03|Alta|
+|RF05|O sistema deve permitir que o usuário exclua reserva.|RF04|Intermediária|
+|RF06|O sistema deve permitir o Administrador tornar outro usuário Administrador.|RF02|Intermediária|
+|RF07|O sistema deve permitir que o usuário pesquise espaços por disponibilidade.|RF03|Útil|
+|RF08|O sistema deve permitir que o usuário pesquise espaços por horário.|RF03|Útil|
+|RF09|O sistema deve permitir que o usuário pesquise espaços por nome do espaços.|RF03|Útil|
+|RF10|O sistema deve enviar informações da reserva ao email cadastrado do usuário.|RF01|Útil|
+|RF11|O sistema deve permitir que o usuário atualize seu cadastro.|RF02|Intermediária|
+|RF12|O sistema deve permitir que o usuário delete seu cadastro.|RF02|Intermediária|
+|RF13|O sistema deve permitir que o Administrador delete o cadastro de qualquer usuário.|RF02|Intermediária|
+|RF14|O sistema deve permitir que o Administrador confirme ou negue as solicitações de reserva de espaço.|RF02|Alta|
+|RF15|O sistema deve mostrar um mapa de localização dos espaços.|---------|Alta|
+|RF16|O sistema deve gerar relatório de utilização de determinado espaço por período.|RF03|Útil|
+|RF17|O sistema deve gerar relatório de utilização de espaços por usuário.|RF02|Útil|
+|RF18|O sistema deve permitir que o Administrador delete reserva de qualquer usuário|RF04|Alta|
+
+## 7.2 Regras de Negócio
+
+|Identificador|Requisito Funcional|Restrição|
+|---|------|------|
+|RN01|RF05|Corpo Acadêmico somente pode excluir suas próprias reservas.|
+|RN02|RF10|O sistema enviará email quando houver qualquer modificação na reserva ou na solicitação de reserva.|
+|RN03|RF04|A reserva de Laboratórios e Auditório necessita ser confirmada mediante autorização do Administrador.|
+|RN04|RF04|O periodo máximo de reserva de um espaço está condicionado ao último dia do semestre letivo.|
+|RN05|RF05|Administrador pode excluir qualquer reserva.|
+|RN06|RF05|Corpo acadêmico só consegue excluir sua própria reserva.|
+
+## 7.3 Requisitos Não-Funcionais
+
+### 7.3.1 Arquitetura
+
+* O sistema deve seguir a arquitetura MVC - Model-View-Controller.
+
+### 7.3.2 Usabilidade
+
+* O sistema deve ser responsivo, adaptando-se à plataforma que o usuário estiver utilizando.
+
+* O sistema deve apresentar uma mensagem de confirmação de operação quando o usuário desejar excluir uma reserva.
+
+### 7.3.3 Desempenho
+
+* Por ser um sistema web o software necessita de uma conexão estável com a internet para seu funcionamento.
+
+* A velocidade da internet tem impacto direto no desempenho da aplicação, sendo necessário uma velocidade suficiente para processar as informações e executar as funcionalidades do sistema.
+
+### 7.3.4 Suportabilidade
+
+* O sistema deve ser compatível com a versão 52 do Google Chrome.
+
+
+
+
