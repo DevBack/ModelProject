@@ -21,7 +21,7 @@
 |25/08/2016 |2.6 |Atualização do Ambiente do Usuário e Descrição dos Envolvidos |Hugo |
 |25/08/2016 |2.7 |Atualização da Perspectiva do produto, Posicionamento e exclusão das Suposições e Dependências e Licença e Instalação |Luis |
 |26/08/2016 |2.8 |Atualização de Especificações Suplementares para Requisitos Não-Funcionais, atualização de Regras de Negócio e Restrições, reinclusão e atualização de Suposições e Dependências |Vítor |
-
+|26/08/2016|2.9 |Atualização dos requisitos e das regras de negócio |Lucas|
 # 1. Introdução
   
 Este documento, com relação ao desenvolvimento do projeto SAS (Sistema de Alocação de Salas), tem como objetivo definir o escopo, a proposta, os recursos, o problema a ser resolvido, quem terá acesso ao produto e o tipo de acesso. O objetivo do projeto é criar um sistema que automatize o processo de locação de espaços, salas e laboratórios, da Faculdade do Gama (FGA), atualmente manual, para o cliente, de forma que é esperado que tal sistema auxilie evitando erros e agilizando o processo de locação.
@@ -169,18 +169,16 @@ Existem softwares semelhantes ao sistema do nosso projeto, como, por exemplo, o 
 |RF15|O sistema deve mostrar um mapa de localização dos espaços.|---------|Alta|
 |RF16|O sistema deve gerar relatório de utilização de determinado espaço por período.|RF03|Útil|
 |RF17|O sistema deve gerar relatório de utilização de espaços por usuário.|RF02|Útil|
-|RF18|O sistema deve permitir que o Administrador delete reserva de qualquer usuário|RF04|Alta|
 
 ## 7.2 Regras de Negócio
 
 |Identificador|Requisito Funcional|Restrição|
 |---|------|------|
-|RN01|RF05|Corpo Acadêmico somente pode excluir suas próprias reservas.|
-|RN02|RF10|O sistema enviará email quando houver qualquer modificação na reserva ou na solicitação de reserva.|
-|RN03|RF04|A reserva de Laboratórios e Auditório necessita ser confirmada mediante autorização do Administrador.|
-|RN04|RF04|O periodo máximo de reserva de um espaço está condicionado ao último dia do semestre letivo.|
-|RN05|RF05|Administrador pode excluir qualquer reserva.|
-|RN06|RF05|Corpo acadêmico só consegue excluir sua própria reserva.|
+|RN01|RF04|A reserva de Laboratórios e Auditório necessita ser confirmada mediante autorização do Administrador.|
+|RN02|RF04|O periodo máximo de reserva de um espaço está condicionado ao último dia do semestre letivo.|
+|RN03|RF05|Corpo Acadêmico somente pode excluir suas próprias reservas.|
+|RN04|RF05|Administrador pode excluir qualquer reserva.|
+|RN05|RF10|O sistema enviará email quando houver qualquer modificação na reserva ou na solicitação de reserva.|
 
 ## 7.3 Requisitos Não-Funcionais
 
