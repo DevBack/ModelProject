@@ -156,16 +156,16 @@ Existem softwares semelhantes ao sistema do nosso projeto, como, por exemplo, o 
 |RF02|O sistema deve permitir que o usuário faça login.|RF01|Alta|
 |RF03|O sistema deve permitir que o usuário consulte os espaços.|RF02|Alta|
 |RF04|O sistema deve permitir que o usuário reserve espaços.|RF03|Alta|
-|RF05|O sistema deve permitir que o usuário exclua reserva.|RF04|Intermediária|
+|RF05|O sistema deve permitir que o usuário exclua reserva.|RF04|Intermediária| (carla: so a propria reserva)
 |RF06|O sistema deve permitir o Administrador tornar outro usuário Administrador.|RF02|Intermediária|
 |RF07|O sistema deve permitir que o usuário pesquise espaços por disponibilidade.|RF03|Útil|
 |RF08|O sistema deve permitir que o usuário pesquise espaços por horário.|RF03|Útil|
 |RF09|O sistema deve permitir que o usuário pesquise espaços por nome do espaços.|RF03|Útil|
-|RF10|O sistema deve enviar informações da reserva ao email cadastrado do usuário.|RF01|Útil|
+|RF10|O sistema deve enviar informações da reserva ao email cadastrado do usuário.|RF01|Útil| (carla: e para o adm)
 |RF11|O sistema deve permitir que o usuário atualize seu cadastro.|RF02|Intermediária|
 |RF12|O sistema deve permitir que o usuário delete seu cadastro.|RF02|Intermediária|
 |RF13|O sistema deve permitir que o Administrador delete o cadastro de qualquer usuário.|RF02|Intermediária|
-|RF14|O sistema deve permitir que o Administrador confirme ou negue as solicitações de reserva de espaço.|RF02|Alta|
+|RF14|O sistema deve permitir que o Administrador confirme ou negue as solicitações de reserva de espaço.|RF02|Alta| (carla: so de laboratorios precisa de confirmação--)
 |RF15|O sistema deve mostrar um mapa de localização dos espaços.|---------|Alta|
 |RF16|O sistema deve gerar relatório de utilização de determinado espaço por período.|RF03|Útil|
 |RF17|O sistema deve gerar relatório de utilização de espaços por usuário.|RF02|Útil|
@@ -175,7 +175,7 @@ Existem softwares semelhantes ao sistema do nosso projeto, como, por exemplo, o 
 |Identificador|Requisito Funcional|Restrição|
 |---|------|------|
 |RN01|RF04|A reserva de Laboratórios e Auditório necessita ser confirmada mediante autorização do Administrador.|
-|RN02|RF04|O periodo máximo de reserva de um espaço está condicionado ao último dia do semestre letivo.|
+|RN02|RF04|O período máximo de reserva de um espaço está condicionado ao último dia do semestre letivo.|
 |RN03|RF05|Corpo Acadêmico somente pode excluir suas próprias reservas.|
 |RN04|RF05|Administrador pode excluir qualquer reserva.|
 |RN05|RF10|O sistema enviará email quando houver qualquer modificação na reserva ou na solicitação de reserva.|
