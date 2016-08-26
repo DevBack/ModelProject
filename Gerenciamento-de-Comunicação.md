@@ -3,7 +3,8 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-------|
 | 24/08/2016| 1.0| Criação da estrutura do plano e preenchimento tópicos 1, 3 e 4| Jessica|
-| 25/08/2016| 1.1| Evolução do tópico 3| Pedro Alcântara|
+| 25/08/2016| 1.1| Evolução do tópico 3| Pedro|
+| 25/08/2016| 1.2| Adicionados tópicos 3.4 e 4| Allan|
 
 ## 1. Objetivo
 Este documento tem por objetivo planejar a comunicação do projeto SAS, durante o 2/2016 entre os alunos de MDS e GPP. Essa comunicação é extremamente importante para o sucesso do projeto, já que somos um time e precisamos trabalhar juntos!
@@ -37,3 +38,8 @@ Semanalmente haverá ao menos uma reunião entre os grupos de GPP e MDS durante 
 
 * Caso alguém não possa participar de uma reunião deve avisar previamente;
 * Reuniões extraordinárias devem ser marcadas previamente.
+
+### 3.4. Comunicação com o cliente
+
+## 4. Comunicação Externa
+Esta descreve a comunicação com os interessados no projeto não diretamente envolvidos com sua construção. O canal de comunicação utilizado para tal é a Wiki do projeto, na qual se encontra toda documentação produzida e contato dos integrantes da equipe, caso necessário esclarecimentos.
