@@ -10,7 +10,7 @@ Esta seção apresenta uma visão ampla deste Documento de Arquitetura, apontand
 
 ## 1.1 Objetivo
 
-Este documento expõe a arquitetura do sistema de maneira abrangente, pontuando aspectos deste segundo diferentes visões arquiteturais. Além disso, exprime-se decisões significativas adotadas segundo a arquitetura em relação ao sistema.
+Este documento expõe a arquitetura do Sistema de Alocação de Salas (SAS) de maneira abrangente, pontuando aspectos deste segundo diferentes visões arquiteturais. Além disso, exprime-se decisões significativas adotadas segundo a arquitetura em relação ao sistema.
 
 ## 1.2 Escopo
 
