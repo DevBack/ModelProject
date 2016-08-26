@@ -8,28 +8,30 @@
 |20/08/2016 |1.3 |Posicionamento |Luis |
 |20/08/2016 |1.4 |Descrição dos Envolvidos e dos Usuários |Fabíola |
 |20/08/2016 |1.5 |Revisão da Visão Geral do Produto |Vítor |
-|20/08/2016 |1.6 |Requisitos funcionais |Fabíola |
-|21/08/2016 |1.7 |Outros Requisitos do Produto e Intervalos de Qualidade |Luis |
-|24/08/2016 |1.8 |Atualização dos requisitos e correções de vocabulário no documento |Fabíola |
-|24/08/2016 |1.9 |Atualização dos requisitos |Lucas |
-|24/08/2016 |2.0 |Regras de negócio |Lucas |
-|24/08/2016 |2.1 |Atualização dos requisitos e tipos de dependência |Luis |
-|24/08/2016 |2.2 |Especificações Suplementares |Luis |
-|25/08/2016 |2.3 |Atualização da Descrição dos Envolvidos e dos Usuários |Fabíola |
-|25/08/2016 |2.4 |Atualização dos Recursos do Produto|Lucas |
-|25/08/2016 |2.5 |Atualização do Ambiente do Usuário e Descrição dos Envolvidos |Hugo |
-|25/08/2016 |2.6 |Atualização da Perspectiva do produto, Posicionamento e exclusão das Suposições e Dependências e Licença e Instalação |Luis |
+|20/08/2016 |1.6 |Restrições |Vítor |
+|20/08/2016 |1.7 |Requisitos funcionais |Fabíola |
+|21/08/2016 |1.8 |Outros Requisitos do Produto e Intervalos de Qualidade |Luis |
+|24/08/2016 |1.9 |Atualização dos requisitos e correções de vocabulário no documento |Fabíola |
+|24/08/2016 |2.0 |Atualização dos requisitos |Lucas |
+|24/08/2016 |2.1 |Regras de negócio |Lucas |
+|24/08/2016 |2.2 |Atualização dos requisitos e tipos de dependência |Luis |
+|24/08/2016 |2.3 |Especificações Suplementares |Luis |
+|25/08/2016 |2.4 |Atualização da Descrição dos Envolvidos e dos Usuários |Fabíola |
+|25/08/2016 |2.5 |Atualização dos Recursos do Produto|Lucas |
+|25/08/2016 |2.6 |Atualização do Ambiente do Usuário e Descrição dos Envolvidos |Hugo |
+|25/08/2016 |2.7 |Atualização da Perspectiva do produto, Posicionamento e exclusão das Suposições e Dependências e Licença e Instalação |Luis |
+|26/08/2016 |2.8 |Atualização de Especificações Suplementares para Requisitos Não-Funcionais, atualização de Regras de Negócio e Restrições, reinclusão e atualização de Suposições e Dependências |Vítor |
 
 # 1. Introdução
   
-Este documento, com relação ao desenvolvimento do projeto SAS (Sistema de Alocação de Salas), tem como objetivo definir o escopo, a proposta, os recursos, o problema a ser resolvido, quem terá acesso ao produto e o tipo de acesso. O objetivo do projeto é criar um sistema que automatize o processo de locação de espaços, salas e laboratórios, da Faculdade do Gama(FGA), atualmente manual, para o cliente, de forma que é esperado que tal sistema auxilie evitando erros e agilizando o processo de locação.
+Este documento, com relação ao desenvolvimento do projeto SAS (Sistema de Alocação de Salas), tem como objetivo definir o escopo, a proposta, os recursos, o problema a ser resolvido, quem terá acesso ao produto e o tipo de acesso. O objetivo do projeto é criar um sistema que automatize o processo de locação de espaços, salas e laboratórios, da Faculdade do Gama (FGA), atualmente manual, para o cliente, de forma que é esperado que tal sistema auxilie evitando erros e agilizando o processo de locação.
 
 # 2. Posicionamento
 
 ## 2.1. Oportunidade de Negócio
 
-No estado atual, a alocação de espaços é feita por cada coordenador da maneira que o mesmo acha mais adequada, por meio do uso de planilhas. Deste modo vários problemas na reserva de espaços acabam ocorrendo, pois para sua alocação cabe a cada coordenador conferir manualmente em sua planilha a disponibilidade do espaço em determinado horário.
-Assim, o SAS vêm como solução para automatizar esse processo tornando mais prática e ágil a alocação de espaços, evitando problemas como, por exemplo, reservar um mesmo espaço no mesmo horário para duas atividades distintas e facilitando todo o processo para os coordenadores.
+No estado atual, a alocação de espaços é feita por cada coordenador da maneira que o mesmo acha mais adequada, por meio do uso de planilhas. Deste modo, vários problemas na reserva de espaços acabam ocorrendo, pois para sua alocação cabe a cada coordenador conferir manualmente em sua planilha a disponibilidade do espaço em determinado horário.
+Assim, o SAS vem como solução para automatizar esse processo tornando mais prática e ágil a alocação de espaços, evitando problemas como, por exemplo, reservar um mesmo espaço no mesmo horário para duas atividades distintas e facilitando todo o processo para os coordenadores.
 
 ## 2.2. Declaração do Problema
 
@@ -103,6 +105,10 @@ Existem softwares semelhantes ao sistema do nosso projeto, como, por exemplo, o 
 |Alocação de espaço feita mais rapidamente.|O processo de análise do pedido, verificando se o espaço no horário requerido está livre, é otimizado.|
 |Não há choque de horários (mais de um espaço reservado para a mesma pessoa no mesmo horário ou um espaço reservado para mais de uma pessoa no mesmo horário).|O sistema analisa se o espaço já possui reservas no horário ou se o usuário já possui uma reserva neste horário, impedindo outra reserva.|
 
+## 4.3. Suposições e Dependências
+
+* O cliente deverá arcar com todas as despesas relativas à manutenção e disponibilidade do sistema.
+
 # 5. Recursos do Produto
  * **Cadastrar no sistema**  
       O Usuário pode se cadastrar no sistema para utilizar o serviço.
@@ -125,24 +131,18 @@ Existem softwares semelhantes ao sistema do nosso projeto, como, por exemplo, o 
  * **Ajustar choques de horário**    
       O Administrador pode deletar uma reserva que possua algum tipo de choque.  
 
-## 5.1. Restrições
+# 6. Restrições
 
-### 5.1.1. Restrições de implementação
+## 6.1 Restrições de implementação
 
 * O sistema deve ser implementado utilização web, na linguagem Python, fazendo uso da framework Django.
-* O sistema deve seguir a arquitetura MVC - Model-View-Controller.
 
-### 5.1.2. Restrições do sistema
+## 6.2 Restrições de confiabilidade
 
-* O sistema deve ser compatível com a versão 52.0.2743.116 m do Google Chrome.
-* O sistema deve ser responsivo, adaptando-se à plataforma que o usuário estiver utilizando.
+* O sistema deve ter cobertura de testes - mínimo de 90%;
 
-### 5.1.3. Restrições de confiabilidade
-
-* O sistema deve ter cobertura de erros e exceções - mínimo de 90%;
-
-# 6. Requisitos
-## 6.1. Requisitos Funcionais
+# 7. Requisitos
+## 7.1. Requisitos Funcionais
 
 | | |
 |---|---|
@@ -171,15 +171,39 @@ Existem softwares semelhantes ao sistema do nosso projeto, como, por exemplo, o 
 |RF17|O sistema deve gerar relatório de utilização de espaços por usuário.|RF02|Útil|
 |RF18|O sistema deve permitir que o Administrador delete reserva de qualquer usuário|RF04|Alta|
 
-## 6.2 Regras de Negócio
+## 7.2 Regras de Negócio
 
 |Identificador|Requisito Funcional|Restrição|
 |---|------|------|
 |RN01|RF05|Corpo Acadêmico somente pode excluir suas próprias reservas.|
 |RN02|RF10|O sistema enviará email quando houver qualquer modificação na reserva ou na solicitação de reserva.|
+|RN03|RF04|A reserva de Laboratórios e Auditório necessita ser confirmada mediante autorização do Administrador.|
+|RN04|RF04|O periodo máximo de reserva de um espaço está condicionado ao último dia do semestre letivo.|
+|RN05|RF05|Administrador pode excluir qualquer reserva.|
+|RN06|RF05|Corpo acadêmico só consegue excluir sua própria reserva.|
 
-## 6.3 Especificações Suplementares
+## 7.3 Requisitos Não-Funcionais
 
-* Por ser um sistema web o software necessita de uma conexão estável com a internet para seu funcionamento
+### 7.3.1 Arquitetura
 
-* A velocidade da internet tem impacto direto no desempenho da aplicação, sendo necessário uma velocidade suficiente para processar as informações e executar as funcionalidades do sistema
+* O sistema deve seguir a arquitetura MVC - Model-View-Controller.
+
+### 7.3.2 Usabilidade
+
+* O sistema deve ser responsivo, adaptando-se à plataforma que o usuário estiver utilizando.
+
+* O sistema deve apresentar uma mensagem de confirmação de operação quando o usuário desejar excluir uma reserva.
+
+### 7.3.3 Desempenho
+
+* Por ser um sistema web o software necessita de uma conexão estável com a internet para seu funcionamento.
+
+* A velocidade da internet tem impacto direto no desempenho da aplicação, sendo necessário uma velocidade suficiente para processar as informações e executar as funcionalidades do sistema.
+
+### 7.3.4 Suportabilidade
+
+* O sistema deve ser compatível com a versão 52 do Google Chrome.
+
+
+
+
