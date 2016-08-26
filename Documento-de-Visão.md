@@ -175,7 +175,7 @@ Existem softwares semelhantes ao sistema do nosso projeto, como, por exemplo, o 
 |Identificador|Requisito Funcional|Restrição|
 |---|------|------|
 |RN01|RF04|A reserva de Laboratórios e Auditório necessita ser confirmada mediante autorização do Administrador.|
-|RN02|RF04|O período máximo de reserva de um espaço está condicionado ao último dia do semestre letivo.|
+|RN02|RF04|O período máximo de reserva de um espaço está condicionado ao último dia do semestre letivo.| (carla: como vai ser gerenciada?)
 |RN03|RF05|Corpo Acadêmico somente pode excluir suas próprias reservas.|
 |RN04|RF05|Administrador pode excluir qualquer reserva.|
 |RN05|RF10|O sistema enviará email quando houver qualquer modificação na reserva ou na solicitação de reserva.|
