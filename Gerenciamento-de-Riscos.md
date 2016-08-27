@@ -71,11 +71,17 @@ O controle dos riscos é feito pela equipe de gerenciamento e se dá por meio de
 # 3. Riscos Identificados
 A tabela abaixo apresenta os riscos identificados com suas devidas análises.
 
-|Risco|Descrição|Probabilidade|Impacto|Classificação|Ação|Resposta|
-|-----|---------|-------------|-------|-------------|----|--------|
-|RSC01|Desistência de membros da equipe  |Média  |Alto  |Prioridade alta |Prevenir  |Reorganização das atividades de acordo com o cronograma. Avaliar tamanho do escopo. Trabalhar na motivação da equipe para evitar este risco. |
-|RSC02|Greve na Universidade de Brasília  |  |  | |  |  |
-|RSC03|  |  |  | |  |  |
-|RSC04|  |  |  | |  |  |
-|RSC05|  |  |  | |  |  |
-|RSC06|  |  |  | |  |  |
+|Risco|Descrição|Resposta|
+|-----|---------|--------|
+|RSC01|Desistência de membros da equipe |Reorganização das atividades de acordo com o cronograma. Avaliar tamanho do escopo. Trabalhar na motivação da equipe para evitar este risco. |
+|RSC02|Greve na Universidade de Brasília  |  |
+|RSC03|  |  |
+|RSC04|  |  |
+|RSC05|  |  |
+|RSC06|  |  |
+
+## 3.1. Classificação dos riscos identificados
+
+|Risco|Probabilidade|Impacto|Classificação    |Ação      |
+|-----|-------------|-------|-----------------|----------|
+|RSC01| Média       | Alto  | Prioridade alta |Prevenir  |
