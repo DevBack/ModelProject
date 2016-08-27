@@ -2,11 +2,11 @@
 
 Esse documento tem como finalidade desenvolver as políticas do projeto para controle de gerência e configuracão de software.
 
-Integracão Continua
+## Integracão Continua
 
 A integracão continua será realizada pela ferramenta [Travis] (https://travis-ci.org/). Os testes e a cobertura de código pode ser verificada a cada commit submetido para o repositório no GitHub, assim a uma garantia para o projeto do efeitos de alteracões no código. 
 
-# Política de Branches
+## Política de Branches
                                     R1                             R2
 Master  |----------------------------|----------------------------- |
 
