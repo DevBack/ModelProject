@@ -41,14 +41,16 @@ A tabela abaixo informa a escala de probabilidade estimada empiricamente de acor
 |Muito alta   |	81 a 100%           |
 
 ### 2.2.2 Impacto
-A tabela abaixo informa a designação do impacto segundo a escala [Muito baixo; Baixo; Moderado; Alto; Muito alto] que deverá obedecer classificação com base nos objetivos de Custo, Tempo e Escopo do projeto:
+A tabela abaixo auxilia a realizar a classificação de impacto de um risco segundo a escala [Muito baixo; Baixo; Moderado; Alto; Muito alto] com base nos objetivos de Custo, Tempo e Escopo do projeto:
+
+![Matriz de Impacto e Objetivos do Projeto](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/matriz_impacto_objetivo.PNG) 
 
 ### 2.2.3 Matriz de probabilidade e impacto
 A tabela abaixo é utilizada para classificação dos riscos identificados com o objetivo de facilitar a priorização dos mesmos.
 
 ![Matriz de probabilidade e impacto](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/matriz_probabilidade_impacto.PNG) 
 
-Obs.: Em riscos positivos, grandes impactos são vistos como condições agregadoras de valor ao projeto, logo, na matriz acima, para riscos positivos as prioridades altas e baixas se invertem, tendo assim uma matriz espelhada.
+Obs.: Em riscos positivos, impactos são vistos como condições agregadoras de valor ao projeto, logo, na matriz acima, para riscos positivos as prioridades altas e baixas se invertem, tendo assim uma matriz espelhada.
 
 ## 2.3. Planejamento de ação de resposta ao risco
 As ações potenciais são definidas como:
@@ -71,7 +73,9 @@ A tabela abaixo apresenta os riscos identificados com suas devidas análises.
 
 |Risco|Descrição|Probabilidade|Impacto|Classificação|Ação|Resposta|
 |-----|---------|-------------|-------|-------------|----|--------|
-|RSC01|  |  |  | |  |  |
-|RSC01|  |  |  | |  |  |
-|RSC01|  |  |  | |  |  |
-|RSC01|  |  |  | |  |  |
+|RSC01|Desistência de membros da equipe  |Média  |Alto  |Prioridade alta |Prevenir  |Reorganização das atividades de acordo com o cronograma. Avaliar tamanho do escopo. Trabalhar na motivação da equipe para evitar este risco. |
+|RSC02|Greve na Universidade de Brasília  |  |  | |  |  |
+|RSC03|  |  |  | |  |  |
+|RSC04|  |  |  | |  |  |
+|RSC05|  |  |  | |  |  |
+|RSC06|  |  |  | |  |  |
