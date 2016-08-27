@@ -25,21 +25,42 @@ Gerenciar Solicitações de Mudança |Assegurar que mudanças feitas no projeto 
 
 ## 2.2 Ferramentas
 
-O projeto irá utilizar as seguintes ferramentas e suas versões:
+O projeto irá utilizar as seguintes ferramentas - que compõe o ambiente de desenvolvimento - e suas versões:
 
 |Ferramenta|Versão|Descrição|
 |----------|------|---------|
 |Python    |3.5   | Linguagem de programação utilizada no projeto |
 |Git       |1.9.1 | Sistema de versionamento de código |
 |Django    |1.9.7 | Framework para o desenvolvimento de aplicações web |
+|GitHub    | ---- | Ferramenta paro gerenciamento de documentos|
 
 
 
 ### Integração Continua
 
-A integracão continua será realizada pela ferramenta [Travis] (https://travis-ci.org/). Os testes e a cobertura de código pode ser verificada a cada commit submetido para o repositório no GitHub, assim a uma garantia para o projeto do efeitos de alteracões no código. 
+A integracão continua será realizada pela ferramenta [Travis] (https://travis-ci.org/). Os testes e a cobertura de código pode ser verificada a cada commit submetido para o repositório no GitHub, assim a uma garantia para o projeto do efeitos de alterações no código.
 
-## Política de Branches
+## 2.3 Níveis de controle de configuração 
+
+O projeto irá utilizar três níveis de controle de configuração, sendo eles:
+
+|Nível|Descrição|
+|-----|-------|
+|Controlado|A mudança somente sera feita após a aprovação do grupo de GPP|
+|Monitorada|A mudança somente sera feita apartir de uma política estabelecida para a configuração|
+|Comunicada| A alteração pode ser feita por qualquer membro do grupo mediante a comunicação para os outros integrantes|
+
+## 2.3.1 Definição de nível para as configurações
+
+|Configuração|Nível|
+|------------|-----|
+|Documentos|Comunicada|
+|Código|Monitorada|
+|Ambiente de desenvolvimento|Controlado|
+
+## 2.3.2 Política de Monitoramento de Código
+
+O monitoramento de mudança de código será feito apartir da seguinte política de branches:
                                     R1                             R2
 Master  \----------------------------\----------------------------- \
 
