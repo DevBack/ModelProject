@@ -58,10 +58,11 @@ As ações potenciais são definidas como:
 1. **Aceitar**: O risco acontecerá: a equipe não tem poder sobre o risco e decidir agir somente caso o risco ocorra.
 
 ## 2.4. Controle dos riscos ocorridos
-O controle se dá por meio de:
+O controle dos riscos é feito pela equipe de gerenciamento e se dá por meio de:
 
-1. Acompanhamento dos riscos identificados;
-1. Planejamento das atividades e ações de resposta a riscos ocorridos e não ocorridos;
+1. Acompanhamento dos riscos identificados neste plano de gerenciamento;
+1. Planejamento de atividades e ações de resposta a riscos (ocorridos e não ocorridos);
+1. Consulta ao plano de gerenciamento de risco quando riscos identificados ocorrem, de forma a seguir o procedimento estabelecido;
 1. Avaliação da eficácia do processo de gerenciamento de riscos sob os riscos ocorridos;
 1. Adaptação do processo de gerenciamento de riscos (vulgo este documento), se necessário;
 
@@ -70,4 +71,7 @@ A tabela abaixo apresenta os riscos identificados com suas devidas análises.
 
 |Risco|Descrição|Probabilidade|Impacto|Classificação|Ação|Resposta|
 |-----|---------|-------------|-------|-------------|----|--------|
-| |  |  |  | |  |  |
+|RSC01|  |  |  | |  |  |
+|RSC01|  |  |  | |  |  |
+|RSC01|  |  |  | |  |  |
+|RSC01|  |  |  | |  |  |
