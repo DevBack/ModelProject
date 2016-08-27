@@ -4,6 +4,7 @@
 |----|------|---------|-------|
 |26/08/2016 |1.0 |Introdução |Vítor |
 |26/08/2016 |1.1 | Visão Geral da Visão Lógica |Fabíola |
+|27/08/2016 |1.2 | Visão de Casos de Uso |Hugo |
 
 # 1. Introdução
 
