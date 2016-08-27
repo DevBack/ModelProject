@@ -6,6 +6,7 @@
 |26/08/2016 |1.1 | Visão Geral da Visão Lógica |Fabíola |
 |27/08/2016 |1.2 | Visão de Casos de Uso |Hugo |
 |27/08/2016 |1.3 | Qualidade |Vítor |
+|27/08/2016 |1.4 | Atualizando Visão de Casos de Uso |Hugo |
 
 # 1. Introdução
 
@@ -43,54 +44,7 @@ Este ator administra as reservas de sala e usuários administradores.
 Este ator realiza atividades (consultar, reservar, cancelar) relativas a reservas.
   
 ##4. 2. **Diagrama de casos de uso**  
-![Imagem - Diagrama de Casos de Uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/Casos_de_Uso_v1.jpg)
-
-##4. 3. **Casos de uso**  
-
-###4. 3. 1. **Cadastrar usuário**  
-Nesse caso o usuário informa seus dados pessoais para efetuar o cadastro. Este cadastro que é essencial para casos subsequentes.  
-
-###4. 3. 2. **Login do usuário**  
-Nesse caso o usuário informa os dados de acesso para logar no sistema. Supoẽ-se que o usuário lembre os dados informados no cadastrado.  
-
-###4. 3. 3. **Login inválido**  
-Se o caso 2 falhar por informações incoerentes, o usuário verá na tela mensagem de recusa dos dados e requerirá os dados novamente.  
-
-###4. 3. 4. **Esqueceu a senha**  
-Se com o caso 3 o usuário ainda persistir em problemas este caso deverá coletar dados para efetuar a troca da senha.  
-
-###4. 3. 5. **Consulta de espaços**  
-Nesse caso o usuário consegue visualizar a lista de espaços.  
-
-###4. 3. 6. **Reserva de espaços**  
-Nesse caso o usuário realiza a reserva de qualquer sala, porém apenas requisita um laboratório.
-
-###4. 3. 7. **Excluir reserva de espaços**  
-Nesse caso o ator corpo docente apaga a sua reserva feita do espaço. Sendo que o ator adiministrador tem permissões para excluir quaisquer reservas.  
-
-###4. 3. 8. **Tornar usuário Administrador**  
-Nesse caso o ator admininstrador seleciona um ator corpo docente para se desempenhar papel de administrador.  
-
-###4. 3. 9. **Pesquisa de reservas**  
-Nesse caso o usuário pesquisa espaço utilizando filtros ,sendo eles, disponibilidade,nome,horário dos espaços.  
-
-###4. 3. 10. **Envio de email informativo**  
-Nesse caso o sistema envia e-mail pertinente a conta de usuário.  
-
-###4. 3. 11. **Atualiza cadastro**  
-Nesse caso o usuário atualiza as informações cadastrais que desejar, sendo informado através de email de suas alterações.  
-
-###4. 3. 12. **Deleta cadastro**  
-Nesse caso o usuário deleta sua conta, sendo informado através de email do fim do seu cadastro no sistema.  
-
-###4. 3. 13. **Administrador deleta cadastro**  
-Nesse caso o administrador deleta qualquer conta existente no sistema, gerando automaticamente email informativo de fim de cadastro no sistema da conta deletada.  
-###4. 3. 14. **Administrador gerência reserva**  
-Nesse caso o administrador irá analisar e verificar se aceita ou não pedido de reserva de espaços que feito pelo corpo docente.  
-###4. 3. 15.**Mostrar mapa de espaços**  
-Nesse caso o usuário verá de forma mapeada a disposição dos espaços, sendo possível acessá-los e conferir informações relativas.  
-###4. 3. 16.**Gerar relátorio**  
-Nesse caso é gerado um relátorio de utilização do espaço selecionado de acordo com o período e/ou usuários.  
+![Imagem - Diagrama de Casos de Uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/use_cases_v2.jpg)
 
 # 5. Visão Lógica
 
