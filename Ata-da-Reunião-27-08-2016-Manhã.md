@@ -10,8 +10,8 @@ Editor da ata | Elaine |
 
 GPP   |
 ---------|-----------------|
-Allan Pereira |
-Jessica Suzuki |
+Allan Pereira (Ausente) |
+Jessica Suzuki (Ausente) |
 Pedro Alcântara |
 Elaine Meirelles  |
 Gustavo Coelho |
