@@ -2,16 +2,28 @@
 
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-------|
-|28/08/2016|1.0|Criação da estrutura inicial.|Gustavo|
+|27/08/2016|1.0|Criação da estrutura inicial.|Gustavo,Pedro|
 
 # 1. Introdução
 
-Esse documento tem como finalidade apresentar as políticas do projeto para controle de gerência de configuração e mudança do projeto SAS.
+Esse documento tem como finalidade apresentar as políticas do projeto para controle de gerência de configuração e mudança.
 
 # 2. Gerenciamento de Configuração de Software
 
+## 2.1 Organização, Responsabilidades e Interfaces
 
-## 2.1 Ferramentas
+A definição de uma política de gerência de configuração e mudança é muito importante para evitar problemas de atrasos acarretando aumentos nos custos do projeto. Portanto, as responsibilidades e atividades abaixo foram definidas para o correto andamento do projeto.
+
+|Atividade|Descrição|Responsável|
+|---------|---------|-----------|
+Planejar Configuração do Projeto e Controle de Mudanças|Políticas para gerenciamento de configuração, políticas e processos para controlar mudanças feitas no produto| Equipe de GPP
+Configurar Ambientes para Configuração de Mudança do Projeto|Estabelecer ambiente para criação, manutenção e compartilhamento de repositório de dados|Equipe de GPP
+Alterar e liberar itens de configuração| Criar espaço de trabalho, permitir acesso à artefatos, realizar mudanças nos artefatos e permitir compartilhamento|Equipe de GPP e Equipe de MDS
+Gerenciar baselines e releases	Garantir que o produto de qualidade seja disponibilizado para releases| Equipe de GPP
+Monitorar e Relatar Status de Configuração |Realizar a validação do produto, garantir a visibilidade dos artefatos|Equipe de GPP
+Gerenciar Solicitações de Mudança |Assegurar que mudanças feitas no projeto sejam consistentes, e que essas mudanças sejam informados a todos da equipe| Equipe de GPP e equipe de MDS 
+
+## 2.2 Ferramentas
 
 O projeto irá utilizar as seguintes ferramentas e suas versões:
 
