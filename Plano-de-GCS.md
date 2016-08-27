@@ -4,14 +4,14 @@
 |----|------|---------|-------|
 |28/08/2016|1.0|Criação da estrutura inicial.|Gustavo|
 
-1. Introdução
+# 1. Introdução
 
 Esse documento tem como finalidade apresentar as políticas do projeto para controle de gerência de configuração e mudança do projeto SAS.
 
-2. Gerenciamento de Configuração de Software
+# 2. Gerenciamento de Configuração de Software
 
 
-2.1 Ferramentas
+## 2.1 Ferramentas
 
 O projeto irá utilizar as seguintes ferramentas e suas versões:
 
@@ -23,7 +23,7 @@ O projeto irá utilizar as seguintes ferramentas e suas versões:
 
 
 
-## Integração Continua
+### Integração Continua
 
 A integracão continua será realizada pela ferramenta [Travis] (https://travis-ci.org/). Os testes e a cobertura de código pode ser verificada a cada commit submetido para o repositório no GitHub, assim a uma garantia para o projeto do efeitos de alteracões no código. 
 
