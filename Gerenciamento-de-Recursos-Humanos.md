@@ -2,7 +2,8 @@
 
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-------|
-|25/08/2016|1,0|Criação da estrutura do plano, preenchimento tópicos 1 ao 4|Pedro|
+|25/08/2016|1.0|Criação da estrutura do plano, preenchimento tópicos 1 ao 4|Pedro|
+|27/08/2016|1.1|Adição dos tópicos 5 e 6 do documento|Elaine e Pedro|
 
 ## 1. Objetivo
 Esse documento tem por objetivo estabelecer uma visão a respeito dos recursos humanos que serão utilizados no projeto SAS, seus papeis e responsabilidades no projeto, as necessidades de aquisição de conhecimentos e os valores da equipe.
@@ -32,7 +33,39 @@ Papel|Responsabilidade
 ---|---
 Desenvolvedor|Desenvolver artefatos de projeto; Desenvolver e testar a solução de software.
 Gerente do Projeto|Planejar, monitorar e controlar o desenvolvimento do projeto; Garantir a capacitação da equipe de desenvolvimento; Auxiliar no desenvolvimento do software;
-## 5. Aquisição de Conhecimento
+
+## 5. Controle das Qualificações da Equipe
+
+### 5.1 Necessidades de Aquisição de Conhecimentos
+
+#### 5.1.1 Equipe de Desenvolvimento
+1. Conhecimento da linguagem de programação e do framework.
+2. Conhecimento de ferramenta de controle de versão;
+2. Conhecimento da metodologia utilizada;
+3. Conhecimento de arquitetura do projeto;
+5. Conhecimento de teste de software.
+
+#### 5.1.2 Equipe de Gerência
+1. Conhecimento de gestão de projeto baseado no PMBok;
+2. Conhecimento da linguagem de programação e do framework.
+
+### 5.2 Estratégia de Aquisição de Conhecimento
+
+#### 5.2.1 Equipe de Desenvolvimento
+1. Treinamento de ferramenta de controle de versão;
+2. Treinamento de metodologia;
+3. Treinamento de arquitetura;
+4. Treinamento de linguagem de programação;
+5. Treinamento de teste de software.
+
+#### 5.2.1 Equipe de Gerência
+1. Treinamento de custo do projeto;
+2. Treinamento de tempo do projeto;
 
 ## 6. Valores Cultivados pela Equipe
 
+* Colaboração entre os membros;
+* Valorização do cliente;
+* Respeito interpessoal;
+* Valorização da opinião dos membros;
+* Descontração e relacionamento informal;
