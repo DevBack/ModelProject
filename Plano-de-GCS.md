@@ -16,10 +16,10 @@ A definição de uma política de gerência de configuração e mudança é muit
 
 |Atividade|Descrição|Responsável|
 |---------|---------|-----------|
-Planejar Configuração do Projeto e Controle de Mudanças|Políticas para gerenciamento de configuração, políticas e processos para controlar mudanças feitas no produto| Equipe de GPP
-Configurar Ambientes para Configuração de Mudança do Projeto|Estabelecer ambiente para criação, manutenção e compartilhamento de repositório de dados|Equipe de GPP
+Planejar Configuração do Projeto e Controle de Mudanças|Diretrizes para gerenciamento de configuração, políticas e processos para controlar mudanças| Membros GPP
+Configurar Ambientes do Projeto|Estabelecer ambiente para criação, manutenção e compartilhamento de repositório do projeto|Equipe de GPP
 Alterar e liberar itens de configuração| Criar espaço de trabalho, permitir acesso à artefatos, realizar mudanças nos artefatos e permitir compartilhamento|Equipe de GPP e Equipe de MDS
-Gerenciar baselines e releases	Garantir que o produto de qualidade seja disponibilizado para releases| Equipe de GPP
+Gerenciar baselines e releases|	Garantir que o produto de qualidade seja disponibilizado para releases| Equipe de GPP
 Monitorar e Relatar Status de Configuração |Realizar a validação do produto, garantir a visibilidade dos artefatos|Equipe de GPP
 Gerenciar Solicitações de Mudança |Assegurar que mudanças feitas no projeto sejam consistentes, e que essas mudanças sejam informados a todos da equipe| Equipe de GPP e equipe de MDS 
 
