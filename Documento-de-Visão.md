@@ -21,7 +21,8 @@
 |25/08/2016 |2.6 |Atualização do Ambiente do Usuário e Descrição dos Envolvidos |Hugo |
 |25/08/2016 |2.7 |Atualização da Perspectiva do produto, Posicionamento e exclusão das Suposições e Dependências e Licença e Instalação |Luis |
 |26/08/2016 |2.8 |Atualização de Especificações Suplementares para Requisitos Não-Funcionais, atualização de Regras de Negócio e Restrições, reinclusão e atualização de Suposições e Dependências |Vítor |
-|26/08/2016|2.9 |Atualização dos requisitos e das regras de negócio |Lucas|
+|26/08/2016 |2.9 |Atualização dos requisitos e das regras de negócio |Lucas|
+|27/08/2016 |3.0 |Atualização dos requistos, das regras de negócio e das descrição do usuário |Lucas e Fabíola |
 # 1. Introdução
   
 Este documento, com relação ao desenvolvimento do projeto SAS (Sistema de Alocação de Salas), tem como objetivo definir o escopo, a proposta, os recursos, o problema a ser resolvido, quem terá acesso ao produto e o tipo de acesso. O objetivo do projeto é criar um sistema que automatize o processo de locação de espaços, salas e laboratórios, da Faculdade do Gama (FGA), atualmente manual, para o cliente, de forma que é esperado que tal sistema auxilie evitando erros e agilizando o processo de locação.
@@ -65,7 +66,6 @@ Assim, o SAS vem como solução para automatizar esse processo tornando mais pr�
 ## 3.2. Descrição dos Usuários
 O sistema possuirá dois tipos de usuários diferentes: Corpo acadêmico e Administrador, como ilustrado na imagem abaixo.
 
-**Imagem 1 - Tipos de Usuários**
 ![Imagem 1 - Tipos de Usuários](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/imagemUsuarios.png "Imagem 1 - Tipos de Usuários")
 
 
@@ -152,30 +152,29 @@ Existem softwares semelhantes ao sistema do nosso projeto, como, por exemplo, o 
 
 |Identificador|Requisito|Depende de|Prioridade|
 |---|------|---------|-------|
-|RF01|O sistema deve permitir que usuário efetue cadastro.|---------|Alta|
-|RF02|O sistema deve permitir que o usuário faça login.|RF01|Alta|
-|RF03|O sistema deve permitir que o usuário consulte os espaços.|RF02|Alta|
-|RF04|O sistema deve permitir que o usuário reserve espaços.|RF03|Alta|
-|RF05|O sistema deve permitir que o usuário exclua reserva.|RF04|Intermediária| (carla: so a propria reserva)
-|RF06|O sistema deve permitir o Administrador tornar outro usuário Administrador.|RF02|Intermediária|
-|RF07|O sistema deve permitir que o usuário pesquise espaços por disponibilidade.|RF03|Útil|
-|RF08|O sistema deve permitir que o usuário pesquise espaços por horário.|RF03|Útil|
-|RF09|O sistema deve permitir que o usuário pesquise espaços por nome do espaços.|RF03|Útil|
-|RF10|O sistema deve enviar informações da reserva ao email cadastrado do usuário.|RF01|Útil| (carla: e para o adm)
-|RF11|O sistema deve permitir que o usuário atualize seu cadastro.|RF02|Intermediária|
-|RF12|O sistema deve permitir que o usuário delete seu cadastro.|RF02|Intermediária|
-|RF13|O sistema deve permitir que o Administrador delete o cadastro de qualquer usuário.|RF02|Intermediária|
-|RF14|O sistema deve permitir que o Administrador confirme ou negue as solicitações de reserva de espaço.|RF02|Alta| (carla: so de laboratorios precisa de confirmação--)
-|RF15|O sistema deve mostrar um mapa de localização dos espaços.|---------|Alta|
-|RF16|O sistema deve gerar relatório de utilização de determinado espaço por período.|RF03|Útil|
-|RF17|O sistema deve gerar relatório de utilização de espaços por usuário.|RF02|Útil|
+|RF01|O sistema deve permitir que Usuário efetue cadastro.|---------|Alta|
+|RF02|O sistema deve permitir que o Usuário faça login.|RF01|Alta|
+|RF03|O sistema deve permitir que o Usuário consulte os espaços.|RF02|Alta|
+|RF04|O sistema deve permitir que o Usuário reserve espaços.|RF03|Alta|
+|RF05|O sistema deve permitir que o Usuário exclua reserva.|RF04|Intermediária|
+|RF06|O sistema deve permitir o Administrador tornar outro Usuário Administrador.|RF02|Intermediária|
+|RF07|O sistema deve permitir que o Usuário pesquise espaços por disponibilidade.|RF03|Útil|
+|RF08|O sistema deve permitir que o Usuário pesquise espaços por horário.|RF03|Útil|
+|RF09|O sistema deve permitir que o Usuário pesquise espaços por nome do espaços.|RF03|Útil|
+|RF10|O sistema deve enviar informações da reserva ao email cadastrado do Usuário.|RF01|Útil|
+|RF11|O sistema deve permitir que o Usuário atualize seu cadastro.|RF02|Intermediária|
+|RF12|O sistema deve permitir que o Usuário delete seu cadastro.|RF02|Intermediária|
+|RF13|O sistema deve permitir que o Administrador delete o cadastro de qualquer Usuário.|RF02|Intermediária|
+|RF14|O sistema deve mostrar um mapa de localização dos espaços.|RF02|Alta|
+|RF15|O sistema deve gerar relatório de utilização de determinado espaço por período.|RF03|Útil|
+|RF16|O sistema deve gerar relatório de utilização de espaços por Usuário.|RF02|Útil|
 
 ## 7.2 Regras de Negócio
 
 |Identificador|Requisito Funcional|Restrição|
 |---|------|------|
-|RN01|RF04|A reserva de Laboratórios e Auditório necessita ser confirmada mediante autorização do Administrador.|
-|RN02|RF04|O período máximo de reserva de um espaço está condicionado ao último dia do semestre letivo.| (carla: como vai ser gerenciada?)
+|RN01|RF04|A reserva de Laboratórios necessita ser confirmada mediante autorização do Administrador.|
+|RN02|RF04|O Administrador gerenciará o período de reservas.|
 |RN03|RF05|Corpo Acadêmico somente pode excluir suas próprias reservas.|
 |RN04|RF05|Administrador pode excluir qualquer reserva.|
 |RN05|RF10|O sistema enviará email quando houver qualquer modificação na reserva ou na solicitação de reserva.|
