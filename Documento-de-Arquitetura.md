@@ -2,9 +2,10 @@
 
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-------|
-|26/08/2016 |1.0 |Introdução |Vítor |
+|26/08/2016 |1.0 | Introdução |Vítor |
 |26/08/2016 |1.1 | Visão Geral da Visão Lógica |Fabíola |
 |27/08/2016 |1.2 | Visão de Casos de Uso |Hugo |
+|27/08/2016 |1.3 | Qualidade |Vítor |
 
 # 1. Introdução
 
@@ -21,7 +22,7 @@ O Documento de Arquitetura descreve o sistema, ajudando na compreensão de seu c
 ## 1.3. Definições, Acrônimos e Abreviações
 
 * MVC: Model-View-Controller (Modelo-Visão-Controladora, em inglês) 
-* MTV: Model-Template-View 
+* MTV: Model-Template-View (Modelo-Template-Visão, em inglês)
 
 
 # 2. Representação Arquitetural
@@ -115,3 +116,5 @@ O sistema será desenvolvido em Django, que possui como padrão de desenvolvimen
 # 9. Tamanho e Desempenho
 
 # 10. Qualidade
+
+A arquitetura utilizada no sistema afeta diretamente sua capacidade de manutenção, facilitando-a, já que sua implementação estará devidamente organizada. Além disso, como o MVC é um padrão de arquitetura amplamente utilizado, há efeitos práticos em sua confiabilidade.
