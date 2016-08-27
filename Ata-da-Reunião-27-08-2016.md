@@ -19,8 +19,8 @@ Luis Gustavo |Gustavo Coelho |
 ## Pauta
 
 1. Capacitação a Equipe: 
- *Treinamento de Metodologia
- *Treinamento de Arquitetura MVC e MVT (Django)
+ * Treinamento de Metodologia
+ * Treinamento de Arquitetura MVC e MVT (Django)
 2. Planejamento do projeto: 
  * Documento de Arquitetura - MDS
  * Auxílio a MDS e Revisão de documentação - GPP
