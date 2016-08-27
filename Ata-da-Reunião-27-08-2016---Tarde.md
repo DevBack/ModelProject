@@ -40,9 +40,11 @@ Luis Gustavo |Gustavo Coelho |
 
 ## Decisões
 
-1. MDS continuou a criação do Documento de Arquitetura.
+1. MDS continuou a criação Documento de Arquitetura.
 2. MDS refatorou o Documento de Visão de acordo com feedbacks dados por GPP e pela professora Carla.
 3. Definição de valores cultivados pela equipe.
+4. MDS iniciou o Diagrama de Classes.
+5. GPP iniciou o Plano de Gerência de Configuração de Software.
 
 
 
