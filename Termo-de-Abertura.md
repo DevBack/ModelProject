@@ -11,6 +11,7 @@
 |21/08/2016|1.6|Revisão em todo documento. Alterações nos tópicos: 6, 8, 10 e 11| Allan|
 |22/08/2016|1.7|Revisão ortográfica em todo documento| Elaine|
 |23/08/2016|1.8|Alteração na nomenclatura dos usuários| Jessica|
+|28/08/2016|1.9|Alteração nos custos de mão-de-obra| Gustavo|
 
 ## 1. Introdução
 Este documento formalmente inicia o projeto de construção do Sistema para Alocação de Espaços para a Faculdade UnB Gama. Aqui é especificado o trabalho que este projeto visa realizar, a oportunidade de negócio identificada, o escopo de atuação, os indivíduos direta e indiretamente afetados, características de riscos, restrições e de custos, entregáveis, prazos e as ferramentas utilizadas no processo de desenvolvimento. Tais descrições visam elucidar a viabilidade do projeto.
@@ -59,12 +60,12 @@ A estimativa de custo tem como finalidade apresentar para os integrantes da equi
 Os dados aqui apresentado tem como base o valor hora despendido pela Universidade de Brasília por aluno. A metodologia utilizada foi o valor do custo anual
 pela média de créditos anuais dos alunos do Curso de Engenharia de Software. Um crédito corresponde a 15 horas aula na universidade, assim é possível, converter o valor anual para horas que será subsidio para a estimativa de custos de mão de obra.
 
-|Dados Unb|||
+|Dados Unb|--|--|
 |--|--|--|
-|Custo Anual | Número de Créditos| Horas por crédito| 
-|11.020,00 | 48|15|
-|Total Horas| Valor da Hora||
-|720|15,30||
+|Custo Anual| Número de Créditos| Horas por crédito| 
+|11.020,00|48|15|
+|Total Horas| Valor da Hora|----|
+|720|15,30|---|
 
 
 | Equipe SAS       |                               |         |
