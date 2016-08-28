@@ -3,6 +3,7 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-------|
 |27/08/2016|1.0|Criação da estrutura inicial.|Gustavo,Pedro|
+|28/08/2016|1.1|Adição da imagem de política de branches.|Gustavo|
 
 # 1. Introdução
 
@@ -63,21 +64,9 @@ O projeto irá utilizar três níveis de controle de configuração, sendo eles:
 O monitoramento de mudança de código será feito apartir da seguinte política de branches:
 
 ![Imagem 1 - Política de Branches](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/politicadebranches.png "Imagem 1 - Política de Branches")
-                                    R1                             R2
-Master  \----------------------------\----------------------------- \
-
-Dev        \-------------------------\----------------------------- \
-
-uc1            \----------\      
-
-uc2              \---------------\
-
-uc2_Alan               \-----\
-
-uc2_Hugo           \-----------\
 
 Seguindo o modelo apresentado de baixo para cima: cada desenvolvedor deve ter sua brach caso seja alocado para trabalhar em um caso de uso. Terminado o trabalho, o desenvolvedor deve submeter a branch ao sistema de integracão continúa. Caso todos os testes tenham resultado positivo o desenvolvedor solicita a revisão da branch para um outro desenvolvedor, estando em perfeito estado a branch deve ser mergeda na branch principal do caso de uso. As branches de caso de uso devem ser integradas a branch dev após apresentar resultados posivitos na integracão contínua. Por sua vez a branch dev somente será integrada a master na entegra das releases.
 
-4. Treinamento e Recursos
+# 3. Treinamento e Recursos
 Para utilizar as ferramentas citadas no item 2.2, serão realizados treinamentos e dojos, de acordo com o cronograma do projeto, visando maior produtividade no desenvolvimento do produto.
 
