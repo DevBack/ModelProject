@@ -28,7 +28,7 @@ Este documento formalmente inicia o projeto de construção do Sistema para Aloc
 Atualmente a coordenação da Universidade, mais especificamente da UnB Gama, realiza o controle do uso dos espaços, salas em especial, através de uma planilha eletrônica manualmente confeccionada e mantida. Tal situação demanda alta carga de tempo e esforço para a tarefa de administração do uso dos espaços durante o decorrer do ano, especialmente durante a definição das salas para os cursos do semestre letivo.
 
 ## 5. Escopo
-O escopo do SAS, Sistema de Alocação de Salas, se baseia na funcionalidade principal de exibir um mapa de salas, inicialmente da Universidade de Brasília - Faculdade Gama (FGA), onde alocações de diversas naturezas poderão ser realizadas, sendo elas de disciplinas, através dos coordenadores, e de monitorias, reuniões ou quaisquer outras atividades extra-curriculares, através de alunos, técnicos e funcionários administrativos. Este projeto possui a finalidade de facilitar a reserva dos espaços da instituição, assim como evitar possíveis colisões. Outras funcionalidades abrangem a exibição de porcentagens de lotação através de barras de progresso, além de visualização e impressão de tabelas de horários internos referentes a cada sala.
+O escopo do SAS, Sistema de Alocação de Salas, se baseia na funcionalidade principal de exibir um mapa de salas, inicialmente da Universidade de Brasília - Faculdade Gama (FGA), onde alocações de diversas naturezas poderão ser realizadas, sendo elas de disciplinas, através dos coordenadores, e de monitorias, reuniões ou quaisquer outras atividades extracurriculares, através de alunos, técnicos e funcionários administrativos. Este projeto possui a finalidade de facilitar a reserva dos espaços da instituição, assim como evitar possíveis colisões. Outras funcionalidades abrangem a exibição de porcentagens de lotação através de barras de progresso, além de visualização e impressão de tabelas de horários internos referentes a cada sala.
 
 ## 6. Restrições e Riscos
 #### 6.1 Restrições:
@@ -52,31 +52,33 @@ O escopo do SAS, Sistema de Alocação de Salas, se baseia na funcionalidade pri
 
 ## 7. Estimativa de Custo
 
-A estimativa de custo tem como finalidade apresentar para os integrantes da equipe e para os outros alunos da disciplina o custo envolvido no desenvolvimento de um software real. As estimativas usam dados coletados na internet em sites especializados como Catho, WImovéis, entre outros. Os web sites citados fornecem dados de custo de profissionais e matériais que possibilitam estimar o custo do projeto. 
+A estimativa de custo tem como finalidade apresentar para os integrantes da equipe, para os outros alunos da disciplina, e para os clientes do projeto o valor de dispêndio financeiro provável para o desenvolvimento do projeto. A metodologia utilizada levantou 3 tipos de gastos: mão-de-obra, insumos e aluguel. A mão-de-obra foi estimada de duas maneiras para se aproximar o melhor possível do real. As outras rubricas não utilizaram esse processo, apresentando uma único valor. 
 
-### 7.1 Custo da mão de obra.
+### 7.1 Custo da mão de obra
 
-Os dados aqui apresentados foram retirados do site Catho Empresas e só leva em consideração a média salarial oferecida para o [desenvolvedor júnior Python](http://www.catho.com.br/salario/action/site/area_geral.php?state=salario&id_area_especifica=40&id_area_geral=16&id_cargo=7538) e de [Gerente de Tecnologia da Informação](http://www.catho.com.br/salario/pesquisa-salarial/cargos-salarios/sistemas-informatica-internet/tecnologia-da informacao-ti/gerente-de-tecnologia-da-informacao) oferecida no web site. Portanto, não será considerados custos trabalhistas que devem ser pagos no Brasil.
+Os dados aqui apresentado tem como base o valor hora despendido pela Universidade de Brasília por aluno. A metodologia utilizada foi o valor do custo anual
+pela média de créditos anuais dos alunos do Curso de Engenharia de Software. Um crédito corresponde a 15 horas aula na universidade, assim é possível, converter o valor anual para horas que será subsidio para a estimativa de custos de mão de obra.
 
-| Equipe MDS       |                               |         |
+|Dados Unb|||
+|--|--|--|
+|Custo Anual | Número de Créditos| Horas por crédito| 
+|11.020,00 | 48|15|
+|Total Horas| Valor da Hora||
+|720|15,30||
+
+
+| Equipe SAS       |                               |         |
 |------------------|-------------------------------|---------|
 | Dias trabalhados | Média estimada de hrs diárias | Total   |
 | 109              | 2                             | 218     |
-| Salario Médio    | Hora Média                    | Total   |
-| 2079,62          | 12,99                         | 2833,48 |
-|                  | Total Grupo                   | 11333,92|
+| Número integrantes| Hora Média                    | Total   |
+| 8          | 15,30                         | 3335,4 |
+|                  | Total Grupo                   | 26683,2|
 
-| Equipe GPP       |                               |         |
-|------------------|-------------------------------|---------|
-| Dias trabalhados | Média estimada de hrs diárias | Total   |
-| 109              | 2                             | 218     |
-| Salario Médio    | Hora Média                    | Total   |
-| 8628,52          | 53,92                         | 11756,35|
-|                  | Total Grupo                   | 58359,36|
 
 ### 7.2 Insumos
 
-O desenvolvimento de um projeto de software necessita de equipamentos como computadores e internet para ser executado. Os custos com alguns desses itens foram estimados com a finalidade de se chegar ao custo 'total do projeto. Os itens estimados são: [computadores](http://www.dell.com/br/p/inspiron-15-5558-laptop/pd?oc=cai5558w101712358bbbrp171w&model_id=inspiron-15-5558-laptop) e [internet] (https://assine.vivo.com.br/combos/combos-2-em-1).
+O desenvolvimento de um projeto de software necessita de equipamentos como computadores e internet para ser executado. Os custos com alguns desses itens foram estimados com a finalidade de se chegar ao custo total do projeto. Os itens estimados são: [computadores](http://www.dell.com/br/p/inspiron-15-5558-laptop/pd?oc=cai5558w101712358bbbrp171w&model_id=inspiron-15-5558-laptop) e [internet] (https://assine.vivo.com.br/combos/combos-2-em-1).
  
 | Item       | Qtde/Tempo | Valor   | Total    |
 |------------|------------|---------|----------|
@@ -86,7 +88,7 @@ O desenvolvimento de um projeto de software necessita de equipamentos como compu
 
 ### 7.3 Aluguel
 
-Uma empresa precisaria dispor de um local para o encontro dos seus membros. Uma busca em [web sites de aluguel de imóveis](http://www.wimoveis.com.br/imovel/aluguel-sala-comercial-gama-df-quadra-17-1354260) no Gama-DF possibilitou estimar um valor para o custo de alguel para uma sala comercial, onde os membros poderiam se reunir 
+Uma empresa precisaria dispor de um local para o encontro dos seus membros. Uma busca em [web sites de aluguel de imóveis](http://www.wimoveis.com.br/imovel/aluguel-sala-comercial-gama-df-quadra-17-1354260) no Gama-DF possibilitou estimar um valor para o custo de aluguel para uma sala comercial, onde os membros poderiam se reunir 
 para desenvolver o produto.
 
 | Item       | Tempo(Meses)| Valor   | Total    |
@@ -95,7 +97,7 @@ para desenvolver o produto.
 
 ### 7.4 Custo Total
 
-Os itens estimados possibilitam mostrar que o projeto teria um custo aproximado de R$ 95.882,50. O valor pode ser maior ou menor devido a outras variáveis não consideradas, como encargos trabalhistas, energia elétrica, água, dentre outros. 
+Os itens estimados possibilitam mostrar que o projeto teria um custo aproximado de R$ 66.241,00. O valor pode ser maior ou menor devido a outras variáveis não consideradas, como encargos trabalhistas, energia elétrica, água, dentre outros. 
 
 ## 8. Estratégia de Comunicação
 São realizadas reuniões presenciais semanais aos sábados, às 14h, no espaço da Faculdade UnB Gama. Em adição à comunicação presencial, tem-se:
