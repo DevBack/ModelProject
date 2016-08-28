@@ -61,6 +61,8 @@ O projeto irá utilizar três níveis de controle de configuração, sendo eles:
 ## 2.3.2 Política de Monitoramento de Código
 
 O monitoramento de mudança de código será feito apartir da seguinte política de branches:
+
+![Imagem 1 - Política de Branches](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/politicadebranches.png "Imagem 1 - Política de Branches")
                                     R1                             R2
 Master  \----------------------------\----------------------------- \
 
