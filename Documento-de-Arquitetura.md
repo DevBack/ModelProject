@@ -7,7 +7,7 @@
 |27/08/2016 |1.2 | Visão de Casos de Uso |Hugo |
 |27/08/2016 |1.3 | Qualidade |Vítor |
 |27/08/2016 |1.4 | Atualizando Visão de Casos de Uso |Hugo |
-
+|28/08/2016 |1.5 | Atualizando Visão Lógica|Fabíola |
 # 1. Introdução
 
 Esta seção apresenta uma visão ampla deste Documento de Arquitetura, apontando sua finalidade e abrangência, bem como definições, acrônimos, abreviações utilizadas dentro do mesmo.
@@ -50,25 +50,30 @@ Este ator realiza atividades (consultar, reservar, cancelar) relativas a reserva
 
 ## 5.1. Visão Geral
 
-O sistema será desenvolvido em Django, que possui como padrão de desenvolvimento o MTV(Model-Template-View). Este se enquadra na arquitetura mvc, apresentando de forma análoga a camada template como view e a camada view como a controller.  A imagem abaixo explicita as camadas e como elas se relacionam. Em vermelho estão destacados os nomes da arquitetura MVC.
+O sistema será desenvolvido em Django, que possui como padrão de desenvolvimento o MTV(Model-Template-View). Este se enquadra na arquitetura MVC, de acordo com o "The Django Book". Porém, a arquitetura implementada no django possui algumas singularidades. Abaixo está uma imagem das camadas da arquitetura utilizada no django e como elas se relacionam.
 
 ![Imagem - Visão Geral](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/arquitetura1.png)
 ## 5.2. Pacotes de Design Significativos do Ponto de Vista da Arquitetura
 
-## 5.3. Realizações de Casos de Uso
+Os pacotes de design signficativos são: model, template e view.
+* model: faz interface com o banco de dados, é responsável por leitura, validação e escrita de dados.
+* view: contém a camada lógica do sistema.
+* template: faz interface com o usuário, contém as páginas HTML.
 
-# 6. Visão de Processos
+# 6. Visualização da Implementação
 
-# 7. Visualização da Implementação
+# 7. Visão da Implementação
 
-# 8. Visão da Implementação
+## 7.1. Visão Geral
 
-## 8.1. Visão Geral
+## 7.2. Camadas
 
-## 8.2. Camadas
+# 8. Tamanho e Desempenho
 
-# 9. Tamanho e Desempenho
-
-# 10. Qualidade
+# 9. Qualidade
 
 A arquitetura utilizada no sistema afeta diretamente sua capacidade de manutenção, facilitando-a, já que sua implementação estará devidamente organizada. Além disso, como o MVC é um padrão de arquitetura amplamente utilizado, há efeitos práticos em sua confiabilidade.
+
+# 10. Referências
+
+* [The Django Book](http://www.djangobook.com/en/2.0/). Acesso em 28/08/2016.
