@@ -13,7 +13,6 @@
 * [Gerenciamento de Comunicação](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Comunicação)
 * [Gerenciamento de Custos](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Custos)
 * [Gerenciamento de Escopo](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Escopo)
-* [Gerenciamento de Projeto](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Projeto)
 * [Gerenciamento de Qualidade](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Qualidade)
 * [Gerenciamento de Recursos Humanos](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Recursos-Humanos)
 * [Gerenciamento de Riscos](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Riscos)
