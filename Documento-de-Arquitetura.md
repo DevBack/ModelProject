@@ -9,6 +9,8 @@
 |27/08/2016 |1.4 | Atualizando Visão de Casos de Uso |Hugo |
 |28/08/2016 |1.5 | Atualizando Visão Lógica|Fabíola |
 |30/08/2016 |1.6 | Representação Arquitetural |Lucas |
+|30/08/2016 |1.6 | Atualizado Representação Arquitetural |Lucas |
+
 # 1. Introdução
 
 Esta seção apresenta uma visão ampla deste Documento de Arquitetura, apontando sua finalidade e abrangência, bem como definições, acrônimos, abreviações utilizadas dentro do mesmo.
@@ -29,7 +31,7 @@ O Documento de Arquitetura descreve o sistema, ajudando na compreensão de seu c
 
 # 2. Representação Arquitetural
 
-A arquitetura utilizada será a arquitetura do django que tem como padrão a mvc(figura 1). A camada de modelo(model) é responsável pelas classes de domínio, pela leitura e escrita de dados e pela comunicação com o banco de dados. A camada de visão(View) é responsável pela interface com o usuário, ou seja, é ela que faz a apresentação da aplicação. E a camada de controle(controller) é responsável por trabalhar com as requisições e fazer o controle em si da aplicação.
+A arquitetura utilizada será a arquitetura do django que tem como padrão a MVC. A camada de modelo(Model) é responsável pelas classes de domínio, pela leitura e escrita de dados e pela comunicação com o banco de dados. A camada de visão(View) é responsável pela interface com o usuário, ou seja, é ela que faz a apresentação da aplicação. E a camada de controle(Controller) é responsável por trabalhar com as requisições e fazer o controle em si da aplicação.
 
 # 3. Restrições e Metas Arquiteturais
 
