@@ -4,6 +4,7 @@
 |----|------|---------|-----|
 |25/08/2016 |1.0 |Criação da estrutura inicial e preenchimento de conteúdo dos tópicos 1 a 3 |Allan |
 |31/08/2016 |1.1 |Adição do conteúdo no tópico 3. |Allan |
+|31/08/2016 |1.2 |Adicionando risco |Jessica |
 
 # 1. Introdução
 
@@ -82,6 +83,8 @@ A tabela abaixo apresenta os riscos identificados bem como suas devidas ações 
 |RSC06|Indisponibilidade de infraestrutura para reuniões  |Cumprir o máximo da pauta da reunião no menor tempo possível, dirigir a equipe a cumprir posteriormente as tarefas da pauta impossibilitadas em espaço adequado.|
 |RSC07|Dificuldades com a tecnologia de desenvolvimento  |Realizar capacitação constante da equipe. Acompanhar dificuldades individuais de cada membro. |
 |RSC08|Ferramentas (github, telegram, whatsapp, google drive) utilizadas indisponíveis  | Aguardar retorno das ferramentas. Caso ferramenta seja extinguida, migrar para ferramenta semelhante. |
+|RSC09|Incompatibilidade de horários para reuniões |Manter pelo menos um dia e horário fixo para reuniões semanais. |
+|RSC10|Dificuldade de se reunir com o cliente |Agendar com antecedência encontros com o cliente. |
 
 ## 3.1. Classificação dos riscos identificados
 A tabela abaixo descreve a classificação dos riscos identificados descritos anteriormente.
@@ -96,3 +99,5 @@ A tabela abaixo descreve a classificação dos riscos identificados descritos an
 |RSC06| Baixa       | Baixo    | Prioridade baixa    |Aceitar   |
 |RSC07| Média       | Alto     | Prioridade alta     |Prevenir  |
 |RSC08| Muito baixa | Alto     | Prioridade baixa    |Aceitar   |
+|RSC09| Alta | Alto | Prioridade alta |Mitigar|
+|RSC10| Média | Alto | Prioridade alta |Mitigar |
