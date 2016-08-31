@@ -11,7 +11,7 @@
 |30/08/2016 |1.6 | Representação Arquitetural |Lucas |
 |30/08/2016 |1.6 | Atualizado Representação Arquitetural |Lucas |
 |30/08/2016 |1.7 | Restrições e Metas Arquiteturais |Luis |
-
+|30/08/2016 |1.7 | Inclusão das Prioridades de caso de uso |Fabíola e Lucas |
 # 1. Introdução
 
 Esta seção apresenta uma visão ampla deste Documento de Arquitetura, apontando sua finalidade e abrangência, bem como definições, acrônimos, abreviações utilizadas dentro do mesmo.
@@ -52,19 +52,36 @@ A arquitetura utilizada será a arquitetura do django que tem como padrão a MVC
 
 # 4. Visão de Casos de Uso
 
-##4. 1.  **Atores**  
+## 4. 1.  **Atores**  
 
-###4. 1. 1. **Usuários**  
+### 4. 1. 1. **Usuários**  
 Usuário em geral do sistema.  
 
-###4. 1. 2. **Administrador**  
+### 4. 1. 2. **Administrador**  
 Este ator administra as reservas de sala e usuários administradores.   
 
-###4. 1. 3. **Corpo Docente**  
+### 4. 1. 3. **Corpo Docente**  
 Este ator realiza atividades (consultar, reservar, cancelar) relativas a reservas.
   
-##4. 2. **Diagrama de casos de uso**  
+## 4. 2. **Diagrama de casos de uso**  
 ![Imagem - Diagrama de Casos de Uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/use_cases_v2.jpg)
+
+## 4.3. Prioridade dos casos de uso
+Os casos de uso possuem três tipos de prioridades, são elas:
+
+* Essenciais: São aqueles que são indispensáveis para o sistema. 
+* Importantes: São recursos necessários para o cliente mas o sistema pode funcionar sem eles.
+* Desejáveis: Sem estes recursos o sistema já atende as necessidades do cliente, podem ser adicionados posteriormente.
+
+|Identificador|Caso de Uso|Prioridade|
+|----|------|---------|
+|UC01 |Manter usuário | Essencial |
+|UC02 |Fazer login | Essencial |
+|UC03 |Consultar espaços |Essencial |
+|UC04 |Manter reserva | Essencial |
+|UC05 |Manter administrador | Importante |
+|UC06 |Aprovar reserva | Importante|
+|UC07 |Excluir usuários | Desejável |
 
 # 5. Visão Lógica
 
