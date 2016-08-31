@@ -80,7 +80,7 @@ Os pacotes de design signficativos são: model, template e view.
 * view: contém a camada lógica do sistema.
 * template: faz interface com o usuário, contém as páginas HTML.
 
-# 6. Visualização da Implementação
+# 6. Visualização da Implantação
 
 # 7. Visão da Implementação
 
@@ -88,12 +88,10 @@ Os pacotes de design signficativos são: model, template e view.
 
 ## 7.2. Camadas
 
-# 8. Tamanho e Desempenho
-
-# 9. Qualidade
+# 8. Qualidade
 
 A arquitetura utilizada no sistema afeta diretamente sua capacidade de manutenção, facilitando-a, já que sua implementação estará devidamente organizada. Além disso, como o MVC é um padrão de arquitetura amplamente utilizado, há efeitos práticos em sua confiabilidade.
 
-# 10. Referências
+# 9. Referências
 
 * [The Django Book](http://www.djangobook.com/en/2.0/). Acesso em 28/08/2016.
