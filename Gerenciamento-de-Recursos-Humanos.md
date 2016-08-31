@@ -11,7 +11,7 @@ Esse documento tem por objetivo estabelecer uma visão a respeito dos recursos h
 ## 2. Origem dos Recursos
 A equipe do projeto SAS é composta por dez graduandos em Engenharia de Software pela Universidade de Brasília. Sendo desses dez, cinco alunos da disciplina de Gestão de Portifólio e Projeto de Software (GPP) e os outos conco alunos da disciplina de Métodos de Desenvolvimento de Software (MDS).
 
-## 3. Integrantes e Papeis
+## 3. Integrantes e Papéis
 A seguinte tabela lista os membros da equipe do SAS e seus respectivos papeis.
 
 Membro|Usuário git|Disciplina|Papel
