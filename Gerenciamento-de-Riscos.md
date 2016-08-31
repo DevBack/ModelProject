@@ -94,5 +94,5 @@ A tabela abaixo descreve a classificação dos riscos identificados descritos an
 |RSC04| Baixa       | Alto     | Prioridade moderada |Mitigar   |
 |RSC05| Baixa       | Alto     | Prioridade moderada |Prevenir  |
 |RSC06| Baixa       | Baixo    | Prioridade baixa    |Aceitar   |
-|RSC07| | |  ||
+|RSC07| Média       | Alto     | Prioridade alta     |Prevenir  |
 |RSC08| Muito baixa | Alto     | Prioridade baixa    |Aceitar   |
