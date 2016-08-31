@@ -15,5 +15,7 @@ O projeto SAS conta com uma equipe de 8 pessoas. O grupo não é homogênio send
 
 Os trabalhos do projeto serão mensurados em horas, portanto, o custo foi estimado levando-se em consideracão o valor da hora de um estudante de engenharia de software. Esse valor/hora foi estimado, apenas, pelo custo da Universidade de Brasília com o aluno durante um ano; valores gastos por familiares ou pelo próprio aluno foram desconsiderados do cálculo devido a sua dificuldade de mensuração.
 
-A instituição de ensino divulga, em seus relatório gerenciais, o custo anual por aluno. No ano de 2015 o valor auferido foi R$ 11.300,00 (onze mil e trezentos reais). Um aluno de engeharia de software deve cursar 240 créditos para concluir sua graduação, ou seja, uma média de 48 créditos por ano.  
+A instituição de ensino divulga, em seus relatório gerenciais, o custo anual por aluno. No ano de 2015 o valor auferido foi R$ 11.300,00 (onze mil e trezentos reais). Um aluno de engeharia de software deve cursar 240 créditos para concluir sua graduação, ou seja, uma média de 48 créditos por ano.  Valendo o crédito na universidade o equivalente a 15 horas aulas pode-se constatar ume média de 720 horas de ensino por ano para cada aluno. O valor/hora dos alunos, então, pode ser estimado dividindo-se o total gasta pela universidade pelo número de horas, o que equivale a R$ 15,30(quinze reais e trinta centavos). 
+
+O preambulo acima juntamente com a estimativa de tempo para cada iteração permite fazermos uma estimativa de gastos detalhadas para os recursos humanos como é apresentado na figura abaixo:
 
