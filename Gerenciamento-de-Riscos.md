@@ -3,6 +3,7 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-----|
 |25/08/2016 |1.0 |Criação da estrutura inicial e preenchimento de conteúdo dos tópicos 1 a 3 |Allan |
+|31/08/2016 |1.1 |Adição do conteúdo no tópico 3. |Allan |
 
 # 1. Introdução
 
