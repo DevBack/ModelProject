@@ -2,4 +2,18 @@
 
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-------|
-| | | | |
+|31/08/2016| 1.0|Esrutura Inical |Gustavo |
+
+#Introdução
+O plano a seguir apresenta as estimativas de despêndio e estratégias de monitoramento ao longo do projeto. Os custos foram estimados para refletir da melhor maneira possível o andamento de uma aplicação real. O documento irá apresentar as estimativas de custo, as estratégias de monitoramento e ações para mitigar eventuais adversidades. 
+
+# Estimativas de custo
+
+# Recursos Humanos
+
+O projeto SAS conta com uma equipe de 8 pessoas. O grupo não é homogênio sendo composto por 4 alunos da disciplina de GPP e outras 4 da disciplina de MDS. Porém, os custos foram estimados de forma equânime por se tratarem todos de alunos do curso de engenharia de software da Universidade de Brasília. 
+
+Os trabalhos do projeto serão mensurados em horas, portanto, o custo foi estimado levando-se em consideracão o valor da hora de um estudante de engenharia de software. Esse valor/hora foi estimado, apenas, pelo custo da Universidade de Brasília com o aluno durante um ano; valores gastos por familiares ou pelo próprio aluno foram desconsiderados do cálculo devido a sua dificuldade de mensuração.
+
+A instituição de ensino divulga, em seus relatório gerenciais, o custo anual por aluno. No ano de 2015 o valor auferido foi R$ 11.300,00 (onze mil e trezentos reais). Um aluno de engeharia de software deve cursar 240 créditos para concluir sua graduação, ou seja, uma média de 48 créditos por ano.  
+
