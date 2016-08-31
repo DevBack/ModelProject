@@ -78,8 +78,8 @@ Os casos de uso possuem três tipos de prioridades, são elas:
 |----|------|---------|
 |UC01 |Manter usuário | Essencial |
 |UC02 |Fazer login | Essencial |
-|UC03 |Consultar espaços |Essencial |
-|UC04 |Manter reserva | Essencial |
+|UC03 |Manter reserva |Essencial |
+|UC04 |Consultar espaços | Essencial |
 |UC05 |Manter administrador | Importante |
 |UC06 |Aprovar reserva | Importante|
 |UC07 |Excluir usuários | Desejável |
