@@ -74,18 +74,24 @@ A tabela abaixo apresenta os riscos identificados bem como suas devidas ações 
 |Risco|Descrição|Resposta|
 |-----|---------|--------|
 |RSC01|Desistência de membros da equipe |Reorganização das atividades de acordo com o cronograma. Avaliar tamanho do escopo para equipe/tempo. Trabalhar na motivação da equipe para evitar este risco. |
-|RSC02|Greve na Universidade de Brasília  |  |
-|RSC03|Alterações de escopo |  |
-|RSC04|Quebra ou furto de equipamentos da equipe |  |
-|RSC05|Erros na implementação de requisitos  |  |
-|RSC06|Indisponibilidade de infraestrutura para reuniões  |  |
-|RSC06|Dificuldades com a tecnologia de desenvolvimento  |  |
-|RSC06|Ferramentas (github, telegram, whatsapp, google drive) utilizadas indisponíveis  |  |
+|RSC02|Greve na Universidade de Brasília  |Verificar se a disciplina e projeto serão congelados ou não para decidir sobre cronograma e atividades durante o período de greve |
+|RSC03|Alterações de escopo |Replanejar cronograma, custo, duração de atividades e divisão de tarefas, planejar compensação de tempo. Revisar documentos de desenvolvimento de acordo com o impacto da alteração de escopo.|
+|RSC04|Quebra ou furto de equipamentos da equipe |Procurar solução de substituição do equipamento. Acompanhar cronograma, duração de atividades e divisão das tarefas para analisar impacto no andamento do projeto.|
+|RSC05|Erros na implementação de requisitos  |Sempre validar requisitos corretamente com cliente. Manter visão homogênea dos requisitos com a equipe. Caso risco ocorra, calcular impacto de custo e tempo, reorganizar cronograma, duração de atividades, divisão de tarefas e compensação de tempo. Revisar e corrigir documentos. |
+|RSC06|Indisponibilidade de infraestrutura para reuniões  |Cumprir o máximo da pauta da reunião no menor tempo possível, dirigir a equipe a cumprir posteriormente as tarefas da pauta impossibilitadas em espaço adequado.|
+|RSC07|Dificuldades com a tecnologia de desenvolvimento  |Realizar capacitação constante da equipe. Acompanhar dificuldades individuais de cada membro. |
+|RSC08|Ferramentas (github, telegram, whatsapp, google drive) utilizadas indisponíveis  | Aguardar retorno das ferramentas. Caso ferramenta seja extinguida, migrar para ferramenta semelhante. |
 
 ## 3.1. Classificação dos riscos identificados
 A tabela abaixo descreve a classificação dos riscos identificados descritos anteriormente.
 
-|Risco|Probabilidade|Impacto|Classificação    |Ação      |
-|-----|-------------|-------|-----------------|----------|
-|RSC01| Média       | Alto  | Prioridade alta |Prevenir  |
-|RSC02| Média       | Alto  | Prioridade alta |Aceitar   |
+|Risco|Probabilidade|Impacto   |Classificação        |Ação      |
+|-----|-------------|----------|---------------------|----------|
+|RSC01| Média       | Alto     | Prioridade alta     |Prevenir  |
+|RSC02| Muito baixa | Alto     | Prioridade baixa    |Aceitar   |
+|RSC03| Média       | Moderado | Prioridade moderada |Mitigar   |
+|RSC04| Baixa       | Alto     | Prioridade moderada |Mitigar   |
+|RSC05| Baixa       | Alto     | Prioridade moderada |Prevenir  |
+|RSC06| Baixa       | Baixo    | Prioridade baixa    |Aceitar   |
+|RSC07| | |  ||
+|RSC08| Muito baixa | Alto     | Prioridade baixa    |Aceitar   |
