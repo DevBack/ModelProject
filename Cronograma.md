@@ -84,7 +84,9 @@ Esta página tem por objetivo detalhar o cronograma do projeto SAS, onde até o 
 ##Release 2
 ###Construção
 **Iteração 4**
+
 **Iteração 5**
+
 **Iteração 6**
 
 ###Transição
