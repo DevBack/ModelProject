@@ -15,6 +15,8 @@
 |31/08/2016 |1.8 | Inclusão do Diagrama de Classe |Luis |
 |31/08/2016 |1.9 | Atualizando Visão de Casos de Uso |Hugo |
 |31/08/2016 |2.0 | Visualização da Implantação |Hugo |
+|31/08/2016|2.1 | Atualizando a Visão Lógica |Fabíola |
+
 # 1. Introdução
 
 Esta seção apresenta uma visão ampla deste Documento de Arquitetura, apontando sua finalidade e abrangência, bem como definições, acrônimos, abreviações utilizadas dentro do mesmo.
@@ -95,12 +97,18 @@ Os casos de uso possuem três tipos de prioridades, são elas:
 O sistema será desenvolvido em Django, que possui como padrão de desenvolvimento o MTV. Este se enquadra na arquitetura MVC, de acordo com o "The Django Book". Porém, a arquitetura implementada no Django possui algumas singularidades. Abaixo está uma imagem das camadas da arquitetura utilizada no django e como elas se relacionam.
 
 ![Imagem - Visão Geral](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/arquitetura1.png)
-## 5.2. Pacotes de Design Significativos do Ponto de Vista da Arquitetura
 
-Os pacotes de design signficativos são: model, template e view.
+Na arquitetura MVC, a camada de controle é responsável por receber e processar requisições, além de controlar que modelos e visões serão utilizadas. A visão interage com o usuário e os modelos são responsável pelas classes de domínio e faz interface com o banco de dados, alem de ler e escrever dados. 
+Na arquitetura MTV utilizada em Django, a camada de modelos não se preocupa com o banco de dados, pois ele é trabalhado na própria framework, a camada de visão é uma camada lógica, porém as requisições são tratadas também pelo próprio Django e a interface com o usuário é feita pela template.
+Assim, nota-se que existem adaptações do Django em relação a arquitetura MVC, mas a comunicação entre as camadas e as suas diversas características e funções ainda enquadram o MTV como uma arquitetura MVC.  
+## 5.2. Pacotes de Design Significativos do Ponto de Vista da Arquitetura
+![Diagrama de Pacotes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/DiagramaPacote.png)
+
+Os pacotes de design signficativos são: models, templates, views e tests. Ao utilizar o Django, por padrão, se criam apps(aplicações), e em cada uma destas é gerada uma pasta que contém os quatro arquivos. 
 * model: faz interface com o banco de dados, é responsável por leitura, validação e escrita de dados.
 * view: contém a camada lógica do sistema.
 * template: faz interface com o usuário, contém as páginas HTML.
+* tests: contém os testes que serão feitos no sistema.
 
 # 6. Visualização da Implantação
 Tendo em vista que esta é uma aplicação voltada para um sistema de alocações na web se faz necessário, primeiramente, que o usuário possua um navegador conectado a internet. Com isso, a criação e a conexão com servidor remoto que processará as requisições deve estar ativa. Esse servidor também realizará comunicação com o banco de dados definido previamente.  
