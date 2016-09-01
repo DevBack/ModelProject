@@ -179,6 +179,8 @@ Existem softwares semelhantes ao sistema do nosso projeto, como, por exemplo, o 
 |RN04|RF05|Administrador pode excluir qualquer reserva.|
 |RN05|RF10|O sistema enviará email quando houver qualquer modificação na reserva ou na solicitação de reserva.|
 |RN06|RF05|O sistema deve apresentar uma mensagem de confirmação de operação quando o usuário desejar excluir uma reserva.|
+|RN07|RF11|Administrador pode atualizar o cadastro de qualquer usuário.|
+
 ## 7.3 Requisitos Não-Funcionais
 
 ### 7.3.1 Arquitetura
