@@ -14,7 +14,7 @@ Esta página tem por objetivo detalhar o cronograma do projeto SAS, onde até o 
 |Nome |Duração |Data|Responsável |
 |-----|--------|----|------------|
 |Definir equipe de GP|0.5h|08/08/2016|GPP|
-|Definir equipe de desenvolvimento|1h|09/09/2016|MDS|
+|Definir equipe de desenvolvimento|0.5h|09/09/2016|MDS|
 |Definir equipe do projeto|1h|10/08/2016|Todos|
 |Definir comunicação|0.5|10/08/2016|Todos|
 |Tutoriais de Python|3h|11/08/2016|MDS|
