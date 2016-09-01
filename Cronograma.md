@@ -65,22 +65,18 @@ Esta página tem por objetivo detalhar o cronograma do projeto SAS, onde até o 
 
 |Nome |Duração |Data|Responsável |
 |-----|--------|----|------------|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|Especificar UC02 e UC03|2h|05/09/2016||
+|Monitorar tempo|1h|06/09/2016||
+|Especificar caso de teste do UC02 e UC03|2h|07/09/2016||
+|Revisar documentação|1h|08/09/2016||
+|Monitorar risco|1h|09/09/2016||
+|Implementar UC02|5h|09/09/2016||
+|Treinamento de teste de aceitação|1h|10/09/2016||
+|Treinamento de integração contínua|1h|10/09/2016||
+|Implementar teste de UC02|2h|12/09/2016||
+|Monitorar custo|1h|13/09/2016||
+|Implementar caso de uso 03|5h|14/09/2016||
+|Monitorar comunicação|0.5h|14/09/2016||
+|Implementar teste de UC03|2h|16/09/2016||
+|Monitorar qualidade (flake 8)|1h|16/09/2016||
+|Monitorar recursos humanos|0.5h|19/09/2016||
