@@ -4,7 +4,7 @@
 
 ##Gerenciamento do Projeto
 * [Atas](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Atas)
-* [Cronograma](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Cronograma)
+* [Plano de Iteração](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Cronograma)
 * [Termo de Abertura](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Termo-de-Abertura)
 * [EAP](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/EAP)
 
@@ -18,7 +18,6 @@
 * [Gerenciamento de Riscos](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Riscos)
 * [Gerenciamento de Configuração de Software](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Plano-de-GCS)
 * [Gerenciamento de Qualidade](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Qualidade)
-* [Gerenciamento de Configuração e Mudança](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Plano-de-GCS)
 
 ##Desenvolvimento do Software
 * [Documento de Visão](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Documento-de-Visão)
