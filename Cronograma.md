@@ -12,7 +12,7 @@ Esta página tem por objetivo detalhar o cronograma do projeto SAS, onde até o 
 **Iteração 1**
 
 |Nome |Duração |Data|Responsável |
-|-----|--------|------------|---------|------------|
+|-----|--------|----|------------|
 |Definir equipe de GP|0.5h|08/08/2016|GPP|
 |Definir equipe de desenvolvimento|1h|09/09/2016|MDS|
 |Definir equipe do projeto|1h|10/08/2016|Todos|
@@ -32,23 +32,55 @@ Esta página tem por objetivo detalhar o cronograma do projeto SAS, onde até o 
 |Treinamento de metodologia|1h|20/08/2016|Todos|
 |Elaborar Documento de Visão|7h|22/08/2016|MDS|
 
+###Elaboração
+**Iteração 2**
 
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
+|Nome |Duração |Data|Responsável |
+|-----|--------|----|------------|
+|Tutoriais Python||||
+|Planejar comunicação||||
+|Planejar riscos||||
+|Planejar recursos humanos||||
+|Planejar configuração de software||||
+|Modelar diagrama de casos de uso||||
+|Validar requisitos com o cliente||||
+|Treinamento de arquitetura||||
+|Replanejar EAP e cronograma||||
+|Planejar escopo||||
+|Planejar tempo||||
+|Priorizar casos de uso||||
+|Modelar diagrama de classe||||
+|Planejar custos||||
+|Planejar a arquitetura||||
+|Configurar ambiente de produção||||
+|Planejar qualidade||||
+|Especificar UC01||||
+|Especificar caso de teste UC01||||
+|Revisar documentação do projeto||||
+|Implementar UC01||||
+|Teste UC01||||
+
+###Construção
+**Iteração 3**
+
+|Nome |Duração |Data|Responsável |
+|-----|--------|----|------------|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
