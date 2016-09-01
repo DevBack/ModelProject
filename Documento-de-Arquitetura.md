@@ -35,7 +35,7 @@ O Documento de Arquitetura descreve o sistema, ajudando na compreensão de seu c
 
 # 2. Representação Arquitetural
 
-A arquitetura utilizada será a arquitetura do django que tem como padrão a MVC. A camada de modelo(Model) é responsável pelas classes de domínio, pela leitura e escrita de dados e pela comunicação com o banco de dados. A camada de visão(View) é responsável pela interface com o usuário, ou seja, é ela que faz a apresentação da aplicação. E a camada de controle(Controller) é responsável por trabalhar com as requisições e fazer o controle em si da aplicação.
+A arquitetura utilizada será a arquitetura do Django que tem como padrão a MVC. A camada de modelo (Model) é responsável pelas classes de domínio, pela leitura e escrita de dados e pela comunicação com o banco de dados. A camada de visão (View) é responsável pela interface com o usuário, ou seja, é ela que faz a apresentação da aplicação. E a camada de controle (Controller) é responsável por trabalhar com as requisições e fazer o controle em si da aplicação.
 
 # 3. Restrições e Metas Arquiteturais
 
@@ -46,10 +46,10 @@ A arquitetura utilizada será a arquitetura do django que tem como padrão a MVC
 * O sistema deve ser simples e intuitivo. Deve possibilitar que novos usuários aprendam a usá-lo sem necessitar de ajuda
 
 ## Ferramentas de Desenvolvimento
-* A linguagem utilizada para o desenvolvimento do sistema será o Python(versão 3.4.3) e o framework Django(versão 1.8.5)
+* A linguagem utilizada para o desenvolvimento do sistema será o Python (versão 3.4.3) e o framework Django (versão 1.8.5)
 
 ## Por que usar o Django no projeto
-* Django é um framework gratuito, de código aberto e usado para criação de aplicações web. Ele utiliza o padrão MVT(Model-Template-View), que se enquadra na arquitetura MVC, possibilitando o desenvolvimento em camadas, que facilita tanto o desenvolvimento quanto a manutenção do sistema. Além disso, ele oferece vários componentes, que são essenciais para a criação de uma aplicação web, completamente prontos, como upload de arquivos e autenticação do usuário, e também facilita a integração e comunicação com o banco de dados e com o servidor
+* Django é um framework gratuito, de código aberto e usado para criação de aplicações web. Ele utiliza o padrão MVT (Model-Template-View), que se enquadra na arquitetura MVC, possibilitando o desenvolvimento em camadas, que facilita tanto o desenvolvimento quanto a manutenção do sistema. Além disso, ele oferece vários componentes, que são essenciais para a criação de uma aplicação web, completamente prontos, como upload de arquivos e autenticação do usuário, e também facilita a integração e comunicação com o banco de dados e com o servidor
 
 ## Design
 
@@ -92,7 +92,7 @@ Os casos de uso possuem três tipos de prioridades, são elas:
 
 ## 5.1. Visão Geral
 
-O sistema será desenvolvido em Django, que possui como padrão de desenvolvimento o MTV. Este se enquadra na arquitetura MVC, de acordo com o "The Django Book". Porém, a arquitetura implementada no django possui algumas singularidades. Abaixo está uma imagem das camadas da arquitetura utilizada no django e como elas se relacionam.
+O sistema será desenvolvido em Django, que possui como padrão de desenvolvimento o MTV. Este se enquadra na arquitetura MVC, de acordo com o "The Django Book". Porém, a arquitetura implementada no Django possui algumas singularidades. Abaixo está uma imagem das camadas da arquitetura utilizada no django e como elas se relacionam.
 
 ![Imagem - Visão Geral](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/arquitetura1.png)
 ## 5.2. Pacotes de Design Significativos do Ponto de Vista da Arquitetura
