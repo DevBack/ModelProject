@@ -13,7 +13,8 @@
 |30/08/2016 |1.7 | Restrições e Metas Arquiteturais |Luis |
 |30/08/2016 |1.7 | Inclusão das Prioridades de caso de uso |Fabíola e Lucas |
 |31/08/2016 |1.8 | Inclusão do Diagrama de Classe |Luis |
-|31/08/2016 |1.9 | Atualizando Visão dos Casos de Uso |Hugo |
+|31/08/2016 |1.9 | Atualizando Visão de Casos de Uso |Hugo |
+|31/08/2016 |2.0 | Visualização da Implantação |Hugo |
 # 1. Introdução
 
 Esta seção apresenta uma visão ampla deste Documento de Arquitetura, apontando sua finalidade e abrangência, bem como definições, acrônimos, abreviações utilizadas dentro do mesmo.
@@ -67,7 +68,7 @@ Este ator realiza atividades (consultar, reservar, cancelar) relativas a reserva
   
 ## 4. 2. **Diagrama de casos de uso**  
 ![Imagem - Diagrama de Casos de Uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/casos_de_uso.jpg)  
-        * = Neste caso não é necessário estar logado.  
+        * Neste caso não é necessário estar logado.  
 ## 4.3. Prioridade dos casos de uso
 Os casos de uso possuem três tipos de prioridades, são elas:
 
@@ -100,8 +101,9 @@ Os pacotes de design signficativos são: model, template e view.
 * template: faz interface com o usuário, contém as páginas HTML.
 
 # 6. Visualização da Implantação
+Tendo em vista que esta é uma aplicação voltada para um sistema de alocações na web se faz necessário, primeiramente, que o usuário possua um navegador conectado a internet. Com isso, a criação e a conexão com servidor remoto que processará as requisições deve estar ativa. Esse servidor também realizará comunicação com o banco de dados definido previamente.  
 
-# 7. Visão da Implementação
+# 7. Visão da Implementação  
 
 ## 7.1. Visão Geral
 ![Imagem - Visão Geral](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/Diagrama_de_classe.png)
