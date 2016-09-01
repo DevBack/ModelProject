@@ -67,8 +67,8 @@ Este ator administra as reservas de sala e usuários administradores.
 Este ator realiza atividades (consultar, reservar, cancelar) relativas a reservas.
   
 ## 4. 2. **Diagrama de casos de uso**  
-![Imagem - Diagrama de Casos de Uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/casos_de_uso.jpg)  
-        * Neste caso não é necessário estar logado.  
+![Imagem - Diagrama de Casos de Uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/CasoUso.png)  
+
 ## 4.3. Prioridade dos casos de uso
 Os casos de uso possuem três tipos de prioridades, são elas:
 
