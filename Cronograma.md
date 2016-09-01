@@ -75,7 +75,7 @@ Esta página tem por objetivo detalhar o cronograma do projeto SAS, onde até o 
 |Treinamento de integração contínua|1h|10/09/2016|Todos|
 |Implementar teste de UC02|2h|12/09/2016|Todos|
 |Monitorar custo|1h|13/09/2016|GPP|
-|Implementar caso de uso UC03|5h|14/09/2016|Todos|
+|Implementar UC03|5h|14/09/2016|Todos|
 |Monitorar comunicação|0.5h|14/09/2016|GPP|
 |Implementar teste de UC03|2h|16/09/2016|Todos|
 |Monitorar qualidade (flake 8)|1h|16/09/2016|GPP|
