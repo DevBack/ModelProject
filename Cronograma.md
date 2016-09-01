@@ -80,3 +80,11 @@ Esta página tem por objetivo detalhar o cronograma do projeto SAS, onde até o 
 |Implementar teste de UC03|2h|16/09/2016|Todos|
 |Monitorar qualidade (flake 8)|0.5h|16/09/2016|GPP|
 |Monitorar recursos humanos|0.5h|19/09/2016|GPP|
+
+##Release 2
+###Construção
+**Iteração 4**
+**Iteração 5**
+**Iteração 6**
+
+###Transição
