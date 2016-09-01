@@ -13,6 +13,7 @@
 |30/08/2016 |1.7 | Restrições e Metas Arquiteturais |Luis |
 |30/08/2016 |1.7 | Inclusão das Prioridades de caso de uso |Fabíola e Lucas |
 |31/08/2016 |1.8 | Inclusão do Diagrama de Classe |Luis |
+|31/08/2016 |1.9 | Atualizando Visão dos Casos de Uso |Hugo |
 # 1. Introdução
 
 Esta seção apresenta uma visão ampla deste Documento de Arquitetura, apontando sua finalidade e abrangência, bem como definições, acrônimos, abreviações utilizadas dentro do mesmo.
@@ -61,12 +62,12 @@ Usuário em geral do sistema.
 ### 4. 1. 2. **Administrador**  
 Este ator administra as reservas de sala e usuários administradores.   
 
-### 4. 1. 3. **Corpo Docente**  
+### 4. 1. 3. **Corpo Acadêmico**  
 Este ator realiza atividades (consultar, reservar, cancelar) relativas a reservas.
   
 ## 4. 2. **Diagrama de casos de uso**  
-![Imagem - Diagrama de Casos de Uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/use_cases_v2.jpg)
-
+![Imagem - Diagrama de Casos de Uso](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/casos_de_uso.jpg)  
+        * = Neste caso não é necessário estar logado.  
 ## 4.3. Prioridade dos casos de uso
 Os casos de uso possuem três tipos de prioridades, são elas:
 
@@ -82,7 +83,7 @@ Os casos de uso possuem três tipos de prioridades, são elas:
 |UC04 |Consultar espaços | Essencial |
 |UC05 |Manter administrador | Importante |
 |UC06 |Aprovar reserva | Importante|
-|UC07 |Excluir usuários | Desejável |
+|UC07 |Administrar usuários | Desejável |
 
 # 5. Visão Lógica
 
