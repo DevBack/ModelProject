@@ -4,13 +4,14 @@
 |----|------|---------|-------|
 |31/08/2016 |1.0 |Especificação dos Casos de Teste |Lucas |
 |01/09/2016 |1.1 |Complementando Especificação dos Casos de Teste |Hugo |
+|02/09/2016 |1.2 |Caso de Teste Editar Usuário |Vítor|
 
-#1.Introdução
+#1. Introdução
 
-#2.Especificação dos Casos de Teste
+#2. Especificação dos Casos de Teste
 Nesta seção serão descritas as condições necessárias para a realização dos teste, assim como os resultados esperados.
-##2.1.Manter Usuário
-###2.1.1.Cadastrar Usuário
+##2.1. Manter Usuário
+###2.1.1. Cadastrar Usuário
 Testes referentes ao cadastro de usuários:
 * **Campos preenchidos corretamente**  
     Descrição: neste caso todos os campos são preenchidos corretamente.  
@@ -89,4 +90,67 @@ Descrição: usuário não confirmou sua senha.
     Pós-condição: mensagens de erro informando que as senhas não correspondem e que o usuário não foi cadastrado.  
     Dados necessários: senha.  
 
+### 2.1.2 Editar usuário
 
+Testes referentes à edição de um usuário:
+
+
+* **Alterar nome**  
+    Descrição: Este caso de teste tem como objetivo alterar o nome do usuário cadastrado no sistema.  
+    Pré-condição: O usuário deve estar logado no sistema.  
+    Pós-condição: O sistema deve mostrar uma mensagem de sucesso informando que o nome foi alterado com sucesso.   
+    Dados necessários: Nome.  
+
+* **Campo ‘nome’ vazio**  
+    Descrição: Este caso de teste tem como objetivo garantir que o usuário não possua um nome vazio.  
+    Pré-condições: O usuário deve estar logado no sistema e tentar atualizar seu cadastro com o campo ‘nome’ em branco.   
+    Pós-condições: O sistema deve mostrar uma mensagem de erro informando que o campo ‘nome’ deve ser preenchido.   
+    Dados requeridos: Não há.       
+  
+* **Campo ‘nome’ inválido**  
+    Descrição: Este caso de teste tem como objetivo garantir que o usuário não possua um nome com caracteres especiais e/ou números.  
+    Pré-condições: O usuário deve estar logado no sistema e tentar atualizar seu cadastro com o campo ‘nome’ preenchido com caracteres especiais e/ou números.  
+    Pós-condições: O sistema deve mostrar uma mensagem de erro informando que o campo ‘nome’ possui caracteres inválido.  
+    Dados requeridos: Não há.  
+  
+* **Alterar e-mail**  
+    Descrição: Este caso de teste tem como objetivo alterar o e-mail do usuário cadastrado no sistema.  
+    Pré-condições: O usuário deve estar logado no sistema.  
+    Pós-condições: O sistema deve mostrar uma mensagem de sucesso informando que o e-mail foi alterado com sucesso.
+    Dados requeridos: E-mail.  
+  
+* **Campo ‘e-mail’ vazio**  
+    Descrição: Este caso de teste tem como objetivo garantir que o usuário não possua um e-mail vazio.  
+    Pré-condições: O usuário deve estar logado no sistema e tentar atualizar seu cadastro com o campo ‘e-mail’ em branco.  
+    Pós-condições: O sistema deve mostrar uma mensagem de erro informando que o campo ‘e-mail’ deve ser preenchido.  
+    Dados requeridos: E-mail.  
+  
+* **Campo ‘e-mail’ inválido**  
+    Descrição: Este caso de teste tem como objetivo garantir que o usuário não possua um e-mail inválido.  
+    Pré-condições: O usuário deve estar logado no sistema e tentar atualizar seu cadastro com o campo ‘e-mail’ inválido.  
+    Pós-condições: O sistema deve mostrar uma mensagem de erro informando que o campo ‘e-mail’ deve ser preenchido corretamente.  
+    Dados requeridos: E-mail.  
+  
+* **E-mail informado já consta no banco de dados**  
+    Descrição: Este caso de teste tem como objetivo garantir que dois usuários não possuam o mesmo e-mail.  
+    Pré-condições: O usuário deve estar logado no sistema e tentar atualizar seu cadastro informando um e-mail que já consta no banco de dados.  
+    Pós-condições: O sistema deve mostrar uma mensagem de erro informando que já existe um usuário cadastrado com aquele e-mail.  
+    Dados requeridos: E-mail.  
+  
+* **Alterar senha**  
+    Descrição: Este caso de teste tem como objetivo alterar a senha do usuário cadastrado no sistema.  
+    Pré-condições: O usuário deve estar logado no sistema.  
+    Pós-condições: O sistema deve mostrar uma mensagem de sucesso informando que a senha foi alterada com sucesso.  
+    Dados requeridos: Senha atual, nova senha e confirmação da nova senha.  
+  
+* **Senha atual incorreta**  
+    Descrição: Este caso de teste tem como objetivo impedir a alteração da senha usuário.  
+    Pré-condições: O usuário deve estar logado no sistema.  
+    Pós-condições: O sistema deve mostrar uma mensagem de sucesso informando que a senha foi alterada com sucesso.  
+    Dados requeridos: Senha.  
+  
+* **Campo ‘senha’ vazio**  
+    Descrição: Este caso de teste tem como objetivo garantir que o usuário não possua uma senha vazia.  
+    Pré-condições: O usuário deve estar logado no sistema e tentar atualizar seu cadastro com o campo ‘senha’ em branco.  
+    Pós-condições: O sistema deve mostrar uma mensagem de erro informando que o campo ‘senha’ deve ser preenchido.  
+    Dados requeridos: Não há.  
