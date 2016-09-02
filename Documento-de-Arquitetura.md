@@ -17,6 +17,7 @@
 |31/08/2016 |2.0 | Visualização da Implantação |Hugo |
 |01/09/2016|2.1 | Atualizando a Visão Lógica |Fabíola |
 |01/09/2016|2.2 | Atualizando a Visão de Casos de Uso |Fabíola |
+|02/09/2016|2.3 | Atualizando Restrições e Metas Arquiteturais |Luis |
 
 
 # 1. Introdução
@@ -50,12 +51,10 @@ A arquitetura utilizada será a arquitetura do Django que tem como padrão a MVC
 * O sistema deve ser simples e intuitivo. Deve possibilitar que novos usuários aprendam a usá-lo sem necessitar de ajuda
 
 ## Ferramentas de Desenvolvimento
-* A linguagem utilizada para o desenvolvimento do sistema será o Python (versão 3.4.3) e o framework Django (versão 1.8.5)
+* A linguagem utilizada para o desenvolvimento do sistema será o Python (versão 3.4.3) e o framework Django (versão 1.10)
 
-## Por que usar o Django no projeto
-* Django é um framework gratuito, de código aberto e usado para criação de aplicações web. Ele utiliza o padrão MVT (Model-Template-View), que se enquadra na arquitetura MVC, possibilitando o desenvolvimento em camadas, que facilita tanto o desenvolvimento quanto a manutenção do sistema. Além disso, ele oferece vários componentes, que são essenciais para a criação de uma aplicação web, completamente prontos, como upload de arquivos e autenticação do usuário, e também facilita a integração e comunicação com o banco de dados e com o servidor
-
-## Design
+## Confiabilidade
+* Para garantir a qualidade e que o sistema foi suficientemente testado, o sistema deve ter uma cobertura de testes, mínimo de 90%
 
 # 4. Visão de Casos de Uso
 
@@ -119,8 +118,6 @@ Tendo em vista que esta é uma aplicação voltada para um sistema de alocaçõe
 
 ## 7.1. Visão Geral
 ![Imagem - Visão Geral](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/Diagrama_de_classe.png)
-
-## 7.2. Camadas
 
 # 8. Qualidade
 
