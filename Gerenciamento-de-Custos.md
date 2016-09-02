@@ -4,12 +4,12 @@
 |----|------|---------|-------|
 |31/08/2016| 1.0|Esrutura Inical |Gustavo |
 
-#Introdução
+# 1.Introdução
 O plano a seguir apresenta as estimativas de despêndio e estratégias de monitoramento ao longo do projeto. Os custos foram estimados para refletir da melhor maneira possível o andamento de uma aplicação real. O documento irá apresentar as estimativas de custo, as estratégias de monitoramento e ações para mitigar eventuais adversidades. 
 
-# Estimativas de custo
+# 2. Estimativas de custo
 
-# Recursos Humanos
+## 2.1 Recursos Humanos
 
 O projeto SAS conta com uma equipe de 8 pessoas. O grupo não é homogênio sendo composto por 4 alunos da disciplina de GPP e outras 4 da disciplina de MDS. Porém, os custos foram estimados de forma equânime por se tratarem todos de alunos do curso de engenharia de software da Universidade de Brasília. 
 
@@ -19,3 +19,11 @@ A instituição de ensino divulga, em seus relatório gerenciais, o custo anual 
 
 O preambulo acima juntamente com a estimativa de tempo para cada iteração permite fazermos uma estimativa de gastos detalhadas para os recursos humanos como é apresentado na figura abaixo:
 
+## 2.2 Insumos
+
+# 3. Monitoramento
+
+O monitoramento dos cusos serão feitos através do registro das horas utilizadas para o desenvolvimento das atividades por cada integrante do grupo. Uma vez realizado esse levantamento poderá ser encontrado o custo real do projeto. 
+
+Outro item a ser monitorado é o andamento de cada tarefa. Para cada uma delas será descrito em termos de porcentagem o quanto foi completado. Com
+# 4. Estratégias de controle
