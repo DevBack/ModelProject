@@ -90,7 +90,7 @@ Os casos de uso possuem três tipos de prioridades, são elas:
 |UC06 |Consultar espaços | Essencial |
 |UC07 |Gerenciar administradores | Importante |
 |UC08 |Aprovar reserva | Importante|
-|UC09 |Visualizar Relatório | Desejável |
+|UC09 |Gerar Relatório | Desejável |
 
 # 5. Visão Lógica
 
