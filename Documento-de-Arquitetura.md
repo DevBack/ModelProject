@@ -15,8 +15,8 @@
 |31/08/2016 |1.8 | Inclusão do Diagrama de Classe |Luis |
 |31/08/2016 |1.9 | Atualizando Visão de Casos de Uso |Hugo |
 |31/08/2016 |2.0 | Visualização da Implantação |Hugo |
-|31/08/2016|2.1 | Atualizando a Visão Lógica |Fabíola |
-|31/08/2016|2.2 | Atualizando a Visão de Casos de Uso |Fabíola |
+|01/09/2016|2.1 | Atualizando a Visão Lógica |Fabíola |
+|01/09/2016|2.2 | Atualizando a Visão de Casos de Uso |Fabíola |
 
 
 # 1. Introdução
