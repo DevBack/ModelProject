@@ -16,6 +16,8 @@
 |31/08/2016 |1.9 | Atualizando Visão de Casos de Uso |Hugo |
 |31/08/2016 |2.0 | Visualização da Implantação |Hugo |
 |31/08/2016|2.1 | Atualizando a Visão Lógica |Fabíola |
+|31/08/2016|2.2 | Atualizando a Visão de Casos de Uso |Fabíola |
+
 
 # 1. Introdução
 
@@ -59,11 +61,11 @@ A arquitetura utilizada será a arquitetura do Django que tem como padrão a MVC
 
 ## 4. 1.  **Atores**  
 
-### 4. 1. 1. **Usuários**  
-Usuário em geral do sistema.  
+### 4. 1. 1. **Visitante**  
+Este ator é um usuário do sistema que não realizou login ou não possui cadastro que pode consultar reservas e visualizar relatórios.  
 
 ### 4. 1. 2. **Administrador**  
-Este ator administra as reservas de sala e usuários administradores.   
+Este ator administra as reservas de sala, o corpo acadêmico e administradores.   
 
 ### 4. 1. 3. **Corpo Acadêmico**  
 Este ator realiza atividades (consultar, reservar, cancelar) relativas a reservas.
