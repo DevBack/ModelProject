@@ -3,6 +3,7 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-------|
 |01/09/2016 |1.0 |Criando Cadastrar Usuário e Alterar Usuário |Fabíola |
+|02/09/2016 |1.1 |Criando Excluir Usuário e Ver Usuário |Luis |
 
 #1. Manter Usuário - UC01
 
@@ -112,3 +113,106 @@ Para o administrador alterar o cadastro de um outro usuário.
 ###1.2.8. Fluxo de Exceção
 
 O usuário não preencheu os dados corretamente, retorna para [FP02] sinalizando qual campo não foi preenchido de forma correta.
+
+O administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
+
+
+
+
+##1.3. Excluir Usuário
+
+###1.3.1. Descrição
+Permite que sejam excluídos cadastros de usuários do sistema.
+
+
+###1.3.2. Atores
+
+Corpo acadêmico: exclui apenas seu próprio cadastro.
+Administrador: pode excluir seu cadastro ou de qualquer outro usuário.
+
+
+###1.3.3. Pré condição
+O usuário deve ter acessado e estar logado.
+
+###1.3.4. Pós condição
+
+Exclusão do cadastro do usuário do sistema.
+
+###1.3.5. Regras de Negócio
+RN10 Para excluir a conta o usuário deve clicar no botão “Confirmar” na caixa de diálogo de confirmação de exclusão que aparecerá.
+
+###1.3.6. Fluxo Principal
+
+[FP01] O usuário clica em “Perfil”.
+
+[FP02] O usuário é encaminhado para a página de perfil.
+
+[FP03] O usuário clica na opção “Excluir Cadastro”.
+
+[FP04] O usuário confirma a opção de excluir cadastro, conforme a RN03.
+
+[FP05] O sistema exclui os dados do banco.
+
+[FP06] O sistema encaminha o usuário para página inicial e retorna mensagem de sucesso de exclusão.
+
+###1.3.7. Fluxo Alternativo
+Para o administrador excluir o cadastro de outro usuário.
+
+[FA01] O administrador pesquisa um usuário.
+
+[FA02] O administrador seleciona um usuário.
+
+[FA03] O administrador clica em “Excluir Usuário”.
+
+[FA04] O administrador é encaminhado para o [FP02] do “Excluir Usuário”.
+
+###1.3.8. Fluxo de Exceção
+
+O usuário clicou em “Cancelar” na caixa de diálogo de confirmação para excluir conta, retorna para [FP02].
+
+O administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
+
+
+##1.4. Ver Usuário
+
+###1.4.1. Descrição
+Permite que sejam visualizados os dados de cadastro de usuários do sistema.
+
+
+###1.4.2. Atores
+
+Corpo acadêmico: visualiza apenas seus dados cadastrais.
+Administrador: pode visualizar seus dados cadastrais ou de qualquer outro usuário.
+
+
+###1.4.3. Pré condição
+O usuário deve ter acessado e estar logado.
+
+###1.4.4. Pós condição
+
+Visualização dos dados cadastrais do usuário do sistema.
+
+###1.4.5. Fluxo Principal
+
+[FP01] O usuário clica em “Perfil”.
+
+[FP02] O usuário é encaminhado para a página de perfil.
+
+[FP03] O usuário visualiza seus dados cadastrais.
+
+[FP04] O usuário clica na opção de voltar à página inicial.
+
+[FP05] O sistema encaminha o usuário para página inicial.
+
+###1.4.6. Fluxo Alternativo
+Para o administrador excluir o cadastro de outro usuário.
+
+[FA01] O administrador pesquisa um usuário.
+
+[FA02] O administrador seleciona um usuário.
+
+[FA03] O administrador é encaminhado para o [FP02] do “Ver Usuário”.
+
+###1.4.7. Fluxo de Exceção
+
+O administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
