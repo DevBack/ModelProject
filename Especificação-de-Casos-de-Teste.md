@@ -6,6 +6,7 @@
 |01/09/2016 |1.1 |Complementando Especificação dos Casos de Teste |Hugo |
 |02/09/2016 |1.2 |Caso de Teste Editar Usuário |Vítor |
 |02/09/2016 |1.3 |Atualização Caso de Teste Editar Usuário |Vítor |
+|02/09/2016 |1.4 |Atualização Caso de Teste Manter Usuário |Lucas |
 
 #1. Introdução
 
@@ -155,3 +156,41 @@ Testes referentes à edição de um usuário:
     Pré-condições: O usuário deve estar logado no sistema e tentar atualizar seu cadastro com o campo ‘senha’ em branco.  
     Pós-condições: O sistema deve mostrar uma mensagem de erro informando que o campo ‘senha’ deve ser preenchido.  
     Dados requeridos: Senha.  
+
+###2.1.3. Excluir usuário  
+Testes referentes à exclusão de usuário:  
+
+* **Usuário deseja exluir sua conta**  
+	Descrição: usuário deseja excluir sua conta.  
+	Pré-condição: usuário fez login, e selecionou o botão excluir conta.  
+	Pós-condição: mensagem de confirmação de exclusão de conta.  
+
+* **Usuário confirmou a exclusão de sua conta**  
+	Descrição: usuário excluiu sua conta.  
+	Pré-condição: usuário fez login, selecionou o botão excluir conta e confirmou a exclusão.  
+	Pós-condição: mensagem de sucesso de exclusão e usuário não está no banco de dados.  
+
+* **Usuário não confirmou a exclusão de sua conta**  
+	Descrição: usuário selecionou o botão excluir conta e não confirmou a exclusão.  
+	Pré-condição: usuário fez login, selecionou o botão excluir conta e não confirmou a exclusão.  
+	Pós-condição: o usuário ainda consta no banco de dados.  
+
+###2.1.4. Pesquisar Usuário  
+Testes referentes à pesquisa de usuários:
+
+* **Usuário pesquisou um nome que possui no banco de dados**  
+	Descrição: usuário preencheu o campo de pesquisa corretamente e o nome consta no banco de dados.  
+	Pré-condição: usuário fez login, preencheu o campo de pesquisa corretamente e selecionou o botão pesquisar.  
+	Pós-condição: todos os nomes pesquisados listados.  
+	Dado: nome a ser pesquisado ou parte do nome.  
+
+* **Usuário não preencheu o campo de pesquisa corretamente**  
+	Descrição: usuário digitou um caracter inválido no campo de pesquisa.  
+	Pré-condição: usuário fez login, preencheu o campo de pesquisa incorretamente e selecionou o botão pesquisar.  
+	Pós-condição: mensagem de erro informando que o campo foi preenchido incorretamente.  
+	Dado: nome a ser pesquisado ou parte do nome.   
+
+* **Usuário preencheu o campo de pesquisa corretamente, porém o nome não consta no banco de dados**  
+	Pré-condição: usuário fez login, preencheu o campo de pesquisa corretamente com um nome que não foi cadastrado e selecionou o botão pesquisar.  
+	Pós-condição: mensagem  informando que não possui um usuário com o nome pesquisado.  
+	Dado: nome a ser pesquisado ou parte do nome.   
