@@ -4,7 +4,8 @@
 |----|------|---------|-------|
 |31/08/2016 |1.0 |Especificação dos Casos de Teste |Lucas |
 |01/09/2016 |1.1 |Complementando Especificação dos Casos de Teste |Hugo |
-|02/09/2016 |1.2 |Caso de Teste Editar Usuário |Vítor|
+|02/09/2016 |1.2 |Caso de Teste Editar Usuário |Vítor |
+|02/09/2016 |1.3 |Atualização Caso de Teste Editar Usuário |Vítor |
 
 #1. Introdução
 
@@ -153,4 +154,4 @@ Testes referentes à edição de um usuário:
     Descrição: Este caso de teste tem como objetivo garantir que o usuário não possua uma senha vazia.  
     Pré-condições: O usuário deve estar logado no sistema e tentar atualizar seu cadastro com o campo ‘senha’ em branco.  
     Pós-condições: O sistema deve mostrar uma mensagem de erro informando que o campo ‘senha’ deve ser preenchido.  
-    Dados requeridos: Não há.  
+    Dados requeridos: Senha.  
