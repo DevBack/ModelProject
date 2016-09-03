@@ -84,7 +84,7 @@ O desenvolvimento de um projeto de software necessita de equipamentos como compu
 | Item       | Qtde/Tempo | Valor   | Total    |
 |------------|------------|---------|----------|
 | Computador | 10         | 2079,00 | 20790,00 |
-| Internet   | 4          | 149,8   | 599,2    |
+| Internet   | 4 meses    | 84,90   | 339,60   |
 
 
 ### 7.3 Aluguel
@@ -94,7 +94,7 @@ para desenvolver o produto.
 
 | Item       | Tempo(Meses)| Valor   | Total    |
 |------------|-------------|---------|----------|
-| Aluguel     | 4           | 1200,00 | 4800,00  |
+| Aluguel    | 4           | 1200,00 | 4800,00  |
 
 ### 7.4 Custo Total
 
