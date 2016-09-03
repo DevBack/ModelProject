@@ -27,6 +27,7 @@ Luis Gustavo | Gustavo |
 ## Observações
 
 1. Foi feita a configuração do ambiente em todas as máquinas presentes na reunião
+2. Foi realizada uma discussão para definir o diagrama de classe, pensando também no modelo do banco de dados
 
 ## Ações
 
@@ -35,4 +36,4 @@ Luis Gustavo | Gustavo |
 
 ## Decisões
 
-1. 
+1. Foi decidido o diagrama de modelo de classe
