@@ -23,14 +23,13 @@ O preambulo acima juntamente com a estimativa de tempo para cada iteração perm
 
 # 3. Monitoramento
 
-O monitoramento dos cusos serão feitos através do registro das horas utilizadas para o desenvolvimento das atividades por cada integrante do grupo. Uma vez realizado esse levantamento poderá ser encontrado o custo real do projeto. 
+O monitoramento dos cusos serão feitos através do registro das horas utilizadas para o desenvolvimento das atividades por cada integrante do grupo. Uma vez realizado esse levantamento poderá ser encontrado o custo real do projeto, em referências posteriores esse valor será tratado por ACWP que é  a nomeclatura para custo real no idioma inglês.
 
-Outro item a ser monitorado é o andamento de cada tarefa. Para cada uma delas será descrito em termos de porcentagem o quanto foi completado. 
-
+Outro item a ser monitorado é o andamento de cada tarefa. Para cada uma delas será descrito em termos de porcentagem o quanto foi completado. O andamento da tarefa multiplicado pelo custo planejo é denominado valor agregado ao projeto. Ao final de cada interação será verificado o quanto as tarefas foram completadas e calculado o valor agregado pelo projeto. Seguindo a nomeclatura internacional o valor agregado será apresentado como BCWP. 
  
 # 4. Estratégias de controle
 
-O custo real do projeto e o monitoramento das atividades permite controlar o projeto através de indicadores assim descritos.
+O custo real e o monitoramento das atividades permite traduzir o projeto através de indicadores que subsídiam a tomada de decisações estratégicas para o comprimento dos objetivos traçados. Os indicadores são descritos na tabela abaixo:
 
 
 
@@ -41,4 +40,4 @@ O custo real do projeto e o monitoramento das atividades permite controlar o pro
 | PSI               | Peformace de prazos             | SPI > 1, Adiantado; SPI = 1, Em dia; SPI < 0, Atrasado | 
 | CPI               | Performace dos custos           |   CPI > 1,                                             |
 
-fjaldskfjlaskd
+A equipe deve revisar o cronograma e o escopo do projeto todas as vezes que os indicadores SV, SPI estiverem abaixo de zero. Essa informação deve constar em relatório específico que contemple todas as ações tomadas. O valor de CPI abaixo de zero deve ser comunicado ao cliente e as ações tomadas devem ser documentas. 
