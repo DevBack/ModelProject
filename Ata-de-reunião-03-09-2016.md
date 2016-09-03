@@ -37,3 +37,6 @@ Luis Gustavo | Gustavo |
 ## Decisões
 
 1. Foi decidido o diagrama de modelo de classe
+2. Pedro ficou responsável em revisar a especificação UC01 e do plano de teste 01
+3. Elaine ficou responsável em escolher uma licença
+4. Allan ficou responsável por fazer a folha de estilo
