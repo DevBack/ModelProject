@@ -1,6 +1,9 @@
 # Configurar o ambiente
+
 ## Máquina virtual
+
 O ambiente de desenvolvimento pode ser configurado seguindo os seguintes passos:
+
 1. Instalar [vagrant](https://www.vagrantup.com/)
 2. Instalar [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 3. Clonar o projeto
