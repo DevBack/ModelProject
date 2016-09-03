@@ -85,6 +85,10 @@ A tabela abaixo apresenta os riscos identificados bem como suas devidas ações 
 |RSC08|Ferramentas (github, telegram, whatsapp, google drive) utilizadas indisponíveis  | Aguardar retorno das ferramentas. Caso ferramenta seja extinguida, migrar para ferramenta semelhante. |
 |RSC09|Incompatibilidade de horários para reuniões |Manter pelo menos um dia e horário fixo para reuniões semanais. |
 |RSC10|Dificuldade de se reunir com o cliente |Agendar com antecedência encontros com o cliente. |
+|RSC11|Problemas na configuração do ambiente de desenvolvimento |Fazer uso de uma configuração de ambiente simples, de fácil manutenção e distribuição: uso de máquina virtual. |
+|RSC12|Não conseguir completar atividades no tempo do cronograma |Controlar minuciosamente o cronograma. Fazer avaliação periódicas de acompanhamento das tarefas com o cronograma, realocar tarefas quando observado necessário. |
+|RSC13|Cliente não aceitar o produto final |Assegurar validação e verificação de requisitos ao longo de todo o processo. Integrar o cliente no contexto de desenvolvimento do software a todo tempo.  |
+|RSC14|Projeto abrir portas para novos projetos ou oportunidades | Maximizar tais oportunidades. |
 
 ## 3.1. Classificação dos riscos identificados
 A tabela abaixo descreve a classificação dos riscos identificados descritos anteriormente.
@@ -99,5 +103,9 @@ A tabela abaixo descreve a classificação dos riscos identificados descritos an
 |RSC06| Baixa       | Baixo    | Prioridade baixa    |Aceitar   |
 |RSC07| Média       | Alto     | Prioridade alta     |Prevenir  |
 |RSC08| Muito baixa | Alto     | Prioridade baixa    |Aceitar   |
-|RSC09| Alta | Alto | Prioridade alta |Mitigar|
-|RSC10| Média | Alto | Prioridade alta |Mitigar |
+|RSC09| Alta        | Alto     | Prioridade alta     |Mitigar   |
+|RSC10| Média       | Alto     | Prioridade alta     |Mitigar   |
+|RSC11| |     |     |   |
+|RSC12| |     |     |   |
+|RSC13| |     |     |   |
+|RSC14| |     |     |   |
