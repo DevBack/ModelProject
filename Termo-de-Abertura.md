@@ -60,19 +60,19 @@ A estimativa de custo tem como finalidade apresentar para os integrantes da equi
 Os dados aqui apresentado tem como base o valor hora despendido pela Universidade de Brasília por aluno. A metodologia utilizada foi o valor do custo anual
 pela média de créditos anuais dos alunos do Curso de Engenharia de Software. Um crédito corresponde a 15 horas aula na universidade, assim é possível, converter o valor anual para horas que será subsidio para a estimativa de custos de mão de obra.
 
-|Dados Unb       |-------------------|------------------|
+|Dados Unb       | | |
 |----------------|-------------------|------------------|
 |Custo Anual     | Número de Créditos| Horas por crédito| 
 |11.020,00       | 48                | 15               |
-|Total Horas     | Valor da Hora     |------------------|
-|720             | 15,30             |------------------|
+|Total Horas     | Valor da Hora     | |
+|720             | 15,30             | |
 
 
 | Equipe SAS       |                               |         |
 |------------------|-------------------------------|---------|
 | Dias trabalhados | Média estimada de hrs diárias | Total   |
 | 109              | 2                             | 218     |
-| Número integrantes| Hora Média                    | Total   |
+| Número integrantes| Hora Média                   | Total   |
 | 8          | 15,30                         | 3335,4 |
 |                  | Total Grupo                   | 26683,2|
 
@@ -83,7 +83,7 @@ O desenvolvimento de um projeto de software necessita de equipamentos como compu
  
 | Item       | Qtde/Tempo | Valor   | Total    |
 |------------|------------|---------|----------|
-| Computador | 10         | 2079,00 | 20790,00 |
+| Computador | 10         | 2199,00 | 21990,00 |
 | Internet   | 4 meses    | 84,90   | 339,60   |
 
 
