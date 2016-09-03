@@ -5,6 +5,7 @@
 |25/08/2016 |1.0 |Criação da estrutura inicial e preenchimento de conteúdo dos tópicos 1 a 3 |Allan |
 |31/08/2016 |1.1 |Adição do conteúdo no tópico 3. |Allan |
 |31/08/2016 |1.2 |Adicionando risco |Jessica |
+|02/09/2016 |1.3 |Adicionado riscos 11 a 14 e tabela de responsáveis pelos riscos |Allan |
 
 # 1. Introdução
 
