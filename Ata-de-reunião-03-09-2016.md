@@ -22,17 +22,16 @@ Luis Gustavo | Gustavo |
 2. Explicar plano de iteração (quais são as entregas, vale ressaltar que a implementação é pra validar a arquitetura planejada)
 3. Explicar e corrigir diagrama de classe
 4. Explicar e corrigir caso de uso
-5. Explicar e corrigir plano de teste
-6. Implementar UC01
-7. Implementar plano de Teste UC01
+5. Implementar UC01
 
 ## Observações
 
-1. 
+1. Foi feita a configuração do ambiente em todas as máquinas presentes na reunião
 
 ## Ações
 
-1. Foi feita a configuração do ambiente em todas as máquinas presentes na reunião
+1. Perguntar para a Carla todos os tipos de categoria que podem cadastrar no sistema
+2. Perguntar para a Carla a quantidade de caracteres para cada tipo de matricula
 
 ## Decisões
 
