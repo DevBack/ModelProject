@@ -1,10 +1,10 @@
 # Ata da Reunião 03/09/2016
 
 
-Horario |  |
+Horario | 14:00 a |
 ---------|-----------------|
-Local   |  |
-Editor da ata |  |
+Local   | LDS - FGA |
+Editor da ata | Jessica |
 
 ## Participantes
 
@@ -12,7 +12,7 @@ MDS | GPP   |
 ---------|-----------------|
 Lucas Oliveira  | Allan Pereira |
 Hugo Carvalho|Jessica Suzuki |
-Fabíola Malta|Pedro Alcântra |
+Fabíola Malta|Pedro Alcântara (Ausente)|
 Vitor Menezes|Elaine |
 Luis Gustavo | Gustavo |
 
@@ -32,6 +32,7 @@ Luis Gustavo | Gustavo |
 
 ## Ações
 
+1. Foi feita a configuração do ambiente em todas as máquinas presentes na reunião
 
 ## Decisões
 
