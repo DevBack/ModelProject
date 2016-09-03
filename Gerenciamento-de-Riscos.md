@@ -116,17 +116,17 @@ A tabela abaixo apresenta os responsáveis por monitorar cada um dos riscos iden
 
 |Risco|Responsável  |
 |-----|-------------|
-|RSC01| | 
-|RSC02| | 
-|RSC03| | 
-|RSC04| | 
-|RSC05| | 
-|RSC06| | 
-|RSC07| | 
-|RSC08| | 
-|RSC09| | 
-|RSC10| | 
-|RSC11| |
-|RSC12| |
-|RSC13| |
-|RSC14| |
+|RSC01|Gustavo | 
+|RSC02|Jessica | 
+|RSC03|Elaine  | 
+|RSC04|Allan   | 
+|RSC05|Pedro   | 
+|RSC06|Gustavo | 
+|RSC07|Pedro   | 
+|RSC08|Pedro   | 
+|RSC09|Elaine  | 
+|RSC10|Allan   | 
+|RSC11|Gustavo |
+|RSC12|Jessica |
+|RSC13|Elaine  |
+|RSC14|Allan   |
