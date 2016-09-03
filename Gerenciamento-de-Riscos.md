@@ -109,3 +109,23 @@ A tabela abaixo descreve a classificação dos riscos identificados descritos an
 |RSC12| |     |     |   |
 |RSC13| |     |     |   |
 |RSC14| |     |     |   |
+
+## 3.2. Atribuição dos responsáveis por monitorar cada risco
+A tabela abaixo apresenta os responsáveis por monitorar cada um dos riscos identificados
+
+|Risco|Responsável  |
+|-----|-------------|
+|RSC01| | 
+|RSC02| | 
+|RSC03| | 
+|RSC04| | 
+|RSC05| | 
+|RSC06| | 
+|RSC07| | 
+|RSC08| | 
+|RSC09| | 
+|RSC10| | 
+|RSC11| |
+|RSC12| |
+|RSC13| |
+|RSC14| |
