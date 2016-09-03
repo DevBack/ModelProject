@@ -25,5 +25,20 @@ O preambulo acima juntamente com a estimativa de tempo para cada iteração perm
 
 O monitoramento dos cusos serão feitos através do registro das horas utilizadas para o desenvolvimento das atividades por cada integrante do grupo. Uma vez realizado esse levantamento poderá ser encontrado o custo real do projeto. 
 
-Outro item a ser monitorado é o andamento de cada tarefa. Para cada uma delas será descrito em termos de porcentagem o quanto foi completado. Com
+Outro item a ser monitorado é o andamento de cada tarefa. Para cada uma delas será descrito em termos de porcentagem o quanto foi completado. 
+
+ 
 # 4. Estratégias de controle
+
+O custo real do projeto e o monitoramento das atividades permite controlar o projeto através de indicadores assim descritos.
+
+
+
+|Indicador          | Descriação                      | Explicação                                             |
+|--------- ---------|---------------------------------|--------------------------------------------------------|
+| CV                | Demostra a variação             | CV > 0, CV < 0, valor agreagado menor que valor gasto  |
+| SV                | Demostra o andamento do projeto | SV > 0, projeto adiantado; SV < 0; projeto atrasado    |
+| PSI               | Peformace de prazos             | SPI > 1, Adiantado; SPI = 1, Em dia; SPI < 0, Atrasado | 
+| CPI               | Performace dos custos           |   CPI > 1,                                             |
+
+fjaldskfjlaskd
