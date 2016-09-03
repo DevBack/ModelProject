@@ -2,7 +2,7 @@
 
 |Data       |Versão|Descrição     |Autor  |
 |-----------|------|--------------|-------|
-| 03/09/2016| 1.0| Criação e preenchimento do plano Elaine|
+| 03/09/2016| 1.0| Criação e preenchimento do plano|Elaine|
 
 ## 1. Introdução
 O presente documento visa estabelecer e descrever os processos relacionados a aquisição de produtos, equipamentos e contratação de serviços externos necessários ao desenvolvimento do projeto SAS (Sistema de Alocação de Salas).
