@@ -40,3 +40,5 @@ Luis Gustavo | Gustavo |
 2. Pedro ficou responsável em revisar a especificação UC01 e do plano de teste 01
 3. Elaine ficou responsável em escolher uma licença
 4. Allan ficou responsável por fazer a folha de estilo
+5. Gustavo ficou responsável por estimar a quantidade de horas do cronograma
+6. Jessica ficou responsável por refazer o cronograma
