@@ -12,6 +12,7 @@
 |22/08/2016|1.7|Revisão ortográfica em todo documento| Elaine|
 |23/08/2016|1.8|Alteração na nomenclatura dos usuários| Jessica|
 |28/08/2016|1.9|Alteração nos custos de mão-de-obra| Gustavo|
+|04/09/2016|2.0|Atualização dos custos do projeto| Elaine|
 
 ## 1. Introdução
 Este documento formalmente inicia o projeto de construção do Sistema para Alocação de Espaços para a Faculdade UnB Gama. Aqui é especificado o trabalho que este projeto visa realizar, a oportunidade de negócio identificada, o escopo de atuação, os indivíduos direta e indiretamente afetados, características de riscos, restrições e de custos, entregáveis, prazos e as ferramentas utilizadas no processo de desenvolvimento. Tais descrições visam elucidar a viabilidade do projeto.
@@ -57,48 +58,46 @@ A estimativa de custo tem como finalidade apresentar para os integrantes da equi
 
 ### 7.1 Custo da mão de obra
 
-Os dados aqui apresentado tem como base o valor hora despendido pela Universidade de Brasília por aluno. A metodologia utilizada foi o valor do custo anual
-pela média de créditos anuais dos alunos do Curso de Engenharia de Software. Um crédito corresponde a 15 horas aula na universidade, assim é possível, converter o valor anual para horas que será subsidio para a estimativa de custos de mão de obra.
+Os dados aqui apresentados tem como base o valor/hora despendido pela Universidade de Brasília por aluno. A metodologia utilizada foi o valor do custo anual pela média de créditos anuais dos alunos do Curso de Engenharia de Software. Um crédito corresponde a 15 horas aula na universidade, assim é possível, converter o valor anual para horas que será subsídio para a estimativa de custos de mão de obra.
 
-|Dados Unb       | | |
+|Dados UnB       |                   |                  |
 |----------------|-------------------|------------------|
 |Custo Anual     | Número de Créditos| Horas por crédito| 
-|11.020,00       | 48                | 15               |
-|Total Horas     | Valor da Hora     | |
-|720             | 15,30             | |
+|R$ 11.020,00    | 48                | 15               |
+|Total Horas     | Valor da Hora     |                  |
+|720             | R$ 15,30          |                  |
 
 
 | Equipe SAS       |                               |         |
 |------------------|-------------------------------|---------|
-| Dias trabalhados | Média estimada de hrs diárias | Total   |
+| Dias trabalhados |Média estimada de horas diárias| Total   |
 | 109              | 2                             | 218     |
-| Número integrantes| Hora Média                   | Total   |
-| 8          | 15,30                         | 3335,4 |
-|                  | Total Grupo                   | 26683,2|
+|Número integrantes| Hora Média                    |         |
+|      10          | R$ 15,30                      |R$ 3.335,40|
+|                  | Total Grupo                   |R$ 33.354,00|
 
 
 ### 7.2 Insumos
 
-O desenvolvimento de um projeto de software necessita de equipamentos como computadores e internet para ser executado. Os custos com alguns desses itens foram estimados com a finalidade de se chegar ao custo total do projeto. Os itens estimados são: [computadores](http://www.dell.com/br/p/inspiron-15-5558-laptop/pd?oc=cai5558w101712358bbbrp171w&model_id=inspiron-15-5558-laptop) e [internet] (https://assine.vivo.com.br/combos/combos-2-em-1).
+O desenvolvimento de um projeto de software necessita de equipamentos como computadores e internet para ser executado. Os custos com alguns desses itens foram estimados com a finalidade de se chegar ao custo total do projeto. Os itens estimados são: [computadores](http://shop.lenovo.com/br/pt//laptops/lenovo/g-series/g40-80) e [internet] (http://www.oi.com.br/oi/oi-pra-empresas/internet).
  
 | Item       | Qtde/Tempo | Valor   | Total    |
 |------------|------------|---------|----------|
-| Computador | 10         | 2199,00 | 21990,00 |
-| Internet   | 4 meses    | 84,90   | 339,60   |
+| Computador | 10         | R$ 2.299,00 | R$ 22.990,00 |
+| Internet   | 4 meses    | R$ 84,90   | R$ 339,60   |
 
 
 ### 7.3 Aluguel
 
-Uma empresa precisaria dispor de um local para o encontro dos seus membros. Uma busca em [web sites de aluguel de imóveis](http://www.wimoveis.com.br/imovel/aluguel-sala-comercial-gama-df-quadra-17-1354260) no Gama-DF possibilitou estimar um valor para o custo de aluguel para uma sala comercial, onde os membros poderiam se reunir 
-para desenvolver o produto.
+Uma empresa precisaria dispor de um local para o encontro dos seus membros. Uma busca em [web sites de aluguel de imóveis](http://www.wimoveis.com.br/imovel/aluguel-sala-comercial-gama-df-quadra-17-1354260) no Gama-DF possibilitou estimar um valor para o custo de aluguel para uma sala comercial, onde os membros poderiam se reunir para desenvolver o produto.
 
 | Item       | Tempo(Meses)| Valor   | Total    |
 |------------|-------------|---------|----------|
-| Aluguel    | 4           | 1200,00 | 4800,00  |
+| Aluguel    | 4           | R$ 1.200,00 | R$ 4.800,00  |
 
 ### 7.4 Custo Total
 
-Os itens estimados possibilitam mostrar que o projeto teria um custo aproximado de R$ 66.241,00. O valor pode ser maior ou menor devido a outras variáveis não consideradas, como encargos trabalhistas, energia elétrica, água, dentre outros. 
+Os itens estimados possibilitam mostrar que o projeto teria um custo aproximado de R$ 61.483,60. O valor pode ser maior ou menor devido a outras variáveis não consideradas, como encargos trabalhistas, energia elétrica, água, dentre outros. 
 
 ## 8. Estratégia de Comunicação
 São realizadas reuniões presenciais semanais aos sábados, às 14h, no espaço da Faculdade UnB Gama. Em adição à comunicação presencial, tem-se:
