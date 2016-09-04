@@ -36,6 +36,6 @@ A fim de realizar um melhor planejamento, controle e manutenção dos produtos e
 |Produto / Serviço|Quantidade|Modelo|Fornecedor|Custo Individual|Necessidade|
 |-----------------|----------|------|----------|----------------|-----------|
 | Notebook | 10 unidades | Lenovo G40-80 | Lenovo | R$ 2.199 | Produto primordial para o desenvolvimento e documentação da solução |
-| Internet | 4 meses | 30 MB | NET | R$ 84,90 | Serviço de grande importância para o desenvolvimento, documentação e controle da solução |
+| Internet | 4 meses | 35 MB | OI | R$ 84,90 | Serviço de grande importância para o desenvolvimento, documentação e controle da solução |
 | Espaço | 4 meses | Sala Comercial | WImóveis | R$ 1200 | Local para reuniões e desenvolvimento de código e documentação da solução |
 | Energia Elétrica | 4 meses | - | CEB | R$ 184| Serviço necessário para o correto funcionamento dos equipamentos do projeto |
