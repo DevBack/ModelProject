@@ -4,12 +4,13 @@
 |----|------|---------|-------|
 |31/08/2016 |1.0 |Estrutura do Documento |Jessica |
 |02/09/2016 |1.1 |Preenchendo todo o documento |Jessica |
+|04/09/2016 |1.2 |Revisão ortográfica do documento |Elaine |
 
 # 1. Introdução
 Este documento tem por objetivo estabelecer como será o gerenciamento do tempo no projeto SAS, mostrando a organização do projeto e seu cronograma.
 
 # 2. Atividades
-As atividades foram definidas seguindo as fases do RUP, onde cada fase possui uma ou mais iterações, que contêm as atividades. Tais atividades foram definidas com base nos entregáveis do projeto, onde esses entregáveis foram base para a construção da EAP (Estrutura Analítica do Projeto). 
+As atividades foram definidas seguindo as fases do RUP, onde cada fase possui uma ou mais iterações, que contêm as atividades. Tais atividades foram definidas baseadas nos entregáveis do projeto, onde esses entregáveis foram base para a construção da EAP (Estrutura Analítica do Projeto). 
 
 # 3. Papéis e Responsabilidades
 Foi adotada uma política de reuniões presenciais e realização das atividades em conjunto. Dessa forma, foi definido o papel TODOS para quando as atividades são realizadas com o envolvimento de toda a equipe. Para atividades onde todos os alunos de MDS se envolvem, foi destinado a MDS. O mesmo ocorreu para atividades com envolvimento de GPP. Por fim, quando não for possível a realização das atividades com o envolvimento de todos, estas serão de responsabilidade de alguns integrantes, onde será representado pelo primeiro nome do aluno. 
