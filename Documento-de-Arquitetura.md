@@ -42,6 +42,8 @@ O Documento de Arquitetura descreve o sistema, ajudando na compreensão de seu c
 
 A arquitetura utilizada será a arquitetura do Django que tem como padrão a MVC. A camada de modelo (Model) é responsável pelas classes de domínio, pela leitura e escrita de dados e pela comunicação com o banco de dados. A camada de visão (View) é responsável pela interface com o usuário, ou seja, é ela que faz a apresentação da aplicação. E a camada de controle (Controller) é responsável por trabalhar com as requisições e fazer o controle em si da aplicação.
 
+![MVC ](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/MVC.png)
+
 # 3. Restrições e Metas Arquiteturais
 
 ## Suportabilidade
