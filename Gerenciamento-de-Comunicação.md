@@ -9,7 +9,7 @@
 | 27/08/2016| 1.3  | Correção na numeração dos tópicos. Adição do conteúdo do tópico 2.4. Adicionado tópico 3.| Allan|
 
 ## 1. Introdução
-O presente documento detalha o planejamento da comunicação entre os alunos das disciplinas de Métodos de Desenvolvimento de Software e Gestão de Portifólios e Projetos da Universidade de Brasília, Faculdade Gama, em relação ao projeto SAS durante o segundo semestre do ano de 2016. Essa comunicação é extremamente importante para o sucesso do projeto, já que somos um time e precisamos trabalhar juntos!
+O presente documento detalha o planejamento da comunicação entre os alunos das disciplinas de Métodos de Desenvolvimento de Software e Gestão de Portifólios e Projetos da Universidade de Brasília, Faculdade Gama, em relação ao projeto SAS durante o segundo semestre do ano de 2016. Essa comunicação é extremamente importante para o sucesso do projeto, já que por ser um time, deve-se trabalhar todos juntos.
 
 ## 2. Comunicação
 ### 2.1. Ferramentas Utilizadas
