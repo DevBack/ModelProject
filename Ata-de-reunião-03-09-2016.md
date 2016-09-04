@@ -1,7 +1,7 @@
 # Ata da Reunião 03/09/2016
 
 
-Horario | 14:00 a |
+Horario | 14:00 a 18:30|
 ---------|-----------------|
 Local   | LDS - FGA |
 Editor da ata | Jessica |
@@ -12,7 +12,7 @@ MDS | GPP   |
 ---------|-----------------|
 Lucas Oliveira  | Allan Pereira |
 Hugo Carvalho|Jessica Suzuki |
-Fabíola Malta|Pedro Alcântara (Ausente)|
+Fabíola Malta|Pedro Alcântara|
 Vitor Menezes|Elaine |
 Luis Gustavo | Gustavo |
 
