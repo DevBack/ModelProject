@@ -29,7 +29,7 @@ O presente documento detalha o planejamento da comunicação entre os alunos das
  
 ### 2.3. Reuniões
 Toda reunião deve gerar ata contendo a pauta da mesma, as ações acordadas e as decisões tomadas, além do registro dos participantes, hora, data e local.
-Semanalmente haverá ao menos uma reunião entre os grupos de GPP e MDS durante toas a execução do projeto, como segue.
+Semanalmente haverá ao menos uma reunião entre os grupos de GPP e MDS durante toda a execução do projeto, como segue.
 
 |Participantes|Método    |Horário|Dia   |
 |-------------|----------|-------|------|
