@@ -2,9 +2,10 @@
 
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-------|
-|27/08/2016|1.0|Criação da estrutura inicial.|Gustavo,Pedro|
+|27/08/2016|1.0|Criação da estrutura inicial.|Gustavo e Pedro|
 |28/08/2016|1.1|Adição da imagem de política de branches.|Gustavo|
-|03/08/2016|1.2|Adição da politica de GCS para o escopo do projeto|Pedro|
+|03/09/2016|1.2|Adição da politica de GCS para o escopo do projeto|Pedro|
+|04/09/2016|1.3|Revisão ortográfica do documento|Elaine|
 
 # 1. Introdução
 
@@ -34,13 +35,13 @@ O projeto irá utilizar as seguintes ferramentas - que compõe o ambiente de des
 |Python    |3.5   | Linguagem de programação utilizada no projeto |
 |Git       |1.9.1 | Sistema de versionamento de código |
 |Django    |1.9.7 | Framework para o desenvolvimento de aplicações web |
-|GitHub    | ---- | Ferramenta paro gerenciamento de documentos|
+|GitHub    | - | Ferramenta paro gerenciamento de documentos e código|
 
 
 
-### Integração Continua
+### Integração Contínua
 
-A integracão continua será realizada pela ferramenta [Travis] (https://travis-ci.org/). Os testes e a cobertura de código pode ser verificada a cada commit submetido para o repositório no GitHub, assim a uma garantia para o projeto do efeitos de alterações no código.
+A integracão contínua será realizada através da ferramenta [Travis] (https://travis-ci.org/). Os testes e a cobertura de código podem ser verificados a cada commit submetido para o repositório no GitHub, assim, há uma garantia para o projeto dos efeitos de alterações no código.
 
 ## 2.3 Níveis de controle de configuração 
 
@@ -48,9 +49,9 @@ O projeto irá utilizar três níveis de controle de configuração, sendo eles:
 
 |Nível|Descrição|
 |-----|-------|
-|Controlado|A mudança somente sera feita após a aprovação do grupo de GPP|
-|Monitorada|A mudança somente sera feita apartir de uma política estabelecida para a configuração|
-|Comunicada| A alteração pode ser feita por qualquer membro do grupo mediante a comunicação para os outros integrantes|
+|Controlado|A mudança somente será feita após a aprovação do grupo de GPP|
+|Monitorada|A mudança somente será feita a partir de uma política estabelecida para a configuração|
+|Comunicada|A alteração pode ser feita por qualquer membro do grupo mediante a comunicação para os outros integrantes|
 
 ## 2.3.1 Definição de nível para as configurações
 
@@ -62,14 +63,14 @@ O projeto irá utilizar três níveis de controle de configuração, sendo eles:
 
 ## 2.3.2 Política de Monitoramento de Código
 
-O monitoramento de mudança de código será feito apartir da seguinte política de branches:
+O monitoramento de mudança de código será feito a partir da seguinte política de branches:
 
 ![Imagem 1 - Política de Branches](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/politicadebranches.png "Imagem 1 - Política de Branches")
 
-Seguindo o modelo apresentado de baixo para cima: cada desenvolvedor deve ter sua brach caso seja alocado para trabalhar em um caso de uso. Terminado o trabalho, o desenvolvedor deve submeter a branch ao sistema de integracão continúa. Caso todos os testes tenham resultado positivo o desenvolvedor solicita a revisão da branch para um outro desenvolvedor, estando em perfeito estado a branch deve ser mergeda na branch principal do caso de uso. As branches de caso de uso devem ser integradas a branch dev após apresentar resultados posivitos na integracão contínua. Por sua vez a branch dev somente será integrada a master na entegra das releases.
+Seguindo o modelo apresentado de baixo para cima: cada desenvolvedor deve ter sua branch caso seja alocado para trabalhar em um caso de uso. Terminado o trabalho, o mesmo deve submeter a branch ao sistema de integracão contínua. Caso todos os testes tenham resultado positivo, o desenvolvedor solicita a revisão da branch para um outro desenvolvedor. Estando em perfeito estado, a branch deve ser acoplada à branch principal do caso de uso. As branches de caso de uso devem ser integradas à branch _dev_, após apresentar resultados posivitos na integracão contínua. Por sua vez a branch _dev_ somente será integrada a _master_ na entrega das releases.
 
 ## 2.3.2 Política de Controle do Escopo do Projeto
-As mudanças no escopo do projeto devem obedecer as diretrizes es estabelecidas no pano de [Gerenciamento de Escopo](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Gerenciamento-de-Escopo) (item 2.5.).
+As mudanças no escopo do projeto devem obedecer as diretrizes estabelecidas no pano de [Gerenciamento de Escopo](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Gerenciamento-de-Escopo) (item 2.5.).
 
 # 3. Treinamento e Recursos
 Para utilizar as ferramentas citadas no item 2.2, serão realizados treinamentos e dojos, de acordo com o cronograma do projeto, visando maior produtividade no desenvolvimento do produto.
