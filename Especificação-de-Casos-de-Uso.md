@@ -4,6 +4,7 @@
 |----|------|---------|-------|
 |01/09/2016 |1.0 |Criando Cadastrar Usuário e Alterar Usuário |Fabíola |
 |02/09/2016 |1.1 |Criando Excluir Usuário e Ver Usuário |Luis |
+|04/09/2016 |1.2 |Revisão do UC01 |Fabíola |
 
 #1. Manter Usuário - UC01
 
@@ -17,7 +18,7 @@ Permite que sejam criados novos usuários no sistema.
 Corpo Acadêmico.
 
 ###1.1.3. Pré condição
-O usuário deve ter acessado o sistema.
+Nenhuma
 
 ###1.1.4. Pós condição
 
@@ -37,25 +38,26 @@ RN08 Formato dos dados de cadastro de usuário.
 
 ###1.1.6. Fluxo Principal
 
-[FP01] O usuário acessa o sistema.
 
-[FP02] O usuário entra na página de cadastro.
 
-[FP03] O usuário preenche os dados, seguindo a RN01.
+[FP01] O caso de uso se inica quando o usuário seleciona a opção cadastrar.
 
-[FP04] O usuário confirma o cadastro.
+[FP02] O usuário preenche os dados, seguindo a RN08.
 
-[FP05] O sistema valida os dados digitados.
+[FP03] O usuário aperta no botão "confirmar" para enviar seus dados.
 
-[FP06] O sistema persiste os dados no banco.
+[FP04] O sistema verifica os dados digitados.
 
-[FP07] O sistema encaminha o usuário para página inicial e retorna mensagem de sucesso de cadastro.
+[FP05] O sistema guarda os dados do usuário.
+
+[FP06] O sistema encaminha o usuário para página inicial e retorna mensagem de sucesso de cadastro.
 
 ###1.1.7. Fluxo de Exceção
 
-[FE01]O usuário não preencheu os dados corretamente, retorna para [FP02] sinalizando qual campo não foi preenchido de forma correta.
 
-[FE01]Já existe cadastro com aquela matrícula, retorna para [FP02], sinalizando que já existe esse cadastro.
+[FE01]No passo 2 do fluxo principal [FP02] o usuário não preencheu os dados corretamente, retorna para [FP02] sinalizando qual campo não foi preenchido de forma correta.
+
+[FE01]No passo 2 do fluxo principal [FP02] o usuário preencheu a matrícula de alguém que já está cadastrado, retorna para [FP02], sinalizando que já existe esse cadastro.
 
 
 
@@ -68,7 +70,7 @@ Permite que sejam alterados cadastros de usuários no sistema.
 
 ###1.2.2. Atores
 
-Corpo Acadêmico: altera apenas o seu próprio cadastro.
+Corpo Acadêmico (Principal): altera apenas o seu próprio cadastro.
 Administrador: altera seu cadastro e de qualquer outro usuário.
 
 
@@ -87,34 +89,34 @@ RN09 Para alterar a senha o usuário deve digitar a senha atual.
 
 [FP01] O usuário clica em “Perfil”.
 
-[FP02]O usuário é encaminhado para a página de perfil.
+[FP02]O sistema redireciona o usuário para a página de perfil.
 
 [FP03] O usuário altera os dados, respeitando a RN01.
 
 [FP04] O usuário confirma a alteração.
 
-[FP05] O sistema valida os dados digitados.
+[FP05] O sistema verifica os dados digitados.
 
-[FP06] O sistema persiste os dados no banco.
+[FP06] O sistema salva os dados alterados.
 
 [FP07] O sistema encaminha o usuário para página inicial e retorna mensagem de sucesso de alteração.
 
 ###1.2.7. Fluxo Alternativo
-Para o administrador alterar o cadastro de um outro usuário.
+[FA01]O administrado altera o cadastro de um outro usuário. Este fluxo inicia-se no passo [FP01]
 
-[FA01] O administrador pesquisa um usuário.
+* O administrador pesquisa um usuário.
 
-[FA02] O administrador seleciona um usuário.
+* O administrador seleciona um usuário.
 
-[FA03] O administrador clica em “editar usuário”.
+* O administrador clica em “editar usuário”.
 
-[FA04] O administrador é encaminhado para o [FP02] do “Alterar Usuário”.
+* O administrador é encaminhado para o [FP02] do “Alterar Usuário”.
 
 ###1.2.8. Fluxo de Exceção
 
-O usuário não preencheu os dados corretamente, retorna para [FP02] sinalizando qual campo não foi preenchido de forma correta.
 
-O administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
+[FE01] No passo 3 do fluxo principal [FP03] o usuário não preencheu os dados corretamente, retorna para [FP03] sinalizando qual campo não foi preenchido de forma correta.
+[FE01]No fluxo alternativo [FA01] o administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
 
 
 
@@ -128,7 +130,7 @@ Permite que sejam excluídos cadastros de usuários do sistema.
 ###1.3.2. Atores
 
 Corpo acadêmico: exclui apenas seu próprio cadastro.
-Administrador: pode excluir seu cadastro ou de qualquer outro usuário.
+Administrador(Principal): pode excluir o cadastro de qualquer outro usuário, mas não o seu.
 
 
 ###1.3.3. Pré condição
@@ -151,26 +153,27 @@ RN10 Para excluir a conta o usuário deve clicar no botão “Confirmar” na ca
 
 [FP04] O usuário confirma a opção de excluir cadastro, conforme a RN03.
 
-[FP05] O sistema exclui os dados do banco.
+[FP05] O sistema exclui os dados do usuário.
 
 [FP06] O sistema encaminha o usuário para página inicial e retorna mensagem de sucesso de exclusão.
 
 ###1.3.7. Fluxo Alternativo
-Para o administrador excluir o cadastro de outro usuário.
+[FA01]O administrado exclui o cadastro de um outro usuário. Este fluxo inicia-se no passo [FP01]
 
-[FA01] O administrador pesquisa um usuário.
+* O administrador pesquisa um usuário.
 
-[FA02] O administrador seleciona um usuário.
+* O administrador seleciona um usuário.
 
-[FA03] O administrador clica em “Excluir Usuário”.
+* O administrador clica em “Excluir Usuário”.
 
-[FA04] O administrador é encaminhado para o [FP02] do “Excluir Usuário”.
+* O administrador é encaminhado para o [FP02] do “Excluir Usuário”.
+
 
 ###1.3.8. Fluxo de Exceção
 
-O usuário clicou em “Cancelar” na caixa de diálogo de confirmação para excluir conta, retorna para [FP02].
+[FE01] No passo 4 do fluxo principal [FP04] o usuário clicou em “Cancelar” na caixa de diálogo de confirmação para excluir conta, retorna para [FP02].
 
-O administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
+[FE02]No fluxo alternativo 1 [FA01] o administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
 
 
 ##1.4. Ver Usuário
@@ -181,7 +184,7 @@ Permite que sejam visualizados os dados de cadastro de usuários do sistema.
 
 ###1.4.2. Atores
 
-Corpo acadêmico: visualiza apenas seus dados cadastrais.
+Corpo acadêmico (Principal) : visualiza apenas seus dados cadastrais.
 Administrador: pode visualizar seus dados cadastrais ou de qualquer outro usuário.
 
 
@@ -205,14 +208,14 @@ Visualização dos dados cadastrais do usuário do sistema.
 [FP05] O sistema encaminha o usuário para página inicial.
 
 ###1.4.6. Fluxo Alternativo
-Para o administrador excluir o cadastro de outro usuário.
+[FA01]No passo [FP01] o administrador deseja consultar o perfil de outro usuário.
 
-[FA01] O administrador pesquisa um usuário.
+* O administrador pesquisa um usuário.
 
-[FA02] O administrador seleciona um usuário.
+* O administrador seleciona um usuário.
 
-[FA03] O administrador é encaminhado para o [FP02] do “Ver Usuário”.
+* O administrador é encaminhado para o [FP02] do “Ver Usuário”.
 
 ###1.4.7. Fluxo de Exceção
 
-O administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
+[FE01]No fluxo alternativo [FA01] o administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
