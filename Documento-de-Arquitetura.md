@@ -18,6 +18,7 @@
 |01/09/2016|2.1 | Atualizando a Visão Lógica |Fabíola |
 |01/09/2016|2.2 | Atualizando a Visão de Casos de Uso |Fabíola |
 |02/09/2016|2.3 | Atualizando Restrições e Metas Arquiteturais |Luis |
+|04/09/2016|2.4 | Remoção da Visualização da Implantação|Hugo |
 
 
 # 1. Introdução
@@ -112,19 +113,16 @@ Os pacotes de design signficativos são: models, templates, views e tests. Ao ut
 * view: contém a camada lógica do sistema.
 * template: faz interface com o usuário, contém as páginas HTML.
 * tests: contém os testes que serão feitos no sistema.
+  
+# 6. Visão da Implementação  
 
-# 6. Visualização da Implantação
-Tendo em vista que esta é uma aplicação voltada para um sistema de alocações na web se faz necessário, primeiramente, que o usuário possua um navegador conectado a internet. Com isso, a criação e a conexão com servidor remoto que processará as requisições deve estar ativa. Esse servidor também realizará comunicação com o banco de dados definido previamente.  
-
-# 7. Visão da Implementação  
-
-## 7.1. Visão Geral
+## 6.1. Visão Geral
 ![Imagem - Visão Geral](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/Diagrama_de_classe.png)
 
-# 8. Qualidade
+# 7. Qualidade
 
 A arquitetura utilizada no sistema afeta diretamente sua capacidade de manutenção, facilitando-a, já que sua implementação estará devidamente organizada. Além disso, como o MVC é um padrão de arquitetura amplamente utilizado, há efeitos práticos em sua confiabilidade.
 
-# 9. Referências
+# 8. Referências
 
 * [The Django Book](http://www.djangobook.com/en/2.0/). Acesso em 28/08/2016.
