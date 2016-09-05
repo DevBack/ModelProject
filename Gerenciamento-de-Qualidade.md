@@ -11,8 +11,8 @@ Este documento descreve os procedimentos gerenciais que visam estabelecer, contr
 # 2. Métricas de Qualidade
 Será feito o uso de três métricas de qualidade de código: 
 1. Cobertura de Testes;
-1. Complexidade Ciclomática;
-1. Fator de Acoplamento;
+2. Complexidade Ciclomática;
+3. Fator de Acoplamento;
 
 O acompanhamento dos valores das métricas será realizado com auxílio das ferramentas discutidas em [5. Ferramentas Utilizadas](#5-ferramentas-utilizadas). As métricas são coletadas após a finalização de cada funcionalidade (Caso de Uso/História de Usuário) e serão utilizadas para avaliar a necessidade de refatoração, conforme deliberado em cada métrica e possivelmente apontar vícios de programação, de forma que a equipe de gerência pode apontar melhorias antes da codificação de novas funcionalidades.
 
