@@ -14,12 +14,12 @@ Será feito o uso de três métricas de qualidade de código:
 1. Complexidade Ciclomática;
 1. Fator de Acoplamento;
 
-O acompanhamento dos valores das métricas será realizado com auxílio das ferramentas discutidas em [5. Ferramentas Utilizadas](#5-Ferramentas-Utilizadas). As métricas são coletadas após a finalização de cada funcionalidade (Caso de Uso/História de Usuário) e serão utilizadas para avaliar a necessidade de refatoração, conforme deliberado em cada métrica e possivelmente apontar vícios de programação, de forma que a equipe de gerência pode apontar melhorias antes da codificação de novas funcionalidades.
+O acompanhamento dos valores das métricas será realizado com auxílio das ferramentas discutidas em [5. Ferramentas Utilizadas](#5-ferramentas-utilizadas). As métricas são coletadas após a finalização de cada funcionalidade (Caso de Uso/História de Usuário) e serão utilizadas para avaliar a necessidade de refatoração, conforme deliberado em cada métrica e possivelmente apontar vícios de programação, de forma que a equipe de gerência pode apontar melhorias antes da codificação de novas funcionalidades.
 
 ## 2.1. Cobertura de Testes
 É estabelecido que o o projeto deverá ter cobertura de código de, no mínimo, 90%. Este acompanhamento será feito através da ferramenta Coveralls. Esta ferramenta computa automaticamente a cobertura de código com base nos arquivos de teste do repositório.
 
-# 2.1.1. Indicadores
+### 2.1.1. Indicadores
 
 |Percentual          |Descrição            |
 |--------------------|---------------------|
@@ -31,7 +31,7 @@ O acompanhamento dos valores das métricas será realizado com auxílio das ferr
 ## 2.2. Complexidade Ciclomática
 A complexidade ciclomática será avaliada através das ferramentas Flake8 e Mezuro. O Flake8 fornece uma visualização prévia ao próprio desenvolvidor em tempo de desenvolvimento ainda de forma que ele próprio deverá fazer esta avaliação antes de disponibilizar o código no repositório aos demais. O Mezuro vem como complemento, porém é através dele que é avaliada a necessidade de refatoração, conforme indicadores:
 
-# 2.2.1. Indicadores
+### 2.2.1. Indicadores
 
 |Valor               |Descrição            |
 |--------------------|---------------------|
@@ -43,7 +43,7 @@ A complexidade ciclomática será avaliada através das ferramentas Flake8 e Mez
 ## 2.3. Fator de Acoplamento
 Esta métrica será utilizada através da ferramenta Mezuro. O fator de a
 
-# 2.3.1. Indicadores
+### 2.3.1. Indicadores
 
 |Valor               |Descrição            |
 |--------------------|---------------------|
@@ -53,10 +53,10 @@ Esta métrica será utilizada através da ferramenta Mezuro. O fator de a
 
 # 4. Critérios de Qualidade
 
-# 4.1. Qualidade de código
+## 4.1. Qualidade de código
 O [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) estabelece padrões de codificação que devem ser utilizados na implementação do software. A partir do PEP8 foi desenvolvido a [Folha de estilo](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Folha-de-Estilo) que visa aplicar uniformidade na escrita de código buscando melhorar a qualidade do mesmo em termos de legibilidade e manutenabilidade. Nela constam parâmetros tais como espaçamentos, linhas em branco, nomes de funções, variáveis e afins, e pequenas técnicas simplistas que visam impactar em um código mais eficaz através da identificação de anti-patterns.
 
-# 4.2. Integração Contínua
+## 4.2. Integração Contínua
 É uma prática de integração frequente das diversas partes de código de forma a evitar precocemente diversos problemas que possam surgir em uma integração de código tardia.
 O desenvolvimento do projeto contará com auxílio da ferramenta Travis CI para integração contínua de código.
 
