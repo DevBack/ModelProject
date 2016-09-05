@@ -35,9 +35,9 @@ A complexidade ciclomática será avaliada através das ferramentas Flake8 e Mez
 
 |Valor               |Descrição            |
 |--------------------|---------------------|
-|  | |
-|  | |
-|  | |
+|Regular             |Insuficiente         |
+|Good                |Aceitável            |
+|Excellent           |Ótimo                |
 
 
 ## 2.3. Fator de Acoplamento
@@ -47,9 +47,9 @@ Esta métrica será utilizada através da ferramenta Mezuro. O fator de a
 
 |Valor               |Descrição            |
 |--------------------|---------------------|
-|  | |
-|  | |
-|  | |
+|Regular             |Insuficiente         |
+|Good                |Aceitável            |
+|Excellent           |Ótimo                |
 
 # 4. Critérios de Qualidade
 
