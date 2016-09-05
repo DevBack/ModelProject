@@ -55,9 +55,9 @@ RN08 Formato dos dados de cadastro de usuário.
 ###1.1.7. Fluxo de Exceção
 
 
-[FE01]No passo 2 do fluxo principal [FP02] o usuário não preencheu os dados corretamente, retorna para [FP02] sinalizando qual campo não foi preenchido de forma correta.
+[FE01] No passo 2 do fluxo principal [FP02] o usuário não preencheu os dados corretamente, retorna para [FP02] sinalizando qual campo não foi preenchido de forma correta.
 
-[FE01]No passo 2 do fluxo principal [FP02] o usuário preencheu a matrícula de alguém que já está cadastrado, retorna para [FP02], sinalizando que já existe esse cadastro.
+[FE01] No passo 2 do fluxo principal [FP02] o usuário preencheu a matrícula de alguém que já está cadastrado, retorna para [FP02], sinalizando que já existe esse cadastro.
 
 
 
@@ -89,7 +89,7 @@ RN09 Para alterar a senha o usuário deve digitar a senha atual.
 
 [FP01] O usuário clica em “Perfil”.
 
-[FP02]O sistema redireciona o usuário para a página de perfil.
+[FP02] O sistema redireciona o usuário para a página de perfil.
 
 [FP03] O usuário altera os dados, respeitando a RN01.
 
@@ -102,7 +102,7 @@ RN09 Para alterar a senha o usuário deve digitar a senha atual.
 [FP07] O sistema encaminha o usuário para página inicial e retorna mensagem de sucesso de alteração.
 
 ###1.2.7. Fluxo Alternativo
-[FA01]O administrado altera o cadastro de um outro usuário. Este fluxo inicia-se no passo [FP01]
+[FA01] O administrado altera o cadastro de um outro usuário. Este fluxo inicia-se no passo [FP01]
 
 * O administrador pesquisa um usuário.
 
@@ -116,7 +116,7 @@ RN09 Para alterar a senha o usuário deve digitar a senha atual.
 
 
 [FE01] No passo 3 do fluxo principal [FP03] o usuário não preencheu os dados corretamente, retorna para [FP03] sinalizando qual campo não foi preenchido de forma correta.
-[FE01]No fluxo alternativo [FA01] o administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
+[FE01] No fluxo alternativo [FA01] o administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
 
 
 
@@ -158,7 +158,7 @@ RN10 Para excluir a conta o usuário deve clicar no botão “Confirmar” na ca
 [FP06] O sistema encaminha o usuário para página inicial e retorna mensagem de sucesso de exclusão.
 
 ###1.3.7. Fluxo Alternativo
-[FA01]O administrado exclui o cadastro de um outro usuário. Este fluxo inicia-se no passo [FP01]
+[FA01] O administrado exclui o cadastro de um outro usuário. Este fluxo inicia-se no passo [FP01]
 
 * O administrador pesquisa um usuário.
 
@@ -173,7 +173,7 @@ RN10 Para excluir a conta o usuário deve clicar no botão “Confirmar” na ca
 
 [FE01] No passo 4 do fluxo principal [FP04] o usuário clicou em “Cancelar” na caixa de diálogo de confirmação para excluir conta, retorna para [FP02].
 
-[FE02]No fluxo alternativo 1 [FA01] o administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
+[FE02] No fluxo alternativo 1 [FA01] o administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
 
 
 ##1.4. Ver Usuário
@@ -218,4 +218,4 @@ Visualização dos dados cadastrais do usuário do sistema.
 
 ###1.4.7. Fluxo de Exceção
 
-[FE01]No fluxo alternativo [FA01] o administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
+[FE01] No fluxo alternativo [FA01] o administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
