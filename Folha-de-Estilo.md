@@ -2,7 +2,8 @@
 
 |Data       |Versão|Descrição     |Autor  |
 |-----------|------|--------------|-------|
-| 04/09/2016| 1.0  | Criação e preenchimento da estrutura inicial do plano| Elaine|
+| 04/09/2016| 1.0  | Criação e preenchimento da estrutura inicial da folha de estilo| Elaine|
+| 04/09/2016| 1.2  | Adequação da folha de estilo ao PEP 8| Pedro|
 
 ## 1. Introdução
 
@@ -22,7 +23,7 @@ Em todo o projeto e seus arquivos, o tamanho da linha será limitado a 79 caract
 As linhas em branco podem ser utilizadas nas seguintes situações:
 * Duas linhas em branco para separação de funções de nível superior e definições de classe;
 * Uma linha em branco para definições de método dentro de uma classe, separação de grupos de funções e importações; e indicação de seções lógicas;
-
+Linhas em branco não devem conter nehum espaço em branco, deve-se apagar as tabulações nas linas em branco.
 ### 2.3 Importações
 Todas as importações a serem utilizadas devem estar alocadas no início do arquivo, antes de declaração de variáveis globais e constantes, e depois de comentários e docstrings de módulo, caso existam. Além disso, as mesmas devem estar em linhas separadas e não separadas por vírgulas, exceto quando pertencem a um mesmo módulo.
 
@@ -34,6 +35,7 @@ As importações devem seguir a seguinte ordenação:
 ### 2.4 Espaços em Branco
 Sempre deve haver espaços em branco entre operadores. Porém, estes devem ser evitados:
 
+* Ao final de linhas;
 * Para alinhar resultados de variáveis com nomes de tamanhos diferentes;
 * Ao redor de o igual (=) quando este é uma palavra-chave de um argumento ou um valor padrão para um parâmetro;
 * Imediatamente após a abertura de parêntesis, colchetes ou chaves; 
@@ -44,3 +46,13 @@ Sempre deve haver espaços em branco entre operadores. Porém, estes devem ser e
 
 ### 2.5 Comentários
 Comentários somente devem ser usados em caso de o código não demonstrar uma ação em sua obviedade. Além disso, é aconselhável que seu uso seja realizado na linha anterior a ação, e não na mesma linha. Deve-se iniciá-lo com um jogo da velha (#), um espaço, o texto desejado, começando com letra maiúscula, e, finalmente, dois espaços após o fim da oração.
+
+### 2.6 Convenções de nomenclatura
+||Padrão|
+|------|---------------------------|
+|Classes|Os nomes devem seguir o padrão camelcase, ou seja iniciar com letra maiúscula todas as palavas e não separa-las com underscores.|
+|Métodos|Os nomes devem ser escritos com letras minúsculas com palavras separadas por underscores.|
+|Variáveis|Os nomes devem ser escritos com letras minúsculas com palavras separadas por underscores.|
+|Constantes|Os nomes devem ser escritos com letras maiúsculas com palavras separadas por underscores.|
+
+  
