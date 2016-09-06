@@ -8,6 +8,10 @@
 # 1. Introdução
 Esta página tem por objetivo detalhar o cronograma do projeto SAS, onde até o termino da primeira release a metodologia utilizada é a tradicional, iniciando a segunda release com a metodologia ágil. Dessa forma o calendário foi dividido de acordo com as fases do RUP.
 
+# 2. Cronograma e Gráfico de Gantt
+O cronograma foi feito pela ferramenta Gantter e pode ser acessado pelo link
+[cronograma SAS](https://drive.google.com/file/d/0BwIEjFLG3J84SDRGVlBiTDI1WGc/view?usp=sharing)
+
 ##Release 1
 ###Iniciação
 **Iteração 1**
