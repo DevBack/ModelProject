@@ -74,22 +74,22 @@ O controle dos riscos é feito pela equipe de gerenciamento e se dá por meio de
 # 3. Riscos Identificados
 A tabela abaixo apresenta os riscos identificados bem como suas devidas ações resposta definidas. A classificação para priorização dos riscos é descrita na seção 3.1.
 
-|Risco|Descrição|Resposta|
-|-----|---------|--------|
-|RSC01|Desistência de membros da equipe |Reorganização das atividades de acordo com o cronograma. Avaliar tamanho do escopo para equipe/tempo. Trabalhar na motivação da equipe para evitar este risco. |
-|RSC02|Greve na Universidade de Brasília  |Verificar se a disciplina e projeto serão congelados ou não para decidir sobre cronograma e atividades durante o período de greve |
-|RSC03|Alterações de escopo |Replanejar cronograma, custo, duração de atividades e divisão de tarefas, planejar compensação de tempo. Revisar documentos de desenvolvimento de acordo com o impacto da alteração de escopo.|
-|RSC04|Quebra ou furto de equipamentos da equipe |Procurar solução de substituição do equipamento. Acompanhar cronograma, duração de atividades e divisão das tarefas para analisar impacto no andamento do projeto.|
-|RSC05|Erros na implementação de requisitos  |Sempre validar requisitos corretamente com cliente. Manter visão homogênea dos requisitos com a equipe. Caso risco ocorra, calcular impacto de custo e tempo, reorganizar cronograma, duração de atividades, divisão de tarefas e compensação de tempo. Revisar e corrigir documentos. |
-|RSC06|Indisponibilidade de infraestrutura para reuniões  |Cumprir o máximo da pauta da reunião no menor tempo possível, dirigir a equipe a cumprir posteriormente as tarefas da pauta impossibilitadas em espaço adequado.|
-|RSC07|Dificuldades com a tecnologia de desenvolvimento  |Realizar capacitação constante da equipe. Acompanhar dificuldades individuais de cada membro. |
-|RSC08|Ferramentas (github, telegram, whatsapp, google drive) utilizadas indisponíveis  | Aguardar retorno das ferramentas. Caso ferramenta seja extinguida, migrar para ferramenta semelhante. |
-|RSC09|Incompatibilidade de horários para reuniões |Manter pelo menos um dia e horário fixo para reuniões semanais. |
-|RSC10|Dificuldade de se reunir com o cliente |Agendar com antecedência encontros com o cliente. |
-|RSC11|Problemas na configuração do ambiente de desenvolvimento |Fazer uso de uma configuração de ambiente simples, de fácil manutenção e distribuição: uso de máquina virtual. |
-|RSC12|Não conseguir completar atividades no tempo do cronograma |Controlar minuciosamente o cronograma. Fazer avaliação periódicas de acompanhamento das tarefas com o cronograma, realocar tarefas quando observado necessário. |
-|RSC13|Cliente não aceitar o produto final |Assegurar validação e verificação de requisitos ao longo de todo o processo. Integrar o cliente no contexto de desenvolvimento do software a todo tempo.  |
-|RSC14|Projeto abrir portas para novos projetos ou oportunidades | Maximizar tais oportunidades. |
+|Risco|Descrição|Resposta|Responsável p/ Monitorar|
+|-----|---------|--------|-----------|
+|RSC01|Desistência de membros da equipe |Reorganização das atividades de acordo com o cronograma. Avaliar tamanho do escopo para equipe/tempo. Trabalhar na motivação da equipe para evitar este risco. |Gustavo |
+|RSC02|Greve na Universidade de Brasília  |Verificar se a disciplina e projeto serão congelados ou não para decidir sobre cronograma e atividades durante o período de greve |Jessica | 
+|RSC03|Alterações de escopo |Replanejar cronograma, custo, duração de atividades e divisão de tarefas, planejar compensação de tempo. Revisar documentos de desenvolvimento de acordo com o impacto da alteração de escopo.|Elaine  | 
+|RSC04|Quebra ou furto de equipamentos da equipe |Procurar solução de substituição do equipamento. Acompanhar cronograma, duração de atividades e divisão das tarefas para analisar impacto no andamento do projeto.|Allan   | 
+|RSC05|Erros na implementação de requisitos  |Sempre validar requisitos corretamente com cliente. Manter visão homogênea dos requisitos com a equipe. Caso risco ocorra, calcular impacto de custo e tempo, reorganizar cronograma, duração de atividades, divisão de tarefas e compensação de tempo. Revisar e corrigir documentos. |Pedro | 
+|RSC06|Indisponibilidade de infraestrutura para reuniões  |Cumprir o máximo da pauta da reunião no menor tempo possível, dirigir a equipe a cumprir posteriormente as tarefas da pauta impossibilitadas em espaço adequado.|Gustavo | 
+|RSC07|Dificuldades com a tecnologia de desenvolvimento  |Realizar capacitação constante da equipe. Acompanhar dificuldades individuais de cada membro. |Pedro | 
+|RSC08|Ferramentas (github, telegram, whatsapp, google drive) utilizadas indisponíveis  | Aguardar retorno das ferramentas. Caso ferramenta seja extinguida, migrar para ferramenta semelhante. |Pedro | 
+|RSC09|Incompatibilidade de horários para reuniões |Manter pelo menos um dia e horário fixo para reuniões semanais. |Elaine | 
+|RSC10|Dificuldade de se reunir com o cliente |Agendar com antecedência encontros com o cliente. |Allan | 
+|RSC11|Problemas na configuração do ambiente de desenvolvimento |Fazer uso de uma configuração de ambiente simples, de fácil manutenção e distribuição: uso de máquina virtual. |Gustavo |
+|RSC12|Não conseguir completar atividades no tempo do cronograma |Controlar minuciosamente o cronograma. Fazer avaliação periódicas de acompanhamento das tarefas com o cronograma, realocar tarefas quando observado necessário. |Jessica |
+|RSC13|Cliente não aceitar o produto final |Assegurar validação e verificação de requisitos ao longo de todo o processo. Integrar o cliente no contexto de desenvolvimento do software a todo tempo.  |Elaine |
+|RSC14|Projeto abrir portas para novos projetos ou oportunidades | Maximizar tais oportunidades. |Allan |
 
 ## 3.1. Classificação dos riscos identificados
 A tabela abaixo descreve a classificação dos riscos identificados descritos anteriormente.
@@ -110,23 +110,3 @@ A tabela abaixo descreve a classificação dos riscos identificados descritos an
 |RSC12| |     |     |   |
 |RSC13| |     |     |   |
 |RSC14| |     |     |   |
-
-## 3.2. Atribuição dos responsáveis por monitorar cada risco
-A tabela abaixo apresenta os responsáveis por monitorar cada um dos riscos identificados
-
-|Risco|Responsável  |
-|-----|-------------|
-|RSC01|Gustavo | 
-|RSC02|Jessica | 
-|RSC03|Elaine  | 
-|RSC04|Allan   | 
-|RSC05|Pedro   | 
-|RSC06|Gustavo | 
-|RSC07|Pedro   | 
-|RSC08|Pedro   | 
-|RSC09|Elaine  | 
-|RSC10|Allan   | 
-|RSC11|Gustavo |
-|RSC12|Jessica |
-|RSC13|Elaine  |
-|RSC14|Allan   |
