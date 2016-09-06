@@ -34,3 +34,5 @@ No caso do artefato a ser entregue ter sido construído pela equipe de gerência
 ### 2.5. Controle de Mudanças de Escopo
 Qualquer solicitação de mudança do escopo de projeto deverá ser analisada pela equipe de gerência do projeto, tendo em vista o impacto e a relevância da mudança proposta.
 Mudanças no escopo devem obedecer o seguinte processo.
+
+![Mudança](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/mudanca.PNG) 
