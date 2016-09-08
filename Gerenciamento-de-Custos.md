@@ -4,6 +4,7 @@
 |----|------|---------|-------|
 |31/08/2016| 1.0|Estrutura Inical |Gustavo |
 |04/09/2016| 1.1|Revisão ortográfica e estrutural do documento |Elaine |
+|07/09/2016| 1.2| Finalizando documento |Jessica |
 
 # 1.Introdução
 O plano a seguir apresenta as estimativas de despêndio e estratégias de monitoramento ao longo do projeto. Os custos foram estimados para refletir da melhor maneira possível o andamento de uma aplicação real. O documento irá apresentar as estimativas de custo, as estratégias de monitoramento e ações para mitigar eventuais adversidades. 
@@ -24,8 +25,14 @@ O preâmbulo acima juntamente com a estimativa de tempo para cada iteração per
 ![Custo 2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Custo_Iteracao2.png) 
 
 ## 2.2 Insumos
+Além dos custos de mão de obra, ainda existe o custo de infraestrutura, que contém o valor da aquisição de cada notebook para desenvolvimento do projeto, internet, espaço físico e energia elétrica como pode ser visto na tabela a seguir:
 
-[TERMINAR ESTA PARTE]
+|Produto / Serviço|Quantidade|Modelo|Fornecedor|Custo Individual|
+|-----------------|----------|------|----------|----------------|
+| Notebook | 10 unidades | Lenovo G40-80 | Lenovo | R$ 2.299 |
+| Internet | 4 meses | 35 MB | OI | R$ 84,90 |
+| Espaço | 4 meses | Sala Comercial | WImóveis | R$ 1200 |
+| Energia Elétrica | 4 meses | - | CEB | R$ 184|
 
 # 3. Monitoramento
 
