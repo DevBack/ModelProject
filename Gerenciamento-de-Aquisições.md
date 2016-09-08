@@ -11,7 +11,7 @@ O presente documento visa estabelecer e descrever os processos relacionados a aq
 
 ## 2. Descrição dos Processos e Procedimentos de Gerenciamento de Aquisições
 
-A fim de realizar um melhor planejamento, controle e manutenção dos produtos e serviços adquiridos, é necessário seguir um processo bem estruturado e definido, o qual está pode ser visualizado na imagem abaixo.
+A fim de realizar um melhor planejamento, controle e manutenção dos produtos e serviços adquiridos, é necessário seguir um processo bem estruturado e definido, o qual pode ser visualizado na imagem abaixo.
 
 #![Gerenciamento de Aquisições - PMBok](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/gerenciamento-aquisicoes.jpg)
 
