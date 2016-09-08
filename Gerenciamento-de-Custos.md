@@ -20,7 +20,8 @@ A instituição de ensino divulga, em seus relatório gerenciais, o custo anual 
 
 O preâmbulo acima juntamente com a estimativa de tempo para cada iteração permite fazermos uma estimativa de gastos detalhada para os recursos humanos como é apresentado na figura abaixo:
 
-[COLOCAR IMAGEM AQUI]
+![Custo 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Custo_Iteracao1.png)
+![Custo 2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Custo_Iteracao2.png) 
 
 ## 2.2 Insumos
 
