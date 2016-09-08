@@ -5,6 +5,7 @@
 |01/09/2016 |1.0 |Criando Cadastrar Usuário e Alterar Usuário |Fabíola |
 |02/09/2016 |1.1 |Criando Excluir Usuário e Ver Usuário |Luis |
 |04/09/2016 |1.2 |Revisão do UC01 |Fabíola |
+|08/09/2016 |1.3 |Revisão do UC01 |Luis |
 
 #1. Manter Usuário - UC01
 
@@ -40,7 +41,7 @@ RN08 Formato dos dados de cadastro de usuário.
 
 
 
-[FP01] O caso de uso se inica quando o usuário seleciona a opção cadastrar.
+[FP01] O caso de uso se inicia quando o usuário seleciona a opção cadastrar.
 
 [FP02] O usuário preenche os dados, seguindo a RN08.
 
@@ -104,9 +105,11 @@ RN09 Para alterar a senha o usuário deve digitar a senha atual.
 ###1.2.7. Fluxo Alternativo
 [FA01] O administrado altera o cadastro de um outro usuário. Este fluxo inicia-se no passo [FP01]
 
-* O administrador pesquisa um usuário.
+* O administrador clica na opção de pesquisar usuários.
 
-* O administrador seleciona um usuário.
+* O administrador insere o nome do usuário que deseja pesquisar.
+
+* O administrador seleciona o usuário que deseja editar.
 
 * O administrador clica em “editar usuário”.
 
@@ -116,7 +119,7 @@ RN09 Para alterar a senha o usuário deve digitar a senha atual.
 
 
 [FE01] No passo 3 do fluxo principal [FP03] o usuário não preencheu os dados corretamente, retorna para [FP03] sinalizando qual campo não foi preenchido de forma correta.
-[FE01] No fluxo alternativo [FA01] o administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
+[FE01] No fluxo alternativo [FA01] o administrador pesquisa o nome de um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
 
 
 
@@ -160,9 +163,11 @@ RN10 Para excluir a conta o usuário deve clicar no botão “Confirmar” na ca
 ###1.3.7. Fluxo Alternativo
 [FA01] O administrado exclui o cadastro de um outro usuário. Este fluxo inicia-se no passo [FP01]
 
-* O administrador pesquisa um usuário.
+* O administrador clica na opção de pesquisar usuários.
 
-* O administrador seleciona um usuário.
+* O administrador insere o nome do usuário que deseja pesquisar.
+
+* O administrador seleciona o usuário que deseja excluir.
 
 * O administrador clica em “Excluir Usuário”.
 
@@ -173,7 +178,7 @@ RN10 Para excluir a conta o usuário deve clicar no botão “Confirmar” na ca
 
 [FE01] No passo 4 do fluxo principal [FP04] o usuário clicou em “Cancelar” na caixa de diálogo de confirmação para excluir conta, retorna para [FP02].
 
-[FE02] No fluxo alternativo 1 [FA01] o administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
+[FE02] No fluxo alternativo 1 [FA01] o administrador pesquisa o nome de um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
 
 
 ##1.4. Ver Usuário
@@ -210,12 +215,14 @@ Visualização dos dados cadastrais do usuário do sistema.
 ###1.4.6. Fluxo Alternativo
 [FA01]No passo [FP01] o administrador deseja consultar o perfil de outro usuário.
 
-* O administrador pesquisa um usuário.
+* O administrador clica na opção de pesquisar usuários.
 
-* O administrador seleciona um usuário.
+* O administrador insere o nome do usuário que deseja pesquisar.
+
+* O administrador seleciona o usuário que deseja ver.
 
 * O administrador é encaminhado para o [FP02] do “Ver Usuário”.
 
 ###1.4.7. Fluxo de Exceção
 
-[FE01] No fluxo alternativo [FA01] o administrador pesquisa um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
+[FE01] No fluxo alternativo [FA01] o administrador pesquisa o nome de um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
