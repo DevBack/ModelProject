@@ -8,6 +8,7 @@
 |02/09/2016 |1.3 |Atualização Caso de Teste Editar Usuário |Vítor |
 |02/09/2016 |1.4 |Casos de Teste Excluir Usuário e Pesquisar Usuário |Lucas |
 |02/09/2016 |1.5 |Atualização Caso de Teste Editar Usuário |Vítor |
+|08/09/2016 |1.6 |Atualização Caso de Teste Editar Usuário |Vítor |
 
 #1. Introdução
 
@@ -109,6 +110,12 @@ Testes referentes à edição de um usuário:
     Pré-condições: O usuário deve estar logado no sistema e tentar atualizar seu cadastro com o campo ‘nome’ em branco.   
     Pós-condições: O sistema deve mostrar uma mensagem de erro informando que o campo ‘nome’ deve ser preenchido.   
     Dados requeridos: Não há.       
+
+* **Campo ‘nome’ nulo**  
+    Descrição: Este caso de teste tem como objetivo garantir que o usuário não possua um nome nulo.  
+    Pré-condições: O usuário deve estar logado no sistema e tentar atualizar seu cadastro com o campo ‘nome’ nulo.   
+    Pós-condições: O sistema deve mostrar uma mensagem de erro informando que o campo ‘nome’ deve ser preenchido.   
+    Dados requeridos: Não há.  
   
 * **Campo ‘nome’ inválido**  
     Descrição: Este caso de teste tem como objetivo garantir que o usuário não possua um nome com caracteres especiais e/ou números.  
@@ -128,9 +135,9 @@ Testes referentes à edição de um usuário:
     Pós-condições: O sistema deve mostrar uma mensagem de erro informando que o campo ‘e-mail’ deve ser preenchido.  
     Dados requeridos: Não há.  
   
-* **Campo ‘e-mail’ inválido**  
-    Descrição: Este caso de teste tem como objetivo garantir que o usuário não possua um e-mail inválido.  
-    Pré-condições: O usuário deve estar logado no sistema e tentar atualizar seu cadastro com o campo ‘e-mail’ inválido.  
+* **Campo ‘e-mail’ nulo**  
+    Descrição: Este caso de teste tem como objetivo garantir que o usuário não possua um e-mail nulo.  
+    Pré-condições: O usuário deve estar logado no sistema e tentar atualizar seu cadastro com o campo ‘e-mail’ nulo.  
     Pós-condições: O sistema deve mostrar uma mensagem de erro informando que o campo ‘e-mail’ deve ser preenchido corretamente.  
     Dados requeridos: E-mail.  
   
@@ -149,7 +156,7 @@ Testes referentes à edição de um usuário:
 * **Senha atual incorreta**  
     Descrição: Este caso de teste tem como objetivo impedir a alteração da senha usuário.  
     Pré-condições: O usuário deve estar logado no sistema e tentar alterar sua senha informando a senha atual incorretamente.  
-    Pós-condições: O sistema deve mostrar uma mensagem de sucesso informando que a senha foi alterada com sucesso.  
+    Pós-condições: O sistema deve mostrar uma mensagem de erro informando que a senha atual foi digitada incorretamente.  
     Dados requeridos: Senha.  
 
 * **Confirmação de nova senha incompatível com a nova senha**  
@@ -161,6 +168,12 @@ Testes referentes à edição de um usuário:
 * **Campo ‘senha’ vazio**  
     Descrição: Este caso de teste tem como objetivo garantir que o usuário não possua uma senha vazia.  
     Pré-condições: O usuário deve estar logado no sistema e tentar atualizar seu cadastro com o campo ‘senha’ em branco.  
+    Pós-condições: O sistema deve mostrar uma mensagem de erro informando que o campo ‘senha’ deve ser preenchido.  
+    Dados requeridos: Não há.  
+
+* **Campo ‘senha’ nulo**  
+    Descrição: Este caso de teste tem como objetivo garantir que o usuário não possua uma senha nula.  
+    Pré-condições: O usuário deve estar logado no sistema e tentar atualizar seu cadastro com o campo ‘senha’ nulo.  
     Pós-condições: O sistema deve mostrar uma mensagem de erro informando que o campo ‘senha’ deve ser preenchido.  
     Dados requeridos: Não há.  
 
