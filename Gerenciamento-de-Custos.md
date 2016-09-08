@@ -18,7 +18,7 @@ Os trabalhos do projeto serão mensurados em horas, portanto, o custo foi estima
 
 A instituição de ensino divulga, em seus relatório gerenciais, o custo anual por aluno. No ano de 2015 o valor auferido foi de R$ 11.300,00 (onze mil e trezentos reais). Um aluno de engeharia de software deve cursar 240 créditos para concluir sua graduação, ou seja, uma média de 48 créditos por ano.  Valendo o crédito na universidade o equivalente a 15 horas aulas pode-se constatar ume média de 720 horas de ensino por ano para cada aluno. O valor/hora dos alunos, então, pode ser estimado dividindo-se o total gasto pela universidade pelo número de horas, o que equivale a R$ 15,30 (quinze reais e trinta centavos). 
 
-O preâmbulo acima juntamente com a estimativa de tempo para cada iteração permite fazermos uma estimativa de gastos detalhada para os recursos humanos como é apresentado na figura abaixo:
+O preâmbulo acima juntamente com a estimativa de tempo para cada iteração permite fazermos uma estimativa de gastos detalhada para os recursos humanos, vale lembrar que quando uma atividades está designada a Todos, a mesma custa a quantidade de horas x os 10 alunos, o mesmo acontece para MDS ou GPP, onde o valor do cronograma é multiplicado por 5, como é apresentado na figura abaixo:
 
 ![Custo 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Custo_Iteracao1.png)
 ![Custo 2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Custo_Iteracao2.png) 
