@@ -17,5 +17,5 @@ O ambiente de desenvolvimento pode ser configurado seguindo os seguintes passos:
 1. Clonar o projeto(git clone https://github.com/fga-gpp-mds/2016.2-SAS_FGA.git)
 1. Executar o comando chmod 777 no arquivo install-apt.sh
 2. Executar o comamando sudo ./install-apt.sh
-3. Executar o comando mkvirtualenv -p /urs/local/bin/python3.5 sas
+3. Executar o comando mkvirtualenv -p /usr/local/bin/python3.5 sas
 4. Executar o comando pip install -r requirements.txt 
