@@ -264,7 +264,7 @@ O usuário estará logado no sistema.
 
 ##2.6. Fluxo de Exceção
 
-[FE01] No passo 2 do fluxo principal [FP03] o usuário não preencheu os dados corretamente, retorna para [FP03] sinalizando qual campo não foi preenchido de forma correta.
+[FE01] No passo 3 do fluxo principal [FP03] o usuário não preencheu os dados corretamente, retorna para [FP03] sinalizando qual campo não foi preenchido de forma correta.
 
 
 
@@ -303,7 +303,7 @@ O espaço será reservado ou uma reserva será requisitada para ele.
 
 
 
-##3.6. Fluxo de Alternativo
+##3.6. Fluxo Alternativo
 
 [FA01] No passo [FP03], caso o espaço selecionado seja um laboratório, o sistema não efetuará a reserva mas sim deixará ela pendente para avaliação de um Administrador.
 
