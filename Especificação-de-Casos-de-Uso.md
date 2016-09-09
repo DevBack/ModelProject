@@ -8,6 +8,7 @@
 |08/09/2016 |1.3 |Revisão do UC01 |Luis |
 |08/09/2016 |1.4 |Adicionando o UC02|Fabíola |
 |08/09/2016 |1.5 |Adicionando o UC03|Fabíola |
+|08/09/2016 |1.6 |Adicionando o UC04|Fabíola |
 
 #1. Manter Usuário - UC01
 
@@ -74,6 +75,7 @@ Permite que sejam alterados cadastros de usuários no sistema.
 ###1.2.2. Atores
 
 Corpo Acadêmico (Principal): altera apenas o seu próprio cadastro.
+
 Administrador: altera seu cadastro e de qualquer outro usuário.
 
 
@@ -135,6 +137,7 @@ Permite que sejam excluídos cadastros de usuários do sistema.
 ###1.3.2. Atores
 
 Corpo acadêmico: exclui apenas seu próprio cadastro.
+
 Administrador(Principal): pode excluir o cadastro de qualquer outro usuário, mas não o seu.
 
 
@@ -192,6 +195,7 @@ Permite que sejam visualizados os dados de cadastro de usuários do sistema.
 ###1.4.2. Atores
 
 Corpo acadêmico (Principal) : visualiza apenas seus dados cadastrais.
+
 Administrador: pode visualizar seus dados cadastrais ou de qualquer outro usuário.
 
 
@@ -276,7 +280,9 @@ Permite que usuários cadastrados efetuem a reserva de um espaço ou a requisiç
 
 ##3.2. Ator
 
-Corpo Acadêmico e Administrador.
+Corpo Acadêmico: Efetua reservas no nome de sua conta
+
+Administrador: pode efetuar reservas em nome de outro usuário.
 
 ##3.3. Pré condição
 
@@ -298,10 +304,7 @@ O espaço será reservado ou uma reserva será requisitada para ele.
 
 [FP05] O sistema verifica os dados digitados.
 
-[FP06] O sistema efetua a reserva
-.
-
-
+[FP06] O sistema efetua a reserva.
 
 ##3.6. Fluxo Alternativo
 
@@ -310,3 +313,52 @@ O espaço será reservado ou uma reserva será requisitada para ele.
 ##3.7. Fluxo de Exceção
 
 [FE01] No passo 3 do fluxo principal [FP03] o usuário não preencheu os dados corretamente, retorna para [FP03] sinalizando qual campo não foi preenchido de forma correta.
+
+
+#4. Excluir Reserva
+
+##4.1. Descrição
+
+Permite que usuários cadastrados excluam reservas de espaços.
+
+##4.2. Ator
+
+Corpo Acadêmico:exclui reservas feitas em seu nome.
+
+Administrador: pode excluir qualquer reserva.
+
+##4.3. Pré condição
+
+O usuário deve estar logado.
+
+##4.4. Pós condição
+
+A reserva será excluída.
+
+##4.5. Fluxo Principal
+
+[FP01] O caso de uso se inicia quando o usuário seleciona a opção de “Listar suas Reservas” na barra de menu.
+
+[FP02] O sistema encaminha o usuário para a página de reservas.
+
+[FP03] O usuário seleciona uma reserva.
+
+[FP04] O usuário aperta no botão "deletar" para enviar a solicitação. 
+
+[FP05] O sistema abre uma página de confirmação.
+
+[FP06] O usuário clica em "Confirmar".
+
+[FP07] A reserva é excluída.
+
+
+##4.6. Fluxo de Alternativo
+
+[FA01] No passo [FP02], caso o Administrador queira excluir reserva de outro usuário, ele deve pesquisar este usuário e clicar em "visualizar reservas", voltando para o passo [FP02] do fluxo principal.
+
+##4.7. Fluxo de Exceção
+
+[FE01] No passo 5 do fluxo principal [FP05] o usuário clica em cancelar, voltando para o passo [FP02].
+
+
+
