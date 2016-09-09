@@ -6,6 +6,7 @@
 |02/09/2016 |1.1 |Criando Excluir Usuário e Ver Usuário |Luis |
 |04/09/2016 |1.2 |Revisão do UC01 |Fabíola |
 |08/09/2016 |1.3 |Revisão do UC01 |Luis |
+|08/09/2016 |1.4 |Adicionando o UC02|Fabíola |
 
 #1. Manter Usuário - UC01
 
@@ -226,3 +227,40 @@ Visualização dos dados cadastrais do usuário do sistema.
 ###1.4.7. Fluxo de Exceção
 
 [FE01] No fluxo alternativo [FA01] o administrador pesquisa o nome de um usuário que não existe, retorna para [FA01] sinalizando que não foi encontrado o usuário.
+
+
+
+#2. Realizar Login
+
+##2.1. Descrição
+Permite que usuários cadastrados entrem no sistema.
+
+##2.2. Ator
+
+Corpo Acadêmico e Administrador.
+
+##2.3. Pré condição
+O usuário deve possuir cadastro no sistema.
+
+##2.4. Pós condição
+
+O usuário estará logado no sistema.
+
+##2.5. Fluxo Principal
+[FP01] O caso de uso se inicia quando o usuário seleciona a opção de “Log in” na página principal.
+
+[FP02] O sistema encaminha o usuário para a página de login.
+
+[FP03] O usuário preenche seus dados na página de  login.
+
+[FP04] O usuário aperta no botão "confirmar" para enviar seus dados. 
+
+[FP05] O sistema verifica os dados digitados.
+
+[FP06] O sistema encaminha o usuário para sua página de perfil.
+
+
+
+##2.6. Fluxo de Exceção
+
+[FE01] No passo 2 do fluxo principal [FP03] o usuário não preencheu os dados corretamente, retorna para [FP03] sinalizando qual campo não foi preenchido de forma correta.
