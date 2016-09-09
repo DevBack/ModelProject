@@ -9,7 +9,8 @@
 |02/09/2016 |1.4 |Casos de Teste Excluir Usuário e Pesquisar Usuário |Lucas |
 |02/09/2016 |1.5 |Atualização Caso de Teste Editar Usuário |Vítor |
 |08/09/2016 |1.6 |Atualização Caso de Teste Editar Usuário |Vítor |
-|08/09/2016 |1.7 |Atualização Casos de Testes Cadastrar Usuário e Excluir Usuário|Vítor |
+|08/09/2016 |1.7 |Atualização Casos de Testes Cadastrar Usuário e Excluir Usuário |Vítor |
+|09/09/2016 |1.8 |Caso de Teste Criar Reserva e Atualização Caso de Teste Excluir Usuário |Vítor |
 
 #1. Introdução
 
@@ -216,16 +217,19 @@ Testes referentes à exclusão de usuário:
 	Descrição: Este caso de teste tem como objetivo mostrar uma mensagem de confirmação de exclusão quando o usuário deseja excluir sua conta.  
 	Pré-condições: Usuário fez login, e selecionou o botão excluir conta.  
 	Pós-condições: Mensagem de confirmação de exclusão de conta.  
+        Dados necessários: Não há.  
 
 * **Usuário confirmou a exclusão de sua conta**  
 	Descrição: Este caso de teste tem como objetivo excluir a conta do usuário.  
 	Pré-condições: Usuário fez login, selecionou o botão excluir conta e confirmou a exclusão.  
-	Pós-condições: Mensagem de sucesso de exclusão e usuário não está no banco de dados.  
+	Pós-condições: Mensagem de sucesso de exclusão e usuário não está no banco de dados.   
+        Dados necessários: Não há.  
 
 * **Usuário não confirmou a exclusão de sua conta**  
 	Descrição: Este caso de teste tem como objetivo impedir a exclusão da conta caso o usuário não confirme a exclusão.  
 	Pré-condições: Usuário fez login, selecionou o botão excluir conta e não confirmou a exclusão.  
-	Pós-condições: O usuário ainda consta no banco de dados.  
+	Pós-condições: O usuário ainda consta no banco de dados.   
+        Dados necessários: Não há.
 
 ###2.1.4. Pesquisar Usuário  
 Testes referentes à pesquisa de usuários:
@@ -247,3 +251,117 @@ Testes referentes à pesquisa de usuários:
 	Pré-condições: Usuário fez login, preencheu o campo de pesquisa corretamente com um nome que não foi cadastrado e selecionou o botão pesquisar.  
 	Pós-condiçõess: Mensagem  informando que não possui um usuário com o nome pesquisado.  
 	Dados necessários: Nome a ser pesquisado ou parte do nome.   
+
+## 2.2 Fazer Login
+
+##2.3. Criar Reserva 
+
+Testes referentes à criação de uma reserva:
+
+* **Efetuar reserva de sala**  
+    Descrição: Este caso de teste tem como objetivo criar uma reserva de sala.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, todos os campos são válidos, a sala ainda não está reservada.  
+    Pós-condições: Mensagem de sucesso informando que a sala foi reservada.  
+    Dados necessários: Data de início, data de fim, horário de início, horário de fim, sala.
+
+* **Todos os campos vazios**  
+    Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso todos os campos estejam vazios.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, todos os campos estão vazios.  
+    Pós-condições: Mensagem de erro informando que os todos os dados devem ser informados.  
+    Dados necessários: Não há.
+
+* **Data de início vazia**  
+    Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso a data de início esteja vazia.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, a data de início está vazia.  
+    Pós-condições: Mensagem de erro informando que a data de início deve ser informada.  
+    Dados necessários: Não há.
+
+* **Data de início inválida**  
+    Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso a data de início esteja inválida.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, a data de início está inválida.  
+    Pós-condições: Mensagem de erro informando que a data de início deve ser informada corretamente.  
+    Dados necessários: Data de início.
+
+* **Data de fim vazia**  
+    Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso a data de fim esteja vazia.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, a data de fim está vazia.  
+    Pós-condições: Mensagem de erro informando que a data de fim deve ser informada.  
+    Dados necessários: Não há.
+
+* **Data de fim inválida**  
+    Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso a data de fim esteja inválida.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, a data de fim está inválida.  
+    Pós-condições: Mensagem de erro informando que a data de fim deve ser informada corretamente.  
+    Dados necessários: Data de fim.
+
+* **Horário de início vazio**  
+    Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso o horário de início esteja vazio.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, o horário de início está vazio.  
+    Pós-condições: Mensagem de erro informando que o horário de início deve ser informado.  
+    Dados necessários: Não há.
+
+* **Horário de início inválido**  
+    Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso o horário de início esteja inválido.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, o horário de início está inválido.  
+    Pós-condições: Mensagem de erro informando que o horário de início deve ser informado corretamente.  
+    Dados necessários: Horário de início.
+
+* **Horário de fim vazio**  
+    Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso o horário de fim esteja vazio.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, o horário de fim está vazio.  
+    Pós-condições: Mensagem de erro informando que o horário de fim deve ser informado.  
+    Dados necessários: Não há.
+
+* **Horário de fim inválido**  
+    Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso o horário de fim esteja inválido.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, o horário de fim está inválido.  
+    Pós-condições: Mensagem de erro informando que o horário de fim deve ser informado corretamente.  
+    Dados necessários: Horário de fim.
+
+* **Espaço vazio**  
+    Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso o espaço esteja vazio.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, o espaço está vazio.  
+    Pós-condições: Mensagem de erro informando que o espaço deve ser informado.  
+    Dados necessários: Não há.
+
+* **Data de fim anterior à data de início**  
+    Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso a data de fim seja anterior à data de início.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, a data de fim é anterior à data de início.  
+    Pós-condições: Mensagem de erro informando que a data de fim deve ser posterior à data de início.  
+    Dados necessários: Data de início, data de fim.
+
+* **Horário de fim anterior ao horário de início**  
+    Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso o horário de fim seja anterior ao horário de início.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, o horário de fim é anterior ao horário de início.  
+    Pós-condições: Mensagem de erro informando que o horário de fim deve ser posterior ao horário de início.  
+    Dados necessários: Horário de início, horário de fim.
+
+* **Efetuar pedido de reserva de laboratório**  
+    Descrição: Este caso de teste tem como objetivo realizar o pedido de reserva de um laboratório.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de um laboratório.
+    Pós-condições: Mensagem de sucesso informando que o pedido de reserva foi enviado ao administrador.  
+    Dados necessários:  Data de início, data de fim, horário de início, horário de fim, laboratório.
+
+* **Aceitar pedido de reserva de laboratório**  
+    Descrição: Este caso de teste tem como objetivo aceitar o pedido de reserva de um laboratório.  
+    Pré-condições: O usuário é administrador, está logado e tentou aceitar a reserva de um laboratório.
+    Pós-condições: Mensagem de sucesso informando que o pedido de reserva foi aceita e a reserva do usuário realizada.  
+    Dados necessários:  Não há. 
+
+* **Efetuar pedido de reserva de laboratório**  
+    Descrição: Este caso de teste tem como objetivo realizar o pedido de reserva de um laboratório.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de um laboratório.
+    Pós-condições: Mensagem de sucesso informando que o pedido de reserva foi enviado ao administrador.  
+    Dados necessários:  Data de início, data de fim, horário de início, horário de fim, laboratório.
+
+* **Efetuar reserva de espaço em nome de outro usuário**  
+    Descrição: Este caso de teste tem como objetivo criar a reserva de um espaço pelo administrador em nome de outro usuário.  
+    Pré-condições: O usuário é um administrador, está logado e tentou efetuar a reserva de um espaço, todos os campos são válidos, o espaço ainda não está reservado.  
+    Pós-condições: Mensagem de sucesso informando que o espaço foi reservado.  
+    Dados necessários: Data de início, data de fim, horário de início, horário de fim, espaço.
+
+* **Espaço já reservado**  
+    Descrição: Este caso de teste tem como objetivo impedir a reserva de espaço quando este já está reservado nos horários e datas informados.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de um espaço já reservado, todos os campos são válidos. 
+    Pós-condições: Mensagem de erro informando que o espaço já está reservado.  
+    Dados necessários: Data de início, data de fim, horário de início, horário de fim, espaço.
