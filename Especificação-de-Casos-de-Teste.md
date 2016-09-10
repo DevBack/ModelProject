@@ -12,6 +12,7 @@
 |08/09/2016 |1.7 |Atualização Casos de Testes Cadastrar Usuário e Excluir Usuário |Vítor |
 |09/09/2016 |1.8 |Caso de Teste Criar Reserva e Atualização Caso de Teste Excluir Usuário |Vítor |  
 |09/09/2016 |1.9 |Caso de Teste Excluir Reserva |Vítor |
+|09/09/2016 |2.0 |Caso de Teste Fazer Login |Lucas |
 
 #1. Introdução
 
@@ -248,12 +249,55 @@ Testes referentes à pesquisa de usuários:
 	Dados necessários: Nome a ser pesquisado ou parte do nome.   
 
 * **Nome pesquisado não consta no banco de dados**  
-        Descrição: Este caso de teste tem como objetivo informar que não há nenhum usuário cadastrado quando a pesquisa não encontra nenhum nome correspondente no banco de dados.
+        Descrição: Este caso de teste tem como objetivo informar que não há nenhum usuário cadastrado quando a pesquisa não encontra nenhum nome correspondente no banco de dados.  
 	Pré-condições: Usuário fez login, preencheu o campo de pesquisa corretamente com um nome que não foi cadastrado e selecionou o botão pesquisar.  
 	Pós-condiçõess: Mensagem  informando que não possui um usuário com o nome pesquisado.  
 	Dados necessários: Nome a ser pesquisado ou parte do nome.   
 
 ##2.2 Fazer Login
+Testes referentes ao login de usuários:  
+* **Todos os campos válidos**  
+    Descrição: Este caso de teste tem como objetivo permitir o login de usuários.  
+    Pré-condição: Usuário informou nome de usuário e senha válidos, está cadastrado no banco de dados.  
+    Pós-condição: Usuário fez login no sistema.  
+    Dados: Nome de usuário e senha.   
+
+* **Usuário informou dados válidos, mas não está cadastrado no sistema**  
+    Descrição: Este caso de teste tem como objetivo impedir o login de usuários não cadastrados no sistema.  
+    Pré-condição: Usuário informou nome de usuário e senha válidos e não está cadastrado no banco de dados.  
+    Pós-condição: Mensagem de erro informando que os dados não constam no banco de dados.  
+    Dados: Nome de usuário e senha.  
+
+* **Campo 'nome de usuário' nulo**  
+    Descrição: Este caso de teste tem o objetivo de impedir o login de usuários caso o campo 'nome de usuário' esteja nulo.  
+    Pré-condição: Campo 'nome de usuário' está nulo.  
+    Pós-condição: Mensagem de erro informando que o campo está vazio.  
+    Dados: Nome de usuário.  
+
+* **Campo 'nome de usuário' em branco**  
+    Descrição: Este caso de teste tem o objetivo de impedir o login de usuários caso o campo 'nome de usuário' esteja em branco.  
+    Pré-condição: Campo 'nome de usuário' está em branco.  
+    Pós-condição: Mensagem de erro informando que o campo está em branco.  
+    Dados: Nome de usuário.  
+
+* **Campo 'senha' nulo**  
+    Descrição: Este caso de teste tem o objetivo de impedir o login de usuários caso o campo 'senha' esteja nulo.  
+    Pré-condição: Campo 'senha' está nulo.  
+    Pós-condição: Mensagem de erro informando que o campo está vazio.  
+    Dados: Senha.  
+
+
+* **Campo 'senha' em branco**  
+    Descrição: Este caso de teste tem o objetivo de impedir o login de usuários caso o campo 'senha' esteja em branco.  
+    Pré-condição: Campo 'senha' está em branco.  
+    Pós-condição: Mensagem de erro informando que o campo está em branco.  
+    Dados: Senha.  
+
+* **Nome de usuário cadastrado no sistema, porém a senha está errada**  
+	Descrição: Este teste tem como objetivo impedir o login de usuário quando este informar uma senha errada.  
+	Pré-condição: Usuário informou um nome de usuário cadastrado no banco de dados e digitou uma senha errada.  
+	Pós-condição: Mensagem de erro informando que a senha está errada.  
+	Dados: Nome de usuário e senha.  
 
 ##2.3. Criar Reserva 
 
