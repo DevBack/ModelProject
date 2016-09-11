@@ -96,7 +96,7 @@ RN09 Para alterar a senha o usuário deve digitar a senha atual.
 
 [FP02] O sistema redireciona o usuário para a página de perfil.
 
-[FP03] O usuário altera os dados, respeitando a RN01.
+[FP03] O usuário altera os dados, respeitando a RN08(Apenas email, nome e senha).
 
 [FP04] O usuário confirma a alteração.
 
@@ -235,7 +235,7 @@ Visualização dos dados cadastrais do usuário do sistema.
 
 
 
-#2. Realizar Login
+#2. Realizar Login - UC02
 
 ##2.1. Descrição
 Permite que usuários cadastrados entrem no sistema.
@@ -272,7 +272,7 @@ O usuário estará logado no sistema.
 
 
 
-#3. Criar Reserva
+#3. Criar Reserva - UC03
 
 ##3.1. Descrição
 
@@ -315,7 +315,7 @@ O espaço será reservado ou uma reserva será requisitada para ele.
 [FE01] No passo 3 do fluxo principal [FP03] o usuário não preencheu os dados corretamente, retorna para [FP03] sinalizando qual campo não foi preenchido de forma correta.
 
 
-#4. Excluir Reserva
+#4. Excluir Reserva - UC04
 
 ##4.1. Descrição
 
