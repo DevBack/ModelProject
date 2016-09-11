@@ -19,6 +19,7 @@
 |01/09/2016|2.2 | Atualizando a Visão de Casos de Uso |Fabíola |
 |02/09/2016|2.3 | Atualizando Restrições e Metas Arquiteturais |Luis |
 |04/09/2016|2.4 | Remoção da Visualização da Implantação|Hugo |
+|11/09/2016|2.5 | Atualizando Visão Geral e Inclusão da Visão em Camadas|Luis |
 
 
 # 1. Introdução
@@ -117,7 +118,17 @@ Os pacotes de design signficativos são: models, templates, views e tests. Ao ut
 # 6. Visão da Implementação  
 
 ## 6.1. Visão Geral
-![Imagem - Visão Geral](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/Diagrama_de_classe.png)
+![Imagem - Visão Geral](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/Diagrama_de_classe_soatributos.png)
+
+## 6.2. Em Camadas
+
+### Model
+
+![Imagem - Visão Geral](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/Diagrama_de_classe_model.png)
+
+### View
+
+![Imagem - Visão Geral](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/Diagrama_de_classe_view.png)
 
 # 7. Qualidade
 
