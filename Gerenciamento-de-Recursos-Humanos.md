@@ -69,3 +69,5 @@ Gerente do Projeto|Planejar, monitorar e controlar o desenvolvimento do projeto;
 * Respeito interpessoal;
 * Valorização da opinião dos membros;
 * Descontração e relacionamento informal;
+
+Os valores cultivados pela equipe foram levantados a partir de um debate ocorrido em uma das reuniões iniciais do projeto.
