@@ -1,7 +1,7 @@
 # Ata da Reunião 27/08/2016
 
 
-Horario | 16:20 a 17:00 |
+Horario | 16:10 a 17:00 |
 ---------|-----------------|
 Local   | I8 |
 Editor da ata | Jessica |
@@ -20,7 +20,7 @@ Luis Gustavo |Gustavo Coelho |
 
 1. Capacitação da Equipe: 
  * Treinamento de teste unitário
- * Treinamento de de aceitação
+ * Treinamento de teste de aceitação
  * Integração Contínua
 
 ## Ações
