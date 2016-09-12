@@ -4,6 +4,7 @@
 |----|------|---------|-------|
 |25/08/2016|1.0|Criação da estrutura do plano, preenchimento tópicos 1 ao 4|Pedro|
 |27/08/2016|1.1|Adição dos tópicos 5 e 6 do documento|Elaine e Pedro|
+|12/08/2016|1.2|Inserção de como foram definidos os valores da equipe|Pedro|
 
 ## 1. Objetivo
 Esse documento tem por objetivo estabelecer uma visão a respeito dos recursos humanos que serão utilizados no projeto SAS, seus papeis e responsabilidades no projeto, as necessidades de aquisição de conhecimentos e os valores da equipe.
