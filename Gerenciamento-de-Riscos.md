@@ -94,19 +94,19 @@ A tabela abaixo apresenta os riscos identificados bem como suas devidas ações 
 ## 3.1. Classificação dos riscos identificados
 A tabela abaixo descreve a classificação dos riscos identificados descritos anteriormente.
 
-|Risco|Probabilidade|Impacto   |Classificação        |Ação      |
-|-----|-------------|----------|---------------------|----------|
-|RSC01| Média       | Alto     | Prioridade alta     |Prevenir  |
-|RSC02| Muito baixa | Alto     | Prioridade baixa    |Aceitar   |
-|RSC03| Média       | Moderado | Prioridade moderada |Mitigar   |
-|RSC04| Baixa       | Alto     | Prioridade moderada |Mitigar   |
-|RSC05| Baixa       | Alto     | Prioridade moderada |Prevenir  |
-|RSC06| Baixa       | Baixo    | Prioridade baixa    |Aceitar   |
-|RSC07| Média       | Alto     | Prioridade alta     |Prevenir  |
-|RSC08| Muito baixa | Alto     | Prioridade baixa    |Aceitar   |
-|RSC09| Alta        | Alto     | Prioridade alta     |Mitigar   |
-|RSC10| Média       | Alto     | Prioridade alta     |Mitigar   |
-|RSC11| |     |     |   |
-|RSC12| |     |     |   |
-|RSC13| |     |     |   |
-|RSC14| |     |     |   |
+|Risco|Probabilidade|Impacto    |Classificação        |Ação      |
+|-----|-------------|-----------|---------------------|----------|
+|RSC01| Média       | Alto      | Prioridade alta     |Prevenir  |
+|RSC02| Muito baixa | Alto      | Prioridade baixa    |Aceitar   |
+|RSC03| Média       | Moderado  | Prioridade moderada |Mitigar   |
+|RSC04| Baixa       | Alto      | Prioridade moderada |Mitigar   |
+|RSC05| Baixa       | Alto      | Prioridade moderada |Prevenir  |
+|RSC06| Baixa       | Baixo     | Prioridade baixa    |Aceitar   |
+|RSC07| Média       | Alto      | Prioridade alta     |Prevenir  |
+|RSC08| Muito baixa | Alto      | Prioridade baixa    |Aceitar   |
+|RSC09| Alta        | Alto      | Prioridade alta     |Mitigar   |
+|RSC10| Média       | Alto      | Prioridade alta     |Mitigar   |
+|RSC11| Alta        | Alto      | Prioridade alta     |Prevenir  |
+|RSC12| Média       | Alto      | Prioridade alta     |Prevenir  |
+|RSC13| Muito baixa | Muito alto| Prioridade moderada |Prevenir  |
+|RSC14| Baixa       | N/A       | Prioridade baixa    |Aceitar   |
