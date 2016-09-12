@@ -16,7 +16,7 @@
 * [Gerenciamento de Custos](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Custos)
 * [Gerenciamento de Recursos Humanos](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Recursos-Humanos)
 * [Gerenciamento de Riscos](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Riscos)
-* [Gerenciamento de Configuração de Software](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Plano-de-GCS)
+* [Gerenciamento de Configuração de Software](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Plano-de-Ger%C3%AAncia-de-Configura%C3%A7%C3%A3o-de-Software)
 * [Gerenciamento de Qualidade](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Qualidade)
 
 ##Desenvolvimento do Software
