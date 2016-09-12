@@ -9,6 +9,7 @@
 |08/09/2016 |1.4 |Adicionando o UC02|Fabíola |
 |08/09/2016 |1.5 |Adicionando o UC03|Fabíola |
 |08/09/2016 |1.6 |Adicionando o UC04|Fabíola |
+|12/09/2016 |1.7 |Revisão dos UC02, UC03 e UC04|Fabíola |
 
 #1. Manter Usuário - UC01
 
@@ -238,7 +239,7 @@ Visualização dos dados cadastrais do usuário do sistema.
 #2. Realizar Login - UC02
 
 ##2.1. Descrição
-Permite que usuários cadastrados entrem no sistema.
+Permite que usuários cadastrados tenham acesso as demais funcionalidades do sistema que exijam autenticação.
 
 ##2.2. Ator
 
@@ -249,7 +250,7 @@ O usuário deve possuir cadastro no sistema.
 
 ##2.4. Pós condição
 
-O usuário estará logado no sistema.
+O usuário estará logado no sistema e terá acesso as demais funcionalidades.
 
 ##2.5. Fluxo Principal
 [FP01] O caso de uso se inicia quando o usuário seleciona a opção de “Log in” na página principal.
@@ -268,8 +269,9 @@ O usuário estará logado no sistema.
 
 ##2.6. Fluxo de Exceção
 
-[FE01] No passo 3 do fluxo principal [FP03] o usuário não preencheu os dados corretamente, retorna para [FP03] sinalizando qual campo não foi preenchido de forma correta.
+[FE01] No passo 5 do fluxo principal [FP05] o usuário preencheu uma matrícula que não existe, retorna para [FP03] sinalizando que o usuário digitado não existe.
 
+[FE02] No passo 5 do fluxo principal [FP05] o usuário digitou a senha incorreta, retorna para [FP03] sinalizando que a senha digitada não confere.
 
 
 #3. Criar Reserva - UC03
@@ -304,11 +306,11 @@ O espaço será reservado ou uma reserva será requisitada para ele.
 
 [FP05] O sistema verifica os dados digitados.
 
-[FP06] O sistema efetua a reserva.
+[FP06] O sistema efetua a reserva, exibindo uma mensagem de sucesso ao usuário.
 
 ##3.6. Fluxo Alternativo
 
-[FA01] No passo [FP03], caso o espaço selecionado seja um laboratório, o sistema não efetuará a reserva mas sim deixará ela pendente para avaliação de um Administrador.
+[FA01] No passo [FP06], caso o espaço selecionado seja um laboratório, o sistema não efetuará a reserva mas sim deixará ela pendente para avaliação de um Administrador que poderá confirmá-la ou cancelar.
 
 ##3.7. Fluxo de Exceção
 
@@ -349,16 +351,14 @@ A reserva será excluída.
 
 [FP06] O usuário clica em "Confirmar".
 
-[FP07] A reserva é excluída.
+[FP07] O sistema exclui a reserva e exibe uma mensagem para o usuário.
 
 
 ##4.6. Fluxo de Alternativo
 
-[FA01] No passo [FP02], caso o Administrador queira excluir reserva de outro usuário, ele deve pesquisar este usuário e clicar em "visualizar reservas", voltando para o passo [FP02] do fluxo principal.
+[FA01] No passo [FP02], caso o Administrador queira excluir reserva de outro usuário, ele deve pesquisar este usuário e clicar em "visualizar reservas", voltando para o passo [FP03] do fluxo principal.
 
-##4.7. Fluxo de Exceção
-
-[FE01] No passo 5 do fluxo principal [FP05] o usuário clica em cancelar, voltando para o passo [FP02].
+[FA02] No passo 5 do fluxo principal [FP05] o usuário clica em cancelar, voltando para o passo [FP02].
 
 
 
