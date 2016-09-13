@@ -6,11 +6,12 @@
 |02/09/2016 |1.1 |Criando Excluir Usuário e Ver Usuário |Luis |
 |04/09/2016 |1.2 |Revisão do UC01 |Fabíola |
 |08/09/2016 |1.3 |Revisão do UC01 |Luis |
-|08/09/2016 |1.4 |Adicionando o UC02|Fabíola |
-|08/09/2016 |1.5 |Adicionando o UC03|Fabíola |
-|08/09/2016 |1.6 |Adicionando o UC04|Fabíola |
-|12/09/2016 |1.7 |Revisão dos UC02, UC03 e UC04|Fabíola |
-|13/09/2016 |1.8 |Revisão dos UC02, UC03 e UC04|Luis |
+|08/09/2016 |1.4 |Adicionando o UC02 |Fabíola |
+|08/09/2016 |1.5 |Adicionando o UC03 |Fabíola |
+|08/09/2016 |1.6 |Adicionando o UC04 |Fabíola |
+|12/09/2016 |1.7 |Revisão dos UC02, UC03 e UC04 |Fabíola |
+|13/09/2016 |1.8 |Revisão dos UC02, UC03 e UC04 |Luis |
+|13/09/2016 |1.9 |Adicionando o UC05 |Luis |
 
 #1. Manter Usuário - UC01
 
@@ -355,9 +356,9 @@ A reserva será excluída.
 
 [FP01] O caso de uso se inicia quando o usuário seleciona a opção de “Minhas Reservas” na barra de menu.
 
-[FP02] O sistema encaminha o usuário para a página de reservas.
+[FP02] O sistema encaminha o usuário para a página de reservas e lista todas as reservas do usuário.
 
-[FP03] O usuário aperta no botão "x" para deletar para enviar a solicitação. 
+[FP03] O usuário aperta no botão "x", da reserva que deseja deletar, para enviar a solicitação. 
 
 [FP04] O usuário clica em "Confirmar".
 
@@ -378,9 +379,74 @@ A reserva será excluída.
 
 * O administrador é encaminhado para o [FP02] do "Excluir Reserva".
 
+[FA02] Após o passo 2 do fluxo principal [FP02] o usuário queira encontrar a reserva que deseja excluir por nome da reserva e/ou data da reserva, ele preenche ao menos um desses campos, retorna para [FP03]
 
-##3.7. Fluxo de Exceção
+
+##4.7. Fluxo de Exceção
 
 [FE01] No passo 4 do fluxo principal [FP04] o usuário aperta no botão "cancelar" , retorna para [FP02].
 
 [FE02] No passo 2 do [FA01] o administrador digita o nome de um usuário que não existe, retorna para [FA01] sinalizando que o usuário digitado não existe.
+
+[FE03] No [FA02] o usuário digita o nome de uma reserva e/ou a data de uma reserva que ele não possui, retorna para [FP02] sinalizando que não existe reserva com esse nome e/ou data.
+
+
+#5. Consultar Reserva - UC05
+
+##5.1. Descrição
+
+Permite que usuários cadastrados consultem suas reservas de espaços.
+
+##5.2. Ator
+
+Corpo Acadêmico: consulta apenas suas próprias reservas de espaço.
+
+Administrador: pode consultar qualquer reserva de espaço.
+
+##5.3. Pré condição
+
+O usuário deve estar logado.
+
+##5.4. Pós condição
+
+Visualização dos dados da reserva.
+
+##5.5. Fluxo Principal
+
+[FP01] O caso de uso se inicia quando o usuário seleciona a opção de “Minhas Reservas” na barra de menu.
+
+[FP02] O sistema encaminha o usuário para a página de reservas e lista todas as suas reservas.
+
+[FP03] O usuário aperta no botão "lupa", da reserva que deseja consultar, para enviar a solicitação.
+
+[FP04] O sistema encaminha o usuário para a página com os dados da reserva.
+
+[FP05] O usuário consulta os dados da sua reserva.
+
+[FP06] O usuário clica no botão de "Voltar".
+
+[FP07] O sistema encaminha o usuário para a página de reservas e lista todas as suas reservas.
+
+
+##5.6. Fluxo de Alternativo
+
+[FA01]  O administrador consulta uma reserva de outro usuário.
+
+* O administrador clica na opção de pesquisar usuários.
+
+* O administrador insere o nome do usuário que deseja pesquisar.
+
+* O administrador seleciona o usuário que deseja ver.
+
+* O administrador seleciona seleciona a opção "visualizar reservas".
+
+* O administrador é encaminhado para o [FP02] do "Consultar Reserva".
+
+
+[FA02] Após o passo 2 do fluxo principal [FP02] o usuário queira encontrar a reserva que deseja excluir por nome da reserva e/ou data da reserva, ele preenche ao menos um desses campos, retorna para [FP03]
+
+##5.7. Fluxo de Exceção
+
+[FE01] No passo 2 do [FA01] o administrador digita o nome de um usuário que não existe, retorna para [FA01] sinalizando que o usuário digitado não existe.
+
+[FE02] No [FA02] o usuário digita o nome de uma reserva e/ou a data de uma reserva que ele não possui, retorna para [FP02] sinalizando que não existe reserva com esse nome e/ou data.
