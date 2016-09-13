@@ -6,6 +6,7 @@
 |31/08/2016 |1.1 |Adição do conteúdo no tópico 3. |Allan |
 |31/08/2016 |1.2 |Adicionando risco |Jessica |
 |02/09/2016 |1.3 |Adicionado riscos 11 a 14 e tabela de responsáveis pelos riscos |Allan |
+|12/09/2016 |1.4 |Adicionada EAR e revisão total |Allan |
 
 # 1. Introdução
 
@@ -28,6 +29,7 @@ Após identificação de risco segue a sua devida documentação considerando os
 Considera-se a existência de riscos negativos e positivos para o projeto, ameaças e oportunidades, respectivamente.
 
 ### 2.1.1. EAR - Estrutura Analítica de Riscos
+![EAR - Estrutura Analítica de Riscos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/EAR.png) 
 
 ## 2.2. Análise qualitativa de riscos
 Trata-se do processo de **priorização** dos riscos considerando **probabilidade** de ocorrência e **impacto**.
