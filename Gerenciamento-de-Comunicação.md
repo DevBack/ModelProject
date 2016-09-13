@@ -6,12 +6,13 @@
 | 25/08/2016| 1.1  | Evolução do tópico 2| Pedro|
 | 25/08/2016| 1.2  | Adicionados tópicos 2.4 e 2.5| Allan|
 | 27/08/2016| 1.3  | Mescla dos tópicos 1 e 2 e atualização do documento| Elaine|
-| 27/08/2016| 1.3  | Correção na numeração dos tópicos. Adição do conteúdo do tópico 2.4. Adicionado tópico 3.| Allan|
+| 27/08/2016| 1.4  | Correção na numeração dos tópicos. Adição do conteúdo do tópico 2.4. Adicionado tópico 3.| Allan|
+| 13/09/2016| 1.5  | Adequação da estrutura do plano| Pedro|
 
 ## 1. Introdução
 O presente documento detalha o planejamento da comunicação entre os alunos das disciplinas de Métodos de Desenvolvimento de Software e Gestão de Portifólios e Projetos da Universidade de Brasília, Faculdade Gama, em relação ao projeto SAS durante o segundo semestre do ano de 2016. Essa comunicação é extremamente importante para o sucesso do projeto, já que por ser um time, deve-se trabalhar todos juntos.
 
-## 2. Comunicação
+## 2. Planejamento da Comunicação
 ### 2.1. Ferramentas Utilizadas
 
 |Ferramenta   |Descrição |Finalidade|
@@ -48,7 +49,7 @@ agendar, preparar a pauta e alocar integrantes da equipe para atender a reunião
 ### 2.5 Comunicação Externa
 Esta descreve a comunicação com os interessados no projeto não diretamente envolvidos com sua construção. O canal de comunicação utilizado para tal é a Wiki do projeto (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki), na qual se encontra toda documentação produzida e contato dos integrantes da equipe, caso necessário esclarecimentos.
 
-## 3. Estratégia de Controle da Comunicação
+## 3. Estratégia de Monitoramento e Controle da Comunicação
 A rotina de comunicação da equipe consiste em diariamente trocar mensagens instantâneas através das ferramentas Whatsapp e Telegram (ver [2.1. Ferramentas Utilizadas](#21-ferramentas-utilizadas)) para pequenos alinhamentos de equipe e para feedbacks em geral. Nas reuniões semanais (ver [2.3. Reuniões](#23-reuni%C3%B5es)) são discutidos cronograma, tarefas, situação atual e tópicos mais importantes, que demandam decisões de maiores impactos. Todas as reuniões semanais contam com uma ata na qual descreve-se as decisões tomadas e ações a serem resolvidas. 
 
 A equipe de gerenciamento se atém a manter o padrão da rotina de comunicação, de forma a facilitar o controle do fluxo de informações. Quando é identificada a necessidade de consultar o cliente para esclarecimentos, é adicionado a questão no tópico de ações da última ata de reunião realizada. Tal atividade permite que durante as aulas possa se obter maior proveito da professora Carla Rocha, tanto como consultora quanto como cliente do projeto.
