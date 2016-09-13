@@ -112,3 +112,11 @@ A tabela abaixo descreve a classificação dos riscos identificados descritos an
 |RSC12| Média       | Alto      | Prioridade alta     |Prevenir  |
 |RSC13| Muito baixa | Muito alto| Prioridade moderada |Prevenir  |
 |RSC14| Baixa       | N/A       | Prioridade baixa    |Aceitar   |
+
+# 4. Monitoramento dos Riscos
+
+|Risco|Data de Ocorrência|Detalhamento|Ação tomada        |
+|-----|------------------|------------|-------------------|
+|RSC11|07, 08/09/2016    |Fabíola, Elaine, Allan tiveram problemas com a configuração do ambiente seguindo os passos definidos | Gustavo revisou os passos definidos e orientou novos procedimentos, resolvendo a situação|
+|RSC07|03/09/2016    |Dojo para codificação do primeiro caso de uso| Todos presentes em dojo para minimização do risco de não aprendizagem da tecnologia|
+|RSC06|12/08/2016    |FGA não dispos de espaço e internet para reunião do grupo| O grupo reuniu-se na casa da Jessica, embora tenha impactado em perca de tempo da reunião a pauta - git - foi completada|
