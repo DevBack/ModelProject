@@ -7,6 +7,7 @@
 |31/08/2016 |1.2 |Adicionando risco |Jessica |
 |02/09/2016 |1.3 |Adicionado riscos 11 a 14 e tabela de responsáveis pelos riscos |Allan |
 |12/09/2016 |1.4 |Adicionada EAR e revisão total |Allan |
+|12/09/2016 |1.5 |Adicionado Monitoramento dos riscos |Allan |
 
 # 1. Introdução
 
