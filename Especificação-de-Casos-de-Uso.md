@@ -10,6 +10,7 @@
 |08/09/2016 |1.5 |Adicionando o UC03|Fabíola |
 |08/09/2016 |1.6 |Adicionando o UC04|Fabíola |
 |12/09/2016 |1.7 |Revisão dos UC02, UC03 e UC04|Fabíola |
+|13/09/2016 |1.8 |Revisão dos UC02, UC03 e UC04|Luis |
 
 #1. Manter Usuário - UC01
 
@@ -108,7 +109,7 @@ RN09 Para alterar a senha o usuário deve digitar a senha atual.
 [FP07] O sistema encaminha o usuário para página inicial e retorna mensagem de sucesso de alteração.
 
 ###1.2.7. Fluxo Alternativo
-[FA01] O administrado altera o cadastro de um outro usuário. Este fluxo inicia-se no passo [FP01]
+[FA01] O administrador altera o cadastro de um outro usuário. Este fluxo inicia-se no passo [FP01]
 
 * O administrador clica na opção de pesquisar usuários.
 
@@ -167,7 +168,7 @@ RN10 Para excluir a conta o usuário deve clicar no botão “Confirmar” na ca
 [FP06] O sistema encaminha o usuário para página inicial e retorna mensagem de sucesso de exclusão.
 
 ###1.3.7. Fluxo Alternativo
-[FA01] O administrado exclui o cadastro de um outro usuário. Este fluxo inicia-se no passo [FP01]
+[FA01] O administrador exclui o cadastro de um outro usuário. Este fluxo inicia-se no passo [FP01]
 
 * O administrador clica na opção de pesquisar usuários.
 
@@ -253,13 +254,13 @@ O usuário deve possuir cadastro no sistema.
 O usuário estará logado no sistema e terá acesso as demais funcionalidades.
 
 ##2.5. Fluxo Principal
-[FP01] O caso de uso se inicia quando o usuário seleciona a opção de “Log in” na página principal.
+[FP01] O caso de uso se inicia quando o usuário seleciona a opção de “Entrar” na página principal.
 
 [FP02] O sistema encaminha o usuário para a página de login.
 
 [FP03] O usuário preenche seus dados na página de  login.
 
-[FP04] O usuário aperta no botão "confirmar" para enviar seus dados. 
+[FP04] O usuário aperta no botão "Entrar" para enviar seus dados. 
 
 [FP05] O sistema verifica os dados digitados.
 
@@ -288,7 +289,7 @@ Administrador: pode efetuar reservas em nome de outro usuário.
 
 ##3.3. Pré condição
 
-O usuário deve estar logado.
+O usuário deve estar logado e deve ter consultado os espaços.
 
 ##3.4. Pós condição
 
@@ -296,26 +297,39 @@ O espaço será reservado ou uma reserva será requisitada para ele.
 
 ##3.5. Fluxo Principal
 
-[FP01] O caso de uso se inicia quando o usuário seleciona a opção de “Reservar espaço” na barra de menu.
+[FP01] O caso de uso se inicia após o usuário ter consultado os espaços.
 
-[FP02] O sistema encaminha o usuário para a página de reservas.
+[FP02] O usuário atribui um nome a sua reserva.
 
-[FP03] O usuário seleciona um espaço e o período de reserva.
+[FP03] O usuário aperta no botão "Efetuar reserva".
 
-[FP04] O usuário aperta no botão "confirmar" para enviar a solicitação. 
+[FP04] O usuário aperta no botão "confirmar" para enviar a solicitação.
 
-[FP05] O sistema verifica os dados digitados.
-
-[FP06] O sistema efetua a reserva, exibindo uma mensagem de sucesso ao usuário.
+[FP05] O sistema efetua a reserva, exibindo uma mensagem de sucesso ao usuário.
 
 ##3.6. Fluxo Alternativo
 
-[FA01] No passo [FP06], caso o espaço selecionado seja um laboratório, o sistema não efetuará a reserva mas sim deixará ela pendente para avaliação de um Administrador que poderá confirmá-la ou cancelar.
+[FA01] No passo [FP04], caso o espaço selecionado seja um laboratório, o sistema não efetuará a reserva mas sim deixará ela pendente para avaliação de um Administrador que poderá confirmá-la ou cancelar.
+
+[FA02] O administrador reserva um espaço para outro usuário. Este fluxo inicia-se no passo [FP01]
+
+* O administrador atribui um nome a sua reserva.
+
+* O administrador aperta no botão "Efetuar reserva".
+
+* O administrador seleciona marca a opção "reservar espaço para outro usuário".
+
+* O administrador digita o nome do usuário ao qual deseja atribuir a reserva.
+
+* O administrador seleciona o usuário que ao qual deseja atribuir a reserva.
+
+* O administrador é encaminhado ao [FP03] do "Criar Reserva".
 
 ##3.7. Fluxo de Exceção
 
-[FE01] No passo 3 do fluxo principal [FP03] o usuário não preencheu os dados corretamente, retorna para [FP03] sinalizando qual campo não foi preenchido de forma correta.
+[FE01] No passo 4 do fluxo principal [FP04] o usuário aperta no botão "cancelar" , retorna para [FP01].
 
+[FE02] No passo 4 do [FA02] o administrador digita o nome de um usuário que não existe, retorna para [FA02] sinalizando que o usuário digitado não existe.
 
 #4. Excluir Reserva - UC04
 
@@ -339,26 +353,34 @@ A reserva será excluída.
 
 ##4.5. Fluxo Principal
 
-[FP01] O caso de uso se inicia quando o usuário seleciona a opção de “Listar suas Reservas” na barra de menu.
+[FP01] O caso de uso se inicia quando o usuário seleciona a opção de “Minhas Reservas” na barra de menu.
 
 [FP02] O sistema encaminha o usuário para a página de reservas.
 
-[FP03] O usuário seleciona uma reserva.
+[FP03] O usuário aperta no botão "x" para deletar para enviar a solicitação. 
 
-[FP04] O usuário aperta no botão "deletar" para enviar a solicitação. 
+[FP04] O usuário clica em "Confirmar".
 
-[FP05] O sistema abre uma página de confirmação.
-
-[FP06] O usuário clica em "Confirmar".
-
-[FP07] O sistema exclui a reserva e exibe uma mensagem para o usuário.
+[FP05] O sistema exclui a reserva e exibe uma mensagem para o usuário.
 
 
 ##4.6. Fluxo de Alternativo
 
-[FA01] No passo [FP02], caso o Administrador queira excluir reserva de outro usuário, ele deve pesquisar este usuário e clicar em "visualizar reservas", voltando para o passo [FP03] do fluxo principal.
+[FA01] O administrador exclui uma reserva de outro usuário.
 
-[FA02] No passo 5 do fluxo principal [FP05] o usuário clica em cancelar, voltando para o passo [FP02].
+* O administrador clica na opção de pesquisar usuários.
+
+* O administrador insere o nome do usuário que deseja pesquisar.
+
+* O administrador seleciona o usuário que deseja ver.
+
+* O administrador seleciona seleciona a opção "visualizar reservas"
+
+* O administrador é encaminhado para o [FP02] do "Excluir Reserva".
 
 
+##3.7. Fluxo de Exceção
 
+[FE01] No passo 4 do fluxo principal [FP04] o usuário aperta no botão "cancelar" , retorna para [FP02].
+
+[FE02] No passo 2 do [FA01] o administrador digita o nome de um usuário que não existe, retorna para [FA01] sinalizando que o usuário digitado não existe.
