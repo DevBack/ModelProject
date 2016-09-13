@@ -6,14 +6,15 @@
 |28/08/2016|1.1|Adição da imagem de política de branches.|Gustavo|
 |03/09/2016|1.2|Adição da politica de GCS para o escopo do projeto|Pedro|
 |04/09/2016|1.3|Revisão ortográfica do documento|Elaine|
+|13/09/2016|1.4| Adequação da estrutura do plano| Pedro|
 
-# 1. Introdução
+## 1. Introdução
 
 Esse documento tem como finalidade apresentar as políticas do projeto para controle de gerência de configuração e mudança.
 
-# 2. Gerenciamento de Configuração de Software
+## 2. Planejamento do Gerenciamento de Configuração de Software
 
-## 2.1 Organização, Responsabilidades e Interfaces
+### 2.1. Organização, Responsabilidades e Interfaces
 
 A definição de uma política de gerência de configuração e mudança é muito importante para evitar problemas de atrasos acarretando aumentos nos custos do projeto. Portanto, as responsibilidades e atividades abaixo foram definidas para o correto andamento do projeto.
 
@@ -26,7 +27,7 @@ Gerenciar baselines e releases|	Garantir que o produto de qualidade seja disponi
 Monitorar e Relatar Status de Configuração |Realizar a validação do produto, garantir a visibilidade dos artefatos|Equipe de GPP
 Gerenciar Solicitações de Mudança |Assegurar que mudanças feitas no projeto sejam consistentes, e que essas mudanças sejam informados a todos da equipe| Equipe de GPP e equipe de MDS 
 
-## 2.2 Ferramentas
+### 2.2. Ferramentas
 
 O projeto irá utilizar as seguintes ferramentas - que compõe o ambiente de desenvolvimento - e suas versões:
 
@@ -39,11 +40,13 @@ O projeto irá utilizar as seguintes ferramentas - que compõe o ambiente de des
 
 
 
-### Integração Contínua
+#### Integração Contínua
 
 A integracão contínua será realizada através da ferramenta [Travis] (https://travis-ci.org/). Os testes e a cobertura de código podem ser verificados a cada commit submetido para o repositório no GitHub, assim, há uma garantia para o projeto dos efeitos de alterações no código.
 
-## 2.3 Níveis de controle de configuração 
+## 3. Controle e Monitoramento da Configuração de Software
+
+### 3.1. Níveis de controle de configuração 
 
 O projeto irá utilizar três níveis de controle de configuração, sendo eles:
 
@@ -53,15 +56,15 @@ O projeto irá utilizar três níveis de controle de configuração, sendo eles:
 |Monitorada|A mudança somente será feita a partir de uma política estabelecida para a configuração|
 |Comunicada|A alteração pode ser feita por qualquer membro do grupo mediante a comunicação para os outros integrantes|
 
-## 2.3.1 Definição de nível para as configurações
+## 3.1.1. Definição de nível para as configurações
 
 |Configuração|Nível|
 |------------|-----|
 |Documentação do Projeto|Comunicada|
 |Código|Monitorada|
-|Ambiente de desenvolvimento e Escopo do Projeto|Controlado|
+|Ambiente de desenvolvimento, Escopo do Projeto E Cronograma|Controlado|
 
-## 2.3.2 Política de Monitoramento de Código
+### 3.1.3.2. Política de Monitoramento de Código
 
 O monitoramento de mudança de código será feito a partir da seguinte política de branches:
 
@@ -69,9 +72,12 @@ O monitoramento de mudança de código será feito a partir da seguinte polític
 
 Seguindo o modelo apresentado de baixo para cima: cada desenvolvedor deve ter sua branch caso seja alocado para trabalhar em um caso de uso. Terminado o trabalho, o mesmo deve submeter a branch ao sistema de integracão contínua. Caso todos os testes tenham resultado positivo, o desenvolvedor solicita a revisão da branch para um outro desenvolvedor. Estando em perfeito estado, a branch deve ser acoplada à branch principal do caso de uso. As branches de caso de uso devem ser integradas à branch _dev_, após apresentar resultados posivitos na integracão contínua. Por sua vez a branch _dev_ somente será integrada a _master_ na entrega das releases.
 
-## 2.3.2 Política de Controle do Escopo do Projeto
-As mudanças no escopo do projeto devem obedecer as diretrizes estabelecidas no pano de [Gerenciamento de Escopo](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Gerenciamento-de-Escopo) (item 2.5.).
+### 3.1.3.2. Política de Controle do Escopo do Projeto
+As mudanças no escopo do projeto devem obedecer as diretrizes estabelecidas no pano de [Gerenciamento de Escopo](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Gerenciamento-de-Escopo) (item 3.3.).
 
-# 3. Treinamento e Recursos
+### 3.1.3.3. Política de Controle do Cronograma
+As mudanças no cronograma do projeto devem obedecer as diretrizes estabelecidas no pano de [Gerenciamento de Tempo](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Gerenciamento-de-Tempo) (item 3.2.).
+
+## 4. Treinamento e Recursos
 Para utilizar as ferramentas citadas no item 2.2, serão realizados treinamentos e dojos, de acordo com o cronograma do projeto, visando maior produtividade no desenvolvimento do produto.
 
