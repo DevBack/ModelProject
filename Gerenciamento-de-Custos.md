@@ -5,13 +5,14 @@
 |31/08/2016| 1.0|Estrutura Inical |Gustavo |
 |04/09/2016| 1.1|Revisão ortográfica e estrutural do documento |Elaine |
 |07/09/2016| 1.2| Finalizando documento |Jessica |
+|13/09/2016| 1.3| Adequação da estrutura do plano| Pedro|
 
-# 1.Introdução
+## 1.Introdução
 O plano a seguir apresenta as estimativas de despêndio e estratégias de monitoramento ao longo do projeto. Os custos foram estimados para refletir da melhor maneira possível o andamento de uma aplicação real. O documento irá apresentar as estimativas de custo, as estratégias de monitoramento e ações para mitigar eventuais adversidades. 
 
-# 2. Estimativas de custo
-
-## 2.1 Recursos Humanos
+## 2. Planejamento do Custo
+### 2.1 Estimativas de custo
+#### 2.1.1 Recursos Humanos
 
 O projeto SAS conta com uma equipe de 10 pessoas. O grupo não é homogênio sendo composto por 5 alunos da disciplina de GPP e outros 5 da disciplina de MDS. Porém, os custos foram estimados de forma equânime por se tratarem todos de alunos do curso de engenharia de software da Universidade de Brasília. 
 
@@ -24,7 +25,7 @@ O preâmbulo acima juntamente com a estimativa de tempo para cada iteração per
 ![Custo 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Custo_Iteracao1.png)
 ![Custo 2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Custo_Iteracao2.png) 
 
-## 2.2 Insumos
+#### 2.1.2 Insumos
 Além dos custos de mão de obra, ainda existe o custo de infraestrutura, que contém o valor da aquisição de cada notebook para desenvolvimento do projeto, internet, espaço físico e energia elétrica como pode ser visto na tabela a seguir:
 
 |Produto / Serviço|Quantidade|Modelo|Fornecedor|Custo Individual|
@@ -34,13 +35,13 @@ Além dos custos de mão de obra, ainda existe o custo de infraestrutura, que co
 | Espaço | 4 meses | Sala Comercial | WImóveis | R$ 1200 |
 | Energia Elétrica | 4 meses | - | CEB | R$ 184|
 
-# 3. Monitoramento
+## 3. Monitoramento do Custo
 
 O monitoramento dos custos será realizado através do registro das horas utilizadas para o desenvolvimento das atividades por cada integrante do grupo. Uma vez realizado este levantamento, pode-se encontrar o custo real do projeto. Em referências posteriores, esse valor será tratado por ACWP que é a nomenclatura para custo real no idioma inglês.
 
 Outro item a ser monitorado é o andamento de cada tarefa. Para cada uma delas será descrito, em termos de porcentagem, o quanto foi completado. O andamento da tarefa multiplicado pelo custo planejado é denominado **valor agregado ao projeto**. Ao final de cada interação será verificado o quanto as tarefas foram completadas e calculado o valor agregado pelo projeto. Seguindo a nomeclatura internacional o valor agregado será apresentado como BCWP. 
  
-# 4. Estratégias de controle
+## 4. Controle do Custo
 
 O custo real e o monitoramento das atividades permite traduzir o projeto através de indicadores que subsídiam a tomada de decisações estratégicas para o comprimento dos objetivos traçados. Os indicadores são descritos na tabela abaixo:
 
