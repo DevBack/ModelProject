@@ -13,6 +13,7 @@
 |09/09/2016 |1.8 |Caso de Teste Criar Reserva e Atualização Caso de Teste Excluir Usuário |Vítor |  
 |09/09/2016 |1.9 |Caso de Teste Excluir Reserva |Vítor |
 |09/09/2016 |2.0 |Caso de Teste Fazer Login |Lucas |
+|13/09/2016 |2.1 |Atualização Caso de Teste Criar Reserva |Vítor |
 
 
 [Introdução](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste#1-introdu%C3%A7%C3%A3o)
@@ -407,13 +408,7 @@ Testes referentes à criação de uma reserva:
     Descrição: Este caso de teste tem como objetivo aceitar o pedido de reserva de um laboratório.    
     Pré-condições: O usuário é administrador, está logado e tentou aceitar a reserva de um laboratório.  
     Pós-condições: Mensagem de sucesso informando que o pedido de reserva foi aceita e a reserva do usuário realizada.    
-    Dados necessários: Não há.   
-
-* **Efetuar pedido de reserva de laboratório**  
-    Descrição: Este caso de teste tem como objetivo realizar o pedido de reserva de um laboratório.    
-    Pré-condições: O usuário está logado e tentou efetuar a reserva de um laboratório.  
-    Pós-condições: Mensagem de sucesso informando que o pedido de reserva foi enviado ao administrador.    
-    Dados necessários:  Data de início, data de fim, horário de início, horário de fim, laboratório.  
+    Dados necessários: Não há.     
 
 * **Efetuar reserva de espaço em nome de outro usuário**  
     Descrição: Este caso de teste tem como objetivo criar a reserva de um espaço pelo administrador em nome de outro usuário.    
