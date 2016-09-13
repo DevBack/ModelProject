@@ -88,12 +88,13 @@ Os casos de uso possuem três tipos de prioridades, são elas:
 |UC01 |Manter usuário | Essencial |
 |UC02 |Realizar login | Essencial |
 |UC03 |Criar reserva |Essencial |
-|UC04 |Excluir reserva |Essencial |
-|UC05 |Consultar reserva |Essencial |
+|UC04 |Consultar reserva |Essencial |
+|UC05 |Excluir reserva |Essencial |
 |UC06 |Consultar espaços | Essencial |
 |UC07 |Gerenciar administradores | Importante |
 |UC08 |Aprovar reserva | Importante|
-|UC09 |Gerar Relatório | Desejável |
+|UC09 |Consultar Perguntas Frequentes | Desejável |
+|UC10 |Gerar Relatório | Desejável |
 
 # 5. Visão Lógica
 
