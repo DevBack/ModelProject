@@ -5,6 +5,7 @@
 |02/09/2016|1.0   |Criação do documento: estrutura inicial |Allan    |
 |05/09/2016|1.1   |Adicionado conteúdo em todo documento   |Allan    |
 |14/09/2016|1.2   |Revisão na aplicabilidade e uso das métricas e ferramentas.   |Allan    |
+|14/09/2016|1.3   |Alterando explicação em relação ao flake 8 e usabilidade  |Jessica      |
 
 # 1. Introdução
 Este documento descreve os procedimentos gerenciais que visam estabelecer, controlar, assegurar e validar padrões de qualidade do produto em desenvolvimento.
@@ -33,7 +34,7 @@ O acompanhamento dos valores das métricas será realizado com auxílio das ferr
 
 ### 2.1.2. Complexidade Ciclomática
 
-A complexidade ciclomática será avaliada como métrica através da engine Rudon do Code Climate. O Flake8 fornece uma visualização prévia ao próprio desenvolvedor em tempo de desenvolvimento sobre vícios anti-patterns que possam impactar nesta métrica de forma que ele próprio deverá fazer esta avaliação com o Flake8 antes de disponibilizar o código no repositório aos demais. O Code Climate vem como complemento validador, é através dele que é avaliada a necessidade de refatoração, conforme indicadores:
+A complexidade ciclomática será avaliada como métrica através da engine Rudon do Code Climate. O Flake8 fornece uma visualização prévia em tempo de desenvolvimento sobre vícios anti-patterns que possam impactar nesta métrica de forma que será necessário utilizar o Flake 8 ao final de cada caso de uso, antes de dar o merge. O Code Climate vem como complemento validador, é através dele que é avaliada a necessidade de refatoração, conforme indicadores:
 
 #### 2.1.2.1. Indicadores
 
@@ -73,7 +74,7 @@ O [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/
 O desenvolvimento do projeto contará com auxílio da ferramenta Travis CI para integração contínua de código.
 
 ### 2.2.3. Usabilidade
-O framework Bootstrap será utilizado visando melhorar a experiência de usuário e implementar responsividade nas telas do sistema. 
+O framework Bootstrap será utilizado visando melhorar a experiência de usuário e implementar responsividade nas telas do sistema. Serão feitos protótipos de alta fidelidade e validados com o cliente antes da construção da interface, para que as mesmas sigam o protótipo aprovado pelo cliente.
 
 ## 2.3. Ferramentas Utilizadas
 * [Travis CI](https://travis-ci.org/fga-gpp-mds/2016.2-SAS_FGA) - Integração contínua.
@@ -82,12 +83,13 @@ O framework Bootstrap será utilizado visando melhorar a experiência de usuári
 * [Selenium](http://www.seleniumhq.org/) - Testes de aceitação automatizados.
 * [Code Climate](https://www.codeclimate.com) - Avaliação das métricas de complexidade ciclomática e Churn.
 * [Bootstrap](http://getbootstrap.com/) - Framework para implementação de interface de usuário responsiva e melhoria da experiência de usuário como um todo.
+* [JustinMind] (http://www.justinmind.com/) - Ferramente para criação de protótipos de alta fidelidade
 
 # 3. Monitoramento e Controle da Qualidade
 * *Documentação*: Todos os membros da equipe de gerência de projeto deverão realizar uma leitura minuciosa dos planos de gerenciamento após tais serem elaborados, de forma a elucidar eventuais falhas ou melhorias aplicáveis. Na reunião semanal deverá ser abordado tal assunto.
 
 * *Métricas*: Ao final de cada iteração da fases de construção e transição realizar a coleta das métricas estabelecidas e avaliar se os padrões de qualidade estão sendo atendidos. Caso não estejam, a equipe deverá tentar alocar tempo para refatoração do código de acordo com os indicadores das métricas.
 
-* *Folha de estilo*: Os desenvolvedores deverão fazer uso da ferramenta Flake8 para checar eventuais incoerências com a folha de estilo identificadas durante a finalização (após codificação dos testes) de cada funcionalidade de forma que a integração do novo código será aceita somente após a validação com o Flake8.
+* *Folha de estilo*: Ao final de cada caso de uso, um desenvolvedores deverá fazer uso da ferramenta Flake8 para checar eventuais incoerências com a folha de estilo identificadas durante o desenvolvimento. Dessa forma, a integração do novo código será aceita somente após a validação com o Flake8.
 
-* *Usabilidade*: Os desenvolvedores deverão se ater previamente a responsividade das telas, conforme requisito não funcional de usabilidade especificado. Ao final de cada iteração serão realizadas rotinas de verificação de responsividade das telas.
+* *Usabilidade*: Os desenvolvedores deverão se ater previamente a responsividade das telas, conforme requisito não funcional de usabilidade especificado. Ao final de cada iteração serão realizadas rotinas de verificação de responsividade das telas e facilidade de uso.
