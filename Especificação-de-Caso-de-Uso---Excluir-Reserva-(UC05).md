@@ -1,4 +1,4 @@
-
+[retornar para Especificações de Caso de Uso](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Uso)
 
 #1. Descrição
 
@@ -55,3 +55,6 @@ A reserva será excluída.
 [FE02] No passo 2 do [FA01] o administrador digita o nome de um usuário que não existe, retorna para [FA01] sinalizando que o usuário digitado não existe.
 
 [FE03] No [FA02] o usuário digita o nome de uma reserva e/ou a data de uma reserva que ele não possui, retorna para [FP02] sinalizando que não existe reserva com esse nome e/ou data.
+
+
+[retornar para Especificações de Caso de Uso](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Uso)
