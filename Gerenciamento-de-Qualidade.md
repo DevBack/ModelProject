@@ -59,7 +59,7 @@ Tal métrica é útil para avaliar fragilidades de especificações que podem es
 
 A imagem abaixo exemplifica como são obtidos resultados desta métrica:
 
-![Churn](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/churn.png)
+![Churn](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/churn.png) 
 
 # 4. Critérios de Qualidade
 
