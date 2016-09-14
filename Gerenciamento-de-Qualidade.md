@@ -75,10 +75,10 @@ O framework Bootstrap será utilizado visando melhorar a experiência de usuári
 
 # 5. Ferramentas Utilizadas
 * [Travis CI](https://travis-ci.org/fga-gpp-mds/2016.2-SAS_FGA) - Integração contínua.
-* [Flake8](https://pypi.python.org/pypi/flake8/) - Adequação a folha de estilo; Análise estática; Análise da Complexidade Ciclomática.
+* [Flake8](https://pypi.python.org/pypi/flake8/) - Adequação a folha de estilo; Análise estática; Prevenção de impacto em Complexidade Ciclomática.
 * [Coveralls](https://coveralls.io/) - Contabilidade de cobertura de testes.
 * [Selenium](http://www.seleniumhq.org/) - Testes de aceitação automatizados.
-* [Mezuro](http://mezuro.org/pt) - Avaliação das métricas de complexidade ciclomática e fator de acoplamento.
+* [Code Climate](https://www.codeclimate.com) - Avaliação das métricas de complexidade ciclomática e Churn.
 * [Bootstrap](http://getbootstrap.com/) - Framework para implementação de interface de usuário responsiva e melhoria da experiência de usuário como um todo.
 
 # 6. Monitoramento e Controle da Qualidade
