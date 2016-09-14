@@ -3,13 +3,13 @@
 # **Índice**
 
 
-[Cadastrar Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso---Manter-Usu%C3%A1rio-(UC01)#1-cadastrar-usu%C3%A1rio)
+[1. Cadastrar Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso---Manter-Usu%C3%A1rio-(UC01)#1-cadastrar-usu%C3%A1rio)
 
-[Alterar Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso---Manter-Usu%C3%A1rio-(UC01)#2-alterar-usu%C3%A1rio)
+[2. Alterar Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso---Manter-Usu%C3%A1rio-(UC01)#2-alterar-usu%C3%A1rio)
 
-[Excluir Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso---Manter-Usu%C3%A1rio-(UC01)#3-excluir-usu%C3%A1rio)
+[3. Excluir Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso---Manter-Usu%C3%A1rio-(UC01)#3-excluir-usu%C3%A1rio)
 
-[Ver Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso---Manter-Usu%C3%A1rio-(UC01)#4-ver-usu%C3%A1rio)
+[4. Ver Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso---Manter-Usu%C3%A1rio-(UC01)#4-ver-usu%C3%A1rio)
 
 #1. Cadastrar Usuário
 
