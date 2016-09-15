@@ -20,6 +20,7 @@
 * [Gerenciamento de Riscos](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Riscos)
 * [Gerenciamento de Configuração de Software](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Plano-de-Ger%C3%AAncia-de-Configura%C3%A7%C3%A3o-de-Software)
 * [Gerenciamento de Qualidade](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Qualidade)
+* [Rastreabilidade de Requisitos](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Rastreabilidade-de-Requisitos)
 
 ###Acompanhamentos do Projeto
 * [Acompanhamento Tempo](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Acompanhamento-do-Tempo)
