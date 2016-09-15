@@ -19,12 +19,15 @@ As atividades foram definidas seguindo as fases do RUP, onde cada fase possui um
 Foi adotada uma política de reuniões presenciais e realização das atividades em conjunto. Dessa forma, foi definido o papel TODOS para quando as atividades são realizadas com o envolvimento de toda a equipe. Para atividades onde todos os alunos de MDS se envolvem, foi destinado a MDS. O mesmo ocorreu para atividades com envolvimento de GPP. Por fim, quando não for possível a realização das atividades com o envolvimento de todos, estas serão de responsabilidade de alguns integrantes, onde será representado pelo primeiro nome do aluno. 
 
 ### 2.3. Cronograma
-O cronograma está dividido em fases, seguindo o RUP, e iterações. Nele é possível ver o nome da atividade, a quantidade de horas destinadas a tal atividade, a data de início e fim da mesma, as atividades predecessoras a uma determinada atividade, e o responsável pela mesma. Vale ressaltar que quando uma atividade é atribuída a MDS, a quantidade de horas representada no cronograma significa para CADA integrante de MDS, logo uma atividade de 1 hora para MDS, equivale a 5 horas de trabalho na mesma.
+O cronograma está dividido em fases, seguindo o RUP, e iterações. Nele é possível ver o nome da atividade, a quantidade de horas destinadas a tal atividade, a data de início e fim da mesma, as atividades predecessoras a uma determinada atividade, e o responsável pela mesma. Vale ressaltar que quando uma atividade é atribuída a MDS, a quantidade de horas representada no cronograma significa para CADA integrante de MDS, logo uma atividade de 1 hora para MDS, equivale a 5 horas de trabalho na mesma. O cronograma feito pode ser visto nas imagens abaixo, ou pelo link [Cronograma SAS](https://drive.google.com/file/d/0BwIEjFLG3J84SDRGVlBiTDI1WGc/view?usp=sharing)
 
 ![Iteracao 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao1.png)
 ![Iteracao 2-1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao2_Parte1.png)
 ![Iteracao 2-2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao2_Parte2.png) 
- 
+![Iteracao 3](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao3.png) 
+![Iteracao 3-2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao3_2.png) 
+![Iteracao Agil](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao_Agil.png) 
+
  
 
 
