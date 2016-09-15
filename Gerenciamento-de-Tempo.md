@@ -6,7 +6,7 @@
 | 02/09/2016| 1.1 |Preenchendo todo o documento |Jessica |
 | 04/09/2016| 1.2 |Revisão ortográfica do documento |Elaine |
 | 13/09/2016| 1.3 | Adequação da estrutura do plano| Pedro|
-
+| 14/09/2016| 1.4 |Adicionando imagens do cronograma |Jessica |
 ## 1. Introdução
 Este documento tem por objetivo estabelecer como será o gerenciamento do tempo no projeto SAS, mostrando a organização do projeto e seu cronograma.
 
