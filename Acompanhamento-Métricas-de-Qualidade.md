@@ -9,3 +9,5 @@
 ## 2. Monitoramento e Controle
 
 ## 3. Resultados
+### 3.1 Métricas
+### 3.2 Cobertura de Teste
