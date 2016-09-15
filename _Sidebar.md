@@ -10,6 +10,7 @@
 * [EAP](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/EAP)
 
 ###Planos de Projeto
+* [Gerenciamento do Projeto](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Gerenciamento-de-Projeto)
 * [Gerenciamento de Escopo](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Escopo)
 * [Gerenciamento de Comunicação](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Comunicação)
 * [Gerenciamento de Tempo](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Tempo)
