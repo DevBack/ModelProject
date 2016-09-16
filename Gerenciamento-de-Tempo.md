@@ -26,7 +26,7 @@ O cronograma está dividido em fases, seguindo o RUP, e iterações. Nele é pos
 ![Iteracao 2-2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao2_Parte2.png) 
 ![Iteracao 3](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao3.png) 
 ![Iteracao 3-2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao3_2.png) 
-![Iteracao Agil](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao_Agil.png) 
+![Sprint Agil](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Sprint_Agil.png) 
 
  
 
