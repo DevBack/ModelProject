@@ -39,15 +39,15 @@ Visualização dos dados da reserva.
 
 [FA01]  O administrador consulta uma reserva de outro usuário.
 
-* O administrador clica na opção de pesquisar usuários.
+[FA01.1] O administrador clica na opção de pesquisar usuários.
 
-* O administrador insere o nome do usuário que deseja pesquisar.
+[FA01.2] O administrador insere o nome do usuário que deseja pesquisar.
 
-* O administrador seleciona o usuário que deseja ver.
+[FA01.3] O administrador seleciona o usuário que deseja ver.
 
-* O administrador seleciona seleciona a opção "visualizar reservas".
+[FA01.4] O administrador seleciona seleciona a opção "visualizar reservas".
 
-* O administrador é encaminhado para o [FP02] do "Consultar Reserva".
+[FA01.5] O administrador é encaminhado para o [FP02] do "Consultar Reserva".
 
 
 [FA02] Após o passo 2 do fluxo principal [FP02] o usuário queira encontrar a reserva que deseja excluir por nome da reserva e/ou data da reserva, ele preenche ao menos um desses campos, retorna para [FP03]
