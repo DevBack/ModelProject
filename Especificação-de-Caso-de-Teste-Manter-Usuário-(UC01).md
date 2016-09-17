@@ -1,6 +1,10 @@
+[retornar para Especificações de Caso de Teste](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste)
 
-#1. UC01 - Manter Usuário
-##1.1. Cadastrar Usuário
+#Índice
+[1. Cadastrar Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Uso-Manter-Usu%C3%A1rio-(UC01)#11-cadastrar-usu%C3%A1rio)
+
+
+#1. Cadastrar Usuário
 Testes referentes ao cadastro de usuários:
 * **TC01 - Todos os campos válidos**  
     Descrição: Este caso de teste tem como objetivo cadastrar o usuário.  
@@ -110,7 +114,7 @@ Testes referentes ao cadastro de usuários:
     Pós-condições: Mensagens de erro informando que as senhas não correspondem e que o usuário não foi cadastrado.  
     Dados necessários: Senha, confirmação de senha.  
 
-## 1.2 Editar usuário
+# 2. Editar usuário
 
 Testes referentes à edição de um usuário:
 
@@ -193,7 +197,7 @@ Testes referentes à edição de um usuário:
     Pós-condições: O sistema deve mostrar uma mensagem de erro informando que o campo ‘senha’ deve ser preenchido.  
     Dados necessários: Não há.  
 
-##1.3. Pesquisar Usuário  
+#3. Pesquisar Usuário  
 Testes referentes à pesquisa de usuários:
 
 * **TC32 - Usuário pesquisou um nome que possui no banco de dados**  
@@ -214,7 +218,7 @@ Testes referentes à pesquisa de usuários:
 	Pós-condiçõess: Mensagem  informando que não possui um usuário com o nome pesquisado.  
 	Dados necessários: Nome a ser pesquisado ou parte do nome.   
 
-##1.4. Excluir usuário  
+#4. Excluir usuário  
 Testes referentes à exclusão de usuário:  
 
 * **TC35 - Usuário deseja excluir sua conta**  
