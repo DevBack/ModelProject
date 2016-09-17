@@ -188,7 +188,7 @@ Existem softwares semelhantes ao sistema do nosso projeto, como, por exemplo, o 
 |RF16|O sistema deve gerar relatório de utilização de espaços por Usuário.|RF02|Útil|
 |RF17|O sistema deve permitir que o usuário liste suas reservas.|RF04|Intermediária|
 |RF18|O sistema deve permitir que o usuário consulte suas reservas.|RF17|Intermediária|
-|RF19|O sistema deve permitir que o usuário visualize a página de perguntas frequentes.|--------|Intermediária|
+|RF19|O sistema deve permitir que o usuário visualize a página de perguntas frequentes.|--------|Útil|
 
 ## 7.2 Regras de Negócio
 
