@@ -3,7 +3,7 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-------|
 |15/09/2016|1.0|Criação do Documento|Pedro|
-|17/09/2016|1.1||Pedro|
+|17/09/2016|1.1|Acrescentando diagrama|Pedro|
 
 ## 1. Introdução
 Este documento define as rastreabilidade dos requisitos levantados para o sistema SAS, identificando o Problema e relacionando-o com as Necessidades, Requisitos e Casos de Usos levantados para o sistema.  
