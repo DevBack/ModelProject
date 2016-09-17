@@ -186,6 +186,8 @@ Existem softwares semelhantes ao sistema do nosso projeto, como, por exemplo, o 
 |RF14|O sistema deve mostrar um mapa de localização dos espaços.|RF02|Alta|
 |RF15|O sistema deve gerar relatório de utilização de determinado espaço por período.|RF03|Útil|
 |RF16|O sistema deve gerar relatório de utilização de espaços por Usuário.|RF02|Útil|
+|RF17|O sistema deve permitir que o usuário liste suas reservas.|RF04|Intermediária|
+|RF18|O sistema deve permitir que o usuário consulte suas reservas.|RF17|Intermediária|
 
 ## 7.2 Regras de Negócio
 
