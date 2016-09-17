@@ -36,17 +36,17 @@ O espaço será reservado ou uma reserva será requisitada para ele.
 
 [FA02] O administrador reserva um espaço para outro usuário. Este fluxo inicia-se no passo [FP01]
 
-* O administrador atribui um nome a sua reserva.
+[FA02.1] O administrador atribui um nome a sua reserva.
 
-* O administrador aperta no botão "Efetuar reserva".
+[FA02.2] O administrador aperta no botão "Efetuar reserva".
 
-* O administrador seleciona marca a opção "reservar espaço para outro usuário".
+[FA02.3] O administrador seleciona marca a opção "reservar espaço para outro usuário".
 
-* O administrador digita o nome do usuário ao qual deseja atribuir a reserva.
+[FA02.4] O administrador digita o nome do usuário ao qual deseja atribuir a reserva.
 
-* O administrador seleciona o usuário que ao qual deseja atribuir a reserva.
+[FA02.5] O administrador seleciona o usuário que ao qual deseja atribuir a reserva.
 
-* O administrador é encaminhado ao [FP03] do "Criar Reserva".
+[FA02.6] O administrador é encaminhado ao [FP03] do "Criar Reserva".
 
 #7. Fluxo de Exceção
 
