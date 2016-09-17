@@ -15,6 +15,8 @@
 |13/09/2016 |1.8 |Revisão dos UC02, UC03 e UC04 |Luis |
 |13/09/2016 |1.9 |Adicionando o UC05 |Luis |
 |15/09/2016 |1.9 |Revisão para Feedback |Pedro |
+|15/09/2016 |2.0 |Revisão do UC05 |Fabíola |
+
 
 
 # Índice
