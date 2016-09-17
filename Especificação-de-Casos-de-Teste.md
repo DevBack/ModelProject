@@ -21,17 +21,14 @@
 
 [Manter Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Teste-Manter-Usu%C3%A1rio-(UC01))
 
-[Editar Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste#212-editar-usu%C3%A1rio)
 
-[Excluir Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste#213-excluir-usu%C3%A1rio)
+[Fazer Login](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Teste-Fazer-Login-(UC02)https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste#22-fazer-login)
 
-[Pesquisar Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste#214-pesquisar-usu%C3%A1rio)
+[Criar Reserva](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Teste-Criar-Reserva-(UC03))
 
-[Fazer Login](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste#22-fazer-login)
+[Consultar Reserva](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Teste-Consultar-Reserva-(UC04))
 
-[Criar Reserva](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste#23-criar-reserva)
-
-[Excluir Reserva](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste#24-excluir-reserva)
+[Excluir Reserva](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Teste-Excluir-Reserva-(UC05))
 #1. Introdução
 Este documento especifica os testes que devem ser efetuados para cada caso de uso que foi anteriormente especificado.
 #2. Especificação dos Casos de Teste
