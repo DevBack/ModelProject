@@ -108,15 +108,15 @@ RN09 Para alterar a senha o usuário deve digitar a senha atual.
 ##2.7. Fluxo Alternativo
 [FA01] O administrador altera o cadastro de um outro usuário. Este fluxo inicia-se no passo [FP01]
 
-* O administrador clica na opção de pesquisar usuários.
+[FA01.1] O administrador clica na opção de pesquisar usuários.
 
-* O administrador insere o nome do usuário que deseja pesquisar.
+[FA01.2] O administrador insere o nome do usuário que deseja pesquisar.
 
-* O administrador seleciona o usuário que deseja editar.
+[FA01.3] O administrador seleciona o usuário que deseja editar.
 
-* O administrador clica em “editar usuário”.
+[FA01.4] O administrador clica em “editar usuário”.
 
-* O administrador é encaminhado para o [FP02] do “Alterar Usuário”.
+[FA01.5] O administrador é encaminhado para o [FP02] do “Alterar Usuário”.
 
 ##2.8. Fluxo de Exceção
 
@@ -167,15 +167,15 @@ RN10 Para excluir a conta o usuário deve clicar no botão “Confirmar” na ca
 ##3.7. Fluxo Alternativo
 [FA01] O administrador exclui o cadastro de um outro usuário. Este fluxo inicia-se no passo [FP01]
 
-* O administrador clica na opção de pesquisar usuários.
+[FA01.1] O administrador clica na opção de pesquisar usuários.
 
-* O administrador insere o nome do usuário que deseja pesquisar.
+[FA01.2] O administrador insere o nome do usuário que deseja pesquisar.
 
-* O administrador seleciona o usuário que deseja excluir.
+[FA01.3] O administrador seleciona o usuário que deseja excluir.
 
-* O administrador clica em “Excluir Usuário”.
+[FA01.4] O administrador clica em “Excluir Usuário”.
 
-* O administrador é encaminhado para o [FP02] do “Excluir Usuário”.
+[FA01.5] O administrador é encaminhado para o [FP02] do “Excluir Usuário”.
 
 
 ##3.8. Fluxo de Exceção
@@ -220,13 +220,13 @@ Visualização dos dados cadastrais do usuário do sistema.
 ##4.6. Fluxo Alternativo
 [FA01]No passo [FP01] o administrador deseja consultar o perfil de outro usuário.
 
-* O administrador clica na opção de pesquisar usuários.
+[FA01.1] O administrador clica na opção de pesquisar usuários.
 
-* O administrador insere o nome do usuário que deseja pesquisar.
+[FA01.2] O administrador insere o nome do usuário que deseja pesquisar.
 
-* O administrador seleciona o usuário que deseja ver.
+[FA01.3] O administrador seleciona o usuário que deseja ver.
 
-* O administrador é encaminhado para o [FP02] do “Ver Usuário”.
+[FA01.4] O administrador é encaminhado para o [FP02] do “Ver Usuário”.
 
 ##4.7. Fluxo de Exceção
 
