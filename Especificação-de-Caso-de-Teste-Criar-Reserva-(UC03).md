@@ -32,7 +32,7 @@ Testes referentes à criação de uma reserva:
     Pós-condições: Mensagem de erro informando que a data de início deve ser informada.    
     Dados necessários: Não há.  
 
-* **TC06 - Campo 'data de início' nulo**
+* **TC06 - Campo 'data de início' nulo**  
     Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso o campo 'data de início' esteja nulo.  
     Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, o campo 'data de início' está nulo.  
     Pós-condições: Mensagem de erro informando que a data de início deve ser informada.  
@@ -98,13 +98,13 @@ Testes referentes à criação de uma reserva:
     Pós-condições: Mensagem de erro informando que o horário de fim deve ser informado corretamente.    
     Dados necessários: Horário de fim.  
 
-* **TC17 - Campo 'prédio' vazio**
-    Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso o campo 'prédio' esteja vazio.
-    Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, o campo 'prédio' está vazio.
-    Pós-condições: Mensagem de erro informando que o prédio deve ser informado.
-    Dados necessários: Não há.
+* **TC17 - Campo 'prédio' vazio**  
+    Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso o campo 'prédio' esteja vazio.  
+    Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, o campo 'prédio' está vazio.  
+    Pós-condições: Mensagem de erro informando que o prédio deve ser informado.  
+    Dados necessários: Não há.  
  
-* **TC18 - Campo 'prédio' nulo**
+* **TC18 - Campo 'prédio' nulo**  
     Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso o campo 'prédio' esteja nulo.  
     Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, o campo 'prédio' está nulo.  
     Pós-condições: Mensagem de erro informando que o prédio deve ser informado.  
@@ -129,7 +129,7 @@ Testes referentes à criação de uma reserva:
     Pós-condições: Mensagem de erro informando que o dia da semana deve ser informado.  
     Dados necessários: Não há.  
 
-* **TC22 - Campo de dias da semana nulos**
+* **TC22 - Campo de dias da semana nulos**  
     Descrição: Este caso de teste tem como objetivo impedir uma reserva de sala caso todos os campos de dias da semana estejam nulos.  
     Pré-condições: O usuário está logado e tentou efetuar a reserva de uma sala, todos os dias da semana estão nulos.  
     Pós-condições: Mensagem de erro informando que o dia da semana deve ser informado.  
