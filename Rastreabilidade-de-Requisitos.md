@@ -98,4 +98,5 @@ Este documento define as rastreabilidade dos requisitos levantados para o sistem
 |**RF18**|    |    |    |    |    |    |    |    | X  |    |
 
 
-##7. Diagrama de Rastreabilidade
+##7. Diagrama de Rastreabilidade (RF01 a RF07)
+![Rastreabilidade RF01 a RF07](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/rastreabilidade.png) 
