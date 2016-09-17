@@ -2,29 +2,30 @@
 
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-------|
-|15/09/2016| 1.0 |Criação do Documento |Pedro |
+|15/09/2016|1.0|Criação do Documento|Pedro|
+|17/09/2016|1.1||Pedro|
 
 ## 1. Introdução
 Este documento define as rastreabilidade dos requisitos levantados para o sistema SAS, identificando o Problema e relacionando-o com as Necessidades, Requisitos e Casos de Usos levantados para o sistema.  
 
 ## 2. Definição do Problema
 
-|Identificador|O Problema|Afeta|Cujo Impacto|Uma boa Solução seria|
+|ID|O Problema|Afeta|Cujo Impacto|Uma boa Solução seria|
 |-------------|----------|-----|------------|---------------------|
 |P1|O problema de dificuldade na alocação de espaço na Universidade de Brasília|Que afeta a comunidade acadêmica. (Em especial os responsáveis pela alocação de espaços para disciplinas - Coordenadores de Cursos)|Cujo impacto é o grande esforço demandado para alocar os espaços da universidade para as atividades acadêmicas|Uma boa solução seria a implantação de um sistema que automatizasse esse processo|
 
 ## 2. Necessidade
 
-|Identificador|Necessidade|Solução atual|Solução proposta|
+|ID|Necessidade|Solução atual|Solução proposta|
 |-------------|-----------|-------------|----------------|
-|N1|Reservar espaços para disciplinas|Uso de planilhas||
-|N2|Reservar espaços esporadicamente|Uso de documentos para comunicar a autorização do uso do espaço||
-|N3|Consulta de disponibilidade de espaços|Uso de planilhas||
-|N4|Gerenciamento de responsáveis por espaços alocados|Uso de Planilhas||
+|N1|Reservar espaços para disciplinas|Uso de planilhas|Sistema que permita ao coordenador reservar espaços e atribuir a um responsavel|
+|N2|Reservar espaços esporadicamente|Uso de documentos para comunicar a autorização do uso do espaço|Sistema que permita que ao corpo acadêmico reservar um espaço, ou solicitar a reserva em casos especiais.|
+|N3|Consulta de disponibilidade de espaços|Uso de planilhas|Sistema que permita a consulta dos espaços e de suas disponibilidades em um determinado periodo|
+|N4|Gerenciamento de responsáveis por espaços alocados|Uso de Planilhas|Sistema que permita gerenciar os responsáveis por alocação|
 
 ##3. Requisitos do Sistema 
 
-|Identificador|Requisito|
+|ID|Requisito|
 |-------------|---------|
 |RF01|O sistema deve permitir que Usuário efetue cadastro.|
 |RF02|O sistema deve permitir que o Usuário faça login.|
@@ -42,10 +43,14 @@ Este documento define as rastreabilidade dos requisitos levantados para o sistem
 |RF14|O sistema deve mostrar um mapa de localização dos espaços.|
 |RF15|O sistema deve gerar relatório de utilização de determinado espaço por período.|
 |RF16|O sistema deve gerar relatório de utilização de espaços por Usuário.|
+|RF17|O sistema deve permitir que o usuário liste suas reservas.|
+|RF18|O sistema deve permitir que o usuário consulte suas reservas.|
+|RF19|O sistema deve permitir que o usuário visualize a página de perguntas frequentes.|
+
 
 ##4. Casos de Uso
 
-|Identificador|Caso de Uso|
+|ID|Caso de Uso|
 |----|------|
 |UC01|Manter usuário|
 |UC02|Realizar login|
@@ -61,12 +66,12 @@ Este documento define as rastreabilidade dos requisitos levantados para o sistem
 
 ##5. Necessidades X Requisitos do Sistema
 
-|      |RF01|RF02|RF03|RF04|RF05|RF06|RF07|RF08|RF09|RF10|RF11|RF12|RF13|RF14|RF15|RF16|
-|------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-|**N1**|x   |x   |x   |x   |x   |    |x   |x   |x   |    |    |    |    |    |    |    |
-|**N2**|x   |x   |x   |x   |x   |    |x   |x   |x   |    |    |    |    |    |    |    |
-|**N3**|x   |    |x   |x   |x   |    |x   |x   |x   |    |    |    |    |x   |x   |x   |
-|**N4**|x   |x   |    |    |    |x   |    |    |    |x   |x   |x   |x   |    |    |x   |
+|      |RF01|RF02|RF03|RF04|RF05|RF06|RF07|RF08|RF09|RF10|RF11|RF12|RF13|RF14|RF15|RF16|RF17|RF18|RF19|
+|------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|**N1**|x   |x   |x   |x   |x   |    |x   |x   |x   |    |    |    |    |    |    |    |x   |x   |x   |
+|**N2**|x   |x   |x   |x   |x   |    |x   |x   |x   |    |    |    |    |    |    |    |x   |x   |x   |
+|**N3**|x   |    |x   |x   |x   |    |x   |x   |x   |    |    |    |    |x   |x   |x   |x   |x   |    |
+|**N4**|x   |x   |    |    |    |x   |    |    |    |x   |x   |x   |x   |    |    |x   |    |    |    |
 
 ##6. Requisitos do Sistema X Casos de uso
 
@@ -88,6 +93,9 @@ Este documento define as rastreabilidade dos requisitos levantados para o sistem
 |**RF14**|    |    |    |    |    | X  |    |    |    |    |
 |**RF15**|    |    |    |    |    |    |    |    |    | X  |
 |**RF16**|    |    |    |    |    |    |    |    |    | X  |
+|**RF17**|    |    |    | X  | X  |    |    |    |    |    |
+|**RF18**|    |    |    | X  | X  |    |    |    |    |    |
+|**RF18**|    |    |    |    |    |    |    |    | X  |    |
 
 
 ##7. Diagrama de Rastreabilidade
