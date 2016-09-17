@@ -10,6 +10,7 @@
 * Horário para se reunir: Os alunos de GPP não possuíam horários em comum para se reunirem durante a semana, dessa forma o alinhamento era feito somente via redes sociais ou na reunião de sábado
 * Linguagem: Foi difícil estimar o rendimento dos alunos de MDS em uma linguagem que eles não conheciam, já que todos estavam aprendendo a linguagem
 * Capacidades: Como a gente não conhecia os integrantes de MDS, foi uma dificuldade identificar as capacidades de cada um para designar as tarefas
+* Conhecimento para produção dos artefatos: é cobrado de MDS um conhecimento sobre requisitos e modelagem de software para produção dos artefatos, porém MDS acaba por gastar muito tempo aprendendo como fazer tais artefatos e GPP gastando mais tempo ainda revisando e corrigindo tais artefatos.
 
 ## 3. MDS
 ### 3.1. Pontos Positivos
