@@ -16,10 +16,10 @@
 |13/09/2016 |2.1 |Atualização Caso de Teste Criar Reserva |Vítor |
 |16/09/2016 |2.2 |Caso de Teste Consultar Reserva e Atualização Caso de Teste Criar Reserva |Vítor |
 
-
+#Índice
 [Introdução](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste#1-introdu%C3%A7%C3%A3o)
 
-[Cadastrar Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste#211-cadastrar-usu%C3%A1rio)
+[Manter Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Teste-Manter-Usu%C3%A1rio-(UC01))
 
 [Editar Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste#212-editar-usu%C3%A1rio)
 
@@ -33,7 +33,7 @@
 
 [Excluir Reserva](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Casos-de-Teste#24-excluir-reserva)
 #1. Introdução
-
+Este documento especifica os testes que devem ser efetuados para cada caso de uso que foi anteriormente especificado.
 #2. Especificação dos Casos de Teste
 Nesta seção serão descritas as condições necessárias para a realização dos teste, assim como os resultados esperados.
 ##2.1. UC01 - Manter Usuário
