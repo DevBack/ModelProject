@@ -14,4 +14,11 @@
 
 ## 3. MDS
 ### 3.1. Pontos Positivos
-### 3.2. Pontos Negativos
+* Integração entre a equipe:os membros da equipe tiveram um bom relacionamento e sempre estiveram dispostos a solucionar problemas.  
+* Linguagem: oportunidade de aprender uma nova linguagem.  
+  
+### 3.2. Pontos Negativos    
+* Framework: dificuldade de aprender e entender uma nova framework.  
+* Horário: dificuldade em encontrar um horário livre comum a todos os membros para a confecção de artefatos.  
+* Conhecimento para produção dos artefatos: a falta de conhecimento em como produzir os artefatos contribuiu para o gasto de horas acima do planejado.  
+* Configurar ambiente: surgiram muitos problemas ao configurar o ambiente, como a instalação de alguns pacotes e da máquina virtual.
