@@ -22,8 +22,8 @@ Foi adotada uma política de reuniões presenciais e realização das atividades
 O cronograma está dividido em fases, seguindo o RUP, e iterações. Nele é possível ver o nome da atividade, a quantidade de horas destinadas a tal atividade, a data de início e fim da mesma, as atividades predecessoras a uma determinada atividade, e o responsável pela mesma. Vale ressaltar que quando uma atividade é atribuída a MDS, a quantidade de horas representada no cronograma significa para CADA integrante de MDS, logo uma atividade de 1 hora para MDS, equivale a 5 horas de trabalho na mesma. O cronograma feito pode ser visto nas imagens abaixo, ou pelo link [Cronograma SAS](https://drive.google.com/file/d/0BwIEjFLG3J84SDRGVlBiTDI1WGc/view?usp=sharing)
 
 ![Iteracao 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao1.png)
-![Iteracao 2-1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao2_Parte1.png)
-![Iteracao 2-2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao2_Parte2.png) 
+![Iteracao 2-1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao2.png)
+![Iteracao 2-2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao2_2.png) 
 ![Iteracao 3](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao3.png) 
 ![Iteracao 3-2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Iteracao3_2.png) 
 ![Sprint Agil](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Sprint_Agil.png) 
