@@ -1,7 +1,7 @@
 # Ata da Reunião 17/09/2016
 
 
-Horario | 9:00 a 12:00 |
+Horario | 9:00 a 13:00 |
 ---------|-----------------|
 Local   | LDS - UED |
 Editor da ata | Jessica |
