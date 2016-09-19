@@ -45,10 +45,13 @@ Outro item a ser monitorado é o andamento de cada tarefa. Para cada uma delas s
 
 O custo real e o monitoramento das atividades permite traduzir o projeto através de indicadores que subsídiam a tomada de decisações estratégicas para o comprimento dos objetivos traçados. Os indicadores são descritos na tabela abaixo:
 
-|Indicador | Descrição                       | Explicação                                             |
-|----------|---------------------------------|--------------------------------------------------------|
-| CV       | Demonstra a variação             | CV > 0, CV < 0, valor agreagado menor que valor gasto  |
-| SV       | Demonstra o andamento do projeto | SV > 0, projeto adiantado; SV < 0; projeto atrasado    |
+|Indicador|Descrição|Formula|Explicação|
+|---------|---------|-------|----------|
+|Custo Real (AC)|   |   |   |
+|Valor Planejado (PV)|   |   |   |
+|Valor Agregado (EV)|   |   |   |
+|Variação de Custo (CV)|É uma medida do desempenho, em termos de custo, em um projeto.|Valor Agregado - Custo Real| CV > 0, CV < 0, valor agreagado menor que valor gasto  |
+| SV       |Demonstra o andamento do projeto|SV > 0, projeto adiantado; SV < 0; projeto atrasado|
 | PSI      | Peformance de prazos             | SPI > 1, Adiantado; SPI = 1, Em dia; SPI < 0, Atrasado | 
 | CPI      | Performance dos custos           |   CPI > 1,                                             |
 
