@@ -49,11 +49,13 @@ Considerando todos os custo, temos que o custo total do projeto é:
 |-----------|-------|-----------|
 |R$24.480,00|R$3.767,9|R$28.247,9|
 
+O custo real do projeto pode ser visto no documento de [Acompanhamento de Custo](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Acompanhamento-dos-Custos) do Projeto SAS.
+
 ## 3. Monitoramento do Custo
 
 O monitoramento dos custos será realizado através do registro das horas utilizadas para o desenvolvimento das atividades por cada integrante do grupo. Uma vez realizado este levantamento, pode-se encontrar o custo real do projeto. Em referências posteriores, esse valor será tratado por ACWP que é a nomenclatura para custo real no idioma inglês.
 
-Outro item a ser monitorado é o andamento de cada tarefa. Para cada uma delas será descrito, em termos de porcentagem, o quanto foi completado. O andamento da tarefa multiplicado pelo custo planejado é denominado **valor agregado ao projeto**. Ao final de cada interação será verificado o quanto as tarefas foram completadas e calculado o valor agregado pelo projeto. Seguindo a nomeclatura internacional o valor agregado será apresentado como BCWP. 
+Outro item a ser monitorado é o andamento de cada tarefa. Para cada uma delas será descrito, em termos de porcentagem, o quanto foi completado. O andamento da tarefa multiplicado pelo custo planejado é denominado **valor agregado ao projeto**. Ao final de cada iteração será verificado o quanto as tarefas foram completadas e calculado o valor agregado pelo projeto. Seguindo a nomenclatura internacional o valor agregado será apresentado como BCWP, como pode ser visto em  [Acompanhamento de Custo](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Acompanhamento-dos-Custos).
  
 ## 4. Controle do Custo
 
