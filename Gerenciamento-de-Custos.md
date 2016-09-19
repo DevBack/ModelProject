@@ -42,6 +42,13 @@ Além dos custos de mão de obra, ainda existe o custo de infraestrutura, que co
 | Espaço | 4 meses | Sala Comercial | WImóveis | R$ 1200 |
 | Energia Elétrica | 4 meses | - | CEB | R$ 184|
 
+#### 2.1.3 Custo Total Planejado do Projeto
+Considerando todos os custo, temos que o custo total do projeto é:
+
+|Pessoa/Hora|Insumos|Custo Total|
+|-----------|-------|-----------|
+|R$24.480,00|R$3.767,9|R$28.247,9|
+
 ## 3. Monitoramento do Custo
 
 O monitoramento dos custos será realizado através do registro das horas utilizadas para o desenvolvimento das atividades por cada integrante do grupo. Uma vez realizado este levantamento, pode-se encontrar o custo real do projeto. Em referências posteriores, esse valor será tratado por ACWP que é a nomenclatura para custo real no idioma inglês.
