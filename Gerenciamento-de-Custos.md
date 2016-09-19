@@ -6,6 +6,7 @@
 |04/09/2016| 1.1|Revisão ortográfica e estrutural do documento |Elaine |
 |07/09/2016| 1.2| Finalizando documento |Jessica |
 |13/09/2016| 1.3| Adequação da estrutura do plano| Pedro|
+|19/09/2016| 1.4| Melhora na descrição dos índices | Pedro|
 
 ## 1.Introdução
 O plano a seguir apresenta as estimativas de despêndio e estratégias de monitoramento ao longo do projeto. Os custos foram estimados para refletir da melhor maneira possível o andamento de uma aplicação real. O documento irá apresentar as estimativas de custo, as estratégias de monitoramento e ações para mitigar eventuais adversidades. 
@@ -43,16 +44,17 @@ Outro item a ser monitorado é o andamento de cada tarefa. Para cada uma delas s
  
 ## 4. Controle do Custo
 
-O custo real e o monitoramento das atividades permite traduzir o projeto através de indicadores que subsídiam a tomada de decisações estratégicas para o comprimento dos objetivos traçados. Os indicadores são descritos na tabela abaixo:
+O custo real e o monitoramento das atividades permite traduzir o projeto através de indicadores que subsídiam a tomada de decisões estratégicas para o comprimento dos objetivos traçados. Os indicadores usados no projeto são descritos na tabela abaixo:
 
-|Indicador|Descrição|Formula|Explicação|
+|Indicador|Descrição|Formula|Interpretação|
 |---------|---------|-------|----------|
-|Custo Real (AC)|   |   |   |
-|Valor Planejado (PV)|   |   |   |
-|Valor Agregado (EV)|   |   |   |
-|Variação de Custo (CV)|É uma medida do desempenho, em termos de custo, em um projeto.|CV = EV - AC| CV > 0, CV < 0, valor agregado menor que valor gasto |
-|Variação de Cronograma (SV)|||Demonstra o andamento do projeto|SV > 0, projeto adiantado; SV < 0; projeto atrasado|
-|Índice de Desempenho de Prazos(PSI)||| Performance de prazos| SPI > 1, Adiantado; SPI = 1, Em dia; SPI < 0, Atrasado | 
-|Índice de Desempenho de Custo (CPI)||| Performance dos custos|   CPI > 1,|
+|Custo Real (CR)|É o custo realizado incorrido no trabalho executado de uma atividade.|----|   |
+|Valor Planejado (VP)|É o orçamento autorizado designado ao trabalho agendado.|   |   |
+|Taxa de entrega (TE)|É a porcentagem  de conclusão de uma atividade|----|   |
+|Valor Agregado (VA)|É a medida do trabalho executado expressa em termos do orçamento autorizado para tal trabalho.|VA = (VP * TE)/100||
+|Variação de Custo (VC)|É a quantidade de déficit ou excedente orçamentário em um determinado momento.|VC = VA – CR| |
+|Variação de prazos (VPR)|É a medida de desempenho do cronograma expressa como a diferença entre o valor agregado e o valor planejado.|VPR = VA – VP||
+|Índice de Desempenho de Prazos(IDP)|É a medida de eficiência do cronograma expressa como a relação valor agregado/valor planejado. Ele mede o grau de eficiência do uso do tempo pela equipe do projeto.|IDP= VA/VP| IDP > 1, Adiantado; IDP = 1, Em dia; SPI < 0, Atrasado | 
+|Índice de Desempenho de Custo (IDC)|É a medida da eficiência de custos dos recursos orçados expressa como a relação valor agregado/custo real.|IDC = VA/CR||
 
 A equipe deve revisar o cronograma e o escopo do projeto todas as vezes que os indicadores SV, SPI estiverem abaixo de zero. Essa informação deve constar em relatório específico que contemple todas as ações tomadas. O valor de CPI abaixo de zero deve ser comunicado ao cliente e as ações tomadas devem ser documentadas. 
