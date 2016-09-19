@@ -46,6 +46,7 @@ tP - Tempo pessimista, baseado no pior cenário possível
 ## 3. Monitoramento e Controle do Tempo
 ### 3.1. Monitoramento do Tempo
 O tempo gasto em cada atividade por cada integrante do grupo deverá ser computado em uma planilha de monitoramento. Esses dados devem servir para melhorar futuras estimativas ao longo do projeto, além de oferecer subsidios para o controle do custo real e do valor agregado do projeto.
+O cronograma é replanejado constantemente para se adaptar as atividades realizadas, e conseguir entregar tudo que foi definido no prazo. Outro ponto importante de ser lembrado é que toda vez que o cronograma é atualizado, o mesmo é enviado pelo WhatsApp para todos os integrantes, que são orientados a segui-lo. Logo todos os integrantes procuram no cronograma quais atividades devem realizar e o prazo para entrega final das mesmas.
   
 ### 3.2. Controle de Mudança do Cronograma
 Para melhor gerenciamento das mudanças no tempo, foram definidos tipos de mudança e as ações que devem ser tomadas para realizar essa mudança.
