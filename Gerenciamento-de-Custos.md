@@ -50,9 +50,9 @@ O custo real e o monitoramento das atividades permite traduzir o projeto atravé
 |Custo Real (AC)|   |   |   |
 |Valor Planejado (PV)|   |   |   |
 |Valor Agregado (EV)|   |   |   |
-|Variação de Custo (CV)|É uma medida do desempenho, em termos de custo, em um projeto.|Valor Agregado - Custo Real| CV > 0, CV < 0, valor agreagado menor que valor gasto  |
-| SV       |Demonstra o andamento do projeto|SV > 0, projeto adiantado; SV < 0; projeto atrasado|
-| PSI      | Peformance de prazos             | SPI > 1, Adiantado; SPI = 1, Em dia; SPI < 0, Atrasado | 
-| CPI      | Performance dos custos           |   CPI > 1,                                             |
+|Variação de Custo (CV)|É uma medida do desempenho, em termos de custo, em um projeto.|CV = EV - AC| CV > 0, CV < 0, valor agregado menor que valor gasto |
+|Variação de Cronograma (SV)|||Demonstra o andamento do projeto|SV > 0, projeto adiantado; SV < 0; projeto atrasado|
+|Índice de Desempenho de Prazos(PSI)||| Performance de prazos| SPI > 1, Adiantado; SPI = 1, Em dia; SPI < 0, Atrasado | 
+|Índice de Desempenho de Custo (CPI)||| Performance dos custos|   CPI > 1,|
 
 A equipe deve revisar o cronograma e o escopo do projeto todas as vezes que os indicadores SV, SPI estiverem abaixo de zero. Essa informação deve constar em relatório específico que contemple todas as ações tomadas. O valor de CPI abaixo de zero deve ser comunicado ao cliente e as ações tomadas devem ser documentadas. 
