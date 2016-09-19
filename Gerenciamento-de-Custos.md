@@ -7,6 +7,7 @@
 |07/09/2016| 1.2| Finalizando documento |Jessica |
 |13/09/2016| 1.3| Adequação da estrutura do plano| Pedro|
 |19/09/2016| 1.4| Melhora na descrição dos índices | Pedro|
+|19/09/2016| 1.5| Adicionando imagens dos custos| Jessica|
 
 ## 1.Introdução
 O plano a seguir apresenta as estimativas de despêndio e estratégias de monitoramento ao longo do projeto. Os custos foram estimados para refletir da melhor maneira possível o andamento de uma aplicação real. O documento irá apresentar as estimativas de custo, as estratégias de monitoramento e ações para mitigar eventuais adversidades. 
@@ -23,8 +24,13 @@ A instituição de ensino divulga, em seus relatório gerenciais, o custo anual 
 
 O preâmbulo acima juntamente com a estimativa de tempo para cada iteração permite fazermos uma estimativa de gastos detalhada para os recursos humanos, vale lembrar que quando uma atividades está designada a Todos, a mesma custa a quantidade de horas x os 10 alunos, o mesmo acontece para MDS ou GPP, onde o valor do cronograma é multiplicado por 5, como é apresentado na figura abaixo:
 
-![Custo 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Custo_Iteracao1.png)
-![Custo 2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Custo_Iteracao2.png) 
+![Custo 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Custo_It1.png)
+![Custo 2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Custo_It2_1.png) 
+![Custo 2.2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Custo_It2_2.png) 
+![Custo 3](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Custo_It3_1.png) 
+![Custo 3.2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Custo_It3_2.png) 
+![Custo Release 2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Custo_Release2.png) 
+
 
 #### 2.1.2 Insumos
 Além dos custos de mão de obra, ainda existe o custo de infraestrutura, que contém o valor da aquisição de cada notebook para desenvolvimento do projeto, internet, espaço físico e energia elétrica como pode ser visto na tabela a seguir:
