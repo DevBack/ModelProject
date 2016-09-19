@@ -50,11 +50,12 @@ O custo real e o monitoramento das atividades permite traduzir o projeto atravé
 |---------|---------|-------|
 |Custo Real (CR)|É o custo realizado incorrido no trabalho executado de uma atividade.|----|
 |Valor Planejado (VP)|É o orçamento autorizado designado ao trabalho agendado.|----|
-|Taxa de entrega (TE)|É a porcentagem  de conclusão de uma atividade|----|
+|Taxa de Entrega (TE)|É a porcentagem  de conclusão de uma atividade|----|
 |Valor Agregado (VA)|É a medida do trabalho executado expressa em termos do orçamento autorizado para tal trabalho.|VA = (VP * TE)/100|
 |Variação de Custo (VC)|É a quantidade de déficit ou excedente orçamentário em um determinado momento.|VC = VA – CR|
-|Variação de prazos (VPR)|É a medida de desempenho do cronograma expressa como a diferença entre o valor agregado e o valor planejado.|VPR = VA – VP|
-|
+|Variação de Prazos (VPR)|É a medida de desempenho do cronograma expressa como a diferença entre o valor agregado e o valor planejado.|VPR = VA – VP|
+|Índice de Desempenho de Prazos (IDP)|É a medida de eficiência do cronograma expressa como a relação valor agregado/valor planejado.|IDP= VA/VP|
 |Índice de Desempenho de Custo (IDC)|É a medida da eficiência de custos dos recursos orçados expressa como a relação valor agregado/custo real.|IDC = VA/CR|
 
-A equipe deve revisar o cronograma e o escopo do projeto todas as vezes que os indicadores SV, SPI estiverem abaixo de zero. Essa informação deve constar em relatório específico que contemple todas as ações tomadas. O valor de CPI abaixo de zero deve ser comunicado ao cliente e as ações tomadas devem ser documentadas. 
+
+A equipe deve revisar o cronograma e o escopo do projeto todas as vezes que os indicadores Variação de Prazos ou  Índice de Desempenho de Prazos estiverem abaixo de zero. Essa informação deve constar em relatório específico que contemple todas as ações tomadas. O valor de CPI abaixo de zero deve ser comunicado ao cliente e as ações tomadas devem ser documentadas. 
