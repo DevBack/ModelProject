@@ -74,6 +74,8 @@ O controle dos riscos é feito pela equipe de gerenciamento e se dá por meio de
 1. Avaliação da eficácia do processo de gerenciamento de riscos sob os riscos ocorridos;
 1. Adaptação do processo de gerenciamento de riscos (vulgo este documento), se necessário;
 
+O monitoramento e controle dos riscos podem ser vistos em [Acompanhamento de Riscos](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Acompanhamento-dos-Riscos)
+
 # 3. Riscos Identificados
 A tabela abaixo apresenta os riscos identificados bem como suas devidas ações resposta definidas. A classificação para priorização dos riscos é descrita na seção 3.1.
 
