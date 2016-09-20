@@ -15,6 +15,7 @@
 |09/09/2016 |2.0 |Caso de Teste Fazer Login |Lucas |
 |13/09/2016 |2.1 |Atualização Caso de Teste Criar Reserva |Vítor |
 |16/09/2016 |2.2 |Caso de Teste Consultar Reserva e Atualização Caso de Teste Criar Reserva |Vítor |
+|20/09/2016 |2.3 |Atualizado Casos de Teste|Lucas |
 
 #Índice
 
