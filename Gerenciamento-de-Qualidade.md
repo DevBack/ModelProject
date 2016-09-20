@@ -7,6 +7,7 @@
 |14/09/2016|1.2   |Revisão na aplicabilidade e uso das métricas e ferramentas.   |Allan    |
 |14/09/2016|1.3   |Alterando explicação em relação ao flake 8 e usabilidade  |Jessica      |
 |20/09/2016|1.4   |Adicionado justificativa para escolha das métricas  |Allan      |
+|20/09/2016|1.5   |Adicionado link para acompanhamento do plano  |Allan      |
 
 # 1. Introdução
 Este documento descreve os procedimentos gerenciais que visam estabelecer, controlar, assegurar e validar padrões de qualidade do produto em desenvolvimento.
@@ -97,3 +98,5 @@ O framework Bootstrap será utilizado visando melhorar a experiência de usuári
 * *Folha de estilo*: Ao final de cada caso de uso, um desenvolvedor deverá fazer uso da ferramenta Flake8 para checar eventuais incoerências com a folha de estilo identificadas durante o desenvolvimento. Dessa forma, a integração do novo código será aceita somente após a validação com o Flake8.
 
 * *Usabilidade*: Os desenvolvedores deverão se ater previamente a responsividade das telas, conforme requisito não funcional de usabilidade especificado. Ao final de cada iteração serão realizadas rotinas de verificação de responsividade das telas e facilidade de uso.
+
+O monitoramento da qualidade é registrado em: [Acompanhamento da Qualidade](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Acompanhamento-Métricas-de-Qualidade)
