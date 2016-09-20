@@ -26,8 +26,9 @@ A EAP acima representa a Estrutura Analítica do Projeto, e como pode ver, está
 Em cada uma das entregas os alunos estão inseridos em uma forma de processo, onde na entrega 1 é o RUP e na entrega 2 o ágil. Dessa forma a entrega 1 foi organizada de acordo com as fases do RUP, começando pela Iniciação, partindo pela Elaboração, e concluindo em uma pequena etapa da Construção.
 
 #### 2.1.2. Cronograma do Projeto
+O cronograma do projeto foi feito de acordo com as fases do RUP, onde as atividades estão de acordo com a EAP. A imagem abaixo mostra o cronograma com as macro atividades iguais ao RUP, e dentro delas as atividades mais detalhadas para alcançar essas macro atividades. O cronograma dividido de acordo com a EAP pode ser visto em [Cronograma e EAP](https://www.smartapp.com/gantterforgoogledrive/index.html?fileID=0BwIEjFLG3J84clROcXdXUlh2Snc).
 
-*Colocar cronograma das macro entregáveis(EAP) 
+# ![Cronograma](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/CronogramaEAP.png)
 
 #### 2.1.3. Custo do Projeto
 
