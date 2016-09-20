@@ -6,7 +6,7 @@
 |05/09/2016|1.1   |Adicionado conteúdo em todo documento   |Allan    |
 |14/09/2016|1.2   |Revisão na aplicabilidade e uso das métricas e ferramentas.   |Allan    |
 |14/09/2016|1.3   |Alterando explicação em relação ao flake 8 e usabilidade  |Jessica      |
-|20/09/2016|1.4   |Adicionado justificativa para escolha das métricas  |Jessica      |
+|20/09/2016|1.4   |Adicionado justificativa para escolha das métricas  |Allan      |
 
 # 1. Introdução
 Este documento descreve os procedimentos gerenciais que visam estabelecer, controlar, assegurar e validar padrões de qualidade do produto em desenvolvimento.
