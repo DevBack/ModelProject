@@ -1,5 +1,13 @@
-#Índice
+[retornar para Relatório de Testes](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Relat%C3%B3rio-de-Testes)
 
+#Índice
+[1. Cadastrar Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Relat%C3%B3rio-de-Testes---Manter-Usu%C3%A1rio-(UC01)#1-cadastrar-usu%C3%A1rio)
+
+[2. Editar Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Relat%C3%B3rio-de-Testes---Manter-Usu%C3%A1rio-(UC01)#2-editar-usu%C3%A1rio)
+
+[3. Pesquisar Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Relat%C3%B3rio-de-Testes---Manter-Usu%C3%A1rio-(UC01)#3-pesquisar-usu%C3%A1rio)
+
+[4. Excluir Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Relat%C3%B3rio-de-Testes---Manter-Usu%C3%A1rio-(UC01)#4-excluir-usu%C3%A1rio)
 #1. Cadastrar Usuário
 ##TC01 - Todos os campos válidos
 ### Operação 
@@ -214,3 +222,5 @@ Não há.
 O usuário permanece na página de seus dados. 
 ### Resultado obtido
 Não há confirmação.
+
+[retornar para Relatório de Testes](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Relat%C3%B3rio-de-Testes)
