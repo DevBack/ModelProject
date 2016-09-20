@@ -34,11 +34,17 @@ Em cada uma das entregas os alunos estão inseridos em uma forma de processo, on
 
 ### 2.2. Ciclo de vida do Projeto
 
-*Introduzir 
+O projeto será executado tomando como base um ciclo de vida iterativo e incremental, a partir do uso do RUP - para o desenvolvimento do produto de software - e do PMBOK - para gerência do projeto.
 
 #### 2.2.1. RUP
+O Rational Unified Process ou RUP é um processo de engenharia de software. Ele fornece uma abordagem disciplinada para a atribuição de tarefas e responsabilidades dentro de uma organização de desenvolvimento. Seu objetivo é garantir a produção de software de alta qualidade que atenda às necessidades de seus usuários finais dentro de um cronograma e um orçamento.
+
+[RUP](http://sce.uhcl.edu/helm/rationalunifiedprocess/)
 
 #### 2.2.1. PMBOK
+É o corpo de conhecimentos sobre gerenciamento de projetos gerais, mantido pelo Instituto de Gerenciamento de Projeto (PMI).
+
+[PMBOK](http://www.pmi.org/pmbok-guide-standards)
 
 ### 2.3. Planos Auxiliares do Projeto
 
