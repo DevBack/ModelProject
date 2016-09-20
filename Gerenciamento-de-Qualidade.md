@@ -6,6 +6,7 @@
 |05/09/2016|1.1   |Adicionado conteúdo em todo documento   |Allan    |
 |14/09/2016|1.2   |Revisão na aplicabilidade e uso das métricas e ferramentas.   |Allan    |
 |14/09/2016|1.3   |Alterando explicação em relação ao flake 8 e usabilidade  |Jessica      |
+|20/09/2016|1.4   |Adicionado justificativa para escolha das métricas  |Jessica      |
 
 # 1. Introdução
 Este documento descreve os procedimentos gerenciais que visam estabelecer, controlar, assegurar e validar padrões de qualidade do produto em desenvolvimento.
@@ -15,16 +16,16 @@ Este documento descreve os procedimentos gerenciais que visam estabelecer, contr
 ## 2.1. Métricas de Qualidade
 Será feito o uso de três métricas de qualidade de código: 
 
-1. Cobertura de Testes;
+ 1. Cobertura de Testes;
 
-2. Complexidade Ciclomática;
+ 2. Complexidade Ciclomática;
 
-3. Churn: Alterações de arquivo;
+ 3. Churn: Alterações de arquivo;
 
 O acompanhamento dos valores das métricas será realizado com auxílio das ferramentas discutidas em [5. Ferramentas Utilizadas](#5-ferramentas-utilizadas). As métricas são coletadas após a finalização de cada funcionalidade (Caso de Uso/História de Usuário) e serão utilizadas para avaliar a necessidade de refatoração, conforme deliberado em cada métrica e possivelmente apontar vícios de programação, de forma que a equipe de gerência pode sugerir melhorias antes da codificação de novas funcionalidades.
 
 ### 2.1.1. Cobertura de Testes
-É estabelecido que o o projeto deverá ter cobertura de código de, no mínimo, 90%. Este acompanhamento será feito através da ferramenta Coveralls. Esta ferramenta computa automaticamente a cobertura de código com base nos arquivos de teste do repositório.
+É estabelecido que o o projeto deverá ter cobertura de código de, no mínimo, 90%, logo é obrigatório a definição desta métrica. Este acompanhamento será feito através da ferramenta Coveralls. Esta ferramenta computa automaticamente a cobertura de código com base nos arquivos de teste do repositório.
 
 #### 2.1.1.1. Indicadores
 
@@ -37,7 +38,8 @@ O acompanhamento dos valores das métricas será realizado com auxílio das ferr
 
 ### 2.1.2. Complexidade Ciclomática
 
-A complexidade ciclomática será avaliada como métrica através da engine Rudon do Code Climate. O Flake8 fornece uma visualização prévia em tempo de desenvolvimento sobre vícios anti-patterns que possam impactar nesta métrica de forma que será necessário utilizar o Flake 8 ao final de cada caso de uso, antes de dar o merge. O Code Climate vem como complemento validador, é através dele que é avaliada a necessidade de refatoração, conforme indicadores:
+Esta métrica avalia a quantidade de caminhos de execução independentes a partir de um código fonte. Ela foi escolhida em virtude do caráter delicado que o projeto apresenta ao correlacionar informações de reservas em locais e horários. A abordagem de codificação do software que tratará estas informações pode se tornar dependiosa e consequentemente gerar complexidade computacional custosa podendo refletir em tempo de espera em consultas. 
+A complexidade ciclomática será avaliada como métrica através da engine Rudon do Code Climate. O Flake8 fornece uma visualização prévia em tempo de desenvolvimento sobre vícios anti-patterns que possam impactar nesta métrica de forma que será necessário utilizar o Flake 8 ao final de cada caso de uso, antes de fazer o merge. O Code Climate vem como complemento validador, é através dele que é avaliada a necessidade de refatoração, conforme indicadores:
 
 #### 2.1.2.1. Indicadores
 
@@ -93,6 +95,6 @@ O framework Bootstrap será utilizado visando melhorar a experiência de usuári
 
 * *Métricas*: Ao final de cada iteração da fases de construção e transição realizar a coleta das métricas estabelecidas e avaliar se os padrões de qualidade estão sendo atendidos. Caso não estejam, a equipe deverá tentar alocar tempo para refatoração do código de acordo com os indicadores das métricas.
 
-* *Folha de estilo*: Ao final de cada caso de uso, um desenvolvedores deverá fazer uso da ferramenta Flake8 para checar eventuais incoerências com a folha de estilo identificadas durante o desenvolvimento. Dessa forma, a integração do novo código será aceita somente após a validação com o Flake8.
+* *Folha de estilo*: Ao final de cada caso de uso, um desenvolvedor deverá fazer uso da ferramenta Flake8 para checar eventuais incoerências com a folha de estilo identificadas durante o desenvolvimento. Dessa forma, a integração do novo código será aceita somente após a validação com o Flake8.
 
 * *Usabilidade*: Os desenvolvedores deverão se ater previamente a responsividade das telas, conforme requisito não funcional de usabilidade especificado. Ao final de cada iteração serão realizadas rotinas de verificação de responsividade das telas e facilidade de uso.
