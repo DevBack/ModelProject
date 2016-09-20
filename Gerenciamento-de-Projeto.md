@@ -4,6 +4,7 @@
 |----|------|---------|-------|
 | 14/08/2016| 1.0 |Criação do Documento |Jessica |
 | 19/09/2016| 1.1 |Montando estrutura do Documento |Pedro |
+| 20/09/2016| 1.2 |Preenchendo o documento| Jessica |
 
 ## 1. Introdução
 
@@ -14,8 +15,14 @@ Este documento tem por objetivo descrever como o projeto SAS será executado, co
 ### 2.1. Definição base do Projeto
 #### 2.1.1. Escopo do Projeto
 
-*Colocar breve descrição do escopo
-*Colocar EAP
+As salas da UnB são de livre acesso para o corpo acadêmico da Universidade, porém hoje, a reserva das salas é feita por meio de papéis e nem todos têm o conhecimento de que é possível realizar essa reserva. A alocação de salas para as disciplinas, é feita por meio do coordenador que decide a melhor forma de organizar essas alocações, atualmente na FGA esse controle é feito por planilhas, o que acaba resultando em choque de horários. O SAS (Sistema de Alocação de Salas) tem por objetivo automatizar esse processo de alocação, facilitando tanto o trabalho realizado pelos coordenadores, quanto o do corpo acadêmico em reservas salas.
+O Projeto SAS foi organizado de acordo com os entregáveis, como pode ser visto na EAP abaixo.
+
+# ![EAP Entrega 1](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/EAP_Entrega1v4.png) 
+# ![EAP Entrega 2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/EAP_Entrega2v4.png)
+
+A EAP acima representa a Estrutura Analítica do Projeto, e como pode ver, está divida em dois marcos, a entrega 1 e a entrega 2.
+Em cada uma das entregas os alunos estão inseridos em uma forma de processo, onde na entrega 1 é o RUP e na entrega 2 o ágil. Dessa forma a entrega 1 foi organizada de acordo com as fases do RUP, começando pela Iniciação, partindo pela Elaboração, e concluindo em uma pequena etapa da Construção.
 
 #### 2.1.2. Cronograma do Projeto
 
