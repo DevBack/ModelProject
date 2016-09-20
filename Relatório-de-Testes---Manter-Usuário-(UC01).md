@@ -148,7 +148,7 @@ Nome, matrícula, e-mail, repetir senha.
 ### Resultado esperado
 Mensagens de erro informando que o campo de senha está vazio e que o usuário não foi cadastrado. 
 ### Resultado obtido
-Retorno a página inicial e cadastro armazenado no banco de dados.
+Retorno a página inicial.
 
 
 ##TC15 - Campo ‘senha’ nulo
@@ -159,7 +159,7 @@ Nome, matrícula, e-mail, repetir senha.
 ### Resultado esperado
 Mensagens de erro informando que o campo de senha está vazio e que o usuário não foi cadastrado. 
 ### Resultado obtido
-Retorno a página inicial e cadastro armazenado no banco de dados.
+Retorno a página inicial.
 
 ##TC16 - Campo ‘confirmar senha’ vazio
 ### Operação 
@@ -191,8 +191,11 @@ Mensagens de erro informando que os campos de senha e de confirma senha não con
 ### Resultado obtido
 Mensagem de erro informando que os campos de senha e de confirma senha não conferem.
 #2. Editar Usuário
+
 #3. Pesquisar Usuário 
+
 #4. Excluir Usuário
+
 ##TC35 - Usuário deseja excluir sua conta
 ### Operação 
 Apertar o botão de "excluir conta" para que seja aberta uma confirmação.
