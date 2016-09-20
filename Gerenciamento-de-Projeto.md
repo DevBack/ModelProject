@@ -5,7 +5,7 @@
 | 14/08/2016| 1.0 |Criação do Documento |Jessica |
 | 19/09/2016| 1.1 |Montando estrutura do Documento |Pedro |
 | 20/09/2016| 1.2 |Preenchendo o documento| Jessica |
-| 20/09/2016| 1.3 |Preenchendo o documento(2.1.2. e 2.2.)|Pedro |
+| 20/09/2016| 1.3 |Preenchendo o documento(2.1.3. e 2.2.)|Pedro |
 
 ## 1. Introdução
 
@@ -29,7 +29,7 @@ Em cada uma das entregas os alunos estão inseridos em uma forma de processo, on
 
 *Colocar cronograma das macro entregáveis(EAP) 
 
-#### 2.1.2. Custo do Projeto
+#### 2.1.3. Custo do Projeto
 
 A estimativa inicial de custo do projeto está descrita na seguinte tabela.
 
