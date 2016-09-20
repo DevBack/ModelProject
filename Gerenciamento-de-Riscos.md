@@ -30,7 +30,8 @@ Após identificação de risco segue a sua devida documentação considerando os
 Considera-se a existência de riscos negativos e positivos para o projeto, ameaças e oportunidades, respectivamente.
 
 ### 2.1.1. EAR - Estrutura Analítica de Riscos
-![EAR - Estrutura Analítica de Riscos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/EAR.png) 
+A estrutura analítica de riscos fornece uma hierarquização visual das categorias as quais podem derivar-se riscos. Esta EAR foi definida após reflexão da equipe das categorias críticas que usualmente ocorrem riscos considerando a essência de disciplina de graduação e de projeto.
+![EAR - Estrutura Analítica de Riscos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/EARv2.png) 
 
 ## 2.2. Análise qualitativa de riscos
 Trata-se do processo de **priorização** dos riscos considerando **probabilidade** de ocorrência e **impacto**.
