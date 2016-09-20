@@ -29,6 +29,9 @@ Mensagens de erro informando que os campos estão vazios e que o usuário não f
 ### Resultado obtido
 Mensagem informando que o primeiro campo não foi preenchido.
 
+![TC 02](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc02.png)
+
+
 ##TC03 - Campo ‘nome’ vazio
 ### Operação 
 Campo nome vazio e preenchimento válido dos outros campos.
@@ -39,6 +42,9 @@ Mensagens de erro informando que o campo de nome está vazio e que o usuário n�
 ### Resultado obtido
 Mensagem informando que o campo de nome não foi preenchido.
 
+![TC 03](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc034.png)
+
+
 ##TC04 - Campo ‘nome’ nulo
 ### Operação 
 Campo nome nulo e preenchimento válido dos outros campos.
@@ -48,6 +54,9 @@ Matrícula, e-mail, senha, repetir senha.
 Mensagens de erro informando que o campo de nome está vazio e que o usuário não foi cadastrado. 
 ### Resultado obtido
 Mensagem informando que o campo de nome não foi preenchido.
+
+
+![TC 03](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc034.png)
 
 ##TC05 - Campo ‘nome’ inválido
 ### Operação 
@@ -69,6 +78,8 @@ Mensagens de erro informando que o campo de matrícula está vazio e que o usuá
 ### Resultado obtido
 Mensagem informando que o campo de matrícula não foi preenchido.
 
+![TC 06](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc067.png)
+
 ##TC07 - Campo ‘matrícula’ nulo
 ### Operação 
 Campo matrícula nulo e preenchimento válido dos outros campos.
@@ -78,6 +89,8 @@ Nome, e-mail, senha, repetir senha.
 Mensagens de erro informando que o campo de matrícula está vazio e que o usuário não foi cadastrado. 
 ### Resultado obtido
 Mensagem informando que o campo de matrícula não foi preenchido.
+
+![TC 07](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc067.png)
 
 ##TC08 - Campo ‘matrícula’ inválido
 ### Operação 
@@ -110,6 +123,8 @@ Mensagens de erro informando que o campo de email está vazio e que o usuário n
 ### Resultado obtido
 Mensagem informando que o campo de email não foi preenchido.
 
+![TC 10](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc1011.png)
+
 ##TC11 - Campo ‘e-mail’ nulo
 ### Operação 
 Campo email nulo e preenchimento válido dos outros campos.
@@ -119,6 +134,8 @@ Nome, matrícula, senha, repetir senha.
 Mensagens de erro informando que o campo de email está vazio e que o usuário não foi cadastrado. 
 ### Resultado obtido
 Mensagem informando que o campo de email não foi preenchido.
+
+![TC 10](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc1011.png)
 
 ##TC12 - Campo ‘e-mail’ inválido
 ### Operação 
@@ -138,7 +155,9 @@ Nome, matrícula, e-mail, senha, repetir senha.
 ### Resultado esperado
 Mensagens de erro informando que o já existe cadastro com o email e que o usuário não foi cadastrado. 
 ### Resultado obtido
-Exceção(IntegrityErro).
+Exceção(IntegrityError).
+
+![TC 10](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc13.png)
 
 ##TC14 - Campo ‘senha’ vazio
 ### Operação 
@@ -171,6 +190,8 @@ Mensagens de erro informando que o campo de senha está vazio e que o usuário n
 ### Resultado obtido
 Mensagem de erro informando que o campo de confirmar senha está vazio.
 
+![TC 16](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc1617.png)
+
 ##TC17 - Campo ‘confirmar senha’ nulo
 ### Operação 
 Campo confirmar senha nulo e preenchimento válido dos outros campos.
@@ -181,6 +202,8 @@ Mensagens de erro informando que o campo de senha está vazio e que o usuário n
 ### Resultado obtido
 Mensagem de erro informando que o campo de confirmar senha está vazio.
 
+![TC 17](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc1617.png)
+
 ##TC18 - Campo ‘senha’ e ‘confirmar senha’ não correspondem
 ### Operação 
 Campo confirmar senha e senha não correspondentes e preenchimento válido dos outros campos.
@@ -190,6 +213,8 @@ Nome, matrícula, e-mail,senha, repetir senha.
 Mensagens de erro informando que os campos de senha e de confirma senha não conferem e que o usuário não foi cadastrado. 
 ### Resultado obtido
 Mensagem de erro informando que os campos de senha e de confirma senha não conferem.
+
+![TC 18](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc18.png)
 
 #2. Editar Usuário  
 ##TC19 - Alterar nome  
@@ -346,6 +371,7 @@ Retorno a página inicial, mensagem de sucesso na exclusão da conta e cadastro 
 ### Resultado obtido
 Não há confirmação.
 
+![TC 36](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc36.png)
 ##TC37 - Usuário não confirmou a exclusão de sua conta
 ### Operação 
 Impedir a exclusão da conta de usuário após a não confirmação.
