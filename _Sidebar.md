@@ -34,3 +34,4 @@
 * [Especificação de Casos de Uso](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Especificação-de-Casos-de-Uso)
 * [Especificação de Casos de Teste](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Especificação-de-Casos-de-Teste)
 * [Folha de Estilo](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Folha-de-Estilo)
+* [Protótipo de Alta Fidelidade](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Prot%C3%B3tipo-de-Alta-Fidelidade)
