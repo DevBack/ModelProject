@@ -14,8 +14,11 @@ Este documento descreve os procedimentos gerenciais que visam estabelecer, contr
 
 ## 2.1. Métricas de Qualidade
 Será feito o uso de três métricas de qualidade de código: 
+
 1. Cobertura de Testes;
+
 2. Complexidade Ciclomática;
+
 3. Churn: Alterações de arquivo;
 
 O acompanhamento dos valores das métricas será realizado com auxílio das ferramentas discutidas em [5. Ferramentas Utilizadas](#5-ferramentas-utilizadas). As métricas são coletadas após a finalização de cada funcionalidade (Caso de Uso/História de Usuário) e serão utilizadas para avaliar a necessidade de refatoração, conforme deliberado em cada métrica e possivelmente apontar vícios de programação, de forma que a equipe de gerência pode sugerir melhorias antes da codificação de novas funcionalidades.
