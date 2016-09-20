@@ -11,3 +11,4 @@
 ## 3. Resultados
 ### 3.1 Métricas
 ### 3.2 Cobertura de Teste
+### 3.3 Integração Contínua
