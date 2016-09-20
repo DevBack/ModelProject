@@ -12,7 +12,6 @@
 Este documento descreve os procedimentos gerenciais que visam estabelecer, controlar, assegurar e validar padrões de qualidade do produto em desenvolvimento.
 
 # 2. Planejamento
-
 ## 2.1. Métricas de Qualidade
 Será feito o uso de três métricas de qualidade de código: 
 
@@ -22,7 +21,7 @@ Será feito o uso de três métricas de qualidade de código:
 
  3. Churn: Alterações de arquivo;
 
-O acompanhamento dos valores das métricas será realizado com auxílio das ferramentas discutidas em [5. Ferramentas Utilizadas](#5-ferramentas-utilizadas). As métricas são coletadas após a finalização de cada funcionalidade (Caso de Uso/História de Usuário) e serão utilizadas para avaliar a necessidade de refatoração, conforme deliberado em cada métrica e possivelmente apontar vícios de programação, de forma que a equipe de gerência pode sugerir melhorias antes da codificação de novas funcionalidades.
+O acompanhamento dos valores das métricas será realizado com auxílio das ferramentas discutidas em [5. Ferramentas Utilizadas](#5-ferramentas-utilizadas). As métricas são coletadas a partir da branch dev, exceto cobertura de testes que é observada em qualquer branch. A coleta é realizada após a finalização de cada funcionalidade (Caso de Uso/História de Usuário) e serão utilizadas para avaliar a necessidade de refatoração, conforme deliberado em cada métrica e possivelmente apontar vícios de programação, de forma que a equipe de gerência pode sugerir melhorias antes da codificação de novas funcionalidades e antes de disponibilizar o código na branch master.
 
 ### 2.1.1. Cobertura de Testes
 É estabelecido que o o projeto deverá ter cobertura de código de, no mínimo, 90%, logo é obrigatório a definição desta métrica. Este acompanhamento será feito através da ferramenta Coveralls. Esta ferramenta computa automaticamente a cobertura de código com base nos arquivos de teste do repositório.
