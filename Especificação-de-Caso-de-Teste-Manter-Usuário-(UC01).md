@@ -153,7 +153,7 @@ Testes referentes à edição de um usuário:
 * **TC23 - Alterar e-mail**  
     Descrição: Este caso de teste tem como objetivo alterar o e-mail do usuário cadastrado no sistema.  
     Pré-condições: O usuário deve estar logado no sistema e tentar alterar seu e-mail informando um e-mail válido.  
-    Pós-condições: O sistema deve mostrar uma mensagem de sucesso informando que o e-mail foi alterado com sucesso.
+    Pós-condições: O sistema deve mostrar uma mensagem de sucesso informando que o e-mail foi alterado com sucesso.  
     Dados necessários: E-mail.  
   
 * **TC24 - Campo ‘e-mail’ vazio**  
@@ -189,8 +189,8 @@ Testes referentes à edição de um usuário:
 * **TC29 - Confirmação de nova senha incompatível com a nova senha**  
     Descrição: Este caso de teste tem como objetivo impedir a alteração da senha usuário quando a nova senha e sua confirmação não são iguais.  
     Pré-condições: O usuário deve estar logado no sistema e tentar alterar sua senha informando a senha atual, são informados dados diferentes nos campos de 'nova senha' e 'confirmação de nova senha'.  
-    Pós-condições: O sistema deve mostrar uma mensagem de sucesso informando que a senha foi alterada com sucesso.  
-    Dados necessários: Senha atual, nova senha, confirmação de nova senha.  
+    Pós-condições: O sistema deve mostrar uma mensagem de erro informando que as senhas não conferem.  
+    Dados necessários: Nova senha, confirmação de nova senha.  
   
 * **TC30 - Campo ‘senha’ vazio**  
     Descrição: Este caso de teste tem como objetivo garantir que o usuário não possua uma senha vazia.  
