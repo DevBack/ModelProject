@@ -5,6 +5,7 @@
 | 14/08/2016| 1.0 |Criação do Documento |Jessica |
 | 19/09/2016| 1.1 |Montando estrutura do Documento |Pedro |
 | 20/09/2016| 1.2 |Preenchendo o documento| Jessica |
+| 20/09/2016| 1.3 |Preenchendo o documento(2.1.2. e 2.2.)|Pedro |
 
 ## 1. Introdução
 
@@ -30,7 +31,11 @@ Em cada uma das entregas os alunos estão inseridos em uma forma de processo, on
 
 #### 2.1.2. Custo do Projeto
 
-*Colocar custo aprovado ao longo do tempo
+A estimativa inicial de custo do projeto está descrita na seguinte tabela.
+
+|Pessoa/Hora|Insumos|Custo Total|
+|-----------|-------|-----------|
+|R$24.480,00|R$3.767,9|R$28.247,9|
 
 ### 2.2. Ciclo de vida do Projeto
 
