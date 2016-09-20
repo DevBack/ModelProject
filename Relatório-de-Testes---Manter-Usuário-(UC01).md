@@ -190,7 +190,137 @@ Nome, matrícula, e-mail,senha, repetir senha.
 Mensagens de erro informando que os campos de senha e de confirma senha não conferem e que o usuário não foi cadastrado. 
 ### Resultado obtido
 Mensagem de erro informando que os campos de senha e de confirma senha não conferem.
-#2. Editar Usuário
+
+#2. Editar Usuário  
+##TC19 - Alterar nome  
+### Operação  
+Campo nome alterado e preenchimento válido para os outros campos.  
+### Dados utilizados  
+Nome.
+### Resultado esperado  
+Mensagem de sucesso informando que o campo nome foi alterado com sucesso.  
+### Resultado obtido  
+Campo nome não alterado.
+
+##TC20 - Campo nome vazio  
+### Operação  
+Campo nome vazio e preenchimento válido para os outros campos.  
+### Dados utilizados  
+Não há.
+### Resultado esperado  
+Mensagem de erro informando que o campo ‘nome’ deve ser preenchido.  
+### Resultado obtido  
+Mensagem pedindo para usuário preencher o campo.
+
+##TC21 - Campo nome nulo  
+### Operação  
+Campo nome nulo e preenchimento válido para os outros campos.  
+### Dados utilizados  
+Não há.
+### Resultado esperado  
+Mensagem de erro informando que o campo ‘nome’ deve ser preenchido.  
+### Resultado obtido  
+Mensagem pedindo para usuário preencher o campo.
+
+##TC22 - Campo nome inválido  
+### Operação  
+Campo nome inválido e preenchimento válido para os outros campos.  
+### Dados utilizados  
+Nome.
+### Resultado esperado  
+Mensagem de erro informando que o campo nome possui caracteres inválido.  
+### Resultado obtido  
+Nome não alterado.
+
+##TC23 - Alterar e-mail
+### Operação  
+Campo e-mail alterado e preenchimento válido para os outros campos.  
+### Dados utilizados  
+E-mail.
+### Resultado esperado  
+Mensagem de sucesso informando que o e-mail foi alterado com sucesso.  
+### Resultado obtido  
+E-mail não alterado.
+
+##TC24 - Campo e-mail vazio
+### Operação  
+Campo e-mail vazio e preenchimento válido para os outros campos.  
+### Dados utilizados  
+Não há.
+### Resultado esperado  
+Mensagem de erro informando que o campo e-mail deve ser preenchido.  
+### Resultado obtido  
+Mensagem pedindo para usuário preencher o campo.
+
+##TC25 - Campo e-mail nulo  
+### Operação  
+Campo nulo vazio e preenchimento válido para os outros campos.  
+### Dados utilizados  
+E-mail.
+### Resultado esperado  
+Mensagem de erro informando que o campo e-mail deve ser preenchido.  
+### Resultado obtido  
+Mensagem pedindo para usuário preencher o campo.
+
+##TC26 - E-mail informado já consta no banco de dados  
+### Operação  
+E-mail já cadastrado preenchimento válido para os outros campos.  
+### Dados utilizados  
+E-mail.
+### Resultado esperado  
+Mensagem de erro informando que já existe um usuário cadastrado com aquele e-mail.  
+### Resultado obtido  
+E-mail não alterado.
+
+##TC27 - Alterar senha  
+### Operação  
+Preenchimentos da senha atual, da nova senha e da confirmação de senha.  
+### Dados utilizados  
+Senha atual, nova senha e confirmação da nova senha.  
+### Resultado esperado  
+Mensagem de sucesso informando que a senha foi alterada com sucesso.  
+### Resultado obtido  
+Senha não alterada.
+
+##TC28 - Senha atual incorreta  
+### Operação  
+Preenchimentos da senha atual incorreta.  
+### Dados utilizados  
+Senha.  
+### Resultado esperado  
+Mensagem de erro informando que a senha atual foi digitada incorretamente.  
+### Resultado obtido  
+Senha não alterada.
+
+##TC29 - Confirmação de nova senha incompatível com a nova senha  
+### Operação  
+Preenchimentos da nova senha diferente da confirmação de senha.  
+### Dados  
+Senha atual, nova senha, confirmação de nova senha.    
+### Resultado esperado  
+Mensagem de erro informando que as senhas não conferem.  
+### Resultado obtido  
+Senha não alterada.
+
+##TC30 - Campo senha vazio  
+### Operação  
+Campo senha atual vazio.  
+### Dados  
+Não há.  
+### Resultado esperado  
+Mensagem de erro informando que o campo senha deve ser preenchido.  
+### Resultado obtido  
+Senha não alterada.
+
+##TC31 - Campo senha nulo  
+### Operação  
+Campo senha atual nulo.  
+### Dados  
+Não há.  
+### Resultado esperado  
+Mensagem de erro informando que o campo senha deve ser preenchido.  
+### Resultado obtido  
+Senha não alterada.
 
 #3. Pesquisar Usuário 
 
