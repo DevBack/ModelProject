@@ -15,6 +15,8 @@ A atualização deste documento é realizada após a finalização de cada caso 
 ### 3.1. Primeira coleta: 21/09/2016
 #### 3.1.1 Integração Contínua
 
+A imagem apresenta a branch e o resultada das 5 ultimas builds.
+
 ![Travis Integração Contínua](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/1st/travis.png) 
 
 #### 3.1.2 Métrica: Cobertura de Teste
@@ -23,9 +25,13 @@ A atualização deste documento é realizada após a finalização de cada caso 
 
 #### 3.1.3 Métrica: Complexidade Ciclomática
 
+A imagem apresenta todos os pedaços de código identificados com complexidade ciclomática crítica.
+
 ![Complexidade Ciclomática](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/1st/cyclomatic_complexity.png) 
 
 #### 3.1.4 Métrica: Churn
+
+Cada ponto na imagem apresenta um arquivo, são mostrados os arquivos com impacto relevante. Quanto mais acima e mais a direita, pior, consequentemente modificando a cor numa escala de verde a vermelho.
 
 ![Churn](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/1st/churn.png) 
 ### 3.2 Análise sobre a primeira coleta: 21/09/2016
