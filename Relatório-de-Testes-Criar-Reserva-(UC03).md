@@ -76,7 +76,7 @@ Visualização da página de criação da reserva com mensagem indicando que Hor
 ###Resultado obtido  
 Apresenta-se o seguinte erro
      
-![TC 07](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/erroHoraInicial.png)
+![TC 07](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/errorHoraInicial.png)
  
 ##TC 08 - Campo 'Hora Final' nulo  
 ###Operação  
