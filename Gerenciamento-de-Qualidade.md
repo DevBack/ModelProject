@@ -78,6 +78,8 @@ O [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/
 É uma prática de integração frequente das diversas partes de código de forma a evitar precocemente diversos problemas que possam surgir em uma integração de código tardia.
 O desenvolvimento do projeto contará com auxílio da ferramenta Travis CI para integração contínua de código.
 
+O Travis aprsenta um dashboard com todas as builds feitas. As builds são feitas toda vez que há um novo commit no repositório do projeto. 
+
 ### 2.2.3. Usabilidade
 O framework Bootstrap será utilizado visando melhorar a experiência de usuário e implementar responsividade nas telas do sistema. Serão feitos protótipos de alta fidelidade e validados com o cliente antes da construção da interface, para que as mesmas sigam o protótipo aprovado pelo cliente.
 
