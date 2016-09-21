@@ -225,7 +225,7 @@ Nome.
 ### Resultado esperado  
 Mensagem de sucesso informando que o campo nome foi alterado com sucesso.  
 ### Resultado obtido  
-Campo nome não alterado.
+Campo nome alterado e mensagem informando que os dados foram atualizados.
 
 ##TC20 - Campo nome vazio  
 ### Operação  
@@ -233,7 +233,7 @@ Campo nome vazio e preenchimento válido para os outros campos.
 ### Dados utilizados  
 Não há.
 ### Resultado esperado  
-Mensagem de erro informando que o campo ‘nome’ deve ser preenchido.  
+Mensagem de erro informando que o campo nome deve ser preenchido.  
 ### Resultado obtido  
 Mensagem pedindo para usuário preencher o campo.
 
@@ -255,7 +255,7 @@ Nome.
 ### Resultado esperado  
 Mensagem de erro informando que o campo nome possui caracteres inválido.  
 ### Resultado obtido  
-Nome não alterado.
+Nome alterado e mensagem informando que os dados foram atualizados.
 
 ##TC23 - Alterar e-mail
 ### Operação  
@@ -265,7 +265,7 @@ E-mail.
 ### Resultado esperado  
 Mensagem de sucesso informando que o e-mail foi alterado com sucesso.  
 ### Resultado obtido  
-E-mail não alterado.
+E-mail alterado e mensagem informando que os dados foram atualizados.
 
 ##TC24 - Campo e-mail vazio
 ### Operação  
@@ -295,7 +295,7 @@ E-mail.
 ### Resultado esperado  
 Mensagem de erro informando que já existe um usuário cadastrado com aquele e-mail.  
 ### Resultado obtido  
-E-mail não alterado.
+E-mail não alterado e mensagem informando que o e-mail já está sendo utilizado.
 
 ##TC27 - Alterar senha  
 ### Operação  
@@ -305,7 +305,7 @@ Senha atual, nova senha e confirmação da nova senha.
 ### Resultado esperado  
 Mensagem de sucesso informando que a senha foi alterada com sucesso.  
 ### Resultado obtido  
-Senha não alterada.
+Senha alterada e mensagem informando que a senha foi atualizada.
 
 ##TC28 - Senha atual incorreta  
 ### Operação  
@@ -315,7 +315,7 @@ Senha.
 ### Resultado esperado  
 Mensagem de erro informando que a senha atual foi digitada incorretamente.  
 ### Resultado obtido  
-Senha não alterada.
+Senha não alterada e mensagem informando que a senha está errada.
 
 ##TC29 - Confirmação de nova senha incompatível com a nova senha  
 ### Operação  
@@ -325,7 +325,7 @@ Senha atual, nova senha, confirmação de nova senha.
 ### Resultado esperado  
 Mensagem de erro informando que as senhas não conferem.  
 ### Resultado obtido  
-Senha não alterada.
+Senha não alterada e mensagem informando que as senhas não conferem.  
 
 ##TC30 - Campo senha vazio  
 ### Operação  
@@ -335,7 +335,7 @@ Não há.
 ### Resultado esperado  
 Mensagem de erro informando que o campo senha deve ser preenchido.  
 ### Resultado obtido  
-Senha não alterada.
+Senha não alterada e mensagem pedindo para o usuário preencher o campo.  
 
 ##TC31 - Campo senha nulo  
 ### Operação  
@@ -345,7 +345,9 @@ Não há.
 ### Resultado esperado  
 Mensagem de erro informando que o campo senha deve ser preenchido.  
 ### Resultado obtido  
-Senha não alterada.
+Senha não alterada e mensagem pedindo para o usuário preencher o campo.
+
+**OBS.:** Durante os testes foi observado que não é possível alterar o mesmo dado duas vezes. Ao fazê-lo ocorre o logout do usuário e não é possível fazer o login novamente - o sistema informa que o e-mail ou a senha estão errados.
 
 #3. Pesquisar Usuário 
 
