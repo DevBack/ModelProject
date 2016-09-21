@@ -47,6 +47,9 @@ Valores agregado, planejado e real.
 |3       |-189,72|-426,87|0,95|0,98|
 
 VC - Variação de Custo
+
 VPR - Variação de Prazos
+
 IDP - Índice de Desempenho de Prazos
+
 IDC - Índice de Desempenho de Custo
