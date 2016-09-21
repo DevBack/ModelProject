@@ -19,6 +19,8 @@ Retorno a página inicial, mensagem de sucesso no cadastro e cadastro armazenado
 ### Resultado obtido
 Retorno a página inicial e cadastro armazenado no banco de dados.
 
+![TC 01](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc01_tc01.png)
+
 ##TC02 - Todos os campos inválidos
 ### Operação 
 Preenchimento de todos os campos inválidos para cadastro de usuário.
@@ -29,7 +31,7 @@ Mensagens de erro informando que os campos estão vazios e que o usuário não f
 ### Resultado obtido
 Mensagem informando que o primeiro campo não foi preenchido.
 
-![TC 02](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc02.png)
+![TC 02](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc01_tc02.png)
 
 
 ##TC03 - Campo ‘nome’ vazio
@@ -42,7 +44,7 @@ Mensagens de erro informando que o campo de nome está vazio e que o usuário n�
 ### Resultado obtido
 Mensagem informando que o campo de nome não foi preenchido.
 
-![TC 03](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc034.png)
+![TC 03](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc01_tc03_04.png)
 
 
 ##TC04 - Campo ‘nome’ nulo
@@ -56,7 +58,7 @@ Mensagens de erro informando que o campo de nome está vazio e que o usuário n�
 Mensagem informando que o campo de nome não foi preenchido.
 
 
-![TC 03](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc034.png)
+![TC 03](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc01_tc03_04.png)
 
 ##TC05 - Campo ‘nome’ inválido
 ### Operação 
@@ -78,7 +80,7 @@ Mensagens de erro informando que o campo de matrícula está vazio e que o usuá
 ### Resultado obtido
 Mensagem informando que o campo de matrícula não foi preenchido.
 
-![TC 06](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc067.png)
+![TC 06](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc01_tc06_07.png)
 
 ##TC07 - Campo ‘matrícula’ nulo
 ### Operação 
@@ -90,7 +92,7 @@ Mensagens de erro informando que o campo de matrícula está vazio e que o usuá
 ### Resultado obtido
 Mensagem informando que o campo de matrícula não foi preenchido.
 
-![TC 07](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc067.png)
+![TC 07](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc01_tc06_07.png)
 
 ##TC08 - Campo ‘matrícula’ inválido
 ### Operação 
@@ -123,7 +125,7 @@ Mensagens de erro informando que o campo de email está vazio e que o usuário n
 ### Resultado obtido
 Mensagem informando que o campo de email não foi preenchido.
 
-![TC 10](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc1011.png)
+![TC 10](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc01_tc10_11.png)
 
 ##TC11 - Campo ‘e-mail’ nulo
 ### Operação 
@@ -135,7 +137,7 @@ Mensagens de erro informando que o campo de email está vazio e que o usuário n
 ### Resultado obtido
 Mensagem informando que o campo de email não foi preenchido.
 
-![TC 10](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc1011.png)
+![TC 10](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc01_tc10_11.png)
 
 ##TC12 - Campo ‘e-mail’ inválido
 ### Operação 
@@ -157,7 +159,7 @@ Mensagens de erro informando que o já existe cadastro com o email e que o usuá
 ### Resultado obtido
 Exceção(IntegrityError).
 
-![TC 10](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc13.png)
+![TC 10](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc01_tc13.png)
 
 ##TC14 - Campo ‘senha’ vazio
 ### Operação 
@@ -214,7 +216,7 @@ Mensagens de erro informando que os campos de senha e de confirma senha não con
 ### Resultado obtido
 Mensagem de erro informando que os campos de senha e de confirma senha não conferem.
 
-![TC 18](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/tc18.png)
+![TC 18](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc01_tc18.png)
 
 #2. Editar Usuário  
 ##TC19 - Alterar nome  
