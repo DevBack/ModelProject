@@ -47,7 +47,7 @@ Considerando todos os custo, temos que o custo total do projeto é:
 
 |Pessoa/Hora|Insumos|Custo Total|
 |-----------|-------|-----------|
-|R$24.480,00|R$3.767,9|R$28.247,9|
+|R$24.480,00|R$28.865,6|R$53.345,6|
 
 O custo real do projeto pode ser visto no documento de [Acompanhamento de Custo](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Acompanhamento-dos-Custos) do Projeto SAS.
 
