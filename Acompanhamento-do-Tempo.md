@@ -9,7 +9,14 @@
 Este documento tem por objetivo mostrar o monitoramento do tempo realizado no Projeto SAS.
 
 ## 2. Monitoramento e Controle
-O planejamento do tempo no Projeto SAS foi realizado por meio do cronograma, onde foram detalhadas atividades, bem como a data para execução e os responsáveis pelas mesmas. O controle do tempo da equipe do SAS foi feito por meio de planilhas onde cada integrante preenchia diariamente a atividade que realizou, a data que realizou e a quantidade de minutos que demorou para realizar essa atividade. Dessa forma, ao final de cada iteração foi feito um levantamento de quanto tempo realmente se gastou para realizar as atividades.
+O planejamento do tempo no Projeto SAS foi realizado por meio do cronograma, onde foram detalhadas atividades, bem como a data para execução e os responsáveis pelas mesmas. O controle do tempo da equipe do SAS foi feito por meio de planilhas onde cada integrante preenchia diariamente a atividade que realizou, a data que realizou e a quantidade de minutos que demorou para realizar essa atividade. Dessa forma, ao final de cada iteração foi feito um levantamento de quanto tempo realmente se gastou para realizar as atividades. 
+Planilha de tempo por semana
+
+![Total](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Planilha_Horas.png)
+
+Planilha individual
+
+![Horas](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/Horas.png) 
 
 ## 3. Controle do Tempo
 A tabela abaixo ilustra o monitoramento das atividades realizadas onde fica claro observar as horas planejadas x as horas realizadas. A tabela abaixo só ilustra o controle de tempo até o término da release 1 do projeto.
