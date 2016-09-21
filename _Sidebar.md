@@ -5,7 +5,7 @@
 
 ##Gerenciamento do Projeto
 * [Atas](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Atas)
-* [Plano de Iteração](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Cronograma)
+* [Plano de Iteração] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Plano-de-Iteração)
 * [Termo de Abertura](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Termo-de-Abertura)
 * [EAP](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/EAP)
 * [Rastreabilidade de Requisitos](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Rastreabilidade-de-Requisitos)
