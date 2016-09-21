@@ -15,8 +15,8 @@
 |09/09/2016 |2.0 |Caso de Teste Fazer Login |Lucas |
 |13/09/2016 |2.1 |Atualização Caso de Teste Criar Reserva |Vítor |
 |16/09/2016 |2.2 |Caso de Teste Consultar Reserva e Atualização Caso de Teste Criar Reserva |Vítor |
-|20/09/2016 |2.3 |Atualizado Casos de Teste|Lucas |
-
+|20/09/2016 |2.3 |Atualizado Casos de Teste |Lucas |
+|20/09/2016 |2.4 |Atualizado Caso de Teste Fazer Login |Lucas |
 #Índice
 
 [Manter Usuário - UC01](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Especifica%C3%A7%C3%A3o-de-Caso-de-Teste-Manter-Usu%C3%A1rio-(UC01))
