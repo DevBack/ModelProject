@@ -9,6 +9,7 @@
 |21/09/2016 |1.4 |Adicionado o teste Fazer Login |Lucas |
 |21/09/2016 |1.5 |Adicionado o teste Criar Reserva |Hugo |
 |21/09/2016 |1.6 |Atualizando os testes Fazer Login e Consultar Reserva |Hugo |
+|21/09/2016 |1.7 |Atualizando o relatório de testes referentes à Consultar Reserva |Luis |
 
 #Índice
 [UC01 - Manter Usuário](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Relat%C3%B3rio-de-Testes---Manter-Usu%C3%A1rio-(UC01))
