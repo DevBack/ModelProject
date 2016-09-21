@@ -229,6 +229,8 @@ Mensagem de sucesso informando que o campo nome foi alterado com sucesso.
 ### Resultado obtido  
 Campo nome alterado e mensagem informando que os dados foram atualizados.
 
+![TC 19](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc02_tc19.png)
+
 ##TC20 - Campo nome vazio  
 ### Operação  
 Campo nome vazio e preenchimento válido para os outros campos.  
@@ -239,6 +241,8 @@ Mensagem de erro informando que o campo nome deve ser preenchido.
 ### Resultado obtido  
 Mensagem pedindo para usuário preencher o campo.
 
+![TC 20](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc02_tc20_21.png)
+
 ##TC21 - Campo nome nulo  
 ### Operação  
 Campo nome nulo e preenchimento válido para os outros campos.  
@@ -248,6 +252,8 @@ Não há.
 Mensagem de erro informando que o campo ‘nome’ deve ser preenchido.  
 ### Resultado obtido  
 Mensagem pedindo para usuário preencher o campo.
+
+![TC 21](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc02_tc20_21.png)
 
 ##TC22 - Campo nome inválido  
 ### Operação  
@@ -279,6 +285,8 @@ Mensagem de erro informando que o campo e-mail deve ser preenchido.
 ### Resultado obtido  
 Mensagem pedindo para usuário preencher o campo.
 
+![TC 24](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc02_tc24_25.png)
+
 ##TC25 - Campo e-mail nulo  
 ### Operação  
 Campo nulo vazio e preenchimento válido para os outros campos.  
@@ -288,6 +296,8 @@ E-mail.
 Mensagem de erro informando que o campo e-mail deve ser preenchido.  
 ### Resultado obtido  
 Mensagem pedindo para usuário preencher o campo.
+
+![TC 25](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc02_tc24_25.png)
 
 ##TC26 - E-mail informado já consta no banco de dados  
 ### Operação  
@@ -299,6 +309,8 @@ Mensagem de erro informando que já existe um usuário cadastrado com aquele e-m
 ### Resultado obtido  
 E-mail não alterado e mensagem informando que o e-mail já está sendo utilizado.
 
+![TC 26](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc02_tc26.png)
+
 ##TC27 - Alterar senha  
 ### Operação  
 Preenchimentos da senha atual, da nova senha e da confirmação de senha.  
@@ -308,6 +320,8 @@ Senha atual, nova senha e confirmação da nova senha.
 Mensagem de sucesso informando que a senha foi alterada com sucesso.  
 ### Resultado obtido  
 Senha alterada e mensagem informando que a senha foi atualizada.
+
+![TC 26](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc02_tc27.png)
 
 ##TC28 - Senha atual incorreta  
 ### Operação  
