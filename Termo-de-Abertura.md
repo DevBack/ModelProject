@@ -134,3 +134,4 @@ Com duração de 10 semanas (63 dias). Já na data da release 2, pretende-se dem
 3. Python 3.5 - Linguagem de programação. (https://www.python.org/)
 4. Django 1.10 - Framework. (https://www.djangoproject.com/)
 5. Flake8 3.1 - Padronização de estilo de programação visando qualidade de código. (http://flake8.pycqa.org/)
+6. WhatsApp e Telegram - Aplicativos de comunicação
