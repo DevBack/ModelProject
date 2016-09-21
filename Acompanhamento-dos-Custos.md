@@ -22,14 +22,31 @@ O Índice de Desempenho de Prazos(IDP) e o Índice de Desempenho de Custo (IDC) 
 ## 3. Considerações Finais
 Para realizar os gráficos foram necessários alguns cálculos, e os valores utilizados podem ser vistos abaixo.
 
-|Iteração|Horas Trabalhadas|Horas Planejadas|Taxa de Entrega|Valor Planejado|Valor Agregado|
-|--------|-----------------|----------------|---------------|---------------|--------------|
-|1|191|200|100|R$3.060,00|R$3.060,00|
-|2|211|200|100|R$6.120,00|R$6.120,00|
-|3|180,5|200|95,35|R$9.180,00|R$8.753,13|
+Acompanhamento das horas e Taxa de entrega.
 
-|Iteração|Custo Real|VC|VPR|IDP|IDC|
-|--------|----------|---|---|---|---|
-|1|      R$2.922,30|137,70|0.00|1,00|1,05|
-|2|R$6.150,60|-30,60    |0.00|1,00|1,00|
-|3|R$8.942,85|-189,72   |-426,87|0,95|0,98|
+|Iteração|Horas Trabalhadas|Horas Planejadas|Taxa de Entrega|
+|--------|-----------------|----------------|---------------|
+|1|191|200|100|
+|2|211|200|100|
+|3|180,5|200|95,35|
+
+Valores agregado, planejado e real.
+
+|Iteração|Valor Planejado|Valor Agregado|Custo Real|
+|--------|---------------|--------------|----------|
+|1|R$3.060,00|R$3.060,00|R$2.922,30|
+|2|R$6.120,00|R$6.120,00|R$6.150,60|
+|3|R$9.180,00|R$8.753,13|R$8.942,85|
+
+Índices calculados.
+
+|Iteração|VC|VPR|IDP|IDC|
+|--------|-------|-------|----|----|
+|1       |137,70 |0.00   |1,00|1,05|
+|2       |-30,60 |0.00   |1,00|1,00|
+|3       |-189,72|-426,87|0,95|0,98|
+
+VC - Variação de Custo
+VPR - Variação de Prazos
+IDP - Índice de Desempenho de Prazos
+IDC - Índice de Desempenho de Custo
