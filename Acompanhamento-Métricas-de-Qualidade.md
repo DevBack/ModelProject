@@ -29,6 +29,10 @@ A imagem apresenta todos os pedaços de código identificados com complexidade c
 
 ![Complexidade Ciclomática](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/1st/cyclomatic_complexity.png) 
 
+A próxima imagem apresenta a classificação (File rating) do arquivo forms.py (onde se encontram os problemas acima):
+
+![File rating](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/1st/grade-file-forms.png) 
+
 #### 3.1.4 Métrica: Churn
 
 Cada ponto na imagem apresenta um arquivo, são mostrados os arquivos com impacto relevante. Quanto mais acima e mais a direita, pior, consequentemente modificando a cor numa escala de verde a vermelho.
