@@ -36,7 +36,7 @@ A estimativa inicial de custo do projeto está descrita na seguinte tabela.
 
 |Pessoa/Hora|Insumos|Custo Total|
 |-----------|-------|-----------|
-|R$24.480,00|R$3.767,9|R$28.247,9|
+|R$24.480,00|R$28.865,6|R$53.345,6|
 
 ### 2.2. Ciclo de vida do Projeto
 
