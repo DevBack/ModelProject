@@ -321,7 +321,7 @@ Mensagem de sucesso informando que a senha foi alterada com sucesso.
 ### Resultado obtido  
 Senha alterada e mensagem informando que a senha foi atualizada.
 
-![TC 26](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc02_tc27.png)
+![TC 27](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/uc02_t27.png)
 
 ##TC28 - Senha atual incorreta  
 ### Operação  
