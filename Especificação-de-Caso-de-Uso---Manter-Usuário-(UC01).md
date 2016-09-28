@@ -33,8 +33,9 @@ RN08 Formato dos dados de cadastro de usuário.
 |Nome|Formato|
 |----|------|
 |Nome|No mínimo 2 no máximo 50 caracteres.|
-|Email|Deve possuir formato válido como no exemplo: email@exemplo.com.|
 |Matrícula|Deve possuir apenas números.|
+|Categoria|Deve ser uma das três opções: estudante, funcionário ou corpo docente.|
+|Email|Deve possuir formato válido como no exemplo: email@exemplo.com.|
 |Senha|No mínimo 6 caracteres, no máximo 15.|
 |Confirmação de senha|Deve estar preenchido de forma idêntica a senha.|
 
