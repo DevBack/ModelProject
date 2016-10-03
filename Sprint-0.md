@@ -14,9 +14,9 @@ O foco desta sprint reside na implementação das histórias técnicas e histór
 | #1 | Como um desenvolvedor, eu quero criar um app de usuário para melhorar a gerência dos usuários. | 3  | Gustavo e Vitor |
 | #2 | Como um desenvolvedor, eu quero realizar as validações necessárias do cadastro de usuário para garantir a consistência dos dados inseridos. | 5  | Elaine e Hugo |
 | #3 | Como um desenvolvedor, eu quero testar o cadastro de usuário para garantir a funcionalidade do método.| 3 | Elaine e Hugo |
-| #4 | Como um desenvolvedor, eu quero realizar as validações necessárias da alteração de usuário para garantir a consistência dos dados inseridos. | 3 | Jéssica e Fabíola |
-| #5 | Como um desenvolvedor, eu quero testar a alteração de usuário para garantir a funcionalidade do método. | 3 | Jéssica e Fabíola |
-| #6 | Como um desenvolvedor, eu quero testar a exclusão de usuário para garantir a funcionalidade do método. | 2 | Jéssica e Fabíola |
+| #4 | Como um desenvolvedor, eu quero realizar as validações necessárias da alteração de usuário para garantir a consistência dos dados inseridos. | 3 | Jessica e Fabíola |
+| #5 | Como um desenvolvedor, eu quero testar a alteração de usuário para garantir a funcionalidade do método. | 3 | Jessica e Fabíola |
+| #6 | Como um desenvolvedor, eu quero testar a exclusão de usuário para garantir a funcionalidade do método. | 2 | Jessica e Fabíola |
 | #8 | Como um desenvolvedor, eu quero realizar as validações necessárias do login de usuário para garantir a consistência dos dados inseridos. | 2 | Gustavo e Vitor |
 | #9 | Como um desenvolvedor, eu quero testar o login e logout de usuário para garantir a funcionalidade do método. | 3 | Gustavo e Vitor |
 | #10 | Como um desenvolvedor, eu quero realizar as validações necessárias da criação de reserva para garantir a consistência dos dados inseridos. | 8 | Pedro e Luís |
@@ -39,7 +39,7 @@ O foco desta sprint reside na implementação das histórias técnicas e histór
 
 ## 1.4. Pareamento
 
-|         | Allan | Elaine | Gustavo | Jéssica | Pedro |
+|         | Allan | Elaine | Gustavo | Jessica | Pedro |
 |---------|-------|--------|---------|---------|-------|
 | Fabíola |       |        |         |    x    |       |
 | Hugo    |       |    x   |         |         |       |
