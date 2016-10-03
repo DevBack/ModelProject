@@ -4,11 +4,11 @@
 
 #Release 2
 
-* [Planejamento da Release 2](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Planejamento-da-Release-2)
-* [Product Backlog] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Product-Backlog)
+* [[Planejamento da Release 2]]
+* [[Product Backlog]]
 
 ##Sprints
-* [Sprint 0] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Sprint-0)
+* [[Sprint 0]]
 
 #Release 1
 
