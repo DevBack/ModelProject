@@ -15,7 +15,7 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 | #8 | Como um visitante, quero consultar as perguntas frequentes do sistema. | 3 |
 | #9 | Como um administrador, quero visualizar relatórios de reserva de modo que possa identificar os espaços mais utilizados em determinados períodos. | 20 |
 
-## 3. Histórias técnicas (de teste e refatoração)
+## 3. Histórias técnicas (teste e refatoração)
 
 |TS (Techinical Story) | História | Pontuação |
 |----------------|----------|-----------|
