@@ -5,7 +5,7 @@ O foco desta sprint reside na implementação das histórias técnicas e histór
 
 |Scrum Master|Product Owner|Development Team     |
 |------------|-------------|---------------------|
-|Allan       | Elaine      |<ul><li>Fabiola</li><li>Gustavo</li><li>Hugo</li><li>Jéssica</li><li>Lucas</li><li>Luís</li><li>Pedro</li><li>Vitor</li>  |
+|Allan       | Elaine      |<ul><li>Fabiola</li><li>Gustavo</li><li>Hugo</li><li>Jessica</li><li>Lucas</li><li>Luís</li><li>Pedro</li><li>Vitor</li>  |
 
 ## 1.2. Backlog
 
@@ -57,6 +57,6 @@ O foco desta sprint reside na implementação das histórias técnicas e histór
 
 ## 2.3. Velocity
 
-## 2.4. Métricas de Qualidade:
+## 2.4. Métricas de Qualidade
 
 ## 2.5 Critérios de Qualidade
