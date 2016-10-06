@@ -38,5 +38,11 @@ A próxima imagem apresenta a classificação (File rating) do arquivo forms.py 
 Cada ponto na imagem apresenta um arquivo, são mostrados os arquivos com impacto relevante. Quanto mais acima e mais a direita, pior, consequentemente modificando a cor numa escala de verde a vermelho.
 
 ![Churn](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/1st/churn.png) 
+
 ### 3.2 Análise sobre a primeira coleta: 21/09/2016
-[REALIZAÇÃO EM 30/09]
+
+Os resultados da primeira coleta não foram satisfatórios. As 3 métricas tiveram valores insatisfatórios, conforme definidos.
+
+A equipe preferiu não realizar esforços pontuais quanto aos resultados desta coleta em virtude da alta quantidade de histórias técnicas e de testes para Sprint 0 que refletirão em grandes modificações e deverão influenciar bastante os próximos resultados de coleta, ficando então esta primeira coleta com caráter de ambientação a metodologia e tecnologias utilizadas.
+
+A próxima coleta é realizada em 07/10/2016.
