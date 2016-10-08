@@ -39,13 +39,18 @@ O foco desta sprint reside na implementação das histórias técnicas e histór
 
 ## 1.4. Pareamento
 
-|         | Allan | Elaine | Gustavo | Jessica | Pedro |
-|---------|-------|--------|---------|---------|-------|
-| Fabíola |       |        |         |    x    |       |
-| Hugo    |       |    x   |         |         |       |
-| Lucas   |   x   |        |         |         |       |
-| Luís    |       |        |         |         |   x   |
-| Vitor   |       |        |    x    |         |       |
+|         | Allan | Elaine | Gustavo | Jessica | Pedro | Fabíola | Hugo | Lucas | Luís | Vitor |
+|---------|-------|--------|---------|---------|-------|---------|------|-------|------|-------|
+| Fabíola |       |        |         |    x    |       |         |      |       |      |       |
+| Hugo    |       |    x   |         |         |       |         |      |       |      |       |
+| Lucas   |   x   |        |         |         |       |         |      |       |      |       |
+| Luís    |       |        |         |         |   x   |         |      |       |      |       |
+| Vitor   |       |        |    x    |         |       |         |      |       |      |       |
+| Allan   |       |        |         |         |       |         |      |       |      |       |
+| Elaine  |       |        |         |         |       |         |      |       |      |       |
+| Gustavo |       |        |         |         |       |         |      |       |      |       |
+| Jessica |       |        |         |         |       |         |      |       |      |       |
+| Pedro   |       |        |         |         |       |         |      |       |      |       |
 
 ## 1.5. Restrospectiva
 
