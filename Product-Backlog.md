@@ -9,7 +9,7 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 | #2 | Como um administrador, quero consultar todas reservas já efetuadas visualizando todos dados. | 8 |
 | #3 | Como um usuário, quero excluir as reservas feitas por mim. | 5 | 
 | #4 | Como administrador, quero excluir qualquer reserva efetuada. | 8 |
-| #5 | Como um visitante, quero consultar a disponibilidade e as reservas já realizadas em determinado espaço. | 13 |
+| #5 | Como um visitante, quero consultar a disponibilidade e as reservas já realizadas em determinado espaço. | 20 |
 | #6 | Como um administrador, quero gerenciar administradores do sistema de modo que consiga tornar um usuário do corpo acadêmico em administrador. | 13 |
 | #7 | Como um administrador, quero aprovar reservas de laboratórios solicitadas pelo corpo acadêmico. | 13 |
 | #8 | Como um visitante, quero consultar as perguntas frequentes do sistema. | 3 |
