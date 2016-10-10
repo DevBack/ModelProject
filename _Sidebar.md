@@ -10,7 +10,7 @@
 
 ##Quadros
 * [[Quadro de Conhecimento]]
-* [[Quadro de Pareamento]]
+* [Quadro de Pareamento](https://docs.google.com/spreadsheets/d/1_JaTpa9fCS5hy70vBUKEcrpnvHd9tTY2Jd6FZXd7U30/edit?usp=sharing)
 * [[Quadro Kanban]]
 
 ##Sprints
