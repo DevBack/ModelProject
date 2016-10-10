@@ -11,7 +11,7 @@
 ##Quadros
 * [Quadro de Conhecimento](https://docs.google.com/spreadsheets/d/1F6owE9vjbheg1eFGMvJIqnrYb6v9S7QDM6XBp4cBl7g/edit?usp=sharing)
 * [Quadro de Pareamento](https://docs.google.com/spreadsheets/d/1_JaTpa9fCS5hy70vBUKEcrpnvHd9tTY2Jd6FZXd7U30/edit?usp=sharing)
-* [[Quadro Kanban]]
+* [Quadro Kanban](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/projects/1)
 
 ##Sprints
 * [[Sprint 0]]
