@@ -22,37 +22,7 @@ O foco desta sprint reside na implementação das histórias técnicas e histór
 | #10 | Como um desenvolvedor, eu quero realizar as validações necessárias da criação de reserva para garantir a consistência dos dados inseridos. | 8 | Pedro e Luís |
 | #12 | Como um desenvolvedor, eu quero refatorar o cadastro de criação de reserva para consertar os bugs conhecidos. | 8 | Allan e Lucas |
 
-## 1.3. Quadro de Conhecimento
-
-|         | Python         | Django         | Teste Unitário | Teste de Aceitação | HTML           | CSS | Git |
-|---------|----------------|----------------|----------------|--------------------|----------------|-----|-----|
-| Allan   | :smile: | :smile: | :neutral_face: |  :worried: | :smile: | :smile: | :smile: |
-| Elaine  | :neutral_face: | :neutral_face: | :smile: |  :smile: | :smile: | :smile: | :smile: |
-| Gustavo | :smile: | :smile: | :neutral_face: |  :smile: | :smile: | :smile: | :smile: |
-| Jessica | :neutral_face: | :neutral_face: | :smile: |  :neutral_face: | :smile: | :smile: | :smile: |
-| Pedro   | :smile: | :neutral_face: | :smile: |  :worried: | :worried: | :worried: | :smile: |
-| Fabíola | :neutral_face: | :neutral_face: | :neutral_face: |  :smile: | :neutral_face: | :neutral_face: | :neutral_face: |
-| Hugo    | :neutral_face: | :neutral_face: | :worried: |  :neutral_face: | :smile: | :neutral_face: | :smile: |
-| Lucas   | :neutral_face: | :neutral_face: | :worried: |  :worried: | :neutral_face: | :neutral_face: | :smile: |
-| Luís    | :smile: | :neutral_face: | :neutral_face: |  :smile: | :worried: | :worried: | :neutral_face: |
-| Vitor   | :smile: | :neutral_face: | :worried: |  :neutral_face: | :neutral_face: | :worried: | :neutral_face: |
-
-## 1.4. Pareamento
-
-|         | Fabíola | Hugo | Lucas | Luís | Vítor | Allan | Elaine | Gustavo | Jessica | Pedro |
-|---------|---------|------|-------|------|-------|-------|--------|---------|---------|-------|
-| Fabíola |---------|      |       |      |       |       |        |         |    x    |       |
-| Hugo    |         |------|       |      |       |       |   x    |         |         |       |
-| Lucas   |         |      |-------|      |       |   x   |        |         |         |       |
-| Luís    |         |      |       |------|       |       |        |         |         |   x   |
-| Vitor   |         |      |       |      |-------|       |        |    x    |         |       |
-| Allan   |         |      |       |      |       |-------|        |         |         |       |
-| Elaine  |         |      |       |      |       |       |--------|         |         |       |
-| Gustavo |         |      |       |      |       |       |        |---------|         |       |
-| Jessica |         |      |       |      |       |       |        |         |---------|       |
-| Pedro   |         |      |       |      |       |       |        |         |         |-------|
-
-## 1.5. Restrospectiva
+## 1.3. Restrospectiva
 
 # 2. Resultados:
 
