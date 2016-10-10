@@ -8,12 +8,12 @@
 * [[Planejamento da Release 2]]
 * [[Product Backlog]]
 
-##Quadros
+###Quadros
 * [Quadro de Conhecimento](https://docs.google.com/spreadsheets/d/1F6owE9vjbheg1eFGMvJIqnrYb6v9S7QDM6XBp4cBl7g/edit?usp=sharing)
 * [Quadro de Pareamento](https://docs.google.com/spreadsheets/d/1_JaTpa9fCS5hy70vBUKEcrpnvHd9tTY2Jd6FZXd7U30/edit?usp=sharing)
 * [Quadro Kanban](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/projects/1)
 
-##Sprints
+###Sprints
 * [[Sprint 0]]
 * [[Sprint 1]]
 
@@ -21,13 +21,13 @@
 
 * [Apresentação - Slides](https://docs.google.com/presentation/d/1VB8HvviuJHKFm04ddaX3kKZ-KyEOAC034PTk3kYgRCo/edit?usp=sharing)
 
-##Gerenciamento do Projeto
+###Gerenciamento do Projeto
 * [Plano de Iteração] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Plano-de-Iteração)
 * [Termo de Abertura](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Termo-de-Abertura)
 * [EAP](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/EAP)
 * [Rastreabilidade de Requisitos](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Rastreabilidade-de-Requisitos)
 
-###Planos de Projeto
+####Planos de Projeto
 * [Gerenciamento do Projeto](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Gerenciamento-de-Projeto)
 * [Gerenciamento de Escopo](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Escopo)
 * [Gerenciamento de Comunicação](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Comunicação)
@@ -39,13 +39,13 @@
 * [Gerenciamento de Configuração de Software](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Plano-de-Ger%C3%AAncia-de-Configura%C3%A7%C3%A3o-de-Software)
 * [Gerenciamento de Qualidade](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Gerenciamento-de-Qualidade)
 
-###Acompanhamentos do Projeto
+####Acompanhamentos do Projeto
 * [Acompanhamento Tempo](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Acompanhamento-do-Tempo)
 * [Acompanhamento Custos](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Acompanhamento-dos-Custos)
 * [Acompanhamento Riscos](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Acompanhamento-dos-Riscos)
 * [Acompanhamento Qualidade](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Acompanhamento-Métricas-de-Qualidade)
 
-##Desenvolvimento do Software
+###Desenvolvimento do Software
 * [Documento de Visão](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Documento-de-Visão)
 * [Documento de Arquitetura](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Documento-de-Arquitetura)
 * [Especificação de Casos de Uso](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Especificação-de-Casos-de-Uso)
