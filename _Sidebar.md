@@ -5,7 +5,7 @@
 
 #Release 2
 
-* [Planejamento](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Planejamento-da-Release-2)
+* [Planejamento da Release](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Planejamento-da-Release-2)
 * [[Product Backlog]]
 
 ###Quadros
