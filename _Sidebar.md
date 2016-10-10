@@ -8,6 +8,11 @@
 * [[Planejamento da Release 2]]
 * [[Product Backlog]]
 
+##Quadros
+* [[Quadro de Conhecimento]]
+* [[Quadro de Pareamento]]
+* [[Quadro Kanban]]
+
 ##Sprints
 * [[Sprint 0]]
 * [[Sprint 1]]
