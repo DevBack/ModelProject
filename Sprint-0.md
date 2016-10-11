@@ -23,7 +23,13 @@ O foco desta sprint reside na implementação das histórias técnicas e histór
 | #12 | Como um desenvolvedor, eu quero refatorar o cadastro de criação de reserva para consertar os bugs conhecidos. | 8 | Allan e Lucas |
 | **Total** |   |   | **40** |
 
-## 1.3. Restrospectiva
+## 1.3. Quadro de Conhecimentos
+![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/0_conhecimento.png) 
+
+## 1.4. Quadro de pareamento
+![Quadro de Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/0_pareamento.png) 
+
+## 1.5. Restrospectiva
 | Pontos Positivos | Pontos Negativos | Pontos de Melhoria |
 |------------------|------------------|--------------------|
 | Aumento da cobertura de testes | Não finalização da sprint | Foco nas reuniões |
