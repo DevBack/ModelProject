@@ -21,6 +21,7 @@ O foco desta sprint reside na implementação das histórias técnicas e histór
 | #9 | Como um desenvolvedor, eu quero testar o login e logout de usuário para garantir a funcionalidade do método. | 3 | Gustavo e Vitor |
 | #10 | Como um desenvolvedor, eu quero realizar as validações necessárias da criação de reserva para garantir a consistência dos dados inseridos. | 8 | Pedro e Luís |
 | #12 | Como um desenvolvedor, eu quero refatorar o cadastro de criação de reserva para consertar os bugs conhecidos. | 8 | Allan e Lucas |
+| **Total** |   |   | **40** |
 
 ## 1.3. Restrospectiva
 | Pontos Positivos | Pontos Negativos | Pontos de Melhoria |
