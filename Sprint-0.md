@@ -23,6 +23,11 @@ O foco desta sprint reside na implementação das histórias técnicas e histór
 | #12 | Como um desenvolvedor, eu quero refatorar o cadastro de criação de reserva para consertar os bugs conhecidos. | 8 | Allan e Lucas |
 
 ## 1.3. Restrospectiva
+| Pontos Positivos | Pontos Negativos | Pontos de Melhoria |
+|------------------|------------------|--------------------|
+| Aumento da cobertura de testes | Não finalização da sprint | Foco nas reuniões |
+| Foco em código | Histórias dependentes umas das outras | Respeito aos horários |
+| Aumento da interação entre o time | Dependência do par para continuação do desenvolvimento de cada história | Desenvolvimento mais uniforme ao longo da sprint |
 
 # 2. Resultados:
 
