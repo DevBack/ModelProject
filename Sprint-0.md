@@ -26,12 +26,11 @@ O foco desta sprint reside na implementação das histórias técnicas e histór
 
 # 2. Resultados:
 
-## 2.1. EVM
+## 2.1. Burndown
+Durante a sprint 0, o time não distribuiu os pontos uniformemente durante seu tempo, como pode ser observado no gráfico abaixo, concentrando seus esforços durante o início e fim da mesma. Além disso, um débito de 16 pontos foi registrado, devido a problemas de comunicação, tempo de pareamento e dificuldade da história.
 
-## 2.2. Burndown
+![Sprint 0 - Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/0_burndown.png) 
 
-## 2.3. Velocity
+## 2.2. Métricas de Qualidade
 
-## 2.4. Métricas de Qualidade
-
-## 2.5 Critérios de Qualidade
+## 2.3 Critérios de Qualidade
