@@ -47,5 +47,14 @@ O gráfico está presente na seção [Gráfico de Velocity](https://github.com/f
 O _Agile Earned Value Management_ do projeto, incluso esta sprint, pode ser encontrado na seção [Agile EVM](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Agile-EVM) na barra lateral desta wiki.
 
 ## 2.4. Métricas de Qualidade
+### 2.4.1 Integração Contínua
+A integração contínua do projeto está passando nas duas principais branchs do projeto: master e dev. A imagem abaixo demonstra esse status.
+
+![Travis CI](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint0/travis.png) 
+
+### 2.4.2 Cobertura de Teste
+Desde a última release (R1) a cobertura de teste obteve um aumento significativo de 49,56% para 68,49%. A imagem abaixo demonstra esse crescimento.
+
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint0/coveralls.png)
 
 ## 2.5 Critérios de Qualidade
