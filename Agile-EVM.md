@@ -18,8 +18,8 @@ PV|Valor Planejado|Porcentagem planejada Completa (PPC) * Custo Total Planejado 
 EV|Valor Agregado|Porcentagem Completa Real (APC) * Custo Total Planejado (BAC)
 CV|Variação De Custo|Valor Agregado(EV) - Custo Real(AC)
 SV|Variação De Cronograma|Valor Agregado(EV) - Valor Planejado(PV)
-CPI|Índice de performance de custo|Valor Agregado(EV) - Custo Real(AC)
-SPI|Índice de performance planejado|Valor Agregado(EV) - Valor Planejado(PV)
+CPI|Índice de performance de custo|Valor Agregado(EV) / Custo Real(AC)
+SPI|Índice de performance planejado|Valor Agregado(EV) / Valor Planejado(PV)
 ETC|Estimate To Complete|1/Indice De Performance De Custo(CPI) * (Custo Total Planejado(BAC) – Valor Agregado(EV))
 EAC|Estimate At Complete|Custo Total Planejado(BAC)/Indice De Performance De Custo(CPI)
 
