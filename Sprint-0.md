@@ -37,6 +37,9 @@ Durante a sprint 0, o time não distribuiu os pontos uniformemente durante seu t
 
 ![Sprint 0 - Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/0_burndown.png) 
 
+##2.2 Velocity
+O velocity desta sprint foi de **24 pontos**. Como esta é a primeira sprint, esta pontuação refere-se a quantidade total completada durante o período de 01/10/2016 a 07/10/2016.
+
 ## 2.2. Métricas de Qualidade
 
 ## 2.3 Critérios de Qualidade
