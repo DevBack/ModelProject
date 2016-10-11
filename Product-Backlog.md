@@ -14,6 +14,7 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#24](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/24)  | #7 | Como um administrador, quero aprovar reservas de laboratórios solicitadas pelo corpo acadêmico. | 13 |
 |[#25](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/25) | #8 | Como um visitante, quero consultar as perguntas frequentes do sistema. | 3 |
 |[#26](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/26) | #9 | Como um administrador, quero visualizar relatórios de reserva de modo que possa identificar os espaços mais utilizados em determinados períodos. | 20 |
+| | | **TOTAL** | **103** | 
 
 ## 3. Histórias técnicas (teste e refatoração)
 
@@ -32,3 +33,4 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#13](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/13) | #11 | Como um desenvolvedor, eu quero testar a criação de reserva para garantir a funcionalidade do método. | 5 | 
 |[#14](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/14) | #12 | Como um desenvolvedor, eu quero refatorar o cadastro de criação de reserva para consertar os bugs conhecidos. | 8 |
 |[#16](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/16) | #13 | Como um desenvolvedor, eu quero testar a consulta de reserva para garantir a funcionalidade do método. | 5 |
+| | | **TOTAL** | **52** | 
