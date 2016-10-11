@@ -1,0 +1,6 @@
+## 1. Acompanhamento, Monitoramento e Controle
+O acompanhamento, monitoramento e controle de um projeto ágil, tanto seu desenvolvimento, quanto seu time é realizado através dos resultados de alguns indicadores, retornados através de ferramentas, como [Quadro de Conhecimento](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Quadro-de-Conhecimento), [Quadro de Pareamento](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Quadro-de-Pareamento), [Quadro Kanban](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Quadro-Kanban), [Gráfico de Velocity](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Gr%C3%A1fico-de-Velocity) e [Agile EVM](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Agile-EVM).
+
+Além disso, os resultados provenientes especificamente de cada sprint, como Métricas e Critérios de Qualidade, Retrospectivas e Burndown também são considerados para a pirâmide do gerenciamento de projeto.
+
+Os mesmos podem ser encontrados na barra lateral desta wiki ou nos itens de cada sprint realizada.
