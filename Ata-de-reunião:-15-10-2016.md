@@ -1,7 +1,7 @@
 # Ata da Reunião 15/10/2016
 
 
-Horário | 09:00 a 12:00|
+Horário | 09:00 a 13:00|
 --------|-----------------|
 Local   | LDS - UED |
 Editor da ata | Elaine |
