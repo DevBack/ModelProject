@@ -12,13 +12,13 @@ O foco desta sprint reside na implementação de histórias de usuários voltada
 | US (User Story) | História | Pontuação | Responsável |
 |----------------------|----------|-----------|-------------|
 | #3 | Como um usuário, quero excluir as reservas feitas por mim. | 5  | Vitor e Lucas |
-| #5 | Como um usuário, quero consultar a disponibilidade e as reservas já realizadas em determinado espaço. | 20  | Lucas e Luis, Hugo e Fabíola, Vitor e Hugo, Pedro e Lucas, Fabíola e Elaine, Luis e Hugo |
 
 ###Débitos técnicos
 | US (User Story) | História | Pontuação | Responsável |
 |----------------------|----------|-----------|-------------|
 | #2 | Como um administrador, quero consultar todas reservas já efetuadas visualizando todos dados. | 8  | Gustavo e Allan |
 | #4 | Como administrador, quero excluir qualquer reserva efetuada. | 8  | Jessica e Vitor |
+| #5 | Como um usuário, quero consultar a disponibilidade e as reservas já realizadas em determinado espaço. | 20  | Lucas e Luis, Hugo e Fabíola, Vitor e Hugo, Pedro e Lucas, Fabíola e Elaine, Luis e Hugo |
 
 | TS (Technical Story) | História | Pontuação | Responsável |
 |----------------------|----------|-----------|-------------|
