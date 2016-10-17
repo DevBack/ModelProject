@@ -6,9 +6,9 @@
 #Release 2
 
 * [Planejamento da Release](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Planejamento-da-Release-2)
-  * [[Backlog do Produto]]
+  * [Backlog do Produto](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Product-Backlog)
 * [[Acompanhamento do Projeto]]
-  * [[Agile EVM]]
+  * [Ágil EVM](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Agile-EVM)
   * [[Gráfico de Velocity]]
 
 ###Quadros
