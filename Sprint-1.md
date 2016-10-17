@@ -13,9 +13,18 @@ O foco desta sprint reside na implementação de histórias de usuários voltada
 |----------------------|----------|-----------|-------------|
 | #2 | Como um administrador, quero consultar todas reservas já efetuadas visualizando todos dados. | 8  | Vitor |
 | #4 | Como administrador, quero excluir qualquer reserva efetuada. | 8  | Gustavo |
-| #9 | Como um administrador, quero visualizar relatórios de reserva de modo que possa identificar os espaços mais utilizados em determinados períodos.| 20 | Allan, Fabíola, Hugo, Lucas e Luis* |
+| #5 | Como um usuário, quero consultar a disponibilidade e as reservas já realizadas em determinado espaço. | 20  | Lucas e Luis, Hugo e Fabíola, Vitor e Hugo, Pedro e Lucas, Fabíola e Elaine, Luis e Hugo |
 
-*A história de usuário #9 foi dividida em cinco tarefas diferentes, onde cada uma delas foi designada a um dos membros listados.
+#### Tarefas da História #5
+| Tarefa | Pontuação | Responsável |
+|--------|-----------|-------------|
+| Criar template das tabelas de reservas. | 1  | Allan |
+| Criar a tabela de período por sala. | 4 | Lucas e Luis |
+| Criar a tabela de semana por sala. | 4  | Hugo e Fabíola |
+| Criar a tabela de prédio por dia. | 4 | Vitor e Hugo |
+| Criar a tabela de semana por reserva. | 4  | Pedro e Lucas |
+| Criar formulário de filtros para pesquisa. | 2 | Fabíola e Elaine |
+| Integrar todas as tabelas. | 1 | Luis e Hugo |
 
 ###Débitos técnicos
 | TS (Technical Story) | História | Pontuação | Responsável |
