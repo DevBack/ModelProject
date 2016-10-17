@@ -1,4 +1,4 @@
-##1.Introdução
+##1. Introdução
 De acordo com o artigo _AgileEVM – Earned Value Management in Scrum Projects_ a AgileEVM ( Agile Earned Value Management ) é uma adaptação da EVM tradicional, agregando valores de custo, cronograma e escopo, tudo isso relacionado com uma baseline planejada no inicio da release.
 
 ##1.1 Siglas, Significados e Fórmulas
