@@ -9,9 +9,9 @@ O foco desta sprint reside na implementação de histórias de usuários voltada
 
 ## 1.2. Backlog
 
-| US (User Story) | História | Pontuação | Responsável |
-|----------------------|----------|-----------|-------------|
-| #3 | Como um usuário, quero excluir as reservas feitas por mim. | 5  | Vitor e Lucas |
+| US (User Story) | História | Pontuação |Nova Pontuação| Responsável |
+|----------------------|----------|-----------|-----------|-----------|
+| #3 | Como um usuário, quero excluir as reservas feitas por mim. | 5  |---| Vitor e Lucas |
 
 ###Débitos técnicos
 | US (User Story) | História | Pontuação | Responsável |
