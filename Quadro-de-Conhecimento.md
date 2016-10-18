@@ -3,3 +3,5 @@ O quadro de conhecimento guarda informações referentes ao conhecimento técnic
 
 ##2. Quadro de Conhecimento
 O quadro de conhecimento da equipe SAS pode ser encontrado [aqui](https://docs.google.com/spreadsheets/d/1F6owE9vjbheg1eFGMvJIqnrYb6v9S7QDM6XBp4cBl7g/edit?usp=sharing).
+
+# ![Quadro de Conhecimento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/knowledge_board.png) 
