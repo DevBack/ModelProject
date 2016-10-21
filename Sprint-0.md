@@ -37,7 +37,7 @@ O foco desta sprint reside na implementação das histórias técnicas e histór
 | Aumento da interação entre o time |
 
 |Pontos Negativos |Causa| Melhoria|
-|-----------------|-----|-------------------------------|
+|-----------------|-----|---------|
 |Não finalização da sprint |Dificuldade de parear |Deixar o pareamento livre entre todos os membros|
 |Atraso nas Reuniões|Horário da reunião |Votação para decidir o melhor horário da reunião para todos|
 |Histórias dependentes umas das outras | As histórias foram mal divididas| Tentar designar histórias dependentes para o mesmo par|
