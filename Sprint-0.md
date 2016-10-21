@@ -73,4 +73,3 @@ Desde a última release (R1) a cobertura de teste obteve um aumento significativ
 
 ![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint0/coveralls.png)
 
-## 2.5 Critérios de Qualidade
