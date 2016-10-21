@@ -49,6 +49,11 @@ As histórias #5 e #12 foram divididas em tarefas e cada uma delas foi devidamen
 ## 1.4. Quadro de pareamento
 
 ## 1.5. Retrospectiva
+|Pontos Positivos|
+|----------------|
+
+|Pontos Negativos |Causa| Melhoria|
+|-----------------|-----|---------|
 
 # 2. Resultados:
 
