@@ -30,11 +30,19 @@ O foco desta sprint reside na implementação das histórias técnicas e histór
 ![Quadro de Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/0_pareamento.png) 
 
 ## 1.5. Restrospectiva
-| Pontos Positivos | Pontos Negativos | Pontos de Melhoria |
-|------------------|------------------|--------------------|
-| Aumento da cobertura de testes | Não finalização da sprint | Foco nas reuniões |
-| Foco em código | Histórias dependentes umas das outras | Respeito aos horários |
-| Aumento da interação entre o time | Dependência do par para continuação do desenvolvimento de cada história | Desenvolvimento mais uniforme ao longo da sprint |
+| Pontos Positivos |
+|------------------|
+| Aumento da cobertura de testes | 
+| Foco em código | 
+| Aumento da interação entre o time |
+
+|Pontos Negativos |Causa| Melhoria|
+|-----------------|-----|-------------------------------|
+|Não finalização da sprint |Dificuldade de parear |Deixar o pareamento livre entre todos os membros|
+|Atraso nas Reuniões|Horário da reunião |Votação para decidir o melhor horário da reunião para todos|
+|Histórias dependentes umas das outras | As histórias foram mal divididas| Tentar designar histórias dependentes para o mesmo par|
+|Dependência de GPP para parear|O pareamento foi divido fixo, com um de GPP e um de MDS|Designar um membro de MDS como responsável da história, onde o mesmo deve procurar qualquer outro integrante do SAS para parear |
+|Desenvolvimento desuniforme ao longo da sprint|Pareamento fixo |Parear sempre com quem estiver disponível no momento|
 
 # 2. Resultados:
 
