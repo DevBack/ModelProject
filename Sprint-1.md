@@ -38,16 +38,19 @@ O foco desta sprint reside na implementação de histórias de usuários voltada
 ![Quadro de Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/1_pareamento.png) 
 
 ## 1.5. Restrospectiva
-| Pontos Positivos | Pontos Negativos | Pontos de Melhoria |
-|------------------|------------------|--------------------|
-| Pareamento bastante produtivo, onde pôde-se aprender bastante | Poucas reuniões diárias na semana | Melhor organização do time e da Sprint |
-| Maior independência de MDS em relação a GPP | Desenvolvimento deixado para última hora | Definir as duplas de pareamento no planejamento da Sprint |
-|  | Quadros (pareamento, conhecimento e kamban) não atualizados durante a Sprint | Codificação constante |
-|  | Pareamento falho | Melhor divisão das tarefas (quebrar em tarefas menores)
-|  | Tarefas não muito bem definidas/descritas | Respeitar os horários das reuniões diárias e realizá-las
-|  | Diminuição da interação do time | Realizar mais e melhor os pareamentos
-|  | Designar as tarefas para apenas uma pessoa |  |
-|  | Sprint 0 desatualizada na wiki 0 |  |
+| Pontos Positivos |
+|------------------|
+| Pareamento bastante produtivo, onde pôde-se aprender bastante |
+| Maior independência de MDS em relação a GPP |
+
+|Pontos Negativos |Causa| Melhoria|
+|-----------------|-----|---------|
+|Poucas reuniões diárias na semana| Outras disciplinas| Tentar organizar melhor os horários|
+|Desenvolvimento deixado para última hora| Como não havia um par responsável, ninguém se cobrou| Designar um par para cada história|
+|Quadros (pareamento, conhecimento e kanban) não atualizados durante a Sprint | Codificação constante|GPP não se dedicar completamente ao código|
+|Pareamento falho|Outras disciplinas| Designar um par para cada história|
+|Nenhum ponto entregue| Nenhuma história foi finalizada por completo| Dividir as histórias em tarefas e pontuá-las|
+|Diminuição da integração do time| Os alunos de MDS ficaram responsáveis pelas histórias e em procurar os alunos de GPP para parear, mas isso não ocorreu| Já definir um par para a história, podendo a mesma ser feita com um dos responsáveis e outro par|
 
 # 2. Resultados:
 
