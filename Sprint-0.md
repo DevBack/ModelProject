@@ -62,7 +62,7 @@ O velocity desta sprint foi de **24 pontos**. Como esta é a primeira sprint, es
 
 **OBS.** As descrições e fórmulas das siglas apresentadas na tabela acima estão devidamente explicitadas [aqui](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Agile-EVM).
 
-## 2.4. Métricas de Qualidade
+## 2.4. Qualidade
 ### 2.4.1 Integração Contínua
 A integração contínua do projeto está passando nas duas principais branchs do projeto: master e dev. A imagem abaixo demonstra esse status.
 
