@@ -51,9 +51,14 @@ As histórias #5 e #12 foram divididas em tarefas e cada uma delas foi devidamen
 ## 1.5. Retrospectiva
 |Pontos Positivos|
 |----------------|
+|Todos os pontos foram entregues!!!|
+|Muitos pareamentos|
+|Mais integração entre a equipe|
 
 |Pontos Negativos |Causa| Melhoria|
 |-----------------|-----|---------|
+|Diminuiu o critério de aceitação|Não passar o pep8 em cada branch|Todo PR só será aceito se estiver passando no pep8|
+|Reuniões diárias| Desorganização dos horários| Definição de daily presencial toda terça e quinta|
 
 # 2. Resultados:
 
