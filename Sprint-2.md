@@ -45,10 +45,10 @@ As histórias #5 e #12 foram divididas em tarefas e cada uma delas foi devidamen
 | Remodelar campos (dropdowns, data e hora). | 3 | Luis e Fabíola |
 
 ## 1.3. Quadro de Conhecimentos
-![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/Conhecimento_Sprint2.png) 
+![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_conhecimento.png) 
 
 ## 1.4. Quadro de pareamento
-![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/Pareamento_Sprint2.png) 
+![Quadro de Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_pareamento.png) 
 
 ## 1.5. Retrospectiva
 |Pontos Positivos|
