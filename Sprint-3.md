@@ -16,8 +16,8 @@ Não conseguimos entrar em contato com a Carla, por isso as estórias foram prio
 
 | TS (Technical Story) | História | Pontuação | Responsável |
 |----------------------|----------|-----------|-------------|
-| #14 | Como um desenvolvedor, eu quero internacionalizar o SAS para inglês. | 8  | Allan e Vitor e Luis e Fabíola | 1 | ---| Elaine|
-! #15 |Como um desenvolvedor, eu quero refatorar as views, para melhorar a qualidade do código. | 13| ---| Gustavo e Allan|
+| #14 | Como um desenvolvedor, eu quero internacionalizar o SAS para inglês. | 8  | Allan e Vitor e Luis e Fabíola | 1 |Elaine|
+| #15 |Como um desenvolvedor, eu quero refatorar as views, para melhorar a qualidade do código. | 13| ---| Gustavo e Allan|
 
 As histórias US#1, US#6 e TS#15 foram divididas em tarefas e cada uma delas foi devidamente pontuada.
 
