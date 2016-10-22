@@ -70,7 +70,7 @@ O velocity desta sprint foi de **12 pontos**. Esta pontuação refere-se a médi
 
 **OBS.** As descrições e fórmulas das siglas apresentadas na tabela acima estão devidamente explicitadas [aqui](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Agile-EVM). Neste mesmo link pode ser encontrada a tabela de EVM completa do projeto.
 
-## 2.4. Métricas de Qualidade
+## 2.4. Qualidade
 ### 2.4.1 Integração Contínua
 A integração contínua do projeto permanece passando e estável, pois com a não conclusão das histórias, nada foi incluído em ambas as ramificações.
 
