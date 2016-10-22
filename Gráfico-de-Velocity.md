@@ -9,7 +9,7 @@ Atualmente, o velocity do time é de 24 pontos, visto que esta é a média da po
 |------------------|-------------------|-------------------|
 |Sprint 0          |40                 |24                 |
 |Sprint 1          |36                 |0                  |
-|Sprint 2          |                   |                   |
+|Sprint 2          |5                  |49                 |
 |Sprint 3          |                   |                   |
 |Sprint 4          |                   |                   |
 |Sprint 5          |                   |                   |
