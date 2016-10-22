@@ -1,5 +1,5 @@
 ## 1. Introdução
-O presente documento apresenta todas as histórias técnicas e de usuário a serem realizadas durante a _Release 2_ do projeto SAS (Sistema de Alocação de Salas). Tais histórias foram pontuadas de acordo com seu nível de complexidade, resultando em um total planejado de **149 pontos**.
+O presente documento apresenta todas as histórias técnicas e de usuário a serem realizadas durante a _Release 2_ do projeto SAS (Sistema de Alocação de Salas). Tais histórias foram pontuadas de acordo com seu nível de complexidade, resultando em um total planejado de **162 pontos**.
 
 ## 2. Histórias de usuário
 
@@ -33,5 +33,6 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#13](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/13) | #11 | Como um desenvolvedor, eu quero testar a criação de reserva para garantir a funcionalidade do método. | 5 | 
 |[#14](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/14) | #12 | Como um desenvolvedor, eu quero refatorar o cadastro de criação de reserva para consertar os bugs conhecidos. | 8 |
 |[#16](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/16) | #13 | Como um desenvolvedor, eu quero testar a consulta de reserva para garantir a funcionalidade do método. | 5 |
-|[#62] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/62) | #14 | Como um desenvolvedor, eu quero internacionalizar o SAS para inglês | 1|
-| | | **TOTAL** | **53** | 
+|[#62] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/62) | #14 | Como um desenvolvedor, eu quero internacionalizar o SAS para inglês. | 1|
+|[#63] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/63) | #15 | Como um desenvolvedor, eu quero refatorar as views, para melhorar a qualidade do código. | 13|
+| | | **TOTAL** | **66** | 
