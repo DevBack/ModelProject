@@ -67,6 +67,7 @@ As histórias #5 e #12 foram divididas em tarefas e cada uma delas foi devidamen
 ## 2.1. Burndown
 
 ## 2.2 Velocity
+![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_velocity.png)
 
 ## 2.3 Agile EVM
 
