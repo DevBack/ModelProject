@@ -1,6 +1,10 @@
 # 1. Planejamento da Sprint
 O foco desta sprint reside na implementação de histórias de usuários voltadas ao usuário Administrador. Todas as histórias foram priorizadas pela cliente Carla Rocha. 
 
+<b>
+Em virtude do tempo de duração de sprint, definido em uma semana, estar se mostrando insuficiente à conclusão de User Stories devido à carga de trabalho demandada, a equipe definiu se fazer uma subdivisão dos pontos definidos às User Stories em tarefas de forma a realizar o acompanhamento (Burndown, Velocity, EVM) de forma mais granular, precisa e menos dependiosa, sem comprometer a produtividade da equipe já habituada à agilidade semanal de produção.
+</b>
+
 ## 1.1. Papéis
 
 |Scrum Master|Product Owner|Development Team     |
@@ -59,7 +63,7 @@ As histórias #5 e #12 foram divididas em tarefas e cada uma delas foi devidamen
 
 |Pontos Negativos |Causa| Melhoria|
 |-----------------|-----|---------|
-|Diminuiu o critério de aceitação|Não passar o pep8 em cada branch|Todo PR só será aceito se estiver passando no pep8|
+|Diminuiu o critério de aceitação|Não passar o pep8 em cada branch|Todo Pull Request só será aceito se estiver passando no pep8|
 |Reuniões diárias| Desorganização dos horários| Definição de daily presencial toda terça e quinta|
 
 # 2. Resultados:
@@ -72,4 +76,13 @@ As histórias #5 e #12 foram divididas em tarefas e cada uma delas foi devidamen
 ## 2.3 Agile EVM
 
 
-## 2.4. Métricas de Qualidade
+## 2.4. Qualidade
+
+### 2.4.1 Cobertura de Testes
+
+### 2.4.2 Duplicação de Código
+
+### 2.4.3 Complexidade Ciclomática
+
+### 2.4.4 Estilo: PEP8
+
