@@ -4,7 +4,7 @@
 |---|----------------|----------------|
 |#2|Sprint 1|**DOING**|
 |#4|Sprint 1|**DOING**|
-|#9|Sprint 1|**DOING**|
+|#5|Sprint 1|**DOING**|
 
 |TS|Sprint Planejada|Sprint Concluída|
 |---|----------------|----------------|
