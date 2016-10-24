@@ -2,7 +2,7 @@
 O foco desta sprint reside na implementação de histórias de usuários voltadas ao usuário Administrador. Todas as histórias foram priorizadas pela cliente Carla Rocha. 
 
 <b>
-Em virtude do tempo de duração de sprint, definido em uma semana, estar se mostrando insuficiente à conclusão de User Stories devido à carga de trabalho demandada, a equipe definiu se fazer uma subdivisão dos pontos definidos às User Stories em tarefas de forma a realizar o acompanhamento (Burndown, Velocity, EVM) de forma mais granular, precisa e menos dependiosa, sem comprometer a produtividade da equipe já habituada à agilidade semanal de produção.
+Em virtude do tempo de duração de sprint, definido em uma semana, estar se mostrando insuficiente à conclusão de User Stories devido à carga de trabalho demandada, a equipe definiu fazer uma subdivisão dos pontos definidos às User Stories em tarefas de forma a realizar o acompanhamento (Burndown, Velocity, EVM) mais granular, preciso e menos com menos dependências, sem comprometer a produtividade da equipe já habituada à agilidade semanal de produção.
 </b>
 
 ## 1.1. Papéis
