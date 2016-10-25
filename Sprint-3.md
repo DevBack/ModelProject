@@ -60,5 +60,12 @@ As histórias US#1, US#6 e TS#15 foram divididas em tarefas e cada uma delas foi
 
 ## 2.3 Agile EVM
 
+# 3. Qualidade
 
-## 2.4. Métricas de Qualidade
+## 3.1 Cobertura de Testes
+
+## 3.2 Duplicação de Código
+
+## 3.3 Complexidade Ciclomática
+
+## 3.4 Estilo: PEP8
