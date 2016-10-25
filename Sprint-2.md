@@ -90,11 +90,17 @@ A cobertura de testes subiu de 68% na Sprint 1 para 82% na Sprint 2
 <b>** Extrato Code Climate para Duplicação, Complexidade e PEP8 abaixo **</b>
 ![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/code_climate.PNG)
 
+<b>** Identificação de Duplicação, Complexidade e PEP8 de acordo com as Issues**</b>
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/metrics.PNG)
 
 ### 2.4.3 Duplicação de Código
-
+Das 69 issues identificadas pelo code climate, 55 são de código semelhante nos arquivos descritos na tabela acima. Com destaque aos formulários (forms.py). 
 
 ### 2.4.4 Complexidade Ciclomática
+7 issues de Complexidade Ciclomática identificadas em 3 arquivos.
 
 ### 2.4.5 Estilo: PEP8
+7 issues de adequação a folha de estilo padrão python PEP8 em 4 arquivos.
 
+### 2.4.6 Ações definidas para melhoria da qualidade
+A equipe definiu que nesta sprint focará a melhoria das qualidades nas views.py, pois estas são mais delicadas quanto a arquitetura e demandam mais urgência. Foi criada a TS [#15](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/63)
