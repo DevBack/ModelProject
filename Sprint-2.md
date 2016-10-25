@@ -79,7 +79,7 @@ As histórias #5 e #12 foram divididas em tarefas e cada uma delas foi devidamen
 ## 2.4. Qualidade
 
 ### 2.4.1 Integração Contínua
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/metrics.PNG)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/travis.PNG)
 
 ### 2.4.2 Cobertura de Testes
 A cobertura de testes subiu de 68% na Sprint 1 para 82% na Sprint 2
@@ -91,7 +91,7 @@ A cobertura de testes subiu de 68% na Sprint 1 para 82% na Sprint 2
 ![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/code_climate.PNG)
 
 <b>** Identificação de Duplicação, Complexidade e PEP8 de acordo com as Issues**</b>
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/travis.PNG)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/metrics.PNG)
 
 ### 2.4.3 Duplicação de Código
 Das 69 issues identificadas pelo code climate, 55 são de código semelhante nos arquivos descritos na tabela acima. Com destaque aos formulários (forms.py). 
