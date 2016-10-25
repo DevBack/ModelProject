@@ -78,11 +78,23 @@ As histórias #5 e #12 foram divididas em tarefas e cada uma delas foi devidamen
 
 ## 2.4. Qualidade
 
-### 2.4.1 Cobertura de Testes
+### 2.4.1 Integração Contínua
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/travis.PNG)
 
-### 2.4.2 Duplicação de Código
+### 2.4.2 Cobertura de Testes
+A cobertura de testes subiu de 68% na Sprint 1 para 82% na Sprint 2
 
-### 2.4.3 Complexidade Ciclomática
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/coveralls.PNG)
 
-### 2.4.4 Estilo: PEP8
+<hr>
+<b>** Extrato Code Climate para Duplicação, Complexidade e PEP8 abaixo **</b>
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/code_climate.PNG)
+
+
+### 2.4.3 Duplicação de Código
+
+
+### 2.4.4 Complexidade Ciclomática
+
+### 2.4.5 Estilo: PEP8
 
