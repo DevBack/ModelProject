@@ -52,6 +52,8 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
  *	O sistema deve oferecer filtros necessário para pesquisa.
  *	O sistema deve ser claro na impressão da busca para o usuário.
  *	O sistema deve exibir quais são os espaços disponíveis baseado no filtro.
+ *	O sistema deve exibir os resultados de forma visualmente agradável e intuitiva.
+
 
 ### US #6 - Como um administrador, quero gerenciar administradores do sistema de modo que consiga tornar um usuário do corpo acadêmico em administrador para conseguir dividir a função de administrador com outros usuários.
 
