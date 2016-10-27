@@ -37,3 +37,12 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#63] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/63) | #15 | Como um desenvolvedor, eu quero refatorar as views, para melhorar a qualidade do código. | 13|
 |[#74] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/74) | #16 | Como desenvolvedor, eu quero refatorar a criação de reservas, para ficar mais intuitivo.| 8|
 | | | **TOTAL** | **74** | 
+
+
+## 4. Critérios de Aceitação
+
+### US #3 - Como um usuário, quero excluir as reservas feitas por mim para disponibilizar espaços dos quais não preciso mais.
+ * O usuário pode excluir apenas reservas feitas por ele.
+ * O sistema deve exibir uma mensagem de confirmação para o usuário excluir a reserva.
+ * O sistema ao excluir a reserva deve informar que esta foi excluída com sucesso.
+ * O sistema, ao excluir a reserva, deve apagá-la do banco de dados.
