@@ -11,8 +11,8 @@ Não conseguimos entrar em contato com a Carla, por isso as estórias foram prio
 
 | US (User Story) | História | Pontuação |Nova Pontuação| Responsável |
 |----------------------|----------|-----------|-----------|-----------|
-| #1 | Como um administrador, quero consultar os dados de todos os usuários cadastrados no sistema. | 8  |---| Hugo e Fabíola |
-| #6 | Como um administrador, quero gerenciar administradores do sistema de modo que consiga tornar um usuário do corpo acadêmico em administrador. | 8 | --- | Luis, Lucas e Vítor|
+| #1 | Como um administrador, quero consultar os dados de todos os usuários cadastrados no sistema. | 13 |8| Hugo e Fabíola |
+| #6 | Como um administrador, quero gerenciar administradores do sistema de modo que consiga tornar um usuário do corpo acadêmico em administrador. | 13 | 8| Luis, Lucas e Vítor|
 
 | TS (Technical Story) | História | Pontuação |Nova Pontuação| Responsável |
 |----------------------|----------|-----------|-------------|-------------|
