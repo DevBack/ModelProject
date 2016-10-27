@@ -61,4 +61,8 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
  *	Apenas os administradores podem ter acesso a essa função.
 
 
+### US #9 - Como um administrador, quero visualizar relatórios de reserva para que possa identificar os espaços mais utilizados em determinados períodos.
 
+ *	Apenas administradores podem gerar relatórios. 
+ *	O sistema deve exibir informações sobre ocupações de espaços em um documento pdf.
+ *	O sistema deve exibir essas informações de forma intuitiva.
