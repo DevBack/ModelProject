@@ -25,14 +25,14 @@ As histórias US#1, US#6 e TS#15 foram divididas em tarefas e cada uma delas foi
 #### Tarefas da História #1
 | Tarefa | Pontuação | Responsável |
 |--------|-----------|-------------|
-| Criar estrutura de administrador no sistema | 6  | Hugo e Fabíola |
-| Criar backend de consulta | 7 | Hugo e Fabíola |
+| Criar estrutura de administrador no sistema | 4 | Hugo e Fabíola |
+| Criar backend de consulta | 4 | Hugo e Fabíola |
 
 #### Tarefas da História #6
 | Tarefa | Pontuação | Responsável |
 |--------|-----------|-------------|
-| Criar backend para transformar um usuário em admin | 7  | Vitor, Luis e Lucas |
-| Integrar com frontend| 6 | Vitor, Luis e Lucas |
+| Criar backend para transformar um usuário em admin | 4 | Vitor, Luis e Lucas |
+| Integrar com frontend| 4 | Vitor, Luis e Lucas |
 
 #### Tarefas da História Técnica #15
 | Tarefa | Pontuação | Responsável |
