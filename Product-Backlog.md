@@ -41,6 +41,21 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 
 ## 4. Critérios de Aceitação
 
+###US #1 - Como um administrador, quero consultar os dados de todos os usuários cadastrados no sistema para poder identificar um usuário.
+
+ * O sistema deve exibir todos usuários do sistema.
+ * Apenas os administradores podem ter acesso a essa função.
+ * O administrador pode ver todos os campos: nome, matrícula, categoria e tipo de cada usuário
+ * O administrador pode visualizar dados de qualquer usuário, inclusive de outros administradores.
+
+
+###us #2 - Como um administrador, quero consultar todas reservas já efetuadas visualizando todos dados para administrar as reservas quanto aos espaços e aos horários.
+
+ * O sistema deve fornecer quatro filtros diferentes para a consulta: sala e período, dia e sala, nome da reserva e semana e prédio e dia.
+ * O sistema deve mostrar as reservas em uma tabela.
+ * O sistema deve mostrar os horários livres entre nos horários pesquisados
+
+
 ### US #3 - Como um usuário, quero excluir as reservas feitas por mim para disponibilizar espaços dos quais não preciso mais.
  * O usuário pode excluir apenas reservas feitas por ele.
  * O sistema deve exibir uma mensagem de confirmação para o usuário excluir a reserva.
