@@ -1,5 +1,5 @@
 ## 1. Introdução
-O presente documento apresenta todas as histórias técnicas e de usuário a serem realizadas durante a _Release 2_ do projeto SAS (Sistema de Alocação de Salas). Tais histórias foram pontuadas de acordo com seu nível de complexidade, resultando em um total planejado de **170 pontos**.
+O presente documento apresenta todas as histórias técnicas e de usuário a serem realizadas durante a _Release 2_ do projeto SAS (Sistema de Alocação de Salas). Tais histórias foram pontuadas de acordo com seu nível de complexidade, resultando em um total planejado de **193 pontos**.
 
 ## 2. Histórias de usuário
 
@@ -14,7 +14,9 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#24](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/24)  | #7 | Como um administrador, quero aprovar reservas de laboratórios solicitadas pelo corpo acadêmico para ter um maior controle sobre quem utiliza os laboratórios. | 13 |
 |[#25](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/25) | #8 | Como um visitante, quero consultar as perguntas frequentes do sistema para sanar dúvidas sobre o sistema. | 3 |
 |[#26](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/26) | #9 | Como um administrador, quero visualizar relatórios de reserva para que possa identificar os espaços mais utilizados em determinados períodos. | 20 |
-| | | **TOTAL** | **96** | 
+||#10| Como usuário, eu quero reservar um espaço a partir da tabela de ocupação para utilizar a sala.|8|
+||#11| Como administrador, eu quero designar um responsável pelas reservas que eu cadastrar para manter o controle da reserva. |13|
+| | | **TOTAL** | **117** | 
 
 ## 3. Histórias técnicas (teste e refatoração)
 
@@ -36,7 +38,8 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#62] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/62) | #14 | Como um desenvolvedor, eu quero internacionalizar o SAS para inglês. | 1|
 |[#63] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/63) | #15 | Como um desenvolvedor, eu quero refatorar as views, para melhorar a qualidade do código. | 13|
 |[#74] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/74) | #16 | Como desenvolvedor, eu quero refatorar a criação de reservas, para ficar mais intuitivo.| 8|
-| | | **TOTAL** | **74** | 
+||#17 | Como desenvolvedor, eu quero fazer deploy para colocar o SAS em produção. |2|
+| | | **TOTAL** | **76** | 
 
 
 ## 4. Critérios de Aceitação
