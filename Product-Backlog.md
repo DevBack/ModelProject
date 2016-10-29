@@ -49,7 +49,7 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
  * O administrador pode visualizar dados de qualquer usuário, inclusive de outros administradores.
 
 
-###us #2 - Como um administrador, quero consultar todas reservas já efetuadas visualizando todos dados para administrar as reservas quanto aos espaços e aos horários.
+###US #2 - Como um administrador, quero consultar todas reservas já efetuadas visualizando todos dados para administrar as reservas quanto aos espaços e aos horários.
 
  * O sistema deve fornecer quatro filtros diferentes para a consulta: sala e período, dia e sala, nome da reserva e semana e prédio e dia.
  * O sistema deve mostrar as reservas em uma tabela.
