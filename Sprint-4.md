@@ -24,11 +24,11 @@ Em virtude do tempo de duração de sprint, definido em uma semana, estar se mos
 |#17 | Como desenvolvedor, eu quero fazer deploy para colocar o SAS em produção.|---| 2 | Gustavo|
 
 ###Débitos técnicos
-| TS (Technical Story) | História | Pontuação | Responsável |
-|----------------------|----------|-----------|-------------|
+| TS (Technical Story) | História | Pontuação |Nova Pontuação| Responsável |
+|----------------------|----------|-----------|-------------|--------------|
 | #10 | Como um desenvolvedor, eu quero realizar as validações necessárias da criação de reserva para garantir a consistência dos dados inseridos.|8|5|Elaine|
-| #15 | Como um desenvolvedor, eu quero refatorar as views, para melhorar a qualidade do código. |13|Allan|
-| #16 | Como desenvolvedor, eu quero refatorar a criação de reservas, para ficar mais intuitivo. |8|Gustavo|
+| #15 | Como um desenvolvedor, eu quero refatorar as views, para melhorar a qualidade do código. |13|---|Allan|
+| #16 | Como desenvolvedor, eu quero refatorar a criação de reservas, para ficar mais intuitivo. |8|---|Gustavo|
 
 As estórias técnicas TS#15 e TS#16 foram concluídas parcialmente, e como foi decidido anteriormente a equipe está acompanhando as tarefas, portanto seguem as tarefas que estão faltando dessas estórias para essa sprint.
 
