@@ -6,7 +6,7 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |Issue|US (User Story) | História | Pontuação |
 |-----|----------------|----------|-----------|
 |[#17](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/17) | #1 | Como um administrador, quero consultar os dados de todos os usuários cadastrados no sistema para poder identificar um usuário. | 13 | 
-|[#18](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/18)  | #2 | Como um administrador, quero consultar todas reservas já efetuadas visualizando todos dados para administrar as reservas quanto aos espaços e aos horários. | 8 |
+|[#18](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/18)  | #2 | Como um administrador, quero consultar todas reservas já efetuadas visualizando todos dados para administrar as reservas. | 8 |
 |[#20](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/20) | #3 | Como um usuário, quero excluir as reservas feitas por mim para disponibilizar espaços dos quais não preciso mais. | 5 | 
 |[#21](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/21) | #4 | Como administrador, quero excluir qualquer reserva efetuada para liberar espaços necessários a eventos de maior prioridade. | 8 |
 |[#22](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/22) | #5 | Como um usuário, quero consultar a disponibilidade e as reservas já realizadas em determinado espaço para ter um mecanismo de busca mais objetivo. | 13 |
@@ -49,7 +49,7 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
  * O administrador pode visualizar dados de qualquer usuário, inclusive de outros administradores.
 
 
-###US #2 - Como um administrador, quero consultar todas reservas já efetuadas visualizando todos dados para administrar as reservas quanto aos espaços e aos horários.
+###US #2 - Como um administrador, quero consultar todas reservas já efetuadas visualizando todos dados para administrar as reservas.
 
  * O sistema deve fornecer quatro filtros diferentes para a consulta: sala e período, dia e sala, nome da reserva e semana e prédio e dia.
  * O sistema deve mostrar as reservas em uma tabela.
