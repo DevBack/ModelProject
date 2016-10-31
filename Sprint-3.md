@@ -61,17 +61,36 @@ As histórias US#1, US#6 e TS#15 foram divididas em tarefas e cada uma delas foi
 # 2. Resultados:
 
 ## 2.1. Burndown
+![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_burndown.pn)
 
 ## 2.2 Velocity
+![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_velocity.pn)
 
 ## 2.3 Agile EVM
 
-# 3. Qualidade
 
-## 3.1 Cobertura de Testes
+## 2.4. Qualidade
 
-## 3.2 Duplicação de Código
+### 2.4.1 Integração Contínua
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/travis.PN)
 
-## 3.3 Complexidade Ciclomática
+### 2.4.2 Cobertura de Testes
+A cobertura de testes subiu de 68% na Sprint 1 para 82% na Sprint 2
 
-## 3.4 Estilo: PEP8
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/coveralls.PN)
+
+<hr>
+<b>** Extrato Code Climate para Duplicação, Complexidade e PEP8 abaixo **</b>
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/code_climate.PN)
+
+<b>** Identificação de Duplicação, Complexidade e PEP8 de acordo com as Issues**</b>
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/metrics.PN)
+
+### 2.4.3 Duplicação de Código
+
+
+### 2.4.4 Complexidade Ciclomática
+
+### 2.4.5 Estilo: PEP8
+
+### 2.4.6 Ações definidas para melhoria da qualidade
