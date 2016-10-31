@@ -49,9 +49,14 @@ As histórias US#1, US#6 e TS#15 foram divididas em tarefas e cada uma delas foi
 ## 1.5. Retrospectiva
 |Pontos Positivos|
 |----------------|
+|Muito aprendizado|
+|Maior integração|
+|Trabalho contínuo|
 
 |Pontos Negativos |Causa| Melhoria|
 |-----------------|-----|---------|
+|Qualidade de código|Falta de experiência da equipe|GPP apontou os tópicos e sugeriu melhorias|
+|Dificuldade de pareamento presencial|Semana Universitária|Encontrar na FGA|
 
 # 2. Resultados:
 
