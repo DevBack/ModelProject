@@ -51,14 +51,10 @@ As estórias técnicas TS#15 e TS#16 foram concluídas parcialmente, e como foi 
 ## 1.5. Retrospectiva
 |Pontos Positivos|
 |----------------|
-|Muito aprendizado|
-|Maior integração|
-|Trabalho contínuo|
+
 
 |Pontos Negativos |Causa| Melhoria|
 |-----------------|-----|---------|
-|Qualidade de código|Falta de experiência da equipe|GPP apontou os tópicos e sugeriu melhorias|
-|Dificuldade de pareamento presencial|Semana Universitária|Encontrar na FGA|
 
 # 2. Resultados:
 
