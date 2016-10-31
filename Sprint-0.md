@@ -54,7 +54,7 @@ Durante a sprint 0, o time não distribuiu os pontos uniformemente durante seu t
 ## 2.2 Velocity
 O velocity desta sprint foi de **24 pontos**. Como esta é a primeira sprint, esta pontuação refere-se a quantidade total completada durante o período de 01/10/2016 a 07/10/2016.
 
-![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/velocity.png)
+![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/0_velocity.png)
 
 ## 2.3 Agile EVM
 
