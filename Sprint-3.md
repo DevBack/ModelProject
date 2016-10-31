@@ -45,7 +45,7 @@ As histórias US#1, US#6 e TS#15 foram divididas em tarefas e cada uma delas foi
 ## 1.3. Quadro de Conhecimentos
 ![Quadro de Conhecimento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_conhecimento.png)
 
-## 1.4. Quadro de pareamento
+## 1.4. Quadro de Pareamento
 ![Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_pareamento.png)
 
 ## 1.5. Retrospectiva
