@@ -43,8 +43,10 @@ As histórias US#1, US#6 e TS#15 foram divididas em tarefas e cada uma delas foi
 |Diminuir duplicidade de código booking view| 3| Gustavo e Allan|
 
 ## 1.3. Quadro de Conhecimentos
+![Quadro de Conhecimento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_conhecimento.png)
 
 ## 1.4. Quadro de pareamento
+![Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_pareamento.png)
 
 ## 1.5. Retrospectiva
 |Pontos Positivos|
@@ -61,10 +63,10 @@ As histórias US#1, US#6 e TS#15 foram divididas em tarefas e cada uma delas foi
 # 2. Resultados:
 
 ## 2.1. Burndown
-![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_burndown.pn)
+![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_burndown.png)
 
 ## 2.2 Velocity
-![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_velocity.pn)
+![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_velocity.png)
 
 ## 2.3 Agile EVM
 
