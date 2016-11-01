@@ -24,4 +24,4 @@ ETC|Estimate To Complete|1/Indice De Performance De Custo(CPI) * (Custo Total Pl
 EAC|Estimate At Complete|Custo Total Planejado(BAC)/Indice De Performance De Custo(CPI)
 
 ##2. EVM
-O EVM do projeto sas pode ser encontrado [aqui](https://docs.google.com/spreadsheets/d/1qEAfjiwK28bGGbYWuX1VVXOmoH-pnMCV1tzF2k8UKm4/edit?usp=sharing).
+O EVM do projeto sas pode ser encontrado [aqui](https://docs.google.com/spreadsheets/d/19zNqLpAAX8MbIjVo9yntbyzdDt0A4VzqncRJO_F6Wdg/edit?usp=sharing).
