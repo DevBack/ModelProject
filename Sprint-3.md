@@ -69,7 +69,7 @@ As histórias US#1, US#6 e TS#15 foram divididas em tarefas e cada uma delas foi
 ![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_velocity.png)
 
 ## 2.3 Agile EVM
-
+![EVM](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_evm.png) 
 
 ## 2.4. Qualidade
 
