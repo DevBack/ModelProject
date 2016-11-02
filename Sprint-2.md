@@ -77,7 +77,7 @@ O velocity da equipe foi de 24,3.
 ![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_velocity.png)
 
 ## 2.3 Agile EVM
-
+![EVM](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_evm.png) 
 
 ## 2.4. Qualidade
 
