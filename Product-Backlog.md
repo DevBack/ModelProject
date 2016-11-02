@@ -64,6 +64,12 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
  * O sistema ao excluir a reserva deve informar que esta foi excluída com sucesso.
  * O sistema, ao excluir a reserva, deve apagá-la do banco de dados.
 
+### US #4 - Como administrador, quero excluir qualquer reserva efetuada para liberar espaços necessários a eventos de maior prioridade.  
+ * O administrador pode excluir qualquer reserva, feitas por ele ou por outro usuário..
+ * O sistema deve exibir uma mensagem de confirmação para o administrador excluir a reserva.
+ * O sistema ao excluir a reserva deve informar que esta foi excluída com sucesso.
+ * O sistema, ao excluir a reserva, deve apagá-la do banco de dados.  
+
 ### US #5 - Como um usuário, quero consultar a disponibilidade e as reservas já realizadas em determinado espaço para ter um mecanismo de busca mais objetivo.
 
  *	O sistema deve oferecer filtros necessário para pesquisa.
