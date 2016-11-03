@@ -85,6 +85,13 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
  *	O sistema deve informar que o usuário selecionado agora é administrador.
  *	Apenas os administradores podem ter acesso a essa função.
 
+### US #7 - Como um administrador, quero aprovar reservas de laboratórios solicitadas pelo corpo acadêmico para ter um maior controle sobre quem utiliza os laboratórios.
+
+ *      O administrador pode aprovar uma reserva de laboratório.
+ *      O administrador pode recusar uma reserva de laboratório.
+ *      O administrador pode ver todas as solicitações de reserva de laboratório.
+ *      O administrador pode ver dados de quem solicitou a reserva do laboratório. 
+
 ### US #8 - Como um visitante, quero consultar as perguntas frequentes do sistema para sanar dúvidas sobre o sistema.
 
  *      O visitante pode ver a página de perguntas frequentes.
