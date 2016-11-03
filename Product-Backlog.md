@@ -85,6 +85,13 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
  *	O sistema deve informar que o usuário selecionado agora é administrador.
  *	Apenas os administradores podem ter acesso a essa função.
 
+### US #8 - Como um visitante, quero consultar as perguntas frequentes do sistema para sanar dúvidas sobre o sistema.
+
+ *      O visitante pode ver a página de perguntas frequentes.
+ *      A página de perguntas frequentes deve abordar pelo menos um tópico para cada página do sistema.
+ *      A página de perguntas frequentes deve explicar quais os valores aceitáveis para cada campo dos formulários do sistema.
+ *      A página de perguntas frequentes deve ser agradável visualmente.
+ *      Os tópicos abordados na página de perguntas frequentes devem ser autoexplicativos.
 
 ### US #9 - Como um administrador, quero visualizar relatórios de reserva para que possa identificar os espaços mais utilizados em determinados períodos.
 
