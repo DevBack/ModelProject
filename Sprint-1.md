@@ -14,6 +14,7 @@ O foco desta sprint reside na implementação de histórias de usuários voltada
 | #2 | Como um administrador, quero consultar todas reservas já efetuadas visualizando todos dados. | 8  |---| Vitor |
 | #4 | Como administrador, quero excluir qualquer reserva efetuada. | 8  |---| Gustavo |
 | #5 | Como um usuário, quero consultar a disponibilidade e as reservas já realizadas em determinado espaço. |8| 20  | Lucas e Luis, Hugo e Fabíola, Vitor e Hugo, Pedro e Lucas, Fabíola e Elaine, Luis e Hugo |
+|**Total**| | **24**|||
 
 #### Tarefas da História #5
 | Tarefa | Pontuação | Responsável |
@@ -32,9 +33,12 @@ O foco desta sprint reside na implementação de histórias de usuários voltada
 | #12 | Como um desenvolvedor, eu quero refatorar o cadastro de criação de reserva para consertar os bugs conhecidos. | 8  | Allan e Lucas |
 
 ## 1.3. Quadro de Conhecimentos
+o seguinte quadro de conhecimento, demonstra um pequeno avanço com relação a Sprint 0. 
 ![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/1_conhecimento.png) 
 
 ## 1.4. Quadro de pareamento
+Os pareamentos dessa Sprint não foram pre-definidos como na Sprint 0, decisão comada a partir da retrospectiva da sprint anterior, onde ficou claro que os pareamentos pre-definidos dificultou a interação da equipe por conta dos horários. O quadro de pareamento a seguir demonstra o monitoramento dos pareamentos.
+ 
 ![Quadro de Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/1_pareamento.png) 
 
 ## 1.5. Restrospectiva
@@ -69,6 +73,8 @@ O velocity desta sprint foi de **12 pontos**. Esta pontuação refere-se a médi
 ![EVM](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/1_evm.png)
 
 **OBS.** As descrições e fórmulas das siglas apresentadas na tabela acima estão devidamente explicitadas [aqui](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Agile-EVM). Neste mesmo link pode ser encontrada a tabela de EVM completa do projeto.
+
+Foram planejado 24 pontos para essa Sprint, e entregues 0. O RPC (Pontos Completos Na Release) ficou então 24, o APC (Porcentagem Completa Real) ficou em 16,22% abaixo do PPC (Porcentagem Planejada Completa) de 25,00%, o que indica atraso no projeto e necessidade de gerenciar esse risco. Não foi adicionado nenhum ponto novo ao projeto, PA (Pontos Adicionados) = 0.
 
 ## 2.4. Qualidade
 ### 2.4.1 Integração Contínua
