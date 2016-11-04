@@ -1,5 +1,5 @@
 ## 1. Introdução
-O presente documento apresenta todas as histórias técnicas e de usuário a serem realizadas durante a _Release 2_ do projeto SAS (Sistema de Alocação de Salas). Tais histórias foram pontuadas de acordo com seu nível de complexidade, resultando em um total planejado de **196 pontos**.
+O presente documento apresenta todas as histórias técnicas e de usuário a serem realizadas durante a _Release 2_ do projeto SAS (Sistema de Alocação de Salas). Tais histórias foram pontuadas de acordo com seu nível de complexidade, resultando em um total planejado de **200 pontos**.
 
 ## 2. Histórias de usuário
 
@@ -18,7 +18,8 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#84](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/84)|#11| Como administrador, eu quero designar um responsável pelas reservas que eu cadastrar para manter o controle da reserva. |13|
 |[#89](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/89)|#12| Como usuário, eu quero selecionar qual a Engenharia que curso durante o meu cadastro, para o administrador ter um controle de reservas por Engenharia.|3|
 |[#90](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/90)|#13| Como administrador, quero selecionar uma engenharia ao criar uma reserva, para ter o controle por curso.|2|
-| | | **TOTAL** | **120** | 
+|[#91](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/91)|#14| Como administrador, quero poder pesquisar uma reserva pelo nome do responsável, para conseguir localizar em qual sala está um professor.|2|
+| | | **TOTAL** | **124** | 
 
 ## 3. Histórias técnicas (teste e refatoração)
 
