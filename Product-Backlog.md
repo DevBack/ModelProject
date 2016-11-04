@@ -17,6 +17,7 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#83](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/83)|#10| Como usuário, eu quero reservar um espaço a partir da tabela de ocupação para utilizar a sala.|8|
 |[#84](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/84)|#11| Como administrador, eu quero designar um responsável pelas reservas que eu cadastrar para manter o controle da reserva. |13|
 |[#89](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/89)|#12| Como usuário, eu quero selecionar qual a Engenharia que curso durante o meu cadastro, para o administrador ter um controle de reservas por Engenharia.|3|
+|[#90](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/90)|#13| Como administrador, quero selecionar uma engenharia ao criar uma reserva, para ter o controle por curso.|2|
 | | | **TOTAL** | **120** | 
 
 ## 3. Histórias técnicas (teste e refatoração)
