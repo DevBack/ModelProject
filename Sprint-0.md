@@ -24,9 +24,11 @@ O foco desta sprint reside na implementação das histórias técnicas e histór
 | **Total** |   |   | **40** |
 
 ## 1.3. Quadro de Conhecimentos
+Para monitorar e controlar as habilidades da equipe, necessárias para o desenvolvimento do projeto, foi usado o seguinte quadro de conhecimento.
 ![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/0_conhecimento.png) 
 
 ## 1.4. Quadro de pareamento
+Levando em consideração as necessidades técnicas da estorias priorizadas para sprint e quadro de conhecimentos, foram planejados e executados os seguintes pareamentos.
 ![Quadro de Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/0_pareamento.png) 
 
 ## 1.5. Restrospectiva
@@ -61,6 +63,8 @@ O velocity desta sprint foi de **24 pontos**. Como esta é a primeira sprint, es
 ![EVM](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/0_evm.png)
 
 **OBS.** As descrições e fórmulas das siglas apresentadas na tabela acima estão devidamente explicitadas [aqui](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Agile-EVM).
+
+Foram planejado 40 pontos para essa Sprint, e entregues 24. O RPC (Pontos Completos Na Release) ficou então em 24, já que essa é a primeira sprint, e o APC (Porcentagem Completa Real) ficou em 16,22% acima do PPC (Porcentagem Planejada Completa) de 12,50, o que indica um bom andamento do projeto. Não foi adicionado nenhum ponto novo ao projeto, PA (Pontos Adicionados) = 0.
 
 ## 2.4. Qualidade
 ### 2.4.1 Integração Contínua
