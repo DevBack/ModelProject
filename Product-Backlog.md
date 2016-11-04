@@ -38,7 +38,7 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#62] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/62) | #14 | Como um desenvolvedor, eu quero internacionalizar o SAS para inglês. | 1|
 |[#63] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/63) | #15 | Como um desenvolvedor, eu quero refatorar as views, para melhorar a qualidade do código. | 13|
 |[#74] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/74) | #16 | Como desenvolvedor, eu quero refatorar a criação de reservas, para ficar mais intuitivo.| 8|
-||#17 | Como desenvolvedor, eu quero fazer deploy para colocar o SAS em produção. |2|
+|[#85](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/85)|#17 | Como desenvolvedor, eu quero fazer deploy para colocar o SAS em produção. |2|
 | | | **TOTAL** | **76** | 
 
 
