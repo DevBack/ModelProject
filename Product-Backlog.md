@@ -14,8 +14,8 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#24](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/24)  | #7 | Como um administrador, quero aprovar reservas de laboratórios solicitadas pelo corpo acadêmico para ter um maior controle sobre quem utiliza os laboratórios. | 13 |
 |[#25](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/25) | #8 | Como um visitante, quero consultar as perguntas frequentes do sistema para sanar dúvidas sobre o sistema. | 3 |
 |[#26](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/26) | #9 | Como um administrador, quero visualizar relatórios de reserva para que possa identificar os espaços mais utilizados em determinados períodos. | 20 |
-||#10| Como usuário, eu quero reservar um espaço a partir da tabela de ocupação para utilizar a sala.|8|
-||#11| Como administrador, eu quero designar um responsável pelas reservas que eu cadastrar para manter o controle da reserva. |13|
+|[#83](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/83)|#10| Como usuário, eu quero reservar um espaço a partir da tabela de ocupação para utilizar a sala.|8|
+|[#84](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/84)|#11| Como administrador, eu quero designar um responsável pelas reservas que eu cadastrar para manter o controle da reserva. |13|
 | | | **TOTAL** | **117** | 
 
 ## 3. Histórias técnicas (teste e refatoração)
