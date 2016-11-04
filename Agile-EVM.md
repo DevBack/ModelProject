@@ -9,6 +9,7 @@ PA|Pontos Adicionados|São os pontos adicionados em cada sprint, podendo ser pos
 PRP|Pontos Planejados Da Release|É a soma dos pontos planejados para toda a release, sendo eles imutáveis no decorrer da mesma
 RPC|Pontos Completos Na Release|É a soma dos pontos completos na release, de acordo com as sprints(PC).
 APC|Porcentagem Completa Real|Pontos Completos Sprint(PC) / Pontos Planejados Totais(PRP)
+PPC|Porcentagem Planejada Completa|Número da Sprinte atual / Número total de sprints
 BAC|Custo Total Planejado|Pontos Planejados Totais(PRP) * Custo do ponto
 AC|Custo Real|Pontos Completos Reais (PCR) * Custo Do Ponto
 PV|Valor Planejado|Porcentagem planejada Completa (PPC) * Custo Total Planejado (BAC)
