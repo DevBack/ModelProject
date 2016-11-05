@@ -74,19 +74,19 @@ As histórias US#1, US#6 e TS#15 foram divididas em tarefas e cada uma delas foi
 ## 2.4. Qualidade
 
 ### 2.4.1 Integração Contínua
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/travis.PN)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/travis.PNG)
 
 ### 2.4.2 Cobertura de Testes
 A cobertura de testes subiu de 68% na Sprint 1 para 82% na Sprint 2
 
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/coveralls.PN)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/coveralls.PNG)
 
 <hr>
 <b>** Extrato Code Climate para Duplicação, Complexidade e PEP8 abaixo **</b>
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/code_climate.PN)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/code_climate.PNG)
 
 <b>** Identificação de Duplicação, Complexidade e PEP8 de acordo com as Issues**</b>
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/metrics.PN)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/metrics.PNG)
 
 ### 2.4.3 Duplicação de Código
 
