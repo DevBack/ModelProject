@@ -74,25 +74,28 @@ As histórias US#1, US#6 e TS#15 foram divididas em tarefas e cada uma delas foi
 ## 2.4. Qualidade
 
 ### 2.4.1 Integração Contínua
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/travis.PNG)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint3/travis.PNG)
 
 ### 2.4.2 Cobertura de Testes
-A cobertura de testes subiu de 68% na Sprint 1 para 82% na Sprint 2
+A cobertura de testes subiu de 82% na Sprint 2 para 87% na Sprint 3
 
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/coveralls.PNG)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint3/coveralls.PNG)
 
 <hr>
 <b>** Extrato Code Climate para Duplicação, Complexidade e PEP8 abaixo **</b>
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/code_climate.PNG)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint3/code_climate.PNG)
 
 <b>** Identificação de Duplicação, Complexidade e PEP8 de acordo com as Issues**</b>
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/metrics.PNG)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint3/metrics.PNG)
 
 ### 2.4.3 Duplicação de Código
-
+Das 124 issues (dobro em relação a sprint anterior), 74 são de duplicação de código, a grande maioria irresolvível. A equipe optou por não considerar nenhuma ação nesta sprint quanto a duplicação de código, em razão das refatorações a caminho.
 
 ### 2.4.4 Complexidade Ciclomática
+7 issues de complexidade ciclomática identificadas, mesma quantidade que na sprint anterior, sendo uma nova acrescentada neste sprint e uma (em booking/views.py) resolvida de acordo com [#65](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/65) 
 
 ### 2.4.5 Estilo: PEP8
+Das 124 issues identificadas, 43 são de adequação ao PEP8, todas elas em sas/sas/basic.py
 
 ### 2.4.6 Ações definidas para melhoria da qualidade
+Agir em torno das issues de complexidade ciclomática somente nas views.py (booking e user) devido ao fim da release estar se aproximando e a alta carga de trabalho mais urgente.
