@@ -23,6 +23,24 @@ Em virtude do tempo de duração de sprint, definido em uma semana, estar se mos
 |----------------------|----------|-----------|-------------|--------------|
 |#17 | Como desenvolvedor, eu quero fazer deploy para colocar o SAS em produção.|---| 2 | Gustavo|
 
+As histórias de usuário US#7 e US#10 foram divididas em tarefas, as quais são:
+
+#### Tarefas da História #7
+| Tarefa | Pontuação | Responsável |
+|--------|-----------|-------------|
+| Atualizar o sistema para comportar estrutura de status da reserva | 6 | Fabíola e Pedro |
+| Criar página de gerenciamento de reservas pendentes | 2 | Fabíola e Pedro |
+
+
+#### Tarefas da História #10
+| Tarefa | Pontuação | Responsável |
+|--------|-----------|-------------|
+| Modificar views para cada filtro | 2 | Hugo e Luís |
+| Criar a modal de reserva | 1 | Hugo e Luís |
+| Modificar forms para o newbooking na modal | 1 | Hugo e Luís |
+| Criar template tags necessárias | 3 | Hugo e Luís |
+| Adaptar template table | 1 | Hugo e Luís |
+
 ###Débitos técnicos
 | TS (Technical Story) | História | Pontuação |Nova Pontuação| Responsável |
 |----------------------|----------|-----------|-------------|--------------|
