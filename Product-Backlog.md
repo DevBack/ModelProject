@@ -46,6 +46,7 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#74] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/74) | #16 | Como desenvolvedor, eu quero refatorar a criação de reservas, para ficar mais intuitivo.| 8|
 |[#85](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/85)|#17 | Como desenvolvedor, eu quero fazer deploy para colocar o SAS em produção. |2|
 |[#96](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/96)|#18| Como desenvolvedor, eu quero melhorar as colunas das datatables, incluindo dia da semana e horário, para entender melhor as reservas.|5|
+|[#97](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/97)|#19|Como desenvolvedor, eu quero mostrar a tabela das consultas mesmo sem existir nenhuma reserva nos filtros selecionados, para possibilitar a inclusão de uma reserva.|2|
 | | | **TOTAL** | **76** | 
 
 
