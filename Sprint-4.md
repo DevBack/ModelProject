@@ -69,10 +69,17 @@ As estórias técnicas TS#15 e TS#16 foram concluídas parcialmente, e como foi 
 ## 1.5. Retrospectiva
 |Pontos Positivos|
 |----------------|
-
+| Aumento da produtividade da equipe |
+| Conhecimento de frontend adquirido |
+| Maior preocupação com qualidade |
 
 |Pontos Negativos |Causa| Melhoria|
 |-----------------|-----|---------|
+| Demora para começar a queimar pontos | Provas e trabalhos de outras disciplinas | Organizar melhor as tarefas diárias para conseguir fazer um pouco de tudo |
+| Redução na frequência de consulta do coach | Demora no início da realização das histórias/tarefas, ou seja, demora na descoberta de dúvidas | Começar a realização o quanto antes |
+| Daily relativamente demorada | Falta de foco na reunião | Aumento do comprometimento com a daily | 
+| Master desatualizada e quebrada | Falta de merge com a master sempre que a dev está estável | Aumentar frequência de merges com a master |
+| Cobertura ainda está abaixo do mínimo | Falta de alguns testes de funcionalidades "antigas" | Aumentar cobertura de teste |
 
 # 2. Resultados:
 
