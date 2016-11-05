@@ -61,10 +61,10 @@ As estórias técnicas TS#15 e TS#16 foram concluídas parcialmente, e como foi 
 | Adaptar JavaScript| 4 | Gustavo |
 
 ## 1.3. Quadro de Conhecimentos
-![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_conhecimento.pn) 
+![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_conhecimento.png) 
 
 ## 1.4. Quadro de pareamento
-![Quadro de Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_pareamento.pn) 
+![Quadro de Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_pareamento.png) 
 
 ## 1.5. Retrospectiva
 |Pontos Positivos|
@@ -84,10 +84,10 @@ As estórias técnicas TS#15 e TS#16 foram concluídas parcialmente, e como foi 
 # 2. Resultados:
 
 ## 2.1. Burndown
-![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_burndown.pn)
+![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_burndown.png)
 
 ## 2.2 Velocity
-![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_velocity.pn)
+![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_velocity.png)
 
 ## 2.3 Agile EVM
 
@@ -95,19 +95,19 @@ As estórias técnicas TS#15 e TS#16 foram concluídas parcialmente, e como foi 
 ## 2.4. Qualidade
 
 ### 2.4.1 Integração Contínua
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/travis.PN)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint4/travis.png)
 
 ### 2.4.2 Cobertura de Testes
-A cobertura de testes subiu de 68% na Sprint 1 para 82% na Sprint 2
+A cobertura de testes permaneceu em 87% na Sprint 4.
 
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/coveralls.PN)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint4/coveralls.png)
 
 <hr>
 <b>** Extrato Code Climate para Duplicação, Complexidade e PEP8 abaixo **</b>
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/code_climate.PN)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint4/code_climate.png)
 
 <b>** Identificação de Duplicação, Complexidade e PEP8 de acordo com as Issues**</b>
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint2/metrics.PN)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint4/metrics.png)
 
 ### 2.4.3 Duplicação de Código
 
