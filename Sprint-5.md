@@ -22,6 +22,6 @@ Todas as estórias foram criadas pela Carla, durante a apresentação do sistema
 
 | TS (Technical Story) | História | Pontuação |Nova Pontuação| Responsável |
 |----------------------|----------|-----------|-------------|-------------|
-|#18| Como desenvolvedor, eu quero melhorar as colunas das datatables, incluindo dia da semana e horário, para entender melhor as reservas.|---|5|Allan e Fabíola|
+|#18| Como desenvolvedor, eu quero melhorar as colunas das datatables, incluindo dia da semana e horário, para entender melhor as reservas.|---|5|Allan e Jessica|
 |#19|Como desenvolvedor, eu quero mostrar a tabela das consultas mesmo sem existir nenhuma reserva nos filtros selecionados, para possibilitar a inclusão de uma reserva.|---|2|Luís e Vítor|
 |#20|Como desenvolvedor, quero facilitar a criação de reserva possibilitando selecionar sala sem ser obrigatório a seleção de prédio.|---|5|Gustavo e Jessica|
