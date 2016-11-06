@@ -12,7 +12,7 @@ Em virtude do tempo de duração de sprint, definido em uma semana, estar se mos
 |Lucas       | Jessica      |<ul><li>Allan</li><li>Elaine</li><li>Fabiola</li><li>Gustavo</li><li>Hugo</li><li>Luís</li><li>Pedro</li><li>Vitor</li>  |
 
 ## 1.2. Backlog
-
+### 1.2.1 Histórias de Usuário e Técnicas
 | US (User Story) | História | Pontuação |Nova Pontuação| Responsável |
 |----------------------|----------|-----------|-----------|-----------|
 |#7|Como um administrador, quero aprovar reservas de laboratórios solicitadas pelo corpo acadêmico para ter um maior controle sobre quem utiliza os laboratórios.|13|8|Pedro e Fabíola|
@@ -23,14 +23,13 @@ Em virtude do tempo de duração de sprint, definido em uma semana, estar se mos
 |----------------------|----------|-----------|-------------|--------------|
 |#17 | Como desenvolvedor, eu quero fazer deploy para colocar o SAS em produção.|---| 2 | Gustavo|
 
-As histórias de usuário US#7 e US#10 foram divididas em tarefas, as quais são:
+As histórias de usuário US#7, US#10 e US#11 foram divididas em tarefas, as quais são:
 
 #### Tarefas da História #7
 | Tarefa | Pontuação | Responsável |
 |--------|-----------|-------------|
 | Atualizar o sistema para comportar estrutura de status da reserva | 6 | Fabíola e Pedro |
 | Criar página de gerenciamento de reservas pendentes | 2 | Fabíola e Pedro |
-
 
 #### Tarefas da História #10
 | Tarefa | Pontuação | Responsável |
@@ -41,7 +40,15 @@ As histórias de usuário US#7 e US#10 foram divididas em tarefas, as quais são
 | Criar template tags necessárias | 3 | Hugo e Luís |
 | Adaptar template table | 1 | Hugo e Luís |
 
-###Débitos técnicos
+#### Tarefas da História #11
+| Tarefa | Pontuação | Responsável |
+|--------|-----------|-------------|
+| Criar elemento com todos os usuários para adicionar o responsável da reserva | 3 | Vitor e Lucas |
+| Salvar responsável no banco e linkar o mesmo à reserva | 3 | Vitor e Lucas |
+| Adaptar tabela para adicionar responsável | 2 | Vitor e Lucas |
+| Fazer a reserva aparecer para o responsável em "Minhas Reservas" | 5 | Vitor e Lucas |
+
+###1.2.2 Débitos Técnicos
 | TS (Technical Story) | História | Pontuação |Nova Pontuação| Responsável |
 |----------------------|----------|-----------|-------------|--------------|
 | #10 | Como um desenvolvedor, eu quero realizar as validações necessárias da criação de reserva para garantir a consistência dos dados inseridos.|8|5|Elaine|
@@ -90,7 +97,7 @@ As estórias técnicas TS#15 e TS#16 foram concluídas parcialmente, e como foi 
 ![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_velocity.png)
 
 ## 2.3 Agile EVM
-
+![EVM](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_evm.png) 
 
 ## 2.4. Qualidade
 
