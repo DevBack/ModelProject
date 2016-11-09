@@ -3,7 +3,7 @@
 O velocity é uma medida que evidência a velocidade do time para um projeto Scrum. Esse número é calculado e atualizado após a entrega de cada sprint e baseia-se na média dos pontos entregues das sprints concluídas. O time usa essa informação para saber até quantos pontos de história eles conseguem produzir por sprint.
 
 ##2. Velocity
-Atualmente, o velocity do time é de 24 pontos, visto que esta é a média da pontuação concluída até o presente momento.
+Atualmente, o velocity do time é de 36 pontos, visto que esta é a média da pontuação concluída até o presente momento.
 
 | Número da Sprint | Pontos Planejados | Pontos Concluídos |                  
 |------------------|-------------------|-------------------|
