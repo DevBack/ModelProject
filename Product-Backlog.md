@@ -105,7 +105,6 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 
  *      O visitante pode ver a página de perguntas frequentes.
  *      A página de perguntas frequentes deve abordar pelo menos um tópico para cada página do sistema.
- *      A página de perguntas frequentes deve explicar quais os valores aceitáveis para cada campo dos formulários do sistema.
  *      A página de perguntas frequentes deve ser agradável visualmente.
  *      Os tópicos abordados na página de perguntas frequentes devem ser autoexplicativos.
 
