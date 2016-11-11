@@ -104,7 +104,7 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 ### US #8 - Como um visitante, quero consultar as perguntas frequentes do sistema para sanar dúvidas sobre o sistema.
 
  *      O visitante pode ver a página de perguntas frequentes.
- *      A página de perguntas frequentes deve abordar pelo menos um tópico para cada página do sistema.
+ *      A página de perguntas frequentes deve conter, no mínimo, dez perguntas frequentes.
  *      A página de perguntas frequentes deve ser agradável visualmente.
  *      Os tópicos abordados na página de perguntas frequentes devem ser autoexplicativos.
 
