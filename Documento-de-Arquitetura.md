@@ -20,6 +20,7 @@
 |02/09/2016|2.3 | Atualizando Restrições e Metas Arquiteturais |Luis |
 |04/09/2016|2.4 | Remoção da Visualização da Implantação|Hugo |
 |11/09/2016|2.5 | Atualizando Visão Geral e Inclusão da Visão em Camadas|Luis |
+|11/11/2016|2.6 | Atualizando Diagrama de Pacotes|Fabíola |
 
 #Índice
 
@@ -126,15 +127,16 @@ Assim, nota-se que existem adaptações do Django em relação a arquitetura MVC
 ![Diagrama de Pacotes](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/DiagramaPacote.png)
 
 
-Diagrama de pacotes gerado pelo PyGraphviz.
 
-
-Os pacotes de design signficativos são: models, templates, views e tests. Ao utilizar o Django, por padrão, se criam apps(aplicações), e em cada uma destas é gerada uma pasta que contém os quatro arquivos. 
+Os pacotes de design signficativos são: models, templates, views, tests, factories e features. 
 
 * model: faz interface com o banco de dados, é responsável por leitura, validação e escrita de dados.
 * view: contém a camada lógica do sistema.
 * template: faz interface com o usuário, contém as páginas HTML.
-* tests: contém os testes que serão feitos no sistema.
+* tests: contém os testes unitários feitos no sistema.
+* features: contém os testes de aceitação feitos no sistema.
+* factories: contém as fábricas de objetos do sistema.
+
 
 Nosso sistema foi criado em base de duas aplicações principais: user (usuário) e booking(reserva).
 
@@ -161,4 +163,3 @@ A arquitetura utilizada no sistema afeta diretamente sua capacidade de manutenç
 # Referências
 
 * [The Django Book](http://www.djangobook.com/en/2.0/). Acesso em 28/08/2016.
-* [PyGraphviz](https://pygraphviz.github.io/). Acesso em 08/11/2016.
