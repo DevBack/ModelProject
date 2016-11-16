@@ -26,18 +26,28 @@ Todas as estórias foram criadas pela Carla, durante a apresentação do sistema
 |#19|Como desenvolvedor, eu quero mostrar a tabela das consultas mesmo sem existir nenhuma reserva nos filtros selecionados, para possibilitar a inclusão de uma reserva.|---|2|Luís e Vítor|
 |#20|Como desenvolvedor, quero facilitar a criação de reserva possibilitando selecionar sala sem ser obrigatório a seleção de prédio.|---|5|Gustavo e Jessica|
 
+###1.2.2 Débitos Técnicos
+| TS (Technical Story) | História | Pontuação |Nova Pontuação| Responsável |
+|----------------------|----------|-----------|-------------|--------------|
+| #16 | Como desenvolvedor, eu quero refatorar a criação de reservas, para ficar mais intuitivo. |8|---|Gustavo|
+
+#### Tarefa Pendente da História #16
+| Tarefa | Pontuação | Responsável |
+|--------|-----------|-------------|
+| Adaptar JavaScript| 4 | Gustavo |
+
+
 ## 1.3. Quadro de Conhecimentos
-![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_conhecimento.png) 
+![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/5_conhecimento.png) 
 
 ## 1.4. Quadro de pareamento
-![Quadro de Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_pareamento.png) 
+![Quadro de Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/5_pareamento.png) 
 
 ## 1.5. Retrospectiva
 |Pontos Positivos|
 |----------------|
-| Aumento da produtividade da equipe |
-| Conhecimento de frontend adquirido |
-| Maior preocupação com qualidade |
+| Correção de bugs |
+| Melhorias para satisfazer a cliente |
 
 |Pontos Negativos |Causa| Melhoria|
 |-----------------|-----|---------|
@@ -53,27 +63,27 @@ Todas as estórias foram criadas pela Carla, durante a apresentação do sistema
 ![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_burndown.png)
 
 ## 2.2 Velocity
-![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_velocity.png)
+![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/5_velocity.png)
 
 ## 2.3 Agile EVM
-![EVM](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_evm.png) 
+![EVM](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/5_evm.png) 
 
 ## 2.4. Qualidade
 
 ### 2.4.1 Integração Contínua
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint4/travis.PNG)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint5/travis.PNG)
 
 ### 2.4.2 Cobertura de Testes
 A cobertura de testes permaneceu em 87% na Sprint 4.
 
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint4/coveralls.PNG)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint5/coveralls.PNG)
 
 <hr>
 <b>** Extrato Code Climate para Duplicação, Complexidade e PEP8 abaixo **</b>
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint4/code_climate.PNG)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint5/code_climate.PNG)
 
 <b>** Identificação de Duplicação, Complexidade e PEP8 de acordo com as Issues**</b>
-![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint4/metrics.PNG)
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint5/metrics.PNG)
 
 ### 2.4.3 Duplicação de Código
 
