@@ -24,6 +24,7 @@
 * [[Sprint 3]]
 * [[Sprint 4]]
 * [[Sprint 5]]
+* [[Sprint 6]]
 
 #Release 1
 
