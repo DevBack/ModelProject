@@ -22,7 +22,7 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#92](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/92)|#15|Como administrador, quero cadastrar datas de início e fim para um semestre e ao criar uma reserva selecionar o semestre ao invés das datas, para agilizar o processo de criar reserva.|3|
 |[#93](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/93)|#16| Como administrador, quero excluir apenas um horário específico da reserva, para aproveitar melhor os espaços da FGA.|2|
 |[#94](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/94)|#17| Como administrador, quero visualizar a capacidade de cada sala ao fazer a reserva, para conseguir alocar as disciplinas melhor.|2|
-||#18| Como administrador, quero cadastrar tags (#) para depois conseguir gerar um relatório de acordo com as tags selecionadas.|20|
+|[#110] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/110)|#18| Como administrador, quero cadastrar tags (#) para depois conseguir gerar um relatório de acordo com as tags selecionadas.|20|
 | | | **TOTAL** | **151** | 
 
 ## 3. Histórias técnicas (teste e refatoração)
