@@ -17,6 +17,7 @@ Nessa sprint foi priorizada uma nova demanda solicitada pela cliente, e os débi
 
 | US (User Story) | História | Pontuação |Nova Pontuação| Responsável |
 |----------------------|----------|-----------|-----------|-----------|
+|#13| Como administrador, quero selecionar uma engenharia ao criar uma reserva, para ter o controle por curso.|---|2|Elaine e Pedro|
 |#14| Como administrador, quero poder pesquisar uma reserva pelo nome do responsável, para conseguir localizar em qual sala está um professor.|---|5|Hugo e Lucas|
 
 | TS (Technical Story) | História | Pontuação |Nova Pontuação| Responsável |
