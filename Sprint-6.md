@@ -22,6 +22,7 @@ Nessa sprint foi priorizada uma nova demanda solicitada pela cliente, e os débi
 
 | TS (Technical Story) | História | Pontuação |Nova Pontuação| Responsável |
 |----------------------|----------|-----------|-------------|--------------|
+|#20|Como desenvolvedor, quero facilitar a criação de reserva possibilitando selecionar sala sem ser obrigatório a seleção de prédio.|---|5|Gustavo e Jessica|
 | #16 | Como desenvolvedor, eu quero refatorar a criação de reservas, para ficar mais intuitivo. |8|---|Gustavo|
 
 #### Tarefa Pendente da História #16
