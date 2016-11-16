@@ -25,3 +25,61 @@ Todas as estórias foram criadas pela Carla, durante a apresentação do sistema
 |#18| Como desenvolvedor, eu quero melhorar as colunas das datatables, incluindo dia da semana e horário, para entender melhor as reservas.|---|5|Allan e Jessica|
 |#19|Como desenvolvedor, eu quero mostrar a tabela das consultas mesmo sem existir nenhuma reserva nos filtros selecionados, para possibilitar a inclusão de uma reserva.|---|2|Luís e Vítor|
 |#20|Como desenvolvedor, quero facilitar a criação de reserva possibilitando selecionar sala sem ser obrigatório a seleção de prédio.|---|5|Gustavo e Jessica|
+
+## 1.3. Quadro de Conhecimentos
+![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_conhecimento.png) 
+
+## 1.4. Quadro de pareamento
+![Quadro de Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_pareamento.png) 
+
+## 1.5. Retrospectiva
+|Pontos Positivos|
+|----------------|
+| Aumento da produtividade da equipe |
+| Conhecimento de frontend adquirido |
+| Maior preocupação com qualidade |
+
+|Pontos Negativos |Causa| Melhoria|
+|-----------------|-----|---------|
+| Demora para começar a queimar pontos | Provas e trabalhos de outras disciplinas | Organizar melhor as tarefas diárias para conseguir fazer um pouco de tudo |
+| Redução na frequência de consulta do coach | Demora no início da realização das histórias/tarefas, ou seja, demora na descoberta de dúvidas | Começar a realização o quanto antes |
+| Daily relativamente demorada | Falta de foco na reunião | Aumento do comprometimento com a daily | 
+| Master desatualizada e quebrada | Falta de merge com a master sempre que a dev está estável | Aumentar frequência de merges com a master |
+| Cobertura ainda está abaixo do mínimo | Falta de alguns testes de funcionalidades "antigas" | Aumentar cobertura de teste |
+
+# 2. Resultados:
+
+## 2.1. Burndown
+![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_burndown.png)
+
+## 2.2 Velocity
+![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_velocity.png)
+
+## 2.3 Agile EVM
+![EVM](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_evm.png) 
+
+## 2.4. Qualidade
+
+### 2.4.1 Integração Contínua
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint4/travis.PNG)
+
+### 2.4.2 Cobertura de Testes
+A cobertura de testes permaneceu em 87% na Sprint 4.
+
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint4/coveralls.PNG)
+
+<hr>
+<b>** Extrato Code Climate para Duplicação, Complexidade e PEP8 abaixo **</b>
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint4/code_climate.PNG)
+
+<b>** Identificação de Duplicação, Complexidade e PEP8 de acordo com as Issues**</b>
+![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint4/metrics.PNG)
+
+### 2.4.3 Duplicação de Código
+
+
+### 2.4.4 Complexidade Ciclomática
+
+### 2.4.5 Estilo: PEP8
+
+### 2.4.6 Ações definidas para melhoria da qualidade
