@@ -61,7 +61,7 @@ Todas as estórias foram criadas pela Carla, durante a apresentação do sistema
 # 2. Resultados:
 
 ## 2.1. Burndown
-![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_burndown.png)
+![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/5_burndown.png)
 
 ## 2.2 Velocity
 ![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/5_velocity.png)
