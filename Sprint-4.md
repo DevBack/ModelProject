@@ -117,11 +117,13 @@ A cobertura de testes permaneceu em 87% na Sprint 4.
 ![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint4/metrics.PNG)
 
 ### 2.4.3 Duplicação de Código
-
+Mais uma vez, a duplicação de código foi responsável pela maior parte das issues de qualidade, 80 do total de 130 issues.
 
 ### 2.4.4 Complexidade Ciclomática
+7 issues de complexidade ciclomática concentradas nos arquivos forms.py, esta análise foi constatada na sprint anterior, porém tais arquivos não foram incluídos nas TS de refatoração da qualidade, pois aguardam momento mais apropriado para refatoração, demandam certo trabalho e não agregam valor ao cliente proporcionalmente.
 
 ### 2.4.5 Estilo: PEP8
+Todas as 43 issues de estilo estão concentras em único arquivo, sas/basic.py, este arquivo é responsável por criar todos os dados programaticamente, assim nos teste poderiam ser criados e recriados sem necessitar de fixtures. Este arquivo, por definição, é excluído da análise de qualidade, por não ser responsável por funcionalidade alguma, sua existência é mera conveniência para agilizar o trabalho de desenvolvimento.
 
 ### 2.4.6 Ações definidas para melhoria da qualidade
 A equipe verificou grande quantidade de débito técnico, incluindo histórias de refatoração de qualidade da sprint anterior. Foi definido então somente dar continuação sob as histórias de refatoração da complexidade ciclomática (tópico de qualidade mais crítico) somente nas views.py (booking e user, conforme sprint anterior). Além de observar e planejar ação direta futura sob os tópicos de duplicação, em virtude de estarem reduzindo a nota geral do projeto no codeclimate e de serem responsáveis pela grande maioria das issues identificadas.
