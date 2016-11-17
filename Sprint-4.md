@@ -124,3 +124,4 @@ A cobertura de testes permaneceu em 87% na Sprint 4.
 ### 2.4.5 Estilo: PEP8
 
 ### 2.4.6 Ações definidas para melhoria da qualidade
+A equipe verificou grande quantidade de débito técnico, incluindo histórias de refatoração de qualidade da sprint anterior. Foi definido então somente dar continuação sob as histórias de refatoração da complexidade ciclomática (tópico de qualidade mais crítico) somente nas views.py (booking e user, conforme sprint anterior). Além de observar e planejar ação direta futura sob os tópicos de duplicação, em virtude de estarem reduzindo a nota geral do projeto no codeclimate e de serem responsáveis pela grande maioria das issues identificadas.
