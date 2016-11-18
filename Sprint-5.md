@@ -75,7 +75,7 @@ Todas as estórias foram criadas pela Carla, durante a apresentação do sistema
 ![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint5/travis.PNG)
 
 ### 2.4.2 Cobertura de Testes
-A cobertura de testes permaneceu em 87% na Sprint 4.
+Foi alcançada cobertura de testes de 90% nesta Sprint.
 
 ![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint5/coveralls.PNG)
 
@@ -87,10 +87,13 @@ A cobertura de testes permaneceu em 87% na Sprint 4.
 ![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint5/metrics.PNG)
 
 ### 2.4.3 Duplicação de Código
-
+Como esperado, as issues de duplicação de código foram majoritárias, totalizando 83 das 109 issues identificadas.
 
 ### 2.4.4 Complexidade Ciclomática
+7 issues de complexidade ciclomática, todas proveniente da sprint passada, ainda sem ação em virtude da baixa prioridades que representam.
 
 ### 2.4.5 Estilo: PEP8
+19 issues de estilo, representando assim um aumento significativo com relação as sprints anteriores. Serão eliminadas na última semana. 
 
 ### 2.4.6 Ações definidas para melhoria da qualidade
+Discutiu-se a realização de um mutirão sob as issues remanescentes a ser realizado na última sprint, a seguinte, de forma a melhorar a pontuação geral do projeto no code climate. Definiu-se que todas as issues de complexidade e estilo deverão ser resolvidas, e que as issues de duplicidade deverão ser avaliadas individualmente, porém em virtude do próprio framework utilizar uma abordagem que impacta na geração de código identificado como duplicado, a resolução das issues de duplicação ficará a cargo da disponibilidade de tempo da equipe.
