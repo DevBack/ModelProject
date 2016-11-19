@@ -32,10 +32,10 @@ Nessa sprint foi priorizada uma nova demanda solicitada pela cliente, e os débi
 
 
 ## 1.3. Quadro de Conhecimentos
-![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/5_conhecimento.png) 
+![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/6_conhecimento.png) 
 
 ## 1.4. Quadro de pareamento
-![Quadro de Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/5_pareamento.png) 
+![Quadro de Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/6_pareamento.png) 
 
 ## 1.5. Retrospectiva
 |Pontos Positivos|
