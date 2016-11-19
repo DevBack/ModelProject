@@ -14,4 +14,4 @@
 |#12|Sprint 0|Sprint 2|
 |#15|Sprint 3|Sprint 4|
 |#16|Sprint 3|Sprint 6|
-|#20|Sprint 5|Sprint 6|
+|#20|Sprint 5|**TO DO**|
