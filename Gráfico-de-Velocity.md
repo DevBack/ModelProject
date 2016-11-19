@@ -16,4 +16,4 @@ Atualmente, o velocity do time é de 36 pontos, visto que esta é a média da po
 |Sprint 6          |                   |                   |
 
 
-![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/velocity.png)    
+![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/6_velocity.png)    
