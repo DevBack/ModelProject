@@ -114,3 +114,46 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
  *	Apenas administradores podem gerar relatórios. 
  *	O sistema deve exibir informações sobre ocupações de espaços em um documento pdf.
  *	O sistema deve exibir essas informações de forma intuitiva.
+
+
+### US #10 - 	Como usuário, eu quero reservar um espaço a partir da tabela de ocupação para utilizar a sala.
+
+ *	Ao clicar numa célula, o usuário abrirá uma modal intuitiva. 
+ *	O usuário poderá preencher tags ao fazer a reserva pela tabela.
+
+### US #11 - Como administrador, eu quero designar um responsável pelas reservas que eu cadastrar para manter o controle da reserva.
+
+ *	O sistema deve mostrar todos usuários existente, para o administrador selecionar um responsável. 
+ *	O sistema deve permitir assinar  responsável mesmo que este não esteja cadastrado.
+ *	O sistema deve assinar o administrador como responsável caso não seja preenchido o campo de responsável.
+
+### US #12 - Como usuário, eu quero selecionar qual a Engenharia que curso durante o meu cadastro, para o administrador ter um controle de reservas por Engenharia.
+
+ *	O sistema deve apresentar um campo com as engenharias durante o cadastro do usuário. 
+ 
+### US #13 - Como administrador, quero selecionar uma engenharia ao criar uma reserva, para ter o controle por curso.
+
+ *	O sistema deve apresentar um campo com as engenharias durante o cadastro de reserva pelo administrador. 
+
+ 
+### US #14 - Como administrador, quero poder pesquisar uma reserva pelo nome do responsável, para conseguir localizar em qual sala está um professor.
+ *	O sistema deve apresentar uma opção na página de pesquisas para pesquisa por responsável. 
+ *	O sistema deve apresentar um campo com todos os responsáveis existentes para que a busca seja efetuada.
+ *	O sistema deve apresentar o resultado em uma tabela.
+
+ 
+### US #15 - Como administrador, quero cadastrar datas de início e fim para um semestre e ao criar uma reserva selecionar o semestre ao invés das datas, para agilizar o processo de criar reserva.
+ *	O administrador poderá acessar uma página de configurações para cadastrar o semestre.
+
+### US #16 - Como administrador, quero excluir apenas um horário específico da reserva, para aproveitar melhor os espaços da FGA.
+ *	Ao clicar em excluir reserva, o administrador terá acesso a uma modal, para selecionar excluir apenas um horário ou toda a reserva.
+ *	O sistema deve apresentar todos os horários da reserva para que possa excluir apenas a selecionada.
+ *	O sistema deve apresentar uma modal para confirmar a exclusão do horário.
+
+### US #17 - Como administrador, quero visualizar a capacidade de cada sala ao fazer a reserva, para conseguir alocar as disciplinas melhor.
+ *	Ao exibir os espaços, o sistema deve exibir também a capacidade de cada um.
+
+### US #18 - Como administrador, quero cadastrar tags (#) para depois conseguir gerar um relatório de acordo com as tags selecionadas.
+ *      O sistema deve exibir o campo para incluir até 10 tags no cadastro de reservas.
+ *      O sistema deve permitir cadastrar tags novas.
+ *      O sistema deve exibir as tags já existentes, que podem ser selecionadas.
