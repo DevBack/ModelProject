@@ -12,6 +12,7 @@
   * [[Gráfico de Velocity]]
 * [[Dívidas Técnicas]]
 * [[Processo]]
+* [[Tracking]]
 
 ###Quadros
 * [[Quadro de Conhecimento]]
