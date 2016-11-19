@@ -1,3 +1,4 @@
+#Release 1
 ## 1. GPP
 ### 1.1. Pontos Positivos
 * Integração entre as equipes: Todos os membros se deram bem e sempre tentaram se ajudar
@@ -23,3 +24,5 @@
 * Horário: dificuldade em encontrar um horário livre comum a todos os membros para a confecção de artefatos.  
 * Conhecimento para produção dos artefatos: a falta de conhecimento em como produzir os artefatos contribuiu para o gasto de horas acima do planejado.  
 * Configurar ambiente: surgiram muitos problemas ao configurar o ambiente, como a instalação de alguns pacotes e da máquina virtual.
+
+#Release 2
