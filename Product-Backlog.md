@@ -23,7 +23,7 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#93](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/93)|#16| Como administrador, quero excluir apenas um horário específico da reserva, para aproveitar melhor os espaços da FGA.|---|---|2|
 |[#94](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/94)|#17| Como administrador, quero visualizar a capacidade de cada sala ao fazer a reserva, para conseguir alocar as disciplinas melhor.|---|---|2|
 |[#110] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/110)|#18| Como administrador, quero cadastrar tags (#) para depois conseguir gerar um relatório de acordo com as tags selecionadas.|---|---|20|
-| | | **TOTAL** | **151** | 
+| | | **TOTAL** | **96** | **45**|**55**|
 
 ## 3. Histórias técnicas (teste e refatoração)
 
@@ -49,7 +49,7 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#96](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/96)|#18| Como desenvolvedor, eu quero melhorar as colunas das datatables, incluindo dia da semana e horário, para entender melhor as reservas.|---|---|5|
 |[#97](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/97)|#19|Como desenvolvedor, eu quero mostrar a tabela das consultas mesmo sem existir nenhuma reserva nos filtros selecionados, para possibilitar a inclusão de uma reserva.|---|---|2|
 |[#98](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/98)|#20|Como desenvolvedor, quero facilitar a criação de reserva possibilitando selecionar sala sem ser obrigatório a seleção de prédio.|---|---|5|
-| | | **TOTAL** | **88** | 
+| | | **TOTAL** | **52** | **5**|**36**|
 
 
 ## 4. Critérios de Aceitação
