@@ -26,3 +26,12 @@
 * Configurar ambiente: surgiram muitos problemas ao configurar o ambiente, como a instalação de alguns pacotes e da máquina virtual.
 
 #Release 2
+## Pontos Positivos
+* Nivelamento de conhecimento entre a equipe;
+* Alto índice de aprendizado;
+* Independência da equipe de MDS;
+* Conhecimento sobre "gerenciamento" em ágil;
+
+## Pontos Negativos
+* Não foi possível programar todos os dias, o que atrapalhou burndown;
+* As estórias eram grandes e as vezes não era possível terminar em 1 sprint, porém o burndown ilustrava como se a equipe não tivesse produzido, por isso foi necessário controlar por meio de tasks;
