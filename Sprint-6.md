@@ -40,10 +40,14 @@ Nessa sprint foi priorizada uma nova demanda solicitada pela cliente, e os débi
 ## 1.5. Retrospectiva
 |Pontos Positivos|
 |----------------|
-
+|Alto nível de conhecimento|
+|Foi possível terminar a US criada pela cliente na sprint passada|
+|Alto entrosamento da equipe|
 
 |Pontos Negativos |Causa| Melhoria|
 |-----------------|-----|---------|
+|Demora para começar a programar|Final de semestre|---|
+|TS inacabada|Falta de tempo|---|
 
 
 # 2. Resultados:
