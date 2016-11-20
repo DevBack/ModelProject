@@ -34,4 +34,4 @@
 
 ## Pontos Negativos
 * Não foi possível programar todos os dias, o que atrapalhou burndown;
-* As estórias eram grandes e as vezes não era possível terminar em 1 sprint, porém o burndown ilustrava como se a equipe não tivesse produzido, por isso foi necessário controlar por meio de tasks;
+* As estórias eram grandes e as vezes não era possível terminar em 1 sprint, então o burndown ilustrava como se a equipe não tivesse produzido, por isso foi necessário controlar por meio de tasks;
