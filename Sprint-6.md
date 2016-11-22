@@ -67,7 +67,7 @@ Nessa sprint foi priorizada uma nova demanda solicitada pela cliente, e os débi
 ![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint6/travis.PNG)
 
 ### 2.4.2 Cobertura de Testes
-A cobertura de testes permaneceu em 87% na Sprint 4.
+A cobertura de testes aumentou 1% nesta sprint, 92%.
 
 ![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint6/coveralls.PNG)
 
@@ -79,10 +79,14 @@ A cobertura de testes permaneceu em 87% na Sprint 4.
 ![Coveralls](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/metrics/sprint6/metrics.PNG)
 
 ### 2.4.3 Duplicação de Código
-
+Houve severa redução na quantidade de código duplicado, mais de 50% de redução em comparação com a sprint anterior. As issues remanescentes serão avaliadas sua complexidade de resolução.
 
 ### 2.4.4 Complexidade Ciclomática
+8 issues de complexidade identificadas. Estas issues são prioritárias para resolução.
 
 ### 2.4.5 Estilo: PEP8
+Nesta sprint, dois arquivos foram identificados: booking/models.py e sas/steps/steps.py
+
 
 ### 2.4.6 Ações definidas para melhoria da qualidade
+Esta semana contará com um mutirão de ação sob as últimas issues, conforme identificadas nesta sprint. Todas as issues de complexidade e de estilo serão resolvidas, atacadas individualmente conforme indicadas pelo code climate. As issues de duplicação serão avaliadas conforme possibilidade de serem resolvidas, muitas delas só se resolvem com modificações arquiteturais severas, o que não justifica o esforço.
