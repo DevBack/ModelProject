@@ -30,8 +30,10 @@
 * Nivelamento de conhecimento entre a equipe;
 * Alto índice de aprendizado;
 * Independência da equipe de MDS;
-* Conhecimento sobre "gerenciamento" em ágil;
+* Conhecimento sobre planejamento, monitoramento e controle em ágil;
 
 ## Pontos Negativos
+* Histórias dependentes umas das outras designadas na mesma sprint atrapalharam o desenvolvimento do time, impedindo a entrega de pontos
+* Reunião diárias são importantes para o acompanhamento do projeto, diminuir suas frequências torna o time menos eficiente e comunicativo.
 * Não foi possível programar todos os dias, o que atrapalhou burndown;
 * As estórias eram grandes e as vezes não era possível terminar em 1 sprint, então o burndown ilustrava como se a equipe não tivesse produzido, por isso foi necessário controlar por meio de tasks;
