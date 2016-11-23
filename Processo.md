@@ -55,7 +55,8 @@ Cada coluna representa, respectivamente:
 * Done: Contendo todas as issues já entregues.
 
 Em cada  issue é possível consultar os responsáveis por esta, sendo que o responsável não precisa realizá-la sozinho, podendo recorrer a qualquer membro do time para auxiliá-lo. Caso haja mais de um responsável, o pareamento deve ser priorizado entre os responsáveis, porém não é obrigatório, podendo da mesma forma realizá-la com outros membros.
-Na issue também é possível consultar suas respectivas tags, que podem ser alteradas por qualquer membro do time, caso seja necessária.
+
+Na issue também é possível consultar suas respectivas tags, que podem ser alteradas por qualquer membro do time, caso seja necessário. Abaixo estão representadas as tags utilizadas.
 
 ![Tags](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/issues_labels.png)
 
