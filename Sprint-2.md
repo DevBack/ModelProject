@@ -17,6 +17,12 @@ Em virtude do tempo de duração de sprint, definido em uma semana, estar se mos
 |----------------------|----------|-----------|-----------|-----------|
 | #3 | Como um usuário, quero excluir as reservas feitas por mim. | 5  |---| Vitor e Lucas |
 
+
+| TS (Technical Story) | História | Pontuação | Nova Pontuação | Responsável |
+|----------------------|----------|-----------|-----------|-----------|
+| #11 | Como um desenvolvedor, eu quero testar a criação de reserva para garantir a funcionalidade do método. | 5  | ---  | Allan e Lucas |
+| #13 | Como um desenvolvedor, eu quero testar a consulta de reserva para garantir a funcionalidade do método. | 5  | ---  | Allan e Gustavo |
+
 ###Débitos técnicos
 | US (User Story) | História | Pontuação | Responsável |
 |----------------------|----------|-----------|-------------|
