@@ -64,8 +64,9 @@ Durante a sprint 1, o time não conseguiu finalizar nenhuma história planejada 
 ![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/1_burndown.png) 
 
 ## 2.2 Velocity
-O velocity desta sprint foi de **12 pontos**. Esta pontuação refere-se a média de pontos concluídos entre a Sprint 0 e esta sprint. A diminuição considerável ocorreu em virtude da não conclusão de pontos na atual Sprint.
+O velocity desta sprint foi de **12 pontos**. Esta pontuação refere-se a média de pontos concluídos entre a Sprint 0 e esta sprint. A diminuição considerável ocorreu em virtude da não conclusão de pontos na atual Sprint. A tabela utilizada par ao cálculo do velocity e o gráfico podem ser vistos abaixo.
 
+![VelocityTab](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/1_velocityTab.png)
 ![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/1_velocity.png)
 
 ## 2.3 Agile EVM
