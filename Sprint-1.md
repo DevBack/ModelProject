@@ -33,7 +33,7 @@ O foco desta sprint reside na implementação de histórias de usuários voltada
 | #12 | Como um desenvolvedor, eu quero refatorar o cadastro de criação de reserva para consertar os bugs conhecidos. | 8  | Allan e Lucas |
 
 ## 1.3. Quadro de Conhecimentos
-o seguinte quadro de conhecimento, demonstra um pequeno avanço com relação a Sprint 0. 
+O seguinte quadro de conhecimento, demonstra um pequeno avanço com relação a Sprint 0. 
 ![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/1_conhecimento.png) 
 
 ## 1.4. Quadro de pareamento
