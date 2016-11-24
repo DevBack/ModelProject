@@ -35,7 +35,7 @@ Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), 
 
 ##Sprint 1
 * Mais informações sobre a sprint, podem ser encontradas em [Sprint 1](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Sprint-1).
-* Como citado anteriormente, um problema identificado foi a baixa produtividade de MDS devido ao pareamento, portanto os pareamentos foi designados em sua maioria para duplas entre MDS, e deixando bem claro que todos podem parear com todos.
+* Como citado anteriormente, um problema identificado foi a baixa produtividade de MDS devido ao pareamento, portanto os pareamentos foram designados em sua maioria para duplas entre MDS, e deixando bem claro que todos podem parear com todos.
 * Na sprint 1 a cliente (Profa. Carla) priorizou a US mais complexa, o que acabou acarretando na sua não conclusão.
 * Para dividir melhor a US#5 priorizada pela cliente, foram criadas tarefas para a mesma.
 * A US#5 foi repontuada de 13 pontos para 20, na reunião de planejamento da sprint.
