@@ -3,12 +3,34 @@
 Durante a execução do projeto para a Release 2, foram utilizadas três metodologias adaptadas de modo a atender as necessidades do time e cumprir com o que foi proposto pelas disciplinas MDS e GPP. São estas: Scrum, XP e o Kanban, detalhadas a seguir.
 
 # 2. Scrum
- O que é o scrum? Definição de funcionalidade pronta(entrega de pontos apenas testados)
+
+O Scrum é um framework usado desde 1990 para resolver problemas complexos. É importante ter em mente que o Scrum não é um processo ou técnica e sim um framework que permite a inclusão de processos e técnicas.
+
+Este framework consiste em papéis, artefatos e e eventos e tem três bases: transparência, inspeção e adaptação. Os valores do Scrum são comprometimento, coragem, foco, tranparência e respeito. Os que compõem o Time Scrum devem estar comprometidos com esses valores, além de serem auto-organizáveis - ou seja, não precisam de um gerente para dizer o que deve ser feito - e multifuncionais - isto é, possuem qualificação sufuciente para não precisarem de outras equipes para entregar o produto.
+
 ## 2.1. Papéis
 
+Os papéis do Scrum são divididos em Scrum Master, Product Owner(PO) e Time de Desenvolvimento. O Scrum Master e o PO no Scrum original não fazem parte do Time de Desenvolvimento, porém, para este projeto, uma das adaptações feita foi a de que eles participariam diretamente do desenvolvimento do software para que tivessem um conhecimento maior acerca do código. 
+
+Outra adaptação é que a cada semana as responsabilidades do Scrum Master e do Product Owner eram assumidas por membros diferentes do time, assim o conhecimento acerca desses papéis foram disseminados entre o grupo.
+
 ### 2.1.1. Scrum Master
+
+O Scrum Master é responsável por entender os pricípios do Scrum e garantir que todos o usem corretamente. Também é sua responsabilidade facilitar o desenvolvimento do produto, removendo os impedimentos que houver, e também atuando como mediador, quando necessário.  
+
+A medida que o projeto foi evoluindo o Scrum Master foi perdendo seu valor. Isso dentro da metodologia é algo bom, pois significa que o time foi ficando cada vez mais independente, ao ponto de não precisar de alguém que coordenasse as reuniões, já que todos já sabiam o que precisava ser dito e fazer.
+
 ### 2.1.2. Product Owner
+
+O Product Owner é responsável por enteder o que o cliente precisa e priorizar as funcionalidades que devem ser desenvolvidas. Ele é a ponte entre o time de desenvolvimento e o cliente, por isso devem ser feitas reuniões de tempos em tempos.  
+
+No desenvolvimento do SAS essas reuniões ocorriam toda semana às sextas-feiras em que era apresentado à cliente quais a funcionalidades haviam sido implementadas ou estavam sendo terminadas e o cliente, por sua vez, priorizava as funcionalidades mais importantes para ele.
+
 ### 2.1.3. Time de Desenvolvimento
+
+O Time de Desenvolvimento é responsável por entregar incrementos funcionais do produto até uma data limite. Ele tem autonomia suficiente para decidir como será feito seu trabalho, sendo que nem o Scrum Master tem autoridade para mudar essa decisão. O ideal, de acordo com o Scrum, é que o time tenha de três a nove integrantes, pois menos que isso a produtividade é pouca e mais do que isso pode haver desorganização.  
+
+O Time de Desenvolvimento foi composto por dez integrantes, que foram evoluindo ao decorrer do projeto como mostra o relatório das Sprints. A decisão de ser um time de dez pessoas foi uma exigência da disciplina, mas mesmo ultrapassando o limite recomendado a auto-organização não prejudicada.
 
 ## 2.2. Eventos
 
