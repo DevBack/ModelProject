@@ -65,7 +65,7 @@ O velocity desta sprint foi de **24 pontos**. Como esta é a primeira sprint, es
 
 **OBS.** As descrições e fórmulas das siglas apresentadas na tabela acima estão devidamente explicitadas [aqui](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Agile-EVM).
 
-Foram planejado 40 pontos para essa Sprint, e entregues 24. O RPC (Pontos Completos Na Release) ficou então em 24, já que essa é a primeira sprint, e o APC (Porcentagem Completa Real) ficou em 16,22% acima do PPC (Porcentagem Planejada Completa) de 12,50%, o que indica um bom andamento do projeto. Não foi adicionado nenhum ponto novo ao projeto, PA (Pontos Adicionados) = 0.
+Foram planejados 40 pontos para essa Sprint, e entregues 24. O RPC (Pontos Completos Na Release) ficou então em 24, já que essa é a primeira sprint, e o APC (Porcentagem Completa Real) ficou em 16,22% acima do PPC (Porcentagem Planejada Completa) de 12,50%, o que indica um bom andamento do projeto. Não foi adicionado nenhum ponto novo ao projeto, PA (Pontos Adicionados) = 0.
 
 ## 2.4. Qualidade
 ### 2.4.1 Integração Contínua
