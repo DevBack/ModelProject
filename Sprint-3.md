@@ -16,7 +16,7 @@ Não conseguimos entrar em contato com a Carla, por isso as estórias foram prio
 
 | TS (Technical Story) | História | Pontuação |Nova Pontuação| Responsável |
 |----------------------|----------|-----------|-------------|-------------|
-| #7 | Como um desenvolvedor, eu quero testar a consulta de usuário para garantir a funcionalidade do método. | --- |2|Hugo e Fabíola|
+| #7 | Como um desenvolvedor, eu quero testar a consulta de usuário para garantir a funcionalidade do método. |2|---|Hugo e Fabíola|
 | #14 | Como um desenvolvedor, eu quero internacionalizar o SAS para inglês. | --- |1|Elaine|
 | #15 |Como um desenvolvedor, eu quero refatorar as views, para melhorar a qualidade do código. |---| 13|Gustavo e Allan|
 | #16 |Como desenvolvedor, eu quero refatorar a criação de reservas, para ficar mais intuitivo. |---|8|Gustavo e Jessica|
