@@ -150,11 +150,14 @@ Nosso sistema foi criado em base de duas aplicações principais: user (usuário
 
 ### Model
 
-![Imagem - Visão Geral](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/Diagrama_de_classe_model.png)
+![Imagem - Model](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/Diagrama_de_classe_model.png)
 
 ### View
 
-![Imagem - Visão Geral](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/Diagrama_de_classe_view.png)
+![Imagem - View](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/Diagrama_de_classe_view.png)
+
+### Forms
+![Imagem - Forms](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/Diagrama_de_classe_form.png)
 
 # 7. Qualidade
 
