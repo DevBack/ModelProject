@@ -75,3 +75,31 @@ Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), 
 |Total Pontos|**51**|51|0|
 
 * O velocity da equipe foi de **25,5** pontos.
+
+## Sprint 3
+* A estórias foram priorizadas pela equipe, já que nao foi possível contactar a cliente.
+* As US#1 e US#6 foram repontuadas de 13 para 8 pontos cada.
+* Foram criadas 3 TS (TS#14, TS#15, TS#16).
+* As US foram realizadas com TDD.
+
+Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), bem como seus pontos, se foi concluída ou não. Ao final dela é possível ver o total de pontos planejados, total de pontos concluídos e pendentes.
+
+|Estória Planejadas|Pontos da Estória|Estória Concluída|Estória Pendente|
+|------------------|-----------------|-----------------|----------------|
+|US#1 task1|4|X||
+|US#1 task2|4|X||
+|US#6 task1|4|X||
+|US#6 task2|4|X||
+|TS#7|2|X||
+|TS#14|1|X||
+|TS#15 task1|4|X||
+|TS#15 task2|3|X||
+|TS#15 task3|3||X|
+|TS#15 task4|3|X||
+|TS#16 task1|1|X||
+|TS#16 task2|1|X||
+|TS#16 task3|2|X||
+|TS#16 task4|4||X|
+|Total Pontos|**40**|33|7|
+
+* O velocity da equipe foi de **42** pontos.
