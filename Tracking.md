@@ -81,6 +81,7 @@ Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), 
 * As US#1 e US#6 foram repontuadas de 13 para 8 pontos cada.
 * Foram criadas 3 TS (TS#14, TS#15, TS#16).
 * As US foram realizadas com TDD.
+* Foram criadas TS para melhorar a qualidade.
 
 Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), bem como seus pontos, se foi concluída ou não. Ao final dela é possível ver o total de pontos planejados, total de pontos concluídos e pendentes.
 
