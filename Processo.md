@@ -42,14 +42,14 @@ Durante a execução do projeto para a Release 2, foram utilizadas três metodol
 ![Quadro de Pareamento da sprint 6](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/6_pareamento.png)
 
 ## 3.3. TDD
-* Apenas a **Sprint 3** foi realizada inteiramente em TDD. Basicamente era necessário escrever os testes automatizados, teste unitário e teste aceitação, de uma melhoria ou nova funcionalidade. Em seguida, o código da funcionalidade seria desenvolvido, em *baby-steps*, para validar a funcionalidade criada.
+* Apenas a [Sprint 3](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Sprint-3) foi realizada inteiramente em TDD. Basicamente era necessário escrever os testes automatizados, teste unitário e teste aceitação, de uma melhoria ou nova funcionalidade. Em seguida, o código da funcionalidade seria desenvolvido, em *baby-steps*, para validar a funcionalidade criada.
 
 * Essa sprint resultou em uma significativa melhora do time em testes de aceitação e testes unitários.
 
 **Quadro de Conhecimento após a Sprint 2:**
 ![Quadro de Conhecimentos sprint 2](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_conhecimento.png)
 
-**Quadro de Conhecimento após a Sprint 3:**]
+**Quadro de Conhecimento após a Sprint 3:**
 ![Quadro de Conhecimento sprint 3](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_conhecimento.png)
 
 ## 3.4. Integração Contínua
@@ -58,6 +58,11 @@ Durante a execução do projeto para a Release 2, foram utilizadas três metodol
 * As para o finalizamento da issue é necessário que os teste de aceitação estivessem funcionando corretamente.
 
 ## 3.6. Refatoração
+
+Para refatoração foram utilizadas as métricas geradas pelo cloud climate em relação a: folha de estilo (pep8), duplicação e complexidade de código. Arquivos com nota F tiveram criadas estórias técnicas de refatoração no repositório, para que suas qualidades aumentassem. Outros arquivos também foram melhorados a medida que se produzia código e o time percebia uma possível melhora, não sendo necessário estar trabalhando numa estória relacionada ao método refatorado. Os exemplos a seguir mostram issues que auxiliam na orientação da refatoração. 
+
+![Gráfico das Métricas](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/qualidade_r2.jpg)
+
 # 4. Kanban
 
 Para organização do fluxo de trabalho do time, montou-se um quadro kanban:
