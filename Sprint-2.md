@@ -79,7 +79,9 @@ Nessa sprint foram priorizadas uma US, duas TS e o resto foi dívida técnica da
 ![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_burndown.png)
 
 ## 2.2 Velocity
-O velocity da equipe foi de 25,5.
+O velocity desta sprint foi de **25,5 pontos**. Todos os pontos planejados e débitos foram entregues nessa sprint. A tabela utilizada par ao cálculo do velocity e o gráfico podem ser vistos abaixo.
+
+![VelocityTab](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_velocityTab.png)
 ![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_velocity.png)
 
 ## 2.3 Agile EVM
