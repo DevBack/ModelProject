@@ -20,7 +20,7 @@ Projeto Concluído.
 
 ## 4. Propósitos Alcançados
 
-* Facilitar o processo de reivindicação de espaços internos da Universidade;
+* Facilitar o processo de solicitação de espaços internos da Universidade;
 * Reduzir a carga de trabalho manual atualmente realizada neste processo;
 * Otimizar o uso da infraestrutura interna da Universidade;
 
@@ -31,7 +31,7 @@ Projeto Concluído.
 
 ## 6. Pendencias
 
-O pressente projeto deixa pendente a geração de relatórios de utilização dos espaços [(US #9)](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/26), além de uma possível melhoria na criação de reserva [(TS #20)](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/98).
+O presente projeto deixa pendente a geração de relatórios de utilização dos espaços [(US #9)](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/26), além de uma possível melhoria na criação de reserva [(TS #20)](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/98).
 
 ## 7. Considerações Finais
 
