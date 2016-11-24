@@ -49,7 +49,7 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#96](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/96)|#18| Como desenvolvedor, eu quero melhorar as colunas das datatables, incluindo dia da semana e horário, para entender melhor as reservas.|---|---|5|
 |[#97](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/97)|#19|Como desenvolvedor, eu quero mostrar a tabela das consultas mesmo sem existir nenhuma reserva nos filtros selecionados, para possibilitar a inclusão de uma reserva.|---|---|2|
 |[#98](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/98)|#20|_Como desenvolvedor, quero facilitar a criação de reserva possibilitando selecionar sala sem ser obrigatório a seleção de prédio._|---|---|5|
-| | | **TOTAL** | **52** | **5**|**36**|
+| | | **TOTAL** | **52** | **9**|**36**|
 
 
 ## 4. Critérios de Aceitação
