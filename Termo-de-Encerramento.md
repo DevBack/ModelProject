@@ -13,7 +13,7 @@ Projeto Concluído.
 
 ## 3. Propósitos do Projeto
 
-* Facilitar o processo de reivindicação de espaços internos da Universidade;
+* Facilitar o processo de solicitação de espaços internos da Universidade;
 * Reduzir a carga de trabalho manual atualmente realizada neste processo;
 * Possibilitar a geração de relatórios de utilização dos espaços;
 * Otimizar o uso da infraestrutura interna da Universidade;
