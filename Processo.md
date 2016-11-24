@@ -54,6 +54,9 @@ Durante a execução do projeto para a Release 2, foram utilizadas três metodol
 
 ## 3.4. Integração Contínua
 ## 3.5. Teste de Aceitação
+* Para cada *User Story* deveriam ser feitos testes aceitação para a validação do sistema e para o cliente entender como será o funcionamento da *US*
+* As para o finalizamento da issue é necessário que os teste de aceitação estivessem funcionando corretamente.
+
 ## 3.6. Refatoração
 # 4. Kanban
 
