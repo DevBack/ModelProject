@@ -5,6 +5,7 @@
 
 #Release 2
 
+* [SAS Vídeo promocional ](https://drive.google.com/open?id=0B75Stc_iVKQLTDJFS215X2hDWjQ)
 * [Planejamento da Release](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Planejamento-da-Release-2)
   * [Backlog do Produto](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Product-Backlog)
 * [[Acompanhamento do Projeto]]
