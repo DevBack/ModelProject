@@ -38,4 +38,25 @@ Durante a execução do projeto para a Release 2, foram utilizadas três metodol
 ## 3.5. Teste de Aceitação
 # 4. Kanban
 
+Para organização do fluxo de trabalho do time, montou-se um quadro kanban:
+
 ![Kanban](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/kanban.png)
+
+Cada coluna representa, respectivamente:
+
+* Backlog: Contendo todas as issues ainda não entregues do produto.
+
+* TODO (Sprint Backlog): Contendo todas as issues ainda não entregues da sprint.
+
+* DOING: Contendo todas as issues que são trabalhadas no momento.
+
+* Test: Contendo todas as issues que estão em fase de teste.
+
+* Done: Contendo todas as issues já entregues.
+
+Em cada  issue é possível consultar os responsáveis por esta, sendo que o responsável não precisa realizá-la sozinho, podendo recorrer a qualquer membro do time para auxiliá-lo. Caso haja mais de um responsável, o pareamento deve ser priorizado entre os responsáveis, porém não é obrigatório, podendo da mesma forma realizá-la com outros membros.
+
+Na issue também é possível consultar suas respectivas tags, que podem ser alteradas por qualquer membro do time, caso seja necessário. Abaixo estão representadas as tags utilizadas.
+
+![Tags](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/issues_labels.png)
+
