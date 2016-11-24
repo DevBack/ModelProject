@@ -32,6 +32,7 @@
 * Independência da equipe de MDS;
 * Conhecimento sobre planejamento, monitoramento e controle em ágil;
 * Aprender a trabalhar em grupo aumenta a produtividade como todo;
+* Com o PO a visualização do produto junto ao cliente ficou mais fácil;
 
 ## Pontos Negativos
 * Histórias dependentes umas das outras designadas na mesma sprint atrapalharam o desenvolvimento do time, impedindo a entrega de pontos
