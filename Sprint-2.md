@@ -20,8 +20,8 @@ Em virtude do tempo de duração de sprint, definido em uma semana, estar se mos
 
 | TS (Technical Story) | História | Pontuação | Nova Pontuação | Responsável |
 |----------------------|----------|-----------|-----------|-----------|
-| #11 | Como um desenvolvedor, eu quero testar a criação de reserva para garantir a funcionalidade do método. | 5  | ---  | Allan e Lucas |
-| #13 | Como um desenvolvedor, eu quero testar a consulta de reserva para garantir a funcionalidade do método. | 5  | ---  | Allan e Gustavo |
+| #11 | Como um desenvolvedor, eu quero testar a criação de reserva para garantir a funcionalidade do método. | 5  | 1 | Allan e Lucas |
+| #13 | Como um desenvolvedor, eu quero testar a consulta de reserva para garantir a funcionalidade do método. | 5  | 1  | Allan e Gustavo |
 
 ###Débitos técnicos
 | US (User Story) | História | Pontuação | Responsável |
