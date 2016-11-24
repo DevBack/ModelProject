@@ -3,17 +3,7 @@
 O velocity é uma medida que evidência a velocidade do time para um projeto Scrum. Esse número é calculado e atualizado após a entrega de cada sprint e baseia-se na média dos pontos entregues das sprints concluídas. O time usa essa informação para saber até quantos pontos de história eles conseguem produzir por sprint.
 
 ##2. Velocity
-Atualmente, o velocity do time é de 26,5 pontos, visto que esta é a média da pontuação concluída até o presente momento.
+O velocity ao término da última sprint é de 28,6. Se desconsiderarmos a sprint 1 que foi fora da média entre as sprint. Somando os outros velocities e dividindo por 6 temos -> 162,2/6 = 27. Portanto pode ser considerar como 27 o velocity da equipe!
 
-| Número da Sprint | Pontos Planejados | Pontos Concluídos |Velocity|                  
-|------------------|-------------------|-------------------|--------|
-|Sprint 0          |40                 |24                 |24,0    |
-|Sprint 1          |36                 |0                  |12,0    |
-|Sprint 2          |5                  |49                 |24,5    |
-|Sprint 3          |38                 |31                 |40,0    |
-|Sprint 4          |31                 |41                 |35,0    |
-|Sprint 5          |34                 |22                 |30,5    |
-|Sprint 6          |20                 |31                 |26,5    |
-
-
+![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/6_velocityTab.png)    
 ![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/6_velocity.png)    
