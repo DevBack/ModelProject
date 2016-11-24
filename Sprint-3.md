@@ -24,32 +24,32 @@ Não conseguimos entrar em contato com a Carla, por isso as estórias foram prio
 As histórias US#1, US#6, TS#15 e TS#16 foram divididas em tarefas e cada uma delas foi devidamente pontuada.
 
 #### Tarefas da História #1
-| Tarefa | Pontuação | Responsável |
-|--------|-----------|-------------|
-| Criar estrutura de administrador no sistema | 4 | Hugo e Fabíola |
-| Criar backend de consulta | 4 | Hugo e Fabíola |
+|N| Tarefa | Pontuação | Responsável |
+|---|--------|-----------|-------------|
+|1| Criar estrutura de administrador no sistema | 4 | Hugo e Fabíola |
+|2| Criar backend de consulta | 4 | Hugo e Fabíola |
 
 #### Tarefas da História #6
-| Tarefa | Pontuação | Responsável |
-|--------|-----------|-------------|
-| Criar backend para transformar um usuário em admin | 4 | Vitor, Luis e Lucas |
-| Integrar com frontend| 4 | Vitor, Luis e Lucas |
+|N| Tarefa | Pontuação | Responsável |
+|---|--------|-----------|-------------|
+|1| Criar backend para transformar um usuário em admin | 4 | Vitor, Luis e Lucas |
+|2| Integrar com frontend| 4 | Vitor, Luis e Lucas |
 
 #### Tarefas da História Técnica #15
-| Tarefa | Pontuação | Responsável |
-|--------|-----------|-------------|
-|Diminuir complexidade da user view| 4 | Gustavo e Allan |
-|Diminuir complexidade da booking view| 3 | Gustavo e Allan |
-|Diminuir duplicidade de código na user view| 3| Gustavo e Allan|
-|Diminuir duplicidade de código booking view| 3| Gustavo e Allan|
+|N| Tarefa | Pontuação | Responsável |
+|---|--------|-----------|-------------|
+|1|Diminuir complexidade da user view| 4 | Gustavo e Allan |
+|2|Diminuir complexidade da booking view| 3 | Gustavo e Allan |
+|3|Diminuir duplicidade de código na user view| 3| Gustavo e Allan|
+|4|Diminuir duplicidade de código booking view| 3| Gustavo e Allan|
 
 #### Tarefas da História Técnica #16
-| Tarefa | Pontuação | Responsável |
-|--------|-----------|-------------|
-|Replanejar fluxo de atividades| 1 | Jessica |
-|Remodelar campos| 1 | Gustavo e Jessica |
-|Adicionar framework res| 2| Gustavo|
-|Adaptar JavaScript| 4| Gustavo e Elaine|
+|N| Tarefa | Pontuação | Responsável |
+|---|--------|-----------|-------------|
+|1|Replanejar fluxo de atividades| 1 | Jessica |
+|2|Remodelar campos| 1 | Gustavo e Jessica |
+|3|Adicionar framework res| 2| Gustavo|
+|4|Adaptar JavaScript| 4| Gustavo e Elaine|
 
 ## 1.3. Quadro de Conhecimentos
 ![Quadro de Conhecimento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_conhecimento.png)
