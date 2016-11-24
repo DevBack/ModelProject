@@ -54,8 +54,13 @@ As histórias US#1, US#6, TS#15 e TS#16 foram divididas em tarefas e cada uma de
 ## 1.3. Quadro de Conhecimentos
 ![Quadro de Conhecimento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_conhecimento.png)
 
+Os conhecimentos da equipe continuam a evoluir, isso graças a integração do time e ao processo de desenvolvimento. A grande lacuna de conhecimento encontra-se em CSS o que não é critico para o desenvolvimento do produto, tendo em vista o pouco volume de trabalho necessário com essa tecnologia.
+
 ## 1.4. Quadro de Pareamento
+Segue o quadro de monitoramento dos pareamentos.
 ![Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_pareamento.png)
+
+Os pareamentos estão sendo feitos entre toda a equipe, mesmo sendo escolhidos de forma livre, o que demonstra uma boa integração do time.
 
 ## 1.5. Retrospectiva
 |Pontos Positivos|
@@ -83,6 +88,10 @@ O velocity desta sprint foi de **27 pontos**. Alguns pontos ficaram pendentes, m
 ## 2.3 Agile EVM
 ![EVM](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_evm.png) 
 
+**OBS.** As descrições e fórmulas das siglas apresentadas na tabela acima estão devidamente explicitadas [aqui](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Agile-EVM). Neste mesmo link pode ser encontrada a tabela de EVM completa do projeto.
+
+Foram priorizados 40 pontos para essa Sprint, formam entregues 33. O RPC (Pontos Completos Na Release) ficou em 108, o APC (Porcentagem Completa Real) subiu para 51,02% acima do PPC (Porcentagem Planejada Completa) de 83,08, . Tendo em vista que na Sprint1 o projeto estava atrasado esses dados demonstram uma boa reação da equipe. Não foi adicionado nenhum ponto novo ao projeto, PA (Pontos Adicionados) = 0.
+O Backlog do Produto foi replanejado em -8 pontos, PR (Pontos Replanejados) = -8, o que mudou a percepção sobre o volume de produto que foi acordado inicialmente, agora o PRP (Pontos Planejados Da Release) = 147.
 ## 2.4. Qualidade
 
 ### 2.4.1 Integração Contínua
