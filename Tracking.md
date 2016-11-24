@@ -106,3 +106,31 @@ Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), 
 |Total Pontos|**40**|33|7|
 
 * O velocity da equipe foi de **42** pontos.
+
+##Sprint 4
+* Mais informações sobre a sprint, podem ser encontradas em [Sprint 4](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Sprint-4).
+* Não possível encontrar a Carla, portanto a equipe priorizou as estórias.
+* Como dito anteriormente, todo o tracking está sendo feito a partir de tasks, então as tasks pendentes da sprint passada foram priorizadas nessa.
+
+Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), bem como seus pontos, se foi concluída ou não. Ao final dela é possível ver o total de pontos planejados, total de pontos concluídos e pendentes. Os débitos técnicos também estão presentes na tabela, e para diferenciar estão em itálico.
+
+|Estória Planejadas|Pontos da Estória|Estória Concluída|Estória Pendente|
+|------------------|-----------------|-----------------|----------------|
+|US#7 task1|6|X||
+|US#7 task2|2|X||
+|US#10 task1|2|X||
+|US#10 task2|1|X||
+|US#10 task3|1|X||
+|US#10 task4|3|X||
+|US#10 task5|1|X||
+|US#11 task1|3|X||
+|US#11 task2|3|X||
+|US#11 task3|2|X||
+|US#11 task4|5|X||
+|TS#17|2|X||
+|_TS#10_|_5_|X||
+|_TS#15 task3_|_3_|X||
+|_TS#16 task4_|_4_||X|
+|Total Pontos|**43**|39|4|
+
+* O velocity da equipe foi de **36** pontos.
