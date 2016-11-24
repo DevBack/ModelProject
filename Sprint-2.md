@@ -55,9 +55,12 @@ As histórias #5 e #12 foram divididas em tarefas e cada uma delas foi devidamen
 | Remodelar campos (dropdowns, data e hora). | 3 | Luis e Fabíola |
 
 ## 1.3. Quadro de Conhecimentos
-![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_conhecimento.png) 
+![Quadro de Conhecimentos](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_conhecimento.png)
+
+Observou-se nessa sprint considerável melhora no grau de conhecimento da equipe, principalmente em relação a testes unitários. Isso graças ao amadurecimento da equipe e o uso dos pareamentos.
 
 ## 1.4. Quadro de pareamento
+Os pareamentos ocorreram nessa sprint de forma livre, e foram monitorados no seguinte quadro.
 ![Quadro de Pareamento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_pareamento.png) 
 
 ## 1.5. Retrospectiva
@@ -86,6 +89,11 @@ O velocity desta sprint foi de **25 pontos**. Todos os pontos planejados e débi
 
 ## 2.3 Agile EVM
 ![EVM](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/2_evm.png) 
+
+**OBS.** As descrições e fórmulas das siglas apresentadas na tabela acima estão devidamente explicitadas [aqui](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Agile-EVM). Neste mesmo link pode ser encontrada a tabela de EVM completa do projeto.
+
+Foram planejado mais 7 pontos para essa Sprint, além da divida técnica pendente, e formam entregues 51. O RPC (Pontos Completos Na Release) ficou então 75, o APC (Porcentagem Completa Real) subiu para 51,02% acima do PPC (Porcentagem Planejada Completa) de 42,86%, indicando um bom andamento do projeto. Tendo em vista que na Sprint1 o projeto estava atrasado esses dados demonstram uma boa reação da equipe. Não foi adicionado nenhum ponto novo ao projeto, PA (Pontos Adicionados) = 0.
+O Backlog do Produto foi replanejado em -8 pontos, PR (Pontos Replanejados) = -8, o que mudou a percepção sobre o volume de produto que foi acordado inicialmente, agora o PRP (Pontos Planejados Da Release) = 147.
 
 ## 2.4. Qualidade
 
