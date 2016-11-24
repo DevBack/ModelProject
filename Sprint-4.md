@@ -94,6 +94,9 @@ As estórias técnicas TS#15 e TS#16 foram concluídas parcialmente, e como foi 
 ![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_burndown.png)
 
 ## 2.2 Velocity
+O velocity desta sprint foi de **29,4 pontos**. O velocity aumentou pois alguns débitos foram terminados nessa sprint. A tabela utilizada par ao cálculo do velocity e o gráfico podem ser vistos abaixo.
+
+![VelocityTab](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_velocityTab.png)
 ![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/4_velocity.png)
 
 ## 2.3 Agile EVM
