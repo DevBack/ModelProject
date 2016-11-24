@@ -2,6 +2,7 @@
 * [Home](https://github.com/fga-gpp-mds/2016.2-Time05-SalasFGA/wiki/)
 * [Post-mortem](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Post-mortem)
 * [Atas](https://github.com/fga-gpp-mds/2016.2-Time05/wiki/Atas)
+* [Termo de Encerramento](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Termo-de-Encerramento)
 
 #Release 2
 
