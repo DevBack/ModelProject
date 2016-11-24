@@ -182,3 +182,7 @@ O velocity da equipe pode ser visto na figura abaixo, vale ressaltar que os pont
 ![Velocity total](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/6_velocityTab.png)
 
 ###Burndown da Release 2
+
+A imagem abaixo ilustra o burndown da Release 2. A linha em azul, descreve como seria a queima de pontos, caso estes fossem divididos de forma uniforme durante toda a Release. Foram calculados a divisão de 148 em 49 dias, o que implicaria a queima diária de aproximadamente 3 pontos. Porém, a produtividade do time não foi contínua e além disso houveram que foram repontuadas, para mais ou para menos, e novas estórias criadas, com o decorrer das sprints. Dessa forma, observa-se na curva em vermelho a produção real do time. Ressalta-se também que ao final da Release 2 houve o débito de 25 pontos, das estórias: TS #20 e US #9
+
+![Velocity total](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/release_burndown.png)
