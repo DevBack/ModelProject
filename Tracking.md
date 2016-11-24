@@ -175,3 +175,8 @@ Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), 
 |Total Pontos|**36**|31|5|
 
 * O velocity da equipe foi de **26,5** pontos.
+
+###Velocity
+O velocity da equipe pode ser visto na figura abaixo, vale ressaltar que os pontos planejados das tabelas acima somam também os débitos, já na figura de velocity abaixo os débitos não foram somados tendo em vista que esses pontos já foram planejados em outra sprint.
+
+![Velocity total](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/velocity_total.png)
