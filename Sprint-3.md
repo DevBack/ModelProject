@@ -21,7 +21,7 @@ Não conseguimos entrar em contato com a Carla, por isso as estórias foram prio
 | #15 |Como um desenvolvedor, eu quero refatorar as views, para melhorar a qualidade do código. |---| 13|Gustavo e Allan|
 | #16 |Como desenvolvedor, eu quero refatorar a criação de reservas, para ficar mais intuitivo. |---|8|Gustavo e Jessica|
 
-As histórias US#1, US#6 e TS#15 foram divididas em tarefas e cada uma delas foi devidamente pontuada.
+As histórias US#1, US#6, TS#15 e TS#16 foram divididas em tarefas e cada uma delas foi devidamente pontuada.
 
 #### Tarefas da História #1
 | Tarefa | Pontuação | Responsável |
@@ -42,6 +42,14 @@ As histórias US#1, US#6 e TS#15 foram divididas em tarefas e cada uma delas foi
 |Diminuir complexidade da booking view| 3 | Gustavo e Allan |
 |Diminuir duplicidade de código na user view| 3| Gustavo e Allan|
 |Diminuir duplicidade de código booking view| 3| Gustavo e Allan|
+
+#### Tarefas da História Técnica #16
+| Tarefa | Pontuação | Responsável |
+|--------|-----------|-------------|
+|Replanejar fluxo de atividades| 1 | Jessica |
+|Remodelar campos| 1 | Gustavo e Jessica |
+|Adicionar framework res| 2| Gustavo|
+|Adaptar JavaScript| 4| Gustavo e Elaine|
 
 ## 1.3. Quadro de Conhecimentos
 ![Quadro de Conhecimento](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_conhecimento.png)
