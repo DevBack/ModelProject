@@ -33,6 +33,14 @@ Durante a execução do projeto para a Release 2, foram utilizadas três metodol
 # 3. XP
 ## 3.1. Automatização
 ## 3.2. Programação em pares
+* Durante essa fase do projeto foi definido que todas as issues seriam feitas por pareamento. Priorizando sempre formar pares de pessoas com mais conhecimento com pessoas com menos conhecimento na linguagens e/ou ferramentas que seriam utilizadas para realizar a issue, para dessa forma poder disseminar a maior quantidade possível de conhecimento dentro da equipe.
+
+**Quadro de Pareamento após a Sprint 0:**
+![Quadro de Pareamento da sprint 0](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/0_pareamento.png)
+
+**Quadro de Pareamento após a Sprint 6:**
+![Quadro de Pareamento da sprint 6](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/6_pareamento.png)
+
 ## 3.3. TDD
 ## 3.4. Integração Contínua
 ## 3.5. Teste de Aceitação
