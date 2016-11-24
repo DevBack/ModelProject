@@ -75,7 +75,7 @@ Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), 
 |_TS#12_|_8_|X||
 |Total Pontos|**51**|51|0|
 
-* O velocity da equipe foi de **25,5** pontos.
+* O velocity da equipe foi de **25** pontos.
 
 ## Sprint 3
 * Mais informações sobre a sprint, podem ser encontradas em [Sprint 3](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Sprint-3).
@@ -105,7 +105,7 @@ Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), 
 |TS#16 task4|4||X|
 |Total Pontos|**40**|33|7|
 
-* O velocity da equipe foi de **42** pontos.
+* O velocity da equipe foi de **27** pontos.
 
 ##Sprint 4
 * Mais informações sobre a sprint, podem ser encontradas em [Sprint 4](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Sprint-4).
@@ -133,7 +133,7 @@ Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), 
 |_TS#16 task4_|_4_||X|
 |Total Pontos|**43**|39|4|
 
-* O velocity da equipe foi de **36** pontos.
+* O velocity da equipe foi de **29,4** pontos.
 
 ##Sprint 5
 * Mais informações sobre a sprint, podem ser encontradas em [Sprint 5](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Sprint-5).
@@ -156,7 +156,7 @@ Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), 
 |_TS#16 task4_|_4_||X|
 |Total Pontos|**38**|22|16|
 
-* O velocity da equipe foi de **30,5** pontos.
+* O velocity da equipe foi de **28,2** pontos.
 
 ##Sprint 6
 * Mais informações sobre a sprint, podem ser encontradas em [Sprint 6](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Sprint-6).
@@ -174,7 +174,7 @@ Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), 
 |_TS#16 task4_|_4_|X||
 |Total Pontos|**36**|31|5|
 
-* O velocity da equipe foi de **26,5** pontos.
+* O velocity da equipe foi de **28,6** pontos.
 
 ###Velocity
 O velocity da equipe pode ser visto na figura abaixo, vale ressaltar que os pontos planejados das tabelas acima somam também os débitos, já na figura de velocity abaixo os débitos não foram somados tendo em vista que esses pontos já foram planejados em outra sprint.
