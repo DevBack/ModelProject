@@ -28,7 +28,7 @@ Durante a execução do projeto para a Release 2, foram utilizadas três metodol
 
 ### 2.3.2. Backlog da Sprint
 
-### 2.4. Métricas
+## 2.4. Métricas
 
 # 3. XP
 ## 3.1. Automatização
@@ -36,6 +36,7 @@ Durante a execução do projeto para a Release 2, foram utilizadas três metodol
 ## 3.3. TDD
 ## 3.4. Integração Contínua
 ## 3.5. Teste de Aceitação
+## 3.6. Refatoração
 # 4. Kanban
 
 Para organização do fluxo de trabalho do time, montou-se um quadro kanban:
