@@ -34,15 +34,24 @@ O Time de Desenvolvimento foi composto por dez integrantes, que foram evoluindo 
 
 ## 2.2. Eventos
 
-### 2.2.1. Reunião Diária
-(15minutos)
+Os eventos, no Scrum, são situações que permitem o time se organizar e transparecer o que está sendo feito. Cada evento é time-boxed, isto é, tem um tempo definido.
+
+Os eventos são a Sprint, a Reunião de Planejamento da Sprint, a Reunião Diária, a Revisão da Sprint e a Retrospectiva da Sprint. Todos os eventos foram usados no andamento do projeto.
+
+### 2.2.1. Sprint
+A Sprint é o evento mais importante do Scrum, é nela que o projeto é executado e todos os outros eventos acontecem nela. O time-boxed de uma Sprint é de no máximo um mês e a cada início de Sprint o PO prioriza as tarefas que devem ser executadas. Este é o único evento que tem um tempo um tempo fixo, não podendo ser prolongada ou reduzida, exceto quando há o cancelamento da Sprint (algo raro) que só pode ser feito pelo PO. A cada término da Sprint o time de desenvolvimento entrega uma parte funcional do produtp;
+
+No desenvolvimento do projeto não foi diferente. Cada sprint teve duração de uma semana e nenhuma precisou ser cancelada. Em algumas nem todas as tarefas foram entregues por diversos motivos. Essas tarefas que não foram entregues foram repontuadas e priorizadas para outras Sprints, não necessariamente a próxima.
 
 ### 2.2.2. Revisão da Sprint
 
 ### 2.2.3. Retrospectiva da Sprint
 
 ### 2.2.4. Reunião de Planejamento da Sprint 
-(2horas)
+
+Como o próprio nome diz esse é o evento em que a sprint é planejada, ou seja, as tarefas são pontuadas de acordo com a complexidade, o PO apresenta as que tem maior prioridade para aquela sprint e os desenvolvedores escolhem quais serão feitas.
+
+As reuniões de planejamento do grupo ocorreram aos sábados, pela manhã ou a tarde, e tinham um time-boxed de duas horas. No início esse tempo não foi cumprido à risca, pois o time ainda estava se adaptando à metodologia. Durante essa reunião o PO da sprint anterior apresentava as terefas prioritárias e o time debatia sobre quais iriam ser implementadas e como ia ocorrer essa implementação, definindo os responsáveis por cada tarefa e como ela deveria estar ao final.
 
 ## 2.3. Artefatos
 
