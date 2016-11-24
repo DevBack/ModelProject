@@ -75,7 +75,9 @@ O velocity desta sprint foi de **12 pontos**. Esta pontuação refere-se a médi
 
 **OBS.** As descrições e fórmulas das siglas apresentadas na tabela acima estão devidamente explicitadas [aqui](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Agile-EVM). Neste mesmo link pode ser encontrada a tabela de EVM completa do projeto.
 
-Foram planejado 36 pontos para essa Sprint, e entregues 0. O RPC (Pontos Completos Na Release) ficou então 24, o APC (Porcentagem Completa Real) ficou em 16,22% abaixo do PPC (Porcentagem Planejada Completa) de 25,00%, o que indica atraso no projeto e necessidade de gerenciar esse risco. Não foi adicionado nenhum ponto novo ao projeto, PA (Pontos Adicionados) = 0.
+Foram planejado 36 pontos para essa Sprint, e entregues 0. O RPC (Pontos Completos Na Release) ficou então 24, o APC (Porcentagem Completa Real) ficou em 16,22% abaixo do PPC (Porcentagem Planejada Completa) de 25,00%, o que indica atraso no projeto e necessidade de gerenciar esse risco. 
+
+Não foi adicionado nenhum ponto novo ao projeto, PA (Pontos Adicionados) = 0.
 
 ## 2.4. Qualidade
 ### 2.4.1 Integração Contínua
