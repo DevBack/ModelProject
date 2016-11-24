@@ -54,3 +54,24 @@ Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), 
 |Total Pontos|**36**|0|36|
 
 * O velocity da equipe foi de **12** pontos.
+
+## Sprint 2
+* Nessa sprint foi priorizada a US#3 solicitada pela cliente e as TS#11, TS#13, além dos débitos US#2, US#4, US#5, TS#12 da sprint passada.
+* As TS#11 e TS#13 foram repontuadas de 5 para 1, tendo em vista que foram feitas juntamente com outras estórias.
+* Nessa sprint o velocity, evm e burndown foram feitos contando tasks concluídas.
+* Nessa sprint foi definida a métrica de duplicação de código para agregar com a de complexidade ciclomática.
+
+Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), bem como seus pontos, se foi concluída ou não. Ao final dela é possível ver o total de pontos planejados, total de pontos concluídos e pendentes. Os débitos técnicos também estão presentes na tabela, e para diferenciar estão em itálico.
+
+|Estória Planejadas|Pontos da Estória|Estória Concluída|Estória Pendente|
+|------------------|-----------------|-----------------|----------------|
+|US#3|5|X||
+|TS#11|1|X||
+|TS#13|1|X||
+|_US#2_|8|X||
+|_US#4_|8|X||
+|_US#5_|_20_|X||
+|_TS#12_|_8_|X||
+|Total Pontos|**51**|51|0|
+
+* O velocity da equipe foi de **25,5** pontos.
