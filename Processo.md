@@ -59,7 +59,7 @@ Durante a execução do projeto para a Release 2, foram utilizadas três metodol
 
 ## 3.6. Refatoração
 
-Para refatoração foram utilizadas as métricas geradas pelo cloud climate em relação a: folha de estilo (pep8), duplicação e complexidade de código. Arquivos com nota F tiveram criadas estórias técnicas de refatoração no repositório, para que suas qualidades aumentassem. Outros arquivos também foram melhorados a medida que se produzia código e o time percebia uma possível melhora, não sendo necessário estar trabalhando numa estória relacionada ao método refatorado. O gráfico a seguir mostra a quantidade de issues do coudclimate em relação a cada métrica, sendo que estas issues apresentam a região do código que está fora do padrão. 
+Para refatoração foram utilizadas as métricas geradas pelo cloud climate em relação a: folha de estilo (pep8), duplicação e complexidade de código. Arquivos com nota F tiveram criadas estórias técnicas de refatoração no repositório, para que suas qualidades aumentassem. Outros arquivos também foram melhorados a medida que se produzia código e o time percebia uma possível melhora, não sendo necessário estar trabalhando numa estória relacionada ao método refatorado. Os exemplos a seguir mostram issues que auxiliam na orientação da refatoração. 
 
 ![Gráfico das Métricas](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/qualidade_r2.jpg)
 
