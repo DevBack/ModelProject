@@ -92,7 +92,10 @@ O velocity desta sprint foi de **25 pontos**. Todos os pontos planejados e débi
 
 **OBS.** As descrições e fórmulas das siglas apresentadas na tabela acima estão devidamente explicitadas [aqui](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Agile-EVM). Neste mesmo link pode ser encontrada a tabela de EVM completa do projeto.
 
-Foram planejado mais 7 pontos para essa Sprint, além da divida técnica pendente, e formam entregues 51. O RPC (Pontos Completos Na Release) ficou então 75, o APC (Porcentagem Completa Real) subiu para 51,02% acima do PPC (Porcentagem Planejada Completa) de 42,86%, indicando um bom andamento do projeto. Tendo em vista que na Sprint1 o projeto estava atrasado esses dados demonstram uma boa reação da equipe. Não foi adicionado nenhum ponto novo ao projeto, PA (Pontos Adicionados) = 0.
+Foram planejado mais 7 pontos para essa Sprint, além da divida técnica pendente, e foram entregues 51. O RPC (Pontos Completos Na Release) ficou então 75, o APC (Porcentagem Completa Real) subiu para 51,02% acima do PPC (Porcentagem Planejada Completa) de 42,86%, indicando um bom andamento do projeto. Tendo em vista que na Sprint1 o projeto estava atrasado esses dados demonstram uma boa reação da equipe.
+
+Não foi adicionado nenhum ponto novo ao projeto, PA (Pontos Adicionados) = 0.
+
 O Backlog do Produto foi replanejado em -8 pontos, PR (Pontos Replanejados) = -8, o que mudou a percepção sobre o volume de produto que foi acordado inicialmente, agora o PRP (Pontos Planejados Da Release) = 147.
 
 ## 2.4. Qualidade
