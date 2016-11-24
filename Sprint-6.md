@@ -56,6 +56,9 @@ Nessa sprint foi priorizada uma nova demanda solicitada pela cliente, e os débi
 ![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/6_burndown.png)
 
 ## 2.2 Velocity
+O velocity desta sprint foi de **28,6 pontos**. Esse velocity é a média de todas as sprints. A tabela utilizada par ao cálculo do velocity e o gráfico podem ser vistos abaixo.
+
+![VelocityTab](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/6_velocityTab.png)
 ![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/6_velocity.png)
 
 ## 2.3 Agile EVM
