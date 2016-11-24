@@ -56,6 +56,7 @@ Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), 
 * O velocity da equipe foi de **12** pontos.
 
 ## Sprint 2
+* Mais informações sobre a sprint, podem ser encontradas em [Sprint 2](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Sprint-2).
 * Nessa sprint foi priorizada a US#3 solicitada pela cliente e as TS#11, TS#13, além dos débitos US#2, US#4, US#5, TS#12 da sprint passada.
 * As TS#11 e TS#13 foram repontuadas de 5 para 1, tendo em vista que foram feitas juntamente com outras estórias.
 * Nessa sprint o velocity, evm e burndown foram feitos contando tasks concluídas.
@@ -77,6 +78,7 @@ Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), 
 * O velocity da equipe foi de **25,5** pontos.
 
 ## Sprint 3
+* Mais informações sobre a sprint, podem ser encontradas em [Sprint 3](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Sprint-3).
 * A estórias foram priorizadas pela equipe, já que nao foi possível contactar a cliente.
 * As US#1 e US#6 foram repontuadas de 13 para 8 pontos cada.
 * Foram criadas 3 TS (TS#14, TS#15, TS#16).
