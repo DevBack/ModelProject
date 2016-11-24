@@ -75,6 +75,9 @@ As histórias US#1, US#6, TS#15 e TS#16 foram divididas em tarefas e cada uma de
 ![Burndown](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_burndown.png)
 
 ## 2.2 Velocity
+O velocity desta sprint foi de **27 pontos**. Alguns pontos ficaram pendentes, mas esse velocity reflete a média dos pontos da sprint 0 até a 3. A tabela utilizada par ao cálculo do velocity e o gráfico podem ser vistos abaixo.
+
+![VelocityTab](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_velocityTab.png)
 ![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_velocity.png)
 
 ## 2.3 Agile EVM
