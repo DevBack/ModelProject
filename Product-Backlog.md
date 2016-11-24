@@ -13,7 +13,7 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 | [#23](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/23) | #6 | Como um administrador, quero gerenciar administradores do sistema de modo que consiga tornar um usuário do corpo acadêmico em administrador para conseguir dividir a função de administrador com outros usuários. | 13 | 8|---|
 |[#24](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/24)  | #7 | Como um administrador, quero aprovar reservas de laboratórios solicitadas pelo corpo acadêmico para ter um maior controle sobre quem utiliza os laboratórios. | 13 |8|---|
 |[#25](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/25) | #8 | Como um visitante, quero consultar as perguntas frequentes do sistema para sanar dúvidas sobre o sistema. | 3 |1|---|
-|[#26](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/26) | #9 | Como um administrador, quero visualizar relatórios de reserva para que possa identificar os espaços mais utilizados em determinados períodos. | 20 |---|---|
+|[#26](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/26) | #9 | _Como um administrador, quero visualizar relatórios de reserva para que possa identificar os espaços mais utilizados em determinados períodos._ | 20 |---|---|
 |[#83](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/83)|#10| Como usuário, eu quero reservar um espaço a partir da tabela de ocupação para utilizar a sala.|---|---|8|
 |[#84](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/84)|#11| Como administrador, eu quero designar um responsável pelas reservas que eu cadastrar para manter o controle da reserva. |---|---|13|
 |[#89](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/89)|#12| Como usuário, eu quero selecionar qual a Engenharia que curso durante o meu cadastro, para o administrador ter um controle de reservas por Engenharia.|---|---|3|
@@ -39,16 +39,16 @@ O presente documento apresenta todas as histórias técnicas e de usuário a ser
 |[#10](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/10) | #8 | Como um desenvolvedor, eu quero realizar as validações necessárias do login de usuário para garantir a consistência dos dados inseridos. | 2 |---|---|
 |[#11](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/11) | #9 | Como um desenvolvedor, eu quero testar o login e logout de usuário para garantir a funcionalidade do método. | 3 |---|---|
 |[#12](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/12) | #10 | Como um desenvolvedor, eu quero realizar as validações necessárias da criação de reserva para garantir a consistência dos dados inseridos. | 8 |5|---|
-|[#13](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/13) | #11 | _Como um desenvolvedor, eu quero testar a criação de reserva para garantir a funcionalidade do método._ | 5 | ---|---|
+|[#13](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/13) | #11 | Como um desenvolvedor, eu quero testar a criação de reserva para garantir a funcionalidade do método. | 5 | ---|---|
 |[#14](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/14) | #12 | Como um desenvolvedor, eu quero refatorar o cadastro de criação de reserva para consertar os bugs conhecidos. | 8 |---|---|
-|[#16](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/16) | #13 | _Como um desenvolvedor, eu quero testar a consulta de reserva para garantir a funcionalidade do método._ | 5 |---|---|
+|[#16](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/16) | #13 | Como um desenvolvedor, eu quero testar a consulta de reserva para garantir a funcionalidade do método. | 5 |---|---|
 |[#62] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/62) | #14 | Como um desenvolvedor, eu quero internacionalizar o SAS para inglês. | ---|---|1|
 |[#63] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/63) | #15 | Como um desenvolvedor, eu quero refatorar as views, para melhorar a qualidade do código. | ---|---|13|
 |[#74] (https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/74) | #16 | Como desenvolvedor, eu quero refatorar a criação de reservas, para ficar mais intuitivo.| ---|---|8|
 |[#85](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/85)|#17 | Como desenvolvedor, eu quero fazer deploy para colocar o SAS em produção. |---|---|2|
 |[#96](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/96)|#18| Como desenvolvedor, eu quero melhorar as colunas das datatables, incluindo dia da semana e horário, para entender melhor as reservas.|---|---|5|
 |[#97](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/97)|#19|Como desenvolvedor, eu quero mostrar a tabela das consultas mesmo sem existir nenhuma reserva nos filtros selecionados, para possibilitar a inclusão de uma reserva.|---|---|2|
-|[#98](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/98)|#20|Como desenvolvedor, quero facilitar a criação de reserva possibilitando selecionar sala sem ser obrigatório a seleção de prédio.|---|---|5|
+|[#98](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/issues/98)|#20|_Como desenvolvedor, quero facilitar a criação de reserva possibilitando selecionar sala sem ser obrigatório a seleção de prédio._|---|---|5|
 | | | **TOTAL** | **52** | **5**|**36**|
 
 
