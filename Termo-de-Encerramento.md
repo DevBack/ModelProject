@@ -2,7 +2,7 @@
 
 |Nome|SAS - Sistema para Alocação de Espaços para a Faculdade UnB Gama|
 |----|----|
-|**Equipe do Projeto**|[Menbros do Projeto](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki)|
+|**Equipe do Projeto**|[Membros do Projeto](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki)|
 
 ### 1.1. Descrição do Projeto
 O SAS é um Sistema de Alocação de Salas para a Faculdade do Gama (FGA) da Universidade de Brasília (UnB), desenvolvido para plataforma web que tem por finalidade automatizar a reserva de espaços pelos docentes, discentes e demais interessados.
