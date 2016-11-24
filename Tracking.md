@@ -134,3 +134,44 @@ Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), 
 |Total Pontos|**43**|39|4|
 
 * O velocity da equipe foi de **36** pontos.
+
+##Sprint 5
+* Mais informações sobre a sprint, podem ser encontradas em [Sprint 5](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Sprint-5).
+* O sistema foi apresentado para a cliente, onde a mesma criou várias estórias que estão priorizadas nessa sprint.
+
+Na tabela abaixo é possível identificar as estórias planejadas (TS e/ou US), bem como seus pontos, se foi concluída ou não. Ao final dela é possível ver o total de pontos planejados, total de pontos concluídos e pendentes. Os débitos técnicos também estão presentes na tabela, e para diferenciar estão em itálico.
+
+|Estória Planejadas|Pontos da Estória|Estória Concluída|Estória Pendente|
+|------------------|-----------------|-----------------|----------------|
+|US#8|1|X||
+|US#12|3|X||
+|US#13|2||X|
+|US#14|5||X|
+|US#15|3|X||
+|US#16|5|X||
+|US#17|3|X||
+|TS#18|5|X||
+|TS#19|2|X||
+|TS#20|5||X|
+|_TS#16 task4_|_4_||X|
+|Total Pontos|**38**|22|16|
+
+* O velocity da equipe foi de **30,5** pontos.
+
+##Sprint 6
+* Mais informações sobre a sprint, podem ser encontradas em [Sprint 6](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Sprint-6).
+* A cliente solicitou a inclusão de tags (#) durante a criação da reserva, para no futuro serem gerados relatórios de acordo com essas tags. Por isso essa nova US foi priorizada para a sprint.
+* A cliente achou mais importante priorizar essa nova US do que a de criar relatório, por isso a US de criar relatório não será feita até o momento.
+* Os débitos da sprint passada também foram priorizados.
+* Portanto a US#9 e a TS#20 foram as estórias pendentes para o projeto SAS.
+
+|Estória Planejadas|Pontos da Estória|Estória Concluída|Estória Pendente|
+|------------------|-----------------|-----------------|----------------|
+|US#18|20|X||
+|_US#13_|_2_|X||
+|_US#14_|_5_|X||
+|_TS#20_|_5_||X|
+|_TS#16 task4_|_4_|X||
+|Total Pontos|**36**|31|5|
+
+* O velocity da equipe foi de **26,5** pontos.
