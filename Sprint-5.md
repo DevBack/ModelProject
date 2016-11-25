@@ -76,7 +76,7 @@ O velocity desta sprint foi de **28,2 pontos**. A tabela utilizada par ao cálcu
 
 Foram planejados 34 pontos e entregues 22.
 
-O RPC (Pontos Completos Na Release) ficou em 169, o APC (Porcentagem Completa Real) em 130%.
+O RPC (Pontos Completos Na Release) ficou em 169, o APC (Porcentagem Completa Real) em 153,85%, cominando numa entrega final de mais de 50% acima do valor planejado, agregando assim mais valor ao produto.
 
 Foram adicionados 33 ponto novos ao projeto, PA (Pontos Adicionados) = 33, constituindo a maior parte dos pontos planejados para a sprint. E foram replanejados -2.
 
