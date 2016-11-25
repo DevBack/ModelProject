@@ -83,6 +83,12 @@ Uma tarefa estar pronta significa que ela atende a um conjunto de critérios def
 
 ## 2.5. Métricas
 
+As métricas são padrões usados para assegurar a qualidade do produto em desenvolvimento. As métricas utilizadas foram cobertura de teste, complexidade ciclomática e churn, a explicação para cada uma dessas métricas pode ser encontrada [aqui](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Gerenciamento-de-Qualidade) e a coleta pode ser observado no relatório de cada Sprint. As métricas foram coletadas a cada final de Sprint e quando necessário era feita refatoração do código para melhorá-las. Ao final da última Sprint foi montado o seguinte gráfico com a variação total de issues (problemas) de qualidade.
+
+![Graph_quality_issues] (https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/quality_issues.jpeg)
+
+O eixo horizontal do gráfico representa as Sprints e o vertical a quantidade de issues. Pode ser observado que nas primeiras quatro Sprints a quantidade de issue subiu e nas duas próximas diminuiu consideravelmente. Isso aconteceu por que nas primeiras Sprints o foco era entregar os Incrementos e nas últimas além do Incremento também foi priorizado a refatoração do código para melhorá-lo. A duplicidade de código (em azul no gráfico) se dá pelo semelhança entre o código e não significa que o código está exatamente igual em diferentes métodos.
+
 # 3. XP
 ## 3.1. Automatização
 
