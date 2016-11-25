@@ -43,15 +43,23 @@ A Sprint é o evento mais importante do Scrum, é nela que o projeto é executad
 
 No desenvolvimento do projeto não foi diferente. Cada sprint teve duração de uma semana e nenhuma precisou ser cancelada. Em algumas nem todas as tarefas foram entregues por diversos motivos. Essas tarefas que não foram entregues foram repontuadas e priorizadas para outras Sprints, não necessariamente a próxima.
 
-### 2.2.2. Revisão da Sprint
-
-### 2.2.3. Retrospectiva da Sprint
-
-### 2.2.4. Reunião de Planejamento da Sprint 
+### 2.2.2. Reunião de Planejamento da Sprint 
 
 Como o próprio nome diz esse é o evento em que a sprint é planejada, ou seja, as tarefas são pontuadas de acordo com a complexidade, o PO apresenta as que tem maior prioridade para aquela sprint e os desenvolvedores escolhem quais serão feitas.
 
 As reuniões de planejamento do grupo ocorreram aos sábados, pela manhã ou a tarde, e tinham um time-boxed de duas horas. No início esse tempo não foi cumprido à risca, pois o time ainda estava se adaptando à metodologia. Durante essa reunião o PO da sprint anterior apresentava as terefas prioritárias e o time debatia sobre quais iriam ser implementadas e como ia ocorrer essa implementação, definindo os responsáveis por cada tarefa e como ela deveria estar ao final.
+
+### 2.2.3. Revisão da Sprint
+
+A Revisão da Sprint é quando o time discute sobre o que foi feito e o que não foi feito na Sprint e quais problemas aconteceram e como foram solucionados. Esta reunião também ocorreu aos sábados antes da reunião de planejamento com uma duração média de uma hora.
+
+### 2.2.4. Retrospectiva da Sprint
+
+Esta reunião ocorre para identificar as dificuldades que ocorreram na Sprint. Esta reunião ocorreu aos sábados, logo após a Revisão da Sprint. Nela cada um falava o que achou de bom e ruim na Sprint e o que poderia ser feito para sanar os problemas. Essa reunião também teve uma duração média de uma hora.
+
+### 2.2.5 Reunião Diária(Daily)
+
+Este é um evento time-boxed de 15 minutos que tem como objetivo esclarecer quais foram as contribuições para o projeto nas últimas 24 horas , o que será feito até a próxima Daily e quais impedimentos estão ocorrendo. Essas reuniões aconteceram todos os dias durante o início do projeto, geralmente a noite e online, porém depois o time decidiu que seria melhor fazê-las toda terça e quinta às 16hrs presencialmente, pois esse é o único horário que o grupo poderia se reunir durante a semana e também por que nem todos estavam participando da reunião à noite.
 
 ## 2.3. Artefatos
 
