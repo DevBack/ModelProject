@@ -77,7 +77,11 @@ Este artefato é uma lista, derivada do Backlog do Produto, de tudo o que os des
 
 Este é uma soma de todas funcionalidades prontas com as funcionalidades implementadas na última Sprint. Ao final de toda Sprint o time de desenvolvimento deve gerar um Incremento, independente de o PO disponibilizá-lo para o cliente.
 
-## 2.4. Métricas
+## 2.4. Definição de "pronto"
+
+Uma tarefa estar pronta significa que ela atende a um conjunto de critérios definidos pelo time. Essa definição é importante para que não haja conflitos entre o time sobre quando um incremento está pronto. No início do projeto uma tarefa pronta foi definida como funcional, devidamente validada (para impedir que o usuário informe dados inválidos), totalmente testada, sem conflitos com incrementos anteriores e sem diminuir a cobertura de teste (esta deveria no máximo ser mantida igual ao que estava antes da nova funcionalidade).
+
+## 2.5. Métricas
 
 # 3. XP
 ## 3.1. Automatização
