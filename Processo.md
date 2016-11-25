@@ -94,7 +94,6 @@ O eixo horizontal do gráfico representa as Sprints e o vertical a quantidade de
 
 * Para os testes de aceitação automatizados foi utilizado o software Selenium na versão 2.53.6.  
 
-
 * Este tipo de teste simula a utilização do sistema por um usuário, abrindo cada página no navegador e inserindo dados como se uma pessoa o estivesse fazendo. Ele é escrito na linguagem do dia a dia (em inglês, para este sistema) com base nos critérios de aceitação informados pelo P.O. após diálogo com o cliente. 
 
 
@@ -119,7 +118,6 @@ O eixo horizontal do gráfico representa as Sprints e o vertical a quantidade de
 
 **Exemplo de teste unitário**
 
-* Foram utilizados testes automatizados
 ## 3.2. Programação em pares
 * Durante essa fase do projeto foi definido que todas as issues seriam feitas por pareamento. Priorizando sempre formar pares de pessoas com mais conhecimento com pessoas com menos conhecimento na linguagens e/ou ferramentas que seriam utilizadas para realizar a issue, para dessa forma poder disseminar a maior quantidade possível de conhecimento dentro da equipe.
 
