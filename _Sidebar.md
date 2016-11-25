@@ -7,7 +7,7 @@
 #Release 2
 
 * [Apresentação - Slides](https://docs.google.com/presentation/d/1fXI-sUfAPQtZr9MaFMMYrjBw7DBLJ-IYxFwejHUmkxQ/edit?usp=sharing)
-* [SAS Vídeo promocional ](https://drive.google.com/open?id=0B75Stc_iVKQLTDJFS215X2hDWjQ)
+* [SAS Vídeo promocional ](https://drive.google.com/file/d/0B5Re070ea8psM09UVXNqMHJKN1k/view?usp=sharing)
 * [Planejamento da Release](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Planejamento-da-Release-2)
   * [Backlog do Produto](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Product-Backlog)
 * [[Acompanhamento do Projeto]]
