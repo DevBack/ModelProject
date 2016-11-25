@@ -81,6 +81,8 @@ Este é uma soma de todas funcionalidades prontas com as funcionalidades impleme
 
 # 3. XP
 ## 3.1. Automatização
+
+* Foram utilizados testes automatizados
 ## 3.2. Programação em pares
 * Durante essa fase do projeto foi definido que todas as issues seriam feitas por pareamento. Priorizando sempre formar pares de pessoas com mais conhecimento com pessoas com menos conhecimento na linguagens e/ou ferramentas que seriam utilizadas para realizar a issue, para dessa forma poder disseminar a maior quantidade possível de conhecimento dentro da equipe.
 
@@ -92,6 +94,8 @@ Este é uma soma de todas funcionalidades prontas com as funcionalidades impleme
 
 ## 3.3. TDD
 * Apenas a [Sprint 3](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Sprint-3) foi realizada inteiramente em TDD. Basicamente era necessário escrever os testes automatizados, teste unitário e teste aceitação, de uma melhoria ou nova funcionalidade. Em seguida, o código da funcionalidade seria desenvolvido, em *baby-steps*, para validar a funcionalidade criada.
+
+* Após esta sprint, ficou a cargo de cada dupla se utilizar-se-ia TDD ou não, adaptando-se a realidade de cada uma (conhecimento da técnica, facilidade, etc.).
 
 * Essa sprint resultou em uma significativa melhora do time em testes de aceitação e testes unitários.
 
