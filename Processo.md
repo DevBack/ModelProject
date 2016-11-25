@@ -63,9 +63,19 @@ Este é um evento time-boxed de 15 minutos que tem como objetivo esclarecer quai
 
 ## 2.3. Artefatos
 
+Os artefatos do Scrum são usados para melhorar a transparência entre o grupo. Ele, também, sempre agrega algum valor ao cliente ou ao time. Os artefatos são: Backlog do Produto, Backlog da Sprint e o Incremento.
+
 ### 2.3.1. Backlog do Produto
 
+O Backlog do Produto lista de tudo o que o projeto precisa, porém ele pode ser atualizado quantas vezes for necessário durante o projeto. O Backlog é de responsalidade do PO e este deve ajudar os desenvolvedores no entedimento de cada item e nas decisões. O Backlog do projeto pode ser encontrado [aqui](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Product-Backlog).
+
 ### 2.3.2. Backlog da Sprint
+
+Este artefato é uma lista, derivada do Backlog do Produto, de tudo o que os desenvolvedores planejaram implementar em uma Sprint. O Backlog da Sprint é sempre planejado na Reunião de Planejamento da Sprint, mas pode mudar durante a Sprint - somente pelo time de desenvolvimento. Cada Backlog da Sprint pode ser encontrado nos relatórios de cada Sprint do projeto.
+
+### 2.3.4. Incremento
+
+Este é uma soma de todas funcionalidades prontas com as funcionalidades implementadas na última Sprint. Ao final de toda Sprint o time de desenvolvimento deve gerar um Incremento, independente de o PO disponibilizá-lo para o cliente.
 
 ## 2.4. Métricas
 
