@@ -62,7 +62,16 @@ O velocity desta sprint foi de **28,6 pontos**. Esse velocity é a média de tod
 ![Velocity](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/6_velocity.png)
 
 ## 2.3 Agile EVM
-![EVM](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/6_evm.png) 
+![EVM](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/6_evm.png)
+
+**OBS.** As descrições e fórmulas das siglas apresentadas na tabela acima estão devidamente explicitadas [aqui](https://github.com/fga-gpp-mds/2016.2-SAS_FGA/wiki/Agile-EVM). Neste mesmo link pode ser encontrada a tabela de EVM completa do projeto.
+
+Foram planejados 20 pontos, além da divida técnica,  e entregues 31.
+
+O RPC (Pontos Completos Na Release) ficou em 169, o APC (Porcentagem Completa Real) em 130%.
+
+Foram adicionados 33 ponto novos ao projeto, PA (Pontos Adicionados) = 20, todos os pontos planejados para a sprint.
+ 
 
 ## 2.4. Qualidade
 
