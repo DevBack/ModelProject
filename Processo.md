@@ -101,13 +101,15 @@ O eixo horizontal do gráfico representa as Sprints e o vertical a quantidade de
       ``$ python manage.py harvest``  
 
 
-**Exemplo de teste de aceitação escrito**
+**Exemplo de teste de aceitação escrito**  
+![Acceptance_test] (https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/aceeptance_test.jpg)
 
 
 * Em alguns casos, é necessário escrever _steps_ (passos) em linguagem de programação que transformam o que foi escrito em um conjunto de ações no sistema.
 
 
-**Exemplo de _step_**
+**Exemplo de _step_**  
+![Step] (https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/step.jpg)
 
 
 * Para os testes unitários automatizados, a própria framework Django já disponibiliza um ambiente para tal, criando um banco de dados exclusivo deste ambiente de testes, que é destruído após sua execução e utilizando bibliotecas nativas do Python. Utilizando a classe _unittest_, foram escritos testes de cada funcionalidade.
@@ -116,7 +118,8 @@ O eixo horizontal do gráfico representa as Sprints e o vertical a quantidade de
 * Para executá-los, basta inserir o seguinte comando:
       ``$ python manage.py test``  
 
-**Exemplo de teste unitário**
+**Exemplo de teste unitário**  
+![Unit_test] (https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/unit_test.jpg)
 
 ## 3.2. Programação em pares
 * Durante essa fase do projeto foi definido que todas as issues seriam feitas por pareamento. Priorizando sempre formar pares de pessoas com mais conhecimento com pessoas com menos conhecimento na linguagens e/ou ferramentas que seriam utilizadas para realizar a issue, para dessa forma poder disseminar a maior quantidade possível de conhecimento dentro da equipe.
@@ -144,7 +147,8 @@ O eixo horizontal do gráfico representa as Sprints e o vertical a quantidade de
 * Para a integração contínua foi utilizado o software Travis CI, para assim, verificar se o sistema ainda funcionava normalmente após a implementação de uma nova funcionalidade e junção deste novo código ao código principal. Logo, após a junção destes códigos é criada uma nova _build_ do sistema e se testa-a, garantindo a integração entre as funcionalidades e seu funcionamento.
 
 
-**Exemplo de resultado da integração contínua após _build_ e testes**
+**Exemplo de resultado da integração contínua após _build_ e testes**  
+![CI] (https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-SAS_FGA/img/travis.jpg)
 
 ## 3.5. Teste de Aceitação
 * Para cada *User Story* deveriam ser feitos testes aceitação para a validação do sistema e para o cliente entender como será o funcionamento da *US*
