@@ -33,6 +33,7 @@
 * Conhecimento sobre planejamento, monitoramento e controle em ágil;
 * Aprender a trabalhar em grupo aumenta a produtividade como todo;
 * Com o PO a visualização do produto junto ao cliente ficou mais fácil;
+* Muitas vezes, utilizar a técnica de TDD ajuda bastante a monitorar o desempenho da funcionalidade durante sua implementação;
 
 ## Pontos Negativos
 * Histórias dependentes umas das outras designadas na mesma sprint atrapalharam o desenvolvimento do time, impedindo a entrega de pontos
