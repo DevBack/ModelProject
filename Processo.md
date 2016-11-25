@@ -92,6 +92,33 @@ O eixo horizontal do gráfico representa as Sprints e o vertical a quantidade de
 # 3. XP
 ## 3.1. Automatização
 
+* Para os testes de aceitação automatizados foi utilizado o software Selenium na versão 2.53.6.  
+
+
+* Este tipo de teste simula a utilização do sistema por um usuário, abrindo cada página no navegador e inserindo dados como se uma pessoa o estivesse fazendo. Ele é escrito na linguagem do dia a dia (em inglês, para este sistema) com base nos critérios de aceitação informados pelo P.O. após diálogo com o cliente. 
+
+
+* Para executá-los, basta inserir o seguinte comando:
+      ``$ python manage.py harvest``  
+
+
+**Exemplo de teste de aceitação escrito**
+
+
+* Em alguns casos, é necessário escrever _steps_ (passos) em linguagem de programação que transformam o que foi escrito em um conjunto de ações no sistema.
+
+
+**Exemplo de _step_**
+
+
+* Para os testes unitários automatizados, a própria framework Django já disponibiliza um ambiente para tal, criando um banco de dados exclusivo deste ambiente de testes, que é destruído após sua execução e utilizando bibliotecas nativas do Python. Utilizando a classe _unittest_, foram escritos testes de cada funcionalidade.
+
+
+* Para executá-los, basta inserir o seguinte comando:
+      ``$ python manage.py test``  
+
+**Exemplo de teste unitário**
+
 * Foram utilizados testes automatizados
 ## 3.2. Programação em pares
 * Durante essa fase do projeto foi definido que todas as issues seriam feitas por pareamento. Priorizando sempre formar pares de pessoas com mais conhecimento com pessoas com menos conhecimento na linguagens e/ou ferramentas que seriam utilizadas para realizar a issue, para dessa forma poder disseminar a maior quantidade possível de conhecimento dentro da equipe.
@@ -116,6 +143,11 @@ O eixo horizontal do gráfico representa as Sprints e o vertical a quantidade de
 ![Quadro de Conhecimento sprint 3](https://raw.githubusercontent.com/wiki/fga-gpp-mds/2016.2-Time05-SalasFGA/img/3_conhecimento.png)
 
 ## 3.4. Integração Contínua
+* Para a integração contínua foi utilizado o software Travis CI, para assim, verificar se o sistema ainda funcionava normalmente após a implementação de uma nova funcionalidade e junção deste novo código ao código principal. Logo, após a junção destes códigos é criada uma nova _build_ do sistema e se testa-a, garantindo a integração entre as funcionalidades e seu funcionamento.
+
+
+**Exemplo de resultado da integração contínua após _build_ e testes**
+
 ## 3.5. Teste de Aceitação
 * Para cada *User Story* deveriam ser feitos testes aceitação para a validação do sistema e para o cliente entender como será o funcionamento da *US*
 * As para o finalizamento da issue é necessário que os teste de aceitação estivessem funcionando corretamente.
