@@ -58,7 +58,7 @@ A estimativa de custo tem como finalidade apresentar para os integrantes da equi
 
 ### 7.1 Custo da mão de obra
 
-Os dados aqui apresentados tem como base o valor/hora despendido pela Universidade de Brasília por aluno. A metodologia utilizada foi o valor do custo anual pela média de créditos anuais dos alunos do Cursos de Engenharias da FGA. Um crédito corresponde a 15 horas aula na universidade, assim é possível, converter o valor anual para horas que será subsídio para a estimativa de custos de mão de obra.
+Os dados aqui apresentados tem como base o valor/hora despendido pela Universidade de Brasília por aluno. A metodologia utilizada foi o valor do custo anual pela média de créditos anuais dos alunos dos Cursos de Engenharias da FGA. Um crédito corresponde a 15 horas aula na universidade, assim é possível, converter o valor anual para horas que será subsídio para a estimativa de custos de mão de obra.
 
 |Dados UnB       |                   |                  |
 |----------------|-------------------|------------------|
